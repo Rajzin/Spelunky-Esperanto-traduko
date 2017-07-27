@@ -1,199 +1,199 @@
 IDS_INTRO1_1
-As the sun burned bright above,
+Dum la suno hele flamis en la ĉielo,
 IDS_INTRO1_2
-With the desert stretching behind me,
+La dezerto etendiĝanta malantaŭ mi,
 IDS_INTRO1_3
-After I double-checked my map,
+Post kiam mi rekontrolis mian mapon,
 IDS_INTRO1_4
-My lips cracked and covered in sand,
+Kun lipoj fenditaj kaj kovritaj de sablo,
 IDS_INTRO1_5
-With fate guiding my every move,
+La sorto gvidanta ĉiun ajn agon mian,
 IDS_INTRO1_6
-Putting the faded photo in my pocket,
+Metante la paliĝintan foton en mian poŝon,
 IDS_INTRO1_7
-As I recalled my father's last words,
+Rememorante la lastajn vortojn de mia patro,
 IDS_INTRO1_8
-My memory slipping away from me,
+Mia memoro glitante for de mi,
 IDS_INTRO2_1
-I strode valiantly toward my destiny,
+mi kuraĝe paŝis al mia destino,
 IDS_INTRO2_2
-I squeezed the whip at my side,
+mi premis la vipon ĉe mia flanko,
 IDS_INTRO2_3
-I drained the rest of my canteen,
+mi eltrinkis la reston el mia platbotelo,
 IDS_INTRO2_4
-I spotted the cave's entrance,
+mi ekvidis la enirejon de la groto,
 IDS_INTRO2_5
-I furrowed my brow,
+mi sulkis mian frunton,
 IDS_INTRO2_6
-I paid my Bedouin guide,
+mi pagis mian Beduenan gvidiston,
 IDS_INTRO2_7
-I dismounted my camel,
+mi dekameliĝis,
 IDS_INTRO2_8
-I squinted into the darkness,
+mi fikse rigardis en la mallumon,
 IDS_INTRO3_1
-And thought of her one last time.
+kaj unu lastan fojon mi pensis pri ŝi.
 IDS_INTRO3_2
-And held my hat against the wind.
+kaj tenis mian ĉapelon kontraŭ la vento.
 IDS_INTRO3_3
-And a cold chill took hold of me.
+!!And a cold chill took hold of me.
 IDS_INTRO3_4
-And wondered how long I'd be below.
+kaj demandis min, kiom longe mi estos subtere.
 IDS_INTRO3_5
-And vowed to return victorious.
+kaj ĵuris reveni venkinte.
 IDS_INTRO3_6
-And swore I heard voices up ahead.
+kaj preskaŭ certis, ke mi aŭdis voĉojn antaŭ mi.
 IDS_INTRO3_7
-And felt the gods smiling upon me.
+kaj sentis, ke la dioj ridetis al mi.
 IDS_INTRO3_8
-And that's when it all started.
+kaj tiam ĉio komenciĝis.
 IDS_TITLEGUIDE
-Press @A to begin.
+Premu @A por komenci.
 IDS_BACK
-@B Back
+??@B Reen
 IDS_MAINMENU_PLAYGAME
-eĥoŝanĝo ĉiuĵaŭde
+Komenci ludon
 IDS_MAINMENU_ADVENTURE
-Adventure
+Aventuro
 IDS_MAINMENU_DEATHMATCH
-Deathmatch
+??Mortomatĉo
 IDS_MAINMENU_PLAYERPROFILE
-Player Stats
+??Statistiko pri la ludanto
 IDS_MAINMENU_LEADERBOARDS
-Leaderboards
+!!Leaderboards
 IDS_MAINMENU_ACHIEVEMENTS
-Achievements
+Atingaĵoj
 IDS_MAINMENU_HELPANDOPTIONS
-Help & Options
+Helpilo kaj agordoj
 IDS_MAINMENU_UNLOCK
-Unlock Full Game
+??Malŝlosi la tutan ludon
 IDS_MAINMENU_RETURN
-Main Menu
+Ĉefa menuo
 IDS_MAINMENU_ADVENTUREDESC
-Embark on a quest for Olmec's legendary treasure! Go alone or with friends.
+Komencu aventuron por serĉi la legendan trezoron de Olmeko! Iru sole aŭ kun amikoj.
 IDS_MAINMENU_DEATHMATCHDESC
-Compete in a deadly competition to see who is the most skilled adventurer.
+Havu mortdanĝeran konkurson por eltrovi, kiu el vi estas la plej lerta aventuristo.
 IDS_PAUSED_RESUME
-Resume Game
+Daŭrigi la ludon
 IDS_PAUSED_RESTART
-Restart Game
+Restarti la ludon
 IDS_PAUSED_EXIT
-Exit Game
+Eliri la ludon
 IDS_HOWTOPLAY1_1
-You begin the game with four health. If you run out of health, your expedition will come to an end.
+Komence de la ludo vi havas kvar korojn da vivo. Se via vivo elĉerpiĝas, via ekspedicio finiĝas.
 IDS_HOWTOPLAY1_2
-Ropes let you reach high ledges and descend safely into pits. Press @Y to throw one.
+Per ŝnuroj vi povas atingi altajn lokojn kaj sendanĝere malsupreniri en kavojn. Premu @Y por ĵeti ŝnuron.
 IDS_HOWTOPLAY1_3
-Bombs can be used to blow up the walls. Press @B to throw one... but be careful!
+??Per bomboj vi povas foreksplodigi la murojn. Premu @B por ĵeti bombon... sed estu singarda!
 IDS_HOWTOPLAY1_4
-Your whip is your best defense against the monsters that inhabit the caves. Press @X to attack with it.
+Via vipo estas via plej bona defendo kontraŭ monstroj, kiuj loĝas en la grotoj. Premu @X por ataki per ĝi.
 IDS_HOWTOPLAY2_1
-Wooden crates are littered around the caves. Whip them open to find supplies to aid you on your adventure.
+Lignaj kestoj troviĝas ĉie en la grotoj. Vipu ilin por ene trovi provizojn, kiuj helpos vin dum via aventuro.
 IDS_HOWTOPLAY2_2
-Ropes and bombs are the most common items found in crates, but if you're lucky you may find better things!
+Ŝnuroj kaj bomboj estas la plej oftaj objektoj, kiuj troveblas en kestoj. Sed se vi bonŝancas, eble vi trovos pli bonajn aĵon!
 IDS_HOWTOPLAY2_3
-Treasure chests are filled with valuable gems! Most of them have weak locks that can be whipped open.
+Trezurkofroj estas plenaj de valoraj gemoj! La plejmulto el ili havas malfortan seruron, kiu malfermeblas per vipfrapo.
 IDS_HOWTOPLAY2_4
-Your score is determined by how much loot you've collected. Amass a large fortune of gold and gems!
+La kvanto de viaj poentoj dependas de kiom da valoraĵoj vi kolektis. Amasigu grandan stakon da oro kaj gemoj!
 IDS_HOWTOPLAY3_1
-This is a shopkeeper. You can buy all sorts of items from his shop, but be careful not to upset him.
+Jen butikisto. Ĉiajn objektojn aĉeteblas ĉe lia butiko, sed atentu ne kolerigi lin.
 IDS_HOWTOPLAY3_2
-Items for sale have a dollar sign over them. Some shops sell weapons, like this shotgun.
+??Aĉeteblaj objektoj havas dolar-signon super si. Kelkaj butikoj vendas armilojn, kiel tiu ĉi hajlofusilo(?).
 IDS_HOWTOPLAY3_3
-You can use your loot to purchase items in the shops. Be sure to spend it wisely!
+Per valoraĵoj vi povas aĉeti objektojn en la butikoj. Elpezu ilin saĝe!
 IDS_HOWTOPLAY3_4
-Shops may also supply a variety of other useful tools. This compass, for example, points you toward the exit.
+Butikoj fojfoje provizas ankaŭ diversajn aliajn utilajn ilojn. Tiu ĉi kompaso, ekzemple, indikas al vi la direkton al la elirejo.
 IDS_HOWTOPLAY4_1
-At the bottom of each level is an exit to deeper parts of the caves. That's your goal!
+!!At the bottom of each level is an exit to deeper parts of the caves. That's your goal!
 IDS_HOWTOPLAY4_2
-Lovely damsels have gotten trapped down here. If you bring them safely to the exits they'll reward you with health.
+!!Lovely damsels have gotten trapped down here. If you bring them safely to the exits they'll reward you with health.
 IDS_HOWTOPLAY4_3
-You can also bring these golden idols to the exits for big money rewards. They're usually guarded by deadly traps.
+!!You can also bring these golden idols to the exits for big money rewards. They're usually guarded by deadly traps.
 IDS_HOWTOPLAY4_4
-That covers the basics, but there's so much more to discover once you start playing! Have fun!
+!!That covers the basics, but there's so much more to discover once you start playing! Have fun!
 IDS_JOURNAL
-Journal
+Ĵurnalo
 IDS_JOURNAL_PLACES
-Places
+Lokoj
 IDS_JOURNAL_MONSTERS
-Monsters
+Monstroj
 IDS_JOURNAL_ITEMS
-Items
+Objektoj
 IDS_JOURNAL_TRAPS
-Traps
+Insidoj
 IDS_VERIFY_AREYOUSURE
-Are you sure?
+Ĉu vi certas?
 IDS_VERIFY_NO
-No
+Ne
 IDS_VERIFY_YES
-Yes
+Jes
 IDS_LEADERBOARDS_HIGHSCORES
-HIGH SCORES
+POENTREKORDOJ
 IDS_LEADERBOARDS_FASTESTTIMES
-FASTEST TIMES
+PLEJ RAPIDAJ TEMPOJ
 IDS_LEADERBOARDS_WEEKLYSCORES
-WEEKLY SCORES
+ĈIUSEMAJNA POENTARO
 IDS_LEADERBOARDS_WEEKLYTIMES
-WEEKLY TIMES
+ĈIUSEMAJNAJ TEMPOJ
 IDS_LEADERBOARDS_INVALID
-INVALID BOARD
+!!INVALID BOARD
 IDS_LEADERBOARDS_RANK
-RANK
+RANGO
 IDS_LEADERBOARDS_GAMERTAG
-GAMERTAG
+!!GAMERTAG
 IDS_LEADERBOARDS_CHARACTER
-CHARACTER
+ROLULO
 IDS_LEADERBOARDS_LEVEL
-LEVEL
+NIVELO
 IDS_LEADERBOARDS_SCORE
-SCORE
+POENTOJ
 IDS_LEADERBOARDS_FRIENDS
-Friends
+Amikoj
 IDS_LEADERBOARDS_MYSCORES
-My Scores
+Mia poentaro
 IDS_LEADERBOARDS_OVERALL
-Overall
+??Ĝenerale
 IDS_LEADERBOARDS_READING
-Reading leaderboards...
+!!Reading leaderboards...
 IDS_LEADERBOARDS_FRIENDSNOTRANKED
-Your friends are not yet ranked on this leaderboard.
+!!Your friends are not yet ranked on this leaderboard.
 IDS_LEADERBOARDS_NOTRANKED
-You are not yet ranked on this leaderboard.
+!!You are not yet ranked on this leaderboard.
 IDS_PLAYERPROFILE_LASTGAMEPLAYED
-Last Game Played
+??Pasinta ludo
 IDS_PLAYERPROFILE_PLAYS
-Plays:
+??Traludoj:
 IDS_PLAYERPROFILE_DEATHS
-Deaths:
+Mortoj:
 IDS_PLAYERPROFILE_WINS
-Wins:
+Venkoj:
 IDS_PLAYERPROFILE_AVGSCORE
-Avg. Score:
+Averaĝa poentsumo:
 IDS_PLAYERPROFILE_BESTSCORE
-Best Score:
+Plej bona poentsumo:
 IDS_PLAYERPROFILE_BESTTIME
-Best Time:
+Plej bona tempo:
 IDS_PLAYERPROFILE_LEVEL
-Level:
+Nivelo:
 IDS_PLAYERPROFILE_SCORE
-Score:
+Poentoj:
 IDS_CONTROLS
-CONTROLS
+!!CONTROLS
 IDS_CONTROLS_WHIP
-Whip/Action
+Vipi/Agi
 IDS_CONTROLS_JUMP
-Jump
+Salti
 IDS_CONTROLS_ROPE
-Rope
+Ŝnuro
 IDS_CONTROLS_BOMB
-Bomb
+Bombo
 IDS_CONTROLS_RUN
-Run
+Kuri
 IDS_CONTROLS_PURCHASE
-Purchase/Door
+Aĉeti/Pordo
 IDS_CONTROLS_UNUSED
-Unused
+Neuzata
 IDS_JOURNAL_TUTORIAL1
-Greetings! My name is Yang, and this is my journal. Dusty maps and rumors of amazing treasures have led me here, deep under the desert.
+Salutojn! Mia nomo estas Jang, kaj ĉi tio estas mia ĵurnalo. Polvaj mapoj kaj onidiroj pri eksterordinaraj trezoroj gvidis min ĉi tien, profunde sub la dezerton.
 IDS_JOURNAL_TUTORIAL2
 There's something very strange about this place... the layout seems to change all the time. I've never seen the same room twice!
 IDS_JOURNAL_TUTORIAL3
@@ -221,371 +221,372 @@ Or are there even greater delights to be discovered? Well, there's only one way 
 IDS_JOURNAL_TUTORIAL14
 Take this key. It will open the entrance to the mines. Follow me if you dare!*Happy Exploring!*-Yang
 IDS_JOURNAL_KILLS
-Kills:
+Mortigoj:
 IDS_JOURNAL_KILLEDBY
-Killed by:
+??Mortoj pro ĝi:
 IDS_JOURNAL_ENTRY
-Entry 
+Enskribaĵo
 IDS_JOURNAL_SNAKE
-Snake
+Serpento
 IDS_JOURNAL_SNAKE_DESC
-The bane of every adventurer. It enjoys hiding in pots.
+??Plago de ĉiu aventuristo. Ĝi ŝatas kaŝi sin en potoj.
 IDS_JOURNAL_COBRA
-Cobra
+Kobro
 IDS_JOURNAL_COBRA_DESC
-A deadly serpent with a distinctive hood and venomous spit.
+Mortdanĝera serpento, kiu havas distingan kapuĉon kaj venenan salivon.
 IDS_JOURNAL_BAT
-Bat
+Vesperto
 IDS_JOURNAL_BAT_DESC
-It prefers eating bugs, but will attack human beings if it's hungry enough.
+Ĝi pli ŝatas manĝi insektojn, sed ankaŭ homojn ĝi atakas, se ĝi estas sufiĉe malsata.
 IDS_JOURNAL_SPIDER
-Spider
+Araneo
 IDS_JOURNAL_SPIDER_DESC
-Larger than your average household variety. Don't let it get the drop on you.
+!!Pli granda ol ordinaraj domaj specioj. Ne lasu ĝin... Don't let it get the drop on you.
 IDS_JOURNAL_HANGSPIDER
-Spinner Spider
+Ŝpina Araneo
 IDS_JOURNAL_HANGSPIDER_DESC
-It hangs from the ceiling on a silky thread.
+Pendas de la plafono per silka fadeno.
 IDS_JOURNAL_GIANTSPIDER
-Giant Spider
+Giganta Araneo
 IDS_JOURNAL_GIANTSPIDER_DESC
-A gargantuan spider the size of a car! She traps her prey in sticky webs.
+Kolosa araneo granda kiel aŭto! Ŝi kaptas siajn predojn per gluecaj retoj.
 IDS_JOURNAL_SKELETON
-Skeleton
+Skeleto
 IDS_JOURNAL_SKELETON_DESC
-A living skeleton straight out of your nightmares.
+??Vivanta skeleto tute sama kiel tiuj, pri kiuj vi timsonĝas.
 IDS_JOURNAL_SCORPION
-Scorpion
+Skorpio
 IDS_JOURNAL_SCORPION_DESC
-A predatory arachnid with a poisonous stinger on its tail.
+Predanta araneoido, kiu havas veneman pikilon ĉe sia vostopinto.
 IDS_JOURNAL_CAVEMAN
-Caveman
+Kavernhomo
 IDS_JOURNAL_CAVEMAN_DESC
-One of man's primitive ancestors.
+Unu el la primitivaj prauloj de la homo.
 IDS_JOURNAL_DAMSEL
-Damsel
+Fraŭl(in)o
 IDS_JOURNAL_DAMSEL_DESC
-Bring helpless damsels to the exit and you'll be rewarded with a kiss!
+Alkonduku senhelpajn fraŭl(in)ojn al la elirejo, kaj vi rekompence ricevos kison!
 IDS_JOURNAL_SHOPKEEPER
-Shopkeeper
+Butikisto
 IDS_JOURNAL_SHOPKEEPER_DESC
-This ornery merchant will sell anything for the right price. He hates shoplifters!
+Tiu ĉi facile kolerigebla komercisto vendas ion ajn, se la prezo ĝustas. Li malamas butikoŝtelantojn!
 IDS_JOURNAL_TUNNELMAN
-Tunnel Man
+Tunelviro
 IDS_JOURNAL_TUNNELMAN_DESC
-A cheerful man who makes his living digging tunnels to the deepest parts of the cave.
+Gaja viro, kiu perlaboras sian vivon fosante tunelojn al la plej profundaj partoj de la groto.
 IDS_JOURNAL_SCARAB
-Scarab
+Skarabo
 IDS_JOURNAL_SCARAB_DESC
-A flying insect made of pure gold that's worshipped in some cultures.
+Fluganta instekto el pura oro. Kelkaj kulturoj kultas ĝin.
 IDS_JOURNAL_TIKIMAN
-Tiki Man
+??Tikiulo
 IDS_JOURNAL_TIKIMAN_DESC
-Just your average masked cannibal wielding a giant boomerang.
+Li simple estas nur ordinara maskita kanibalo, kiu man-uzas gigantan bumerangon.
 IDS_JOURNAL_FROG
-Frog
+Rano
 IDS_JOURNAL_FROG_DESC
-A large cave frog... or is it a toad? Whatever.
+Granda grota rano... aŭ ĉu bufo? Nu, ne gravas.
 IDS_JOURNAL_FIREFROG
-Fire Frog
+Fajra Rano
 IDS_JOURNAL_FIREFROG_DESC
-A rare species of frog that's filled with explosive swamp gas.
+Malofta rana specio, kiu plenas de eksplodema marĉa gaso.
 IDS_JOURNAL_GIANTFROG
-Giant Frog
+Giganta Rano
 IDS_JOURNAL_GIANTFROG_DESC
-This extra-large amphibian carries its children inside of its mouth.
+Tiu ĉi aparte granda amfibio portas siajn idojn ene de sia buŝo.
 IDS_JOURNAL_MANTRAP
-Mantrap
+Homkaptilo
 IDS_JOURNAL_MANTRAP_DESC
-Carnivorous plants with a taste for human flesh.
+Karnovoraj plantoj, al kiuj plaĉas homaĵo.
 IDS_JOURNAL_PIRANHA
-Piranha
+Piranjo
 IDS_JOURNAL_PIRANHA_DESC
-A group of these can skeletonize a cow in two minutes.
+Aro da tiuj povas skeletigi bovon en nur du minutoj.
 IDS_JOURNAL_JAWS
-Old Bitey
+Olda Mordĉjo
 IDS_JOURNAL_JAWS_DESC
-This legendary fish has claimed the lives of many adventurers.
+Tiu ĉi legenda fiŝo prenis de multaj aventuristoj la vivon.
 IDS_JOURNAL_BEE
-Killer Bee
+??Murda Abelo
 IDS_JOURNAL_BEE_DESC
-A bee with a harpoon-sized stinger. It's very protective of its hive.
+??Abelo kun pikilo tiom granda, kiom harpuno. Ĝi estas tre protektema pri sia nesto.
 IDS_JOURNAL_QUEENBEE
-Queen Bee
+Abelreĝino
 IDS_JOURNAL_QUEENBEE_DESC
-Bee royalty. She might have some delicious royal jelly stuck to her abdomen.
+!!Bee royalty. She might have some delicious royal jelly stuck to her abdomen.
 IDS_JOURNAL_SNAIL
-Snail
+Heliko
 IDS_JOURNAL_SNAIL_DESC
-A slimy mollusk that blows acidic spit bubbles when it's agitated.
+!!A slimy mollusk that blows acidic spit bubbles when it's agitated.
 IDS_JOURNAL_MONKEY
-Monkey
+Simio
 IDS_JOURNAL_MONKEY_DESC
-Its pranks are the leading cause of injury to unwary jungle explorers.
+!!Ĝiaj ŝerctrompoj estas la ĉefa kialo de vundoj al nesingardaj ĝangalesplorantoj.
 IDS_JOURNAL_GOLDMONKEY
-Golden Monkey
+Ora Simio
 IDS_JOURNAL_GOLDMONKEY_DESC
-A friendly but elusive primate that enjoys striking off on an adventure.
+Amikeca sed apenaŭ trovebla primato, kiu ŝatas aventurumi.
 IDS_JOURNAL_JIANGSHI
-Jiang Shi
+Ĉjan Ŝi
 IDS_JOURNAL_JIANGSHI_DESC
-This restless zombie attacks humans to absorb their life essence.
+!!This restless zombie attacks humans to absorb their life essence.
 IDS_JOURNAL_GREENKNIGHT
-Green Knight
+Verda Kavaliro
 IDS_JOURNAL_GREENKNIGHT_DESC
-Who or what is inside this haunted suit of armor?
+Kiu aŭ kio estas en tiu hantata kiraso?
 IDS_JOURNAL_BLACKKNIGHT
-Black Knight
+Nigra Kavaliro
 IDS_JOURNAL_BLACKKNIGHT_DESC
-The lord of the castle. He fights with supreme confidence and won't give up until death.
+!!La lordo de la kastelo. He fights with supreme confidence and won't give up until death.
 IDS_JOURNAL_VAMPIRE
-Vampire
+Vampiro
 IDS_JOURNAL_VAMPIRE_DESC
-An undead bloodsucker with superhuman strength. He can change into a bat.
+Superhome forta vivkadavro, kiu suĉas sangon. Li povas ŝanĝi sian formon al vesperto.
 IDS_JOURNAL_GHOST
-Ghost
+Fantomo
 IDS_JOURNAL_GHOST_DESC
-This frightening apparition haunts the caves. Where did it come from?
+Tiu ĉi timiga aperaĵo hantas la grotojn. De kie ĝi venis?
 IDS_JOURNAL_CELL
-Bacterium
+Bakterio
 IDS_JOURNAL_CELL_DESC
-A dangerous single-celled organism that feeds on decaying matter.
+Danĝera unuĉela vivaĵo, kiu nutras sin per putrantaj restaĵoj.
 IDS_JOURNAL_WORMEGG
-Worm Egg
+Verma Ovo
 IDS_JOURNAL_WORMEGG_DESC
-It's filled with worm babies. Gross!
+Ĝi plenas je vermidoj. Naŭze!
 IDS_JOURNAL_WORMBABY
-Worm Baby
+Vermido
 IDS_JOURNAL_WORMBABY_DESC
-It looks small now, but adults can grow to a length of several miles.
+Nun ĝi estas eta, sed plenkreskaj vermoj povas kreski ĝis longeco de kelkaj kilometoj.
 IDS_JOURNAL_YETI
-Yeti
+Jetio
 IDS_JOURNAL_YETI_DESC
-A playful creature that unfortunately doesn't know its own strength.
+Ludema vivaĵo, kiu bedaŭrinde ne bone regas sian fortecon.
 IDS_JOURNAL_YETIKING
-Yeti King
+Jetia Reĝo
 IDS_JOURNAL_YETIKING_DESC
-The king of the yetis is whichever yeti is the biggest.
+La reĝo de la jetio estas tiu, kiu plej grandas.
 IDS_JOURNAL_MAMMOTH
-Mammoth
+Mamuto
 IDS_JOURNAL_MAMMOTH_DESC
-This furry animal was thought to be extinct. Its breath is like a blizzard!
+Oni supozis, ke tiuj ĉi harplenaj bestoj estis formortintaj. Ĝia spiro estas kiel neĝoŝtormo!
 IDS_JOURNAL_ALIEN
-Alien
+Eksterterano
 IDS_JOURNAL_ALIEN_DESC
-Invaders from space... what are they doing down here?
+!!Invaders from space... what are they doing down here?
 IDS_JOURNAL_UFO
-UFO
+Nifo
 IDS_JOURNAL_UFO_DESC
-A flying saucer powered by mysterious alien technology.
+Fluganta subtaso, kiu moviĝas per mistera ekstertera teknologio.
 IDS_JOURNAL_ALIENTANK
-Alien Tank
+!!Alien Tank
 IDS_JOURNAL_ALIENTANK_DESC
-The survival rate of tank drivers is at an all-time low.
+!!The survival rate of tank drivers is at an all-time low.
 IDS_JOURNAL_ALIENLORD
-Alien Lord
+!!Alien Lord
 IDS_JOURNAL_ALIENLORD_DESC
-A powerful psychic creature that commands a large spacecraft.
+!!A powerful psychic creature that commands a large spacecraft.
 IDS_JOURNAL_ALIENQUEEN
-Alien Queen
+!!Alien Queen
 IDS_JOURNAL_ALIENQUEEN_DESC
-The mastermind of the alien invasion. She has incredible psychic powers.
+!!The mastermind of the alien invasion. She has incredible psychic powers.
 IDS_JOURNAL_HAWKMAN
-Hawk Man
+!!Hawk Man
 IDS_JOURNAL_HAWKMAN_DESC
-A dangerous leader of the Olmec cult. He's always looking for people to sacrifice.
+!!A dangerous leader of the Olmec cult. He's always looking for people to sacrifice.
 IDS_JOURNAL_CROCMAN
-Croc Man
+Krokodilulo
 IDS_JOURNAL_CROCMAN_DESC
-This elite temple guard has magical powers that make him very tough to kill.
+!!This elite temple guard has magical powers that make him very tough to kill.
 IDS_JOURNAL_MAGMAMAN
-Magma Man
+Magmulo
 IDS_JOURNAL_MAGMAMAN_DESC
-An elemental of fire that has fashioned a body out of lava.
+Fajra elementvivaĵo, kiu formis por si korpon el lafo.
 IDS_JOURNAL_SCORPIONFLY
-Scorpion Fly
+Skorpia Muŝo
 IDS_JOURNAL_SCORPIONFLY_DESC
-It's as dangerous on the ground as it is in the air.
+!!It's as dangerous on the ground as it is in the air.
 IDS_JOURNAL_MUMMY
-Mummy
+Mumio
 IDS_JOURNAL_MUMMY_DESC
-Cursed tomb lords with a very old grudge to bear.
+!!Cursed tomb lords with a very old grudge to bear.
 IDS_JOURNAL_ANUBIS
-Anubis
+Anubo
 IDS_JOURNAL_ANUBIS_DESC
-A jackal-headed god who rules over the world of the dead.
+Ŝakal-kapa dio, kiu regas la postmortan mondon.
 IDS_JOURNAL_ANUBISII
-Anubis II
+Anubo II
 IDS_JOURNAL_ANUBISII_DESC
-The second incarnation of Anubis. He'll do anything to protect the treasures of the underworld.
+!!The second incarnation of Anubis. He'll do anything to protect the treasures of the underworld.
 IDS_JOURNAL_OLMEC
-Olmec
+Olmeko
 IDS_JOURNAL_OLMEC_DESC
-Legend has it that Olmec's Curse keeps people trapped in the caves.
+!!Legend has it that Olmec's Curse keeps people trapped in the caves.
+Laŭ la legendoj, la malbeno de Olmeko 
 IDS_JOURNAL_VLAD
-Vlad
+!!Vlad
 IDS_JOURNAL_VLAD_DESC
-The dark prince of vampires. His tower stands guard at the entrance of Hell.
+La ombra princo de vampiroj. Lia turo gardas la enirejon de Infero.
 IDS_JOURNAL_IMP
-Imp
+!!Imp
 IDS_JOURNAL_IMP_DESC
-A lowly servant of the underworld. Its job is to refill the lava pits.
+!!A lowly servant of the underworld. Its job is to refill the lava pits.
 IDS_JOURNAL_DEVIL
-Devil
+!!Devil
 IDS_JOURNAL_DEVIL_DESC
-Blue devils that escort lost souls to King Yama's courtroom.
+!!Blue devils that escort lost souls to King Yama's courtroom.
 IDS_JOURNAL_SUCCUBUS
-Succubus
+!!Succubus
 IDS_JOURNAL_SUCCUBUS_DESC
-A mistress of Vlad. She seduces men and women alike in the service of her master.
+!!A mistress of Vlad. She seduces men and women alike in the service of her master.
 IDS_JOURNAL_OXFACE
-Ox Face
+!!Ox Face
 IDS_JOURNAL_OXFACE_DESC
-King Yama's left-hand man. He has the face of an ox.
+!!King Yama's left-hand man. He has the face of an ox.
 IDS_JOURNAL_HORSEHEAD
-Horse Head
+!!Horse Head
 IDS_JOURNAL_HORSEHEAD_DESC
-King Yama's right-hand man. He has the head of a horse.
+!!King Yama's right-hand man. He has the head of a horse.
 IDS_JOURNAL_KINGYAMA
-King Yama
+Reĝo Jama
 IDS_JOURNAL_KINGYAMA_DESC
-The ruler of Hell! He punishes the damned from atop a bloody throne.
+!!The ruler of Hell! He punishes the damned from atop a bloody throne.
 IDS_JOURNAL_MINES
-The Mines
+!!The Mines
 IDS_JOURNAL_MINES_DESC
-An abandoned mine with many deep shafts.
+!!An abandoned mine with many deep shafts.
 IDS_JOURNAL_LUSH
-Lush
+!!Lush
 IDS_JOURNAL_LUSH_DESC
-The trees here have found a way to grow without any sunlight.
+!!The trees here have found a way to grow without any sunlight.
 IDS_JOURNAL_ICE
-Ice Caves
+!!Ice Caves
 IDS_JOURNAL_ICE_DESC
-Icy rocks suspended over a bottomless abyss.
+!!Icy rocks suspended over a bottomless abyss.
 IDS_JOURNAL_TEMPLE
-Temple
+!!Temple
 IDS_JOURNAL_TEMPLE_DESC
-These ruins have probably been here for thousands of years. Who built them?
+!!These ruins have probably been here for thousands of years. Who built them?
 IDS_JOURNAL_HELL
-Hell
+Infero
 IDS_JOURNAL_HELL_DESC
-The Underworld. Sheol. Hades. One thing's for certain: it's HOT down here!
+!!The Underworld. Sheol. Hades. One thing's for certain: it's HOT down here!
 IDS_JOURNAL_CEMETARY
-Cemetery
+!!Cemetery
 IDS_JOURNAL_CEMETARY_DESC
-This barren place is home for all manner of undead creatures.
+!!This barren place is home for all manner of undead creatures.
 IDS_JOURNAL_CASTLE
-Haunted Castle
+!!Haunted Castle
 IDS_JOURNAL_CASTLE_DESC
-Long ago, the knights who dwelt here were cursed with eternal life.
+!!Long ago, the knights who dwelt here were cursed with eternal life.
 IDS_JOURNAL_MARKET
-Black Market
+!!Black Market
 IDS_JOURNAL_MARKET_DESC
-You may be able to purchase some one-of-a-kind items in this hidden place...
+!!You may be able to purchase some one-of-a-kind items in this hidden place...
 IDS_JOURNAL_WORM
-Worm
+!!Worm
 IDS_JOURNAL_WORM_DESC
-In one end and out the other.
+!!In one end and out the other.
 IDS_JOURNAL_YETICAVE
-Yeti Cave
+!!Yeti Cave
 IDS_JOURNAL_YETICAVE_DESC
-Home to a family yetis. No wonder it smells!
+!!Home to a family yetis. No wonder it smells!
 IDS_JOURNAL_MOTHERSHIP
-Mothership
+!!Mothership
 IDS_JOURNAL_MOTHERSHIP_DESC
-An impossibly large alien craft.
+!!An impossibly large alien craft.
 IDS_JOURNAL_COG
-City of Gold
+!!City of Gold
 IDS_JOURNAL_COG_DESC
-The City of Gold! So the legends were true!
+!!The City of Gold! So the legends were true!
 IDS_JOURNAL_ROPEPILE
-Rope Pile
+??Ŝnurstako
 IDS_JOURNAL_ROPEPILE_DESC
-Ropes are an essential tool of the explorer. Great for those hard-to-reach places!
+!!Ropes are an essential tool of the explorer. Great for those hard-to-reach places!
 IDS_JOURNAL_BOMBBAG
-Bomb Bag
+??Bombsako
 IDS_JOURNAL_BOMBBAG_DESC
-A bag of three bombs.
+Tri bomboj en sako.
 IDS_JOURNAL_BOMBBOX
-Bomb Box
+??Bombskatolo
 IDS_JOURNAL_BOMBBOX_DESC
-A box that holds twelve bombs.
+Dek du bomboj en skatolo.
 IDS_JOURNAL_SPECTACLES
-Spectacles
+Okulvitroj
 IDS_JOURNAL_SPECTACLES_DESC
-A nice pair of spectacles that lets you see things you normally wouldn't.
+Belaj okulvitroj, kiuj ebligas vidi aferojn, kiuj normale ne videblas.
 IDS_JOURNAL_CLIMBINGGLOVES
-Climbing Gloves
+Grimpgantoj
 IDS_JOURNAL_CLIMBINGGLOVES_DESC
-They protect your hands and let you to cling to even the most slippery of walls.
+Ili protektas viajn manojn kaj ebligas kroĉiĝi eĉ al la plej glitigaj muroj.
 IDS_JOURNAL_PITCHERSMITT
-Pitcher's Mitt
+Ĵetistganto
 IDS_JOURNAL_PITCHERSMITT_DESC
-It improves your throwing and catching skills!
+??Ĝi plibonigas vian ĵetan kaj kaptan lertecon!
 IDS_JOURNAL_SPRINGSHOES
-Spring Shoes
+Risortŝuoj
 IDS_JOURNAL_SPRINGSHOES_DESC
-Puts a spring in your step.
+!!Puts a spring in your step.
 IDS_JOURNAL_SPIKESHOES
-Spike Shoes
+!!Spike Shoes
 IDS_JOURNAL_SPIKESHOES_DESC
-Hiking boots fitted with sharp spikes on their soles.
+!!Hiking boots fitted with sharp spikes on their soles.
 IDS_JOURNAL_CAMERA
-Camera
+Fotilo
 IDS_JOURNAL_CAMERA_DESC
-The most expensive camera on the market. Say cheese!
+La plej multekosta fotilo, kiu aĉeteblas. Ridetu!
 IDS_JOURNAL_COMPASS
-Compass
+Kompaso
 IDS_JOURNAL_COMPASS_DESC
-This compass always points the way to the exit.
+Tiu ĉi kompaso ĉiam indikas la direkton al la elirejo.
 IDS_JOURNAL_PASTE
-Paste
+Gluo
 IDS_JOURNAL_PASTE_DESC
-Coat your bombs with this and they'll stick to pretty much anything.
+!!Coat your bombs with this and they'll stick to pretty much anything.
 IDS_JOURNAL_MATTOCK
-Mattock
+Hakfosilo
 IDS_JOURNAL_MATTOCK_DESC
-A sharp tool that's great for digging, but the craftsmanship is shoddy.
+Akra ilo, kiu ege helpas la fosadon, sed la konstruo ne estas tre bona.
 IDS_JOURNAL_MACHETE
-Machete
+Maĉeto
 IDS_JOURNAL_MACHETE_DESC
-It slices, it dices, it cuts through monsters like stale bread!
+!!It slices, it dices, it cuts through monsters like stale bread!
 IDS_JOURNAL_BOOMERANG
-Boomerang
+Bumerango
 IDS_JOURNAL_BOOMERANG_DESC
-A popular weapon of tiki men. It (almost) always comes back!
+??Populara armilo inter Tikiuloj. Ĝi (preskaŭ) ĉiam revenas!
 IDS_JOURNAL_CRYSKNIFE
-Crysknife
+!!Crysknife (reference to Dune)
 IDS_JOURNAL_CRYSKNIFE_DESC
-A razor-sharp blade fashioned from the tooth of a worm. It replaces your whip.
+!!A razor-sharp blade fashioned from the tooth of a worm. It replaces your whip.
 IDS_JOURNAL_WEBGUN
-Web Gun
+Retpafilo
 IDS_JOURNAL_WEBGUN_DESC
-A gun that shoots sticky spider webs.
+??Pafilo, kiu (el?)pafas gluecajn araneajn retojn.
 IDS_JOURNAL_SHOTGUN
-Shotgun
+??Hajlofusilo
 IDS_JOURNAL_SHOTGUN_DESC
-Your typical 12-gauge shotgun.
+!!Your typical 12-gauge shotgun.
 IDS_JOURNAL_FREEZERAY
-Freeze Ray
+??Frostiga Radipafilo
 IDS_JOURNAL_FREEZERAY_DESC
-A blast from this will freeze anything completely solid.
+Unu pafo de tio tute frostigas ion ajn.
 IDS_JOURNAL_LASERGUN
-Plasma Cannon
+Plasma Kanono
 IDS_JOURNAL_LASERGUN_DESC
-The height of alien weapon design. This thing packs a punch!
+!!The height of alien weapon design. This thing packs a punch!
 IDS_JOURNAL_PARACHUTE
-Parachute
+Paraŝuto
 IDS_JOURNAL_PARACHUTE_DESC
-It will deploy automatically as you're falling.
+!!It will deploy automatically as you're falling.
 IDS_JOURNAL_CAPE
-Cape
+??Tukmantelo
 IDS_JOURNAL_CAPE_DESC
-It looks dashing and also lets you float in the air.
+!!It looks dashing and also lets you float in the air.
 IDS_JOURNAL_TELEPORTER
-Teleporter
+Teleportilo
 IDS_JOURNAL_TELEPORTER_DESC
-A piece of futuristic technology! But it hasn't been perfected yet...
+!!A piece of futuristic technology! But it hasn't been perfected yet...
 IDS_JOURNAL_JETPACK
 Jetpack
 IDS_JOURNAL_JETPACK_DESC
@@ -607,19 +608,19 @@ Idol
 IDS_JOURNAL_IDOL_DESC
 A golden statue guarded by deadly traps. Bring it to the exit for a big reward!
 IDS_JOURNAL_KAPALA
-Kapala
+Kapalo
 IDS_JOURNAL_KAPALA_DESC
-A cup made from a human skull. It's used in bloody rituals.
+Taso farita el homa kranio. Oni uzas ĝin dum sangaj ritoj.
 IDS_JOURNAL_VLADSAMULET
 Vlad's Amulet
 IDS_JOURNAL_VLADSAMULET_DESC
 A magical amulet that protects its owner from fire.
 IDS_JOURNAL_UDJATEYE
-Udjat Eye
+Uĝata Okulo
 IDS_JOURNAL_UDJATEYE_DESC
 The Eye is an ancient symbol of royal power. Does it have any other purpose?
 IDS_JOURNAL_ANKH
-Ankh
+Anĥo
 IDS_JOURNAL_ANKH_DESC
 A magical artifact that symbolizes eternal life.
 IDS_JOURNAL_HEDJET
@@ -699,9 +700,9 @@ The dead are restless...
 IDS_LEVELFEELING_MARKET
 Welcome to the Black Market!
 IDS_LEVELFEELING_CASTLE
-A wolf howls in the distance...
+??Lupo hojlas en la foro...
 IDS_LEVELFEELING_SNAKEPIT
-I hear snakes... I hate snakes!
+Mi aŭdas serpentojn... Mi malamas serpentojn!
 IDS_LEVELFEELING_SPIDER
 My skin is crawling...
 IDS_LEVELFEELING_JULY
@@ -1241,51 +1242,51 @@ Welcome to Ziggy's Wheel of Prizes!
 IDS_SHOPWELCOME25I
 Welcome to Ziggy's General Store!
 IDS_BUY_ITEM_ROPEPILE
-Buy Rope Pile
+!!Buy Rope Pile
 IDS_BUY_ITEM_BOMBBAG
-Buy Bomb Bag
+Aĉeti Bombsakon
 IDS_BUY_ITEM_BOMBBOX
-Buy Bomb Box
+Aĉeti Bombskatolon
 IDS_BUY_ITEM_SPECTACLES
-Buy Spectacles
+Aĉeti Okulvitrojn
 IDS_BUY_ITEM_CLIMBINGGLOVES
-Buy Climbing Gloves
+Aĉeti Grimpgantojn
 IDS_BUY_ITEM_PITCHERSMITT
-Buy Pitcher's Mitt
+??Aĉeti Ĵetistganton
 IDS_BUY_ITEM_SPRINGSHOES
-Buy Spring Shoes
+!!Buy Spring Shoes
 IDS_BUY_ITEM_SPIKESHOES
-Buy Spike Shoes
+!!Buy Spike Shoes
 IDS_BUY_ITEM_CAMERA
-Buy Camera
+Aĉeti Fotilon
 IDS_BUY_ITEM_COMPASS
-Buy Compass
+Aĉeti Kompason
 IDS_BUY_ITEM_PASTE
-Buy Paste
+Aĉeti Gluon
 IDS_BUY_ITEM_MATTOCK
-Buy Mattock
+Aĉeti Hakfosilon
 IDS_BUY_ITEM_MACHETE
-Buy Machete
+Aĉeti Maĉeton
 IDS_BUY_ITEM_BOOMERANG
-Buy Boomerang
+Aĉeti Bumerangon
 IDS_BUY_ITEM_CRYSKNIFE
-Buy Crysknife
+!!Buy Crysknife
 IDS_BUY_ITEM_WEBGUN
-Buy Web Gun
+Aĉeti Retpafilon
 IDS_BUY_ITEM_SHOTGUN
-Buy Shotgun
+??Aĉeti Hajlofusilon
 IDS_BUY_ITEM_FREEZERAY
-Buy Freeze Ray
+!!Buy Freeze Ray
 IDS_BUY_ITEM_LASERGUN
-Buy Plasma Cannon
+Aĉeti Plasman Kanonon
 IDS_BUY_ITEM_PARACHUTE
-Buy Parachute
+Aĉeti Paraŝuton
 IDS_BUY_ITEM_CAPE
-Buy Cape
+??Aĉeti Tukmantelon
 IDS_BUY_ITEM_TELEPORTER
-Buy Teleporter
+Aĉeti Teleportilon
 IDS_BUY_ITEM_JETPACK
-Buy Jetpack
+!!Buy Jetpack
 IDS_BUY_ITEM_SHIELD
 Buy Shield
 IDS_BUY_ITEM_VLADSWINGS
@@ -1295,7 +1296,7 @@ Buy Royal Jelly
 IDS_BUY_ITEM_IDOL
 Buy Idol
 IDS_BUY_ITEM_KAPALA
-Buy Kapala
+Aĉeti Kapalon
 IDS_BUY_ITEM_VLADSAMULET
 Buy Vlad's Amulet
 IDS_BUY_ITEM_UDJATEYE
@@ -1305,13 +1306,13 @@ Buy Ankh
 IDS_BUY_ITEM_HEDJET
 Buy Hedjet
 IDS_BUY_ITEM_SCEPTRE
-Buy Sceptre
+Aĉeti Sceptron
 IDS_BUY_ITEM_BOOKOFDEAD
 Buy Book of the Dead
 IDS_BUY_DAMSEL
 Buy Damsel
 IDS_BUY_KISS
-Buy Kiss
+Aĉeti Kison
 IDS_BUY_SLAVE1
 Buy Atlas
 IDS_BUY_SLAVE2
@@ -1387,17 +1388,17 @@ Thank you for your business!
 IDS_SHOPMSG_NOMONEY
 You haven't got enough money!
 IDS_SHOPMSG_SLURP
-Slurp!
+Lek!
 IDS_SHOPMSG_SMOOCH
-Smooch!
+Ŝmac!
 IDS_SHOPMSG_INLOVE
 You must be in love!
 IDS_SHOPMSG_ALLYOURS
 He's all yours.
 IDS_TUNNELMAN
-Tunnel Man
+Tunelviro
 IDS_TUNNELMAN1
-Hello there! I'm the Tunnel Man.
+Saluton al vi! Mi estas la Tunelviro.
 IDS_TUNNELMAN2
 You can donate a little bit of money each time. I'll remember how much you've paid me.
 IDS_TUNNELMAN3_1
@@ -1405,9 +1406,9 @@ So what do you say?*I still need $
 IDS_TUNNELMAN3_2
  to build this shortcut.
 IDS_TUNNELMAN4
-Bummer. I'll never get this tunnel finished.
+Domaĝe. Mi neniam finos la tunelon...
 IDS_TUNNELMAN5
-Thanks! You won't regret it.
+Dankon! Vi ne bedaŭros tion.
 IDS_TUNNELMAN6
 Alright! Now I'll have this tunnel finished in no time!
 IDS_DONATION
@@ -1415,7 +1416,7 @@ DONATION
 IDS_DONATION_GUIDE
 @L Change Amount*@A Confirm
 IDS_KALI_ACCEPTS
-Kali accepts your sacrifice!
+Kalio akceptas vian oferaĵon!
 IDS_KALI_INVIGORATED
 You feel invigorated!
 IDS_KALI_BESTOWS
@@ -1443,203 +1444,203 @@ Yet she still seems happy with you.
 IDS_KALI_STILL_PLEASED
 Yet she still seems pleased with you.
 IDS_LABEL_LEVEL
-Level:
+Nivelo:
 IDS_LABEL_MONEY
-Money:
+Mono:
 IDS_LABEL_TIME
-Time:
+Tempo:
 IDS_LABEL_DAMSELS
-Damsels:
+Fraŭl(in)oj:
 IDS_LABEL_KILLS
-Kills
+Mortigoj
 IDS_LABEL_TOTALDEATHS
-Total Deaths:
+Tuta kvanto de mortoj:
 IDS_MSG_SAVING
-Saving Game...
+!!Saving Game...
 IDS_GUIDE_CONTINUE
-@A Continue
+@A Daŭrigi
 IDS_GAMEOVER
-Game Over
+!!Game Over
 IDS_GAMEOVER_AMAZING
-Amazing
+!!Amazing
 IDS_GAMEOVER_SPLENDID
-Splendid
+!!Splendid
 IDS_GAMEOVER_NOTBAD
-Not Bad!
+!!Not Bad!
 IDS_GAMEOVER_OKAY
-Okay
+!!Okay
 IDS_GAMEOVER_OHDEAR
-Oh, Dear...
+!!Oh, Dear...
 IDS_GAMEOVER_SOCLOSE
-So Close!
+!!So Close!
 IDS_GAMEOVER_SNAKEBITE
-Snake Bite
+!!Snake Bite
 IDS_GAMEOVER_SPIDERBITE
-Spider Bite
+!!Spider Bite
 IDS_GAMEOVER_BITTEN
-Bitten
+!!Bitten
 IDS_GAMEOVER_BEATENUP
-Beaten Up
+!!Beaten Up
 IDS_GAMEOVER_STOMPED
-Stomped
+!!Stomped
 IDS_GAMEOVER_STUNG
-Stung
+!!Stung
 IDS_GAMEOVER_EATEN
-Eaten
+!!Eaten
 IDS_GAMEOVER_ZAPPED
-Zapped
+!!Zapped
 IDS_GAMEOVER_CLAWED
-Clawed
+!!Clawed
 IDS_GAMEOVER_CURSED
-Cursed
+!!Cursed
 IDS_GAMEOVER_BRAINFRIED
-Brain Fried
+!!Brain Fried
 IDS_GAMEOVER_SLIMED
-Slimed
+!!Slimed
 IDS_GAMEOVER_BURNED
-Burned
+!!Burned
 IDS_GAMEOVER_POKED
-Poked
+!!Poked
 IDS_GAMEOVER_SEDUCED
-Seduced
+!!Seduced
 IDS_GAMEOVER_HAUNTED
-Haunted
+!!Haunted
 IDS_GAMEOVER_BRAINDAMAGE
-Brain Damage
+!!Brain Damage
 IDS_GAMEOVER_LONGFALL
-Long Fall
+!!Long Fall
 IDS_GAMEOVER_BLOWNUP
-Blown Up
+!!Blown Up
 IDS_GAMEOVER_IMPALED
-Impaled
+!!Impaled
 IDS_GAMEOVER_ARROW
-Arrow
+!!Arrow
 IDS_GAMEOVER_CRUSHED
-Crushed
+!!Crushed
 IDS_GAMEOVER_SHATTERED
-Shattered
+!!Shattered
 IDS_GAMEOVER_ABYSS
-The Abyss
+!!The Abyss
 IDS_GAMEOVER_BURNEDUP
-Burned Up
+!!Burned Up
 IDS_GAMEOVER_BLASTED
-Blasted
+!!Blasted
 IDS_GAMEOVER_DEATH
-Death
+Morto
 IDS_GAMEOVERDESC_MULTIHELL
-Unbelievable! We made it to the underworld!
+!!Unbelievable! We made it to the underworld!
 IDS_GAMEOVERDESC_MULTITEMPLE
-We made it to the temple! Shared victory was within our grasp!
+!!We made it to the temple! Shared victory was within our grasp!
 IDS_GAMEOVERDESC_MULTIICE
-Getting to the ice caves together is an achievement.
+!!Getting to the ice caves together is an achievement.
 IDS_GAMEOVERDESC_MULTILUSH
-Well, at least we made it out of the mines!
+!!Well, at least we made it out of the mines!
 IDS_GAMEOVERDESC_MULTIMINES
-We need to work on our teamwork!
+!!We need to work on our teamwork!
 IDS_GAMEOVERDESC_WORM
-I hope I taste good, at least!
+Nu, mi esperas, ke almenaŭ mi bongustas.
 IDS_GAMEOVERDESC_MINESEND
-The end of the mines was just in sight! If I could survive a little longer...
+!!The end of the mines was just in sight! If I could survive a little longer...
 IDS_GAMEOVERDESC_LUSHEND
-The air was getting much colder... I almost reached the next area!
+!!The air was getting much colder... I almost reached the next area!
 IDS_GAMEOVERDESC_ICEEND
-I can hear muffled chanting coming from below...
+!!I can hear muffled chanting coming from below...
 IDS_GAMEOVERDESC_OLMEC
-It seems I was no match for the mighty Olmec. Next time!
+!!It seems I was no match for the mighty Olmec. Next time!
 IDS_GAMEOVERDESC_KALI
-I was cast into oblivion by the Black Goddess herself.
+!!I was cast into oblivion by the Black Goddess herself.
 IDS_GAMEOVERDESC_SNAKE1
-Snakes! I hate snakes!
+!!Snakes! I hate snakes!
 IDS_GAMEOVERDESC_SNAKE2
-I succumbed to deadly snake venom.
+!!I succumbed to deadly snake venom.
 IDS_GAMEOVERDESC_BAT
-A bat nibbled me to death.
+Mi mortis pro vesperta mordetado.
 IDS_GAMEOVERDESC_SPIDER
-I succumbed to a spider bite.
+!!I succumbed to a spider bite.
 IDS_GAMEOVERDESC_GIANTSPIDER
-That was the biggest spider I've ever seen!
+!!That was the biggest spider I've ever seen!
 IDS_GAMEOVERDESC_SKELETON
-I was clawed to death by a skeleton.
+!!I was clawed to death by a skeleton.
 IDS_GAMEOVERDESC_SCORPION
-I was stung by a scorpion!
+!!I was stung by a scorpion!
 IDS_GAMEOVERDESC_CAVEMAN
-A caveman pummeled me to death.
+!!A caveman pummeled me to death.
 IDS_GAMEOVERDESC_SHOPKEEPER
-I should never have angered that shopkeeper...
+!!I should never have angered that shopkeeper...
 IDS_GAMEOVERDESC_YETI
-A yeti pummeled me to death.
+!!A yeti pummeled me to death.
 IDS_GAMEOVERDESC_TIKIMAN
-A tiki man pummeled me to death.
+!!A tiki man pummeled me to death.
 IDS_GAMEOVERDESC_HAWKMAN
-A hawk man pummeled me to death.
+!!A hawk man pummeled me to death.
 IDS_GAMEOVERDESC_FROG
-I got squished by a frog.
+Rano platigis min.
 IDS_GAMEOVERDESC_MANTRAP
-I was devoured by a mantrap.
+Homkaptilo voris min.
 IDS_GAMEOVERDESC_PIRANHA
-I was nibbled to death by a piranha.
+Mi mortis pro mordetado de piranjo.
 IDS_GAMEOVERDESC_JAWS
-I was torn apart by the legendary river monster.
+!!I was torn apart by the legendary river monster.
 IDS_GAMEOVERDESC_BEE
-I must be allergic to bees.
+Mi pensas, ke mi havas abelan alergion.
 IDS_GAMEOVERDESC_ACID
-My flesh is melting right off the bone.
+!!My flesh is melting right off the bone.
 IDS_GAMEOVERDESC_JIANGSHI
-A jiang shi has leeched away my life energy.
+Ĉjan Ŝi elsuĉis mian vivenergion.
 IDS_GAMEOVERDESC_KNIGHT
-I was treated to a medieval welcome.
+Mi ricevis mezepokan bonvenigon.
 IDS_GAMEOVERDESC_PSYCHICBLAST
-A powerful psychic blast has liquified my brains.
+!!A powerful psychic blast has liquified my brains.
 IDS_GAMEOVERDESC_MUMMY
-An ancient mummy has gotten its revenge on humanity.
+!!An ancient mummy has gotten its revenge on humanity.
 IDS_GAMEOVERDESC_ANUBIS
-I've been destroyed by the jackal-headed god Anubis.
+!!I've been destroyed by the jackal-headed god Anubis.
 IDS_GAMEOVERDESC_VAMPIRE
-I can feel my humanity draining away from the vampire's bite...
+!!I can feel my humanity draining away from the vampire's bite...
 IDS_GAMEOVERDESC_YETIKING
-I've been thrashed by the king of the yetis.
+!!I've been thrashed by the king of the yetis.
 IDS_GAMEOVERDESC_ALIEN
-Embarrassingly enough, I've been killed by a little alien.
+Mi hontas diri, sed eta eksterterano mortigis min.
 IDS_GAMEOVERDESC_MAGMAMAN
-I was burned to death by a magma man.
+Magmulo mortbruligis min.
 IDS_GAMEOVERDESC_VLAD
-I confronted Vlad the Impaler and lost.
+!!I confronted Vlad the Impaler and lost.
 IDS_GAMEOVERDESC_IMP
-I was nibbled to death by a minion of Hell!
+!!I was nibbled to death by a minion of Hell!
 IDS_GAMEOVERDESC_DEVIL
-A blue devil perforated me with one of his horns.
+!!A blue devil perforated me with one of his horns.
 IDS_GAMEOVERDESC_GHOST
-Where am I? I can't feel my body...
+!!Where am I? I can't feel my body...
 IDS_GAMEOVERDESC_BRAINDAMAGE
-Something hard hit me in the head.
+!!Something hard hit me in the head.
 IDS_GAMEOVERDESC_LONGFALL
-I broke every bone in my body.
+!!I broke every bone in my body.
 IDS_GAMEOVERDESC_EXPLOSION
-I couldn't get away in time.
+!!I couldn't get away in time.
 IDS_GAMEOVERDESC_SPIKES
-I fell on some spikes.
+!!I fell on some spikes.
 IDS_GAMEOVERDESC_ARROW
-An arrow has pierced one of my vital organs.
+!!An arrow has pierced one of my vital organs.
 IDS_GAMEOVERDESC_TIKITRAP
-I stepped too close to a tiki trap.
+!!I stepped too close to a tiki trap.
 IDS_GAMEOVERDESC_CRUSHED
-I've been ground into a fine paste.
+!!I've been ground into a fine paste.
 IDS_GAMEOVERDESC_FROZEN
-My frozen body shattered into a million pieces.
+!!My frozen body shattered into a million pieces.
 IDS_GAMEOVERDESC_ABYSS
-Help, I'm still falling!
+Helpu min! Mi ankoraǔ falas senĉese!
 IDS_GAMEOVERDESC_LAVA
-I've been burnt to a crisp.
+!!I've been burnt to a crisp.
 IDS_GAMEOVERDESC_UFO
-I've been incinerated by a UFO laser blast.
+!!I've been incinerated by a UFO laser blast.
 IDS_GAMEOVERDESC_SLAMMED
-I was slammed hard into a wall.
+!!I was slammed hard into a wall.
 IDS_GAMEOVERDESC_DIED
-I died again.
+Mi mortis denove.
 IDS_LOCKED
-Locked
+!!Locked
 IDS_UNLOCK
-Buy Full Game to Unlock
+!!Buy Full Game to Unlock
 IDS_ARENA_MINES1
 Miner Threat
 IDS_ARENA_MINES2
@@ -1773,69 +1774,69 @@ Multiplayer game progress is not saved. Your scores will also not post to the le
 IDS_WARNING_NODEVICE
 You have not selected a device. Your game will not be saved. Would you like to continue anyway?
 IDS_LEVEL_TUTORIAL_1
-TUTORIAL 1
+!!TUTORIAL 1
 IDS_LEVEL_TUTORIAL_2
-TUTORIAL 2
+!!TUTORIAL 2
 IDS_LEVEL_TUTORIAL_3
-TUTORIAL FINAL
+!!TUTORIAL FINAL
 IDS_LEVEL_1_1
-MINES 1-1
+MINEJO 1-1
 IDS_LEVEL_1_2
-MINES 1-2
+MINEJO 1-2
 IDS_LEVEL_1_3
-MINES 1-3
+MINEJO 1-3
 IDS_LEVEL_1_4
-MINES 1-4
+MINEJO 1-4
 IDS_LEVEL_2_1
-LUSH 2-1
+PLANTABUNDO 2-1
 IDS_LEVEL_2_2
-LUSH 2-2
+PLANTABUNDO 2-2
 IDS_LEVEL_2_3
-LUSH 2-3
+PLANTABUNDO 2-3
 IDS_LEVEL_2_4
-LUSH 2-4
+PLANTABUNDO 2-4
 IDS_LEVEL_3_1
-ICE CAVES 3-1
+GLACIAJ GROTOJ 3-1
 IDS_LEVEL_3_2
-ICE CAVES 3-2
+GLACIAJ GROTOJ 3-2
 IDS_LEVEL_3_3
-ICE CAVES 3-3
+GLACIAJ GROTOJ 3-3
 IDS_LEVEL_3_4
-ICE CAVES 3-4
+GLACIAJ GROTOJ 3-4
 IDS_LEVEL_4_1
-TEMPLE 4-1
+TEMPLO 4-1
 IDS_LEVEL_4_2
-TEMPLE 4-2
+TEMPLO 4-2
 IDS_LEVEL_4_3
-TEMPLE 4-3
+TEMPLO 4-3
 IDS_LEVEL_4_4
-TEMPLE 4-4
+TEMPLO 4-4
 IDS_LEVEL_5_1
-HELL 5-1
+INFERO 5-1
 IDS_LEVEL_5_2
-HELL 5-2
+INFERO 5-2
 IDS_LEVEL_5_3
-HELL 5-3
+INFERO 5-3
 IDS_LEVEL_5_4
-HELL 5-4
+INFERO 5-4
 IDS_LEVEL_MARKET
-BLACK MARKET
+NIGRAMERKATEJO
 IDS_LEVEL_CASTLE
-HAUNTED CASTLE
+HANTATA KASTELO
 IDS_LEVEL_MOTHERSHIP
-MOTHERSHIP
+??PATRINŜIPO
 IDS_LEVEL_WORM
-WORM
+VERMO
 IDS_LEVEL_COG
-CITY OF GOLD
+ORA URBO
 IDS_COMPLETED_1_1
-1-1 COMPLETED!
+!!1-1 COMPLETED!
 IDS_COMPLETED_1_2
-1-2 COMPLETED!
+!!1-2 COMPLETED!
 IDS_COMPLETED_1_3
-1-3 COMPLETED!
+!!1-3 COMPLETED!
 IDS_COMPLETED_1_4
-1-4 COMPLETED!
+!!1-4 COMPLETED!
 IDS_COMPLETED_2_1
 2-1 COMPLETED!
 IDS_COMPLETED_2_2
@@ -1865,325 +1866,325 @@ IDS_COMPLETED_5_1
 IDS_COMPLETED_5_2
 5-2 COMPLETED!
 IDS_COMPLETED_5_3
-5-3 COMPLETED!
+!!5-3 COMPLETED!
 IDS_COMPLETED_MARKET
-MARKET COMPLETED!
+!!MARKET COMPLETED!
 IDS_COMPLETED_CASTLE
-CASTLE COMPLETED!
+!!CASTLE COMPLETED!
 IDS_COMPLETED_MOTHERSHIP
-MOTHERSHIP COMPLETED!
+!!MOTHERSHIP COMPLETED!
 IDS_COMPLETED_WORM
-WORM COMPLETED!
+!!WORM COMPLETED!
 IDS_COMPLETED_COG
-CITY OF GOLD COMPLETED!
+!!CITY OF GOLD COMPLETED!
 IDS_LEVEL_ENTRANCE
-ENTRANCE
+ENIREJO
 IDS_LABEL_LOOT
-Loot
+Valoraĵoj
 IDS_DEATHMATCH_GETREADY
-GET READY...
+PRETIĜU...
 IDS_DEATHMATCH_GO
-GO!
+EK!
 IDS_DEATHMATCH_STANDINGS
-PLAYER STANDINGS
+!!PLAYER STANDINGS
 IDS_DEATHMATCH_SELECTARENA
-@A Select Arena
+@A Selekti batalejon
 IDS_DEATHMATCH_RANDOMARENA
-@X Random Arena
+@X Hazarda batalejo
 IDS_DEATHMATCH_BEGINMATCH
-@A Begin Match
+@A Komenci matĉon
 IDS_DEATHMATCH_CHANGEARENA
-@B Change Arena
+@B Ŝanĝi batalejon
 IDS_DEATHMATCH_WINS
-Wins
+Venkoj
 IDS_DEATHMATCH_LIFE
-Life
+Vivo
 IDS_DEATHMATCH_BOMBS
-Bombs
+Bomboj
 IDS_DEATHMATCH_ROPE
-Rope
+Ŝnuroj
 IDS_DEATHMATCH_BOTS
-Bots
+Robotoj
 IDS_DEATHMATCH_ON
-ON
+??(tro longe?)ŜALTITE
 IDS_DEATHMATCH_OFF
-OFF
+??(tro longe?)MALŜALTITE
 IDS_ENDING_YANG1
-Greetings, fellow treasure hunter! I'm Yang!
+Salutojn, mia kolega trezorĉasisto! Mi estas Jang!
 IDS_ENDING_YANG2
-I see you have my journal with you! By now it must be filled with all sorts of amazing things.
+Mi vidas, ke vi havas mian ĵurnalon ĉe vi! Certe ĝi jam plenas je skribaĵoj pri ĉiaj mirindaĵoj.
 IDS_ENDING_YANG3
-Since you worked so hard to get here, I'll bet you're expecting a large reward.
+Vi multe laboris por atingi ĉi tiun lokon, do vi verŝajne atendas ricevi grandan rekompencon.
 IDS_ENDING_YANG4
-Well, with all the time I've spent down here, I've come to realize a few things...
+Sed, nu, pro mia longa vivado ĉi tie sub la tero, mi konsciis kelkajn aferojn...
 IDS_ENDING_YANG5
-That the journey is its own reward and mastery is the greatest treasure of them all!
+La vojaĝo mem estas rekompenco, kaj plena regado de iu kapablo estas la plej valora trezoro de la tuta mondo!
 IDS_ENDING_YANG6
-Well, okay, so gold is pretty nice, too!
+Nu, bone, ankaŭ oro ja estas agrabla!
 IDS_ENDING_YANG7
-Wha ha ha! Now let's get out of here before my joints get stiff!
+Ha ha ha! Do, ni iru for de ĉi tiu loko, antaŭ ol miaj artikoj riĝidiĝas!
 IDS_JOURNAL_VALUE
-Value:
+Valoro:
 IDS_GUIDE_BACK
-@B Back
+@B Reen
 IDS_GUIDE_MAINMENU
-@B Back to Main Menu
+@B Reen al ĉefmenuo
 IDS_SETTINGS
-SETTINGS
+AGORDOJ
 IDS_ENDING_HERO
-You will be remembered as a hero.
+La homaro memoros vin kiel heroo.
 IDS_ENDING_MADEIT
-YOU MADE IT!
+VI SUKCESIS!
 IDS_ENDING_THANKS
-Thanks for playing!
+Dankon pro via ludado!
 IDS_LEVELEND_CONTINUE
-@A Continue to Next Level
+!!@A Continue to Next Level
 IDS_SPIN_WHEEL
-Spin the Wheel
+Turni la radon
 IDS_CHOOSE_ADVENTURER
-CHOOSE ADVENTURER
+ELEKTU AVENTURISTON
 IDS_CONTROLS_MOVE
-@L Move
+@L Movi
 IDS_GUIDE_UNLOCK
-@X Unlock Full Game
+??@X Malŝlosi la tutan ludon
 IDS_MINES
-MINES
+MINEJOJ
 IDS_LUSH
-LUSH
+PLANTEJO
 IDS_ICE
-ICE
+GLACEJO
 IDS_TEMPLE
-TEMPLE
+TEMPLO
 IDS_HELL
-HELL
+INFERO
 IDS_SPECIAL
-SPECIAL
+!!SPECIAL
 IDS_ARENA_DLC1
-EGG
+OVO
 IDS_ARENA_DLC2
-LARVA
+LARVO
 IDS_ARENA_DLC3
-PUPA
+PUPO
 IDS_ARENA_DLC4
-ADULT
+PLENKRESKULO
 IDS_CREDITS
-CREDITS
+!!CREDITS
 IDS_CREDITS_SPELUNKY
 SPELUNKY
 IDS_CREDITS_LEAD_DESIGN
-Lead Design
+!!Lead Design
 IDS_CREDITS_DESIGN
-Design
+!!Design
 IDS_CREDITS_LEAD_PROGRAMMING
-Lead Programming
+Ĉefprogramisto
 IDS_CREDITS_PROGRAMMING
-Programming
+??Programistoj
 IDS_CREDITS_LEAD_GRAPHICS
-Lead Graphics
+Ĉefgrafikisto
 IDS_CREDITS_ADD_GRAPHICS
-Additional Graphics
+Pliaj grafikaĵoj
 IDS_CREDITS_MUSIC
-Music
+Muziko
 IDS_CREDITS_SFX
-Sound Effects
+Sonefektoj
 IDS_CREDITS_XBLA_TEAM
-Xbox LIVE Arcade Team
+teamo de Xbox LIVE Arcade
 IDS_CREDITS_PRODUCER
-Producer
+!!Producer
 IDS_CREDITS_TEST_LEAD
-Test Lead
+Ĉeftestisto
 IDS_CREDITS_RELEASE_MGMT
-Release Management
+!!Release Management
 IDS_CREDITS_PRODUCT_PLANNING
-Product Planning and Business Team
+!!Product Planning and Business Team
 IDS_CREDITS_MARKETING
-Marketing
+!!Marketing
 IDS_CREDITS_EXEC_PRODUCER
-Executive Producer
+!!Executive Producer
 IDS_CREDITS_MILESTONE
-Milestone Acceptance Tester
+!!Milestone Acceptance Tester
 IDS_CREDITS_EUROPE_LOC
-Europe Localization Team
+!!Europe Localization Team
 IDS_CREDITS_ASIA_LOC
-Asia Localization Team
+!!Asia Localization Team
 IDS_CREDITS_SPECIAL_THANKS
-Special Thanks
+!!Special Thanks
 IDS_CREDITS_AS_ALWAYS
-And as Always...
+kaj kiel ĉiam...
 IDS_CREDITS_THE_PLAYER
-You, the Player!
+vi, la ludanto!
 IDS_CREDITS_THANKS
-Thanks for Playing!
+Dankon pro via ludado!
 IDS_HELP_AND_OPTIONS
-HELP & OPTIONS
+!!HELP & OPTIONS
 IDS_HNO_HOW_TO_PLAY
-How to Play
+??Kiel ludi
 IDS_HNO_CONTROLS
-Controls
+!1Controls
 IDS_HNO_SETTINGS
-Settings
+Agordoj
 IDS_HNO_CREDITS
-Credits
+!!Credits
 IDS_REMAP_CONTROLS
-REMAP CONTROLS
+!!REMAP CONTROLS
 IDS_REMAP_CONTROLS_WHIP
-Whip/Action: 
+Vipi/Agi: 
 IDS_REMAP_CONTROLS_JUMP
-Jump: 
+Salti: 
 IDS_REMAP_CONTROLS_ROPE
-Rope: 
+Ŝnuro: 
 IDS_REMAP_CONTROLS_BOMB
-Bomb: 
+Bombo: 
 IDS_REMAP_CONTROLS_RUN
-Run: 
+kuri: 
 IDS_REMAP_CONTROLS_PURCHASE
-Purchase/Door: 
+Aĉeti/Pordo: 
 IDS_GUIDE_REMAP_CONTROLS
-@A Remap Controls
+!!@A Remap Controls
 IDS_GUIDE_DEFAULT_CONTROLS
-@X Default Controls
+!!@X Default Controls
 IDS_PRESS_ANY_BUTTON
-Press Any Button
+Premu iun ajn butonon
 IDS_SETTINGS_SFX
-SFX Volume
+!!SFX Volume
 IDS_SETTINGS_MUSIC
-Music Volume
+!!Music Volume
 IDS_SETTINGS_BRIGHTNESS
-Screen Brightness
+Ekranheleco
 IDS_SETTINGS_DAMSEL
-Damsel Style
+Tipo de Fraŭl(in)o
 IDS_GUIDE_RESET_SETTINGS
-@X Default Settings
+@X Defaŭltaj agordoj
 IDS_DM_PLAYER_1_WINS
-PLAYER 1 WINS!
+LUDANTO 1 VENKAS!
 IDS_DM_PLAYER_2_WINS
-PLAYER 2 WINS!
+LUDANTO 2 VENKAS!
 IDS_DM_PLAYER_3_WINS
-PLAYER 3 WINS!
+LUDANTO 3 VENKAS!
 IDS_DM_PLAYER_4_WINS
-PLAYER 4 WINS!
+LUDANTO 4 VENKAS!
 IDS_DM_NOBODY_WINS
-NOBODY WINS!
+NENIU VENKAS!!
 IDS_HOW_TO_PLAY_1
-HOW TO PLAY (1/4)
+KIEL LUDI (1/4)
 IDS_HOW_TO_PLAY_2
-HOW TO PLAY (2/4)
+KIEL LUDI (2/4)
 IDS_HOW_TO_PLAY_3
-HOW TO PLAY (3/4)
+KIEL LUDI (3/4)
 IDS_HOW_TO_PLAY_4
-HOW TO PLAY (4/4)
+KIEL LUDI (4/4)
 IDS_GUIDE_FILTER
-@X Change Filter
+??@X Ŝanĝi filtrilon
 IDS_PURCHASE_A
-Press @A to purchase.
+Premu @A por aĉeti.
 IDS_PURCHASE_B
-Press @B to purchase.
+Premu @B por aĉeti.
 IDS_PURCHASE_X
-Press @X to purchase.
+Premu @X por aĉeti.
 IDS_PURCHASE_Y
-Press @Y to purchase.
+Premu @Y por aĉeti.
 IDS_PURCHASE_LB
-Press @{ to purchase.
+Premu @{ por aĉeti.
 IDS_PURCHASE_RB
-Press @} to purchase.
+Premu @} por aĉeti.
 IDS_PURCHASE_LT
-Press @[ to purchase.
+Premu @[ por aĉeti.
 IDS_PURCHASE_RT
-Press @] to purchase.
+Premu @] por aĉeti.
 IDS_JOURNAL_POWDERKEG
-Powder Box
+!!Powder Box
 IDS_JOURNAL_POWDERKEG_DESC
-It's filled with black powder. Handle with care!
+!!It's filled with black powder. Handle with care!
 IDS_CHILL
-A terrible chill runs up your spine!
+!!A terrible chill runs up your spine!
 IDS_JOURNAL_ENTRY_ADDED
-Journal Entry Added
+Ĵurnal-enskribaĵo aldoniĝis
 IDS_CHARACTER_UNLOCKED
-New Character Unlocked
+??New Character Unlocked
 IDS_ENDING_YANG_NOWORDS
 ...
 IDS_ENDING_SCORE
-Final Score:
+Fina poentsumo:
 IDS_ENDING_TIME
-Time:
+Tempo:
 IDS_GUIDE_SELECTCHAR
-@A Select Character
+@A Elektu rolulon
 IDS_SCEPTRE_FITS
-The sceptre fits, but nothing is happening!
+!!The sceptre fits, but nothing is happening!
 IDS_WRONG_KEY
-The key doesn't fit in this door.
+!!The key doesn't fit in this door.
 IDS_ANUBIS_WARNING
-Death to the defiler!
+!!Death to the defiler!
 IDS_LOCKED_ARENA
 ??????
 IDS_LEVELFEELING_COG
-I finally made it!
+!!I finally made it!
 IDS_SHOPBUYIDOL
-Let me take that off your hands!
+!!Let me take that off your hands!
 IDS_HEADER_BOMBS
-BOMBS
+BOMBOJ
 IDS_HEADER_ROPES
-ROPES
+ŜNUROJ
 IDS_HEADER_MONEY
-MONEY
+MONO
 IDS_CONTROLS_PICKUP
-Hold down on @L and press @S to pick up items and people.
+Premadu @L and dume premu @S por preni objektojn kaj homojn.
 IDS_WARNING_UNSAVED
-Are you sure? All unsaved player progress will be lost.
+Ĉu vi certas? Ĉiom de la nekonservita progreso estos perdita.
 IDS_WARNING_NOTSAVED
-Are you sure? Scores will not be saved.
+Ĉu vi certas? Poentsumoj ne konserviĝos.
 IDS_ERROR_CORRUPTDLC
-The DLC could not be loaded and may be corrupt. Please redownload it from the Xbox LIVE Marketplace.
+!!The DLC could not be loaded and may be corrupt. Please redownload it from the Xbox LIVE Marketplace.
 IDS_ERROR_WRITING
-There was an error writing to the leaderboards. Try again?
+!!There was an error writing to the leaderboards. Try again?
 IDS_ERROR_NEWSTORAGE
-The storage device has been removed. Would you like to select a new storage device?
+!!The storage device has been removed. Would you like to select a new storage device?
 IDS_ERROR_CORRUPTSAVE
-The save file appears to be damaged and cannot be loaded. Would you like to overwrite it with a new save file?
+!!The save file appears to be damaged and cannot be loaded. Would you like to overwrite it with a new save file?
 IDS_ERROR_BADSTORAGE
-The storage device appears to be damaged and cannot be accessed. Would you like to select another storage device?
+!!The storage device appears to be damaged and cannot be accessed. Would you like to select another storage device?
 IDS_ERROR_NOTSAVED
-Your game will not be saved.
+!!Your game will not be saved.
 IDS_ERROR_CANTSAVED
-The game was unable to save. Would you like to select a different storage device?
+!!The game was unable to save. Would you like to select a different storage device?
 IDS_ERROR_FULLDEVICE
-The destination device is full. Would you like to select a different storage device?
+!!The destination device is full. Would you like to select a different storage device?
 IDS_GUIDE_YES
-@A Yes
+@A Jes
 IDS_GUIDE_NO
-@B No
+@B Ne
 IDS_GUIDE_OK
-@A OK
+@A Bone
 IDS_GUIDE_CONNECT
-@A Connect to Xbox LIVE
+@A Konekti al Xbox LIVE
 IDS_GUIDE_NOSAVE
-@B Continue Without Saving Score
+@B Daŭrigi sen konservi poentsumon
 IDS_SHORTCUT_BOMBS
-I was digging a shortcut, but a large boulder is blocking my path.
+!!I was digging a shortcut, but a large boulder is blocking my path.
 IDS_SHORTCUT_BOMB1
-Can you give me a bomb so I can blow it up?
+!!Can you give me a bomb so I can blow it up?
 IDS_SHORTCUT_BOMB2
-Can you give me two bombs so I can blow it up?
+!!Can you give me two bombs so I can blow it up?
 IDS_SHORTCUT_BOMB3
-Can you give me three bombs so I can blow it up?
+!!Can you give me three bombs so I can blow it up?
 IDS_SHORTCUT_ROPES
-I was digging a shortcut, but a deep pit is in my way.
+!!I was digging a shortcut, but a deep pit is in my way.
 IDS_SHORTCUT_ROPE1
-Can you give me a rope so I can descend safely?
+!!Can you give me a rope so I can descend safely?
 IDS_SHORTCUT_ROPE2
-Can you give me two ropes so I can descend safely?
+!!Can you give me two ropes so I can descend safely?
 IDS_SHORTCUT_ROPE3
-Can you give me three ropes so I can descend safely?
+!!Can you give me three ropes so I can descend safely?
 IDS_SHORTCUT_MONEY1
-I was digging a shortcut, but some of my equipment broke.
+!!I was digging a shortcut, but some of my equipment broke.
 IDS_SHORTCUT_MONEY2
-Can you give me $10000 to replace it?
+!!Can you give me $10000 to replace it?
 IDS_SHORTCUT_FAIL
-Unfortunately, it doesn't look like you have enough! Maybe next time!
+!!Unfortunately, it doesn't look like you have enough! Maybe next time!
 IDS_SHORTCUT_SHOTGUN_NEXT1
-Next time you see me, can you bring me a shotgun?
+!!Next time you see me, can you bring me a shotgun?
 IDS_SHORTCUT_SHOTGUN_NEXT2
-I'll need something to protect myself from the monsters down here.
+!!I'll need something to protect myself from the monsters down here.
 IDS_SHORTCUT_SHOTGUN
 I was digging a shortcut, but there are a lot of monsters down there.
 IDS_SHORTCUT_SHOTGUN_HAVE
@@ -2199,7 +2200,7 @@ That key you're holding looks like it might fit! Can I have it?
 IDS_GAMEOVERDESC_YAMA
 My soul was judged unworthy by the King of the Underworld.
 IDS_GUIDE_QUICKRESTART
-@X Quick Restart
+@X Reekludi nun
 IDS_GUIDE_SELECT
 @A Select
 IDS_GUIDE_DONATE
@@ -2501,7 +2502,7 @@ HIGH
 IDS_LOW
 LOW
 IDS_QUICKSTART
-@X Quick Start
+@X Ekludi nun
 IDS_REMAP_INVERT_RUN_OFF
 Invert Run: OFF
 IDS_REMAP_INVERT_RUN_ON
