@@ -1,0 +1,2518 @@
+IDS_INTRO1_1
+As the sun burned bright above,
+IDS_INTRO1_2
+With the desert stretching behind me,
+IDS_INTRO1_3
+After I double-checked my map,
+IDS_INTRO1_4
+My lips cracked and covered in sand,
+IDS_INTRO1_5
+With fate guiding my every move,
+IDS_INTRO1_6
+Putting the faded photo in my pocket,
+IDS_INTRO1_7
+As I recalled my father's last words,
+IDS_INTRO1_8
+My memory slipping away from me,
+IDS_INTRO2_1
+I strode valiantly toward my destiny,
+IDS_INTRO2_2
+I squeezed the whip at my side,
+IDS_INTRO2_3
+I drained the rest of my canteen,
+IDS_INTRO2_4
+I spotted the cave's entrance,
+IDS_INTRO2_5
+I furrowed my brow,
+IDS_INTRO2_6
+I paid my Bedouin guide,
+IDS_INTRO2_7
+I dismounted my camel,
+IDS_INTRO2_8
+I squinted into the darkness,
+IDS_INTRO3_1
+And thought of her one last time.
+IDS_INTRO3_2
+And held my hat against the wind.
+IDS_INTRO3_3
+And a cold chill took hold of me.
+IDS_INTRO3_4
+And wondered how long I'd be below.
+IDS_INTRO3_5
+And vowed to return victorious.
+IDS_INTRO3_6
+And swore I heard voices up ahead.
+IDS_INTRO3_7
+And felt the gods smiling upon me.
+IDS_INTRO3_8
+And that's when it all started.
+IDS_TITLEGUIDE
+Press @A to begin.
+IDS_BACK
+@B Back
+IDS_MAINMENU_PLAYGAME
+eĥoŝanĝo ĉiuĵaŭde
+IDS_MAINMENU_ADVENTURE
+Adventure
+IDS_MAINMENU_DEATHMATCH
+Deathmatch
+IDS_MAINMENU_PLAYERPROFILE
+Player Stats
+IDS_MAINMENU_LEADERBOARDS
+Leaderboards
+IDS_MAINMENU_ACHIEVEMENTS
+Achievements
+IDS_MAINMENU_HELPANDOPTIONS
+Help & Options
+IDS_MAINMENU_UNLOCK
+Unlock Full Game
+IDS_MAINMENU_RETURN
+Main Menu
+IDS_MAINMENU_ADVENTUREDESC
+Embark on a quest for Olmec's legendary treasure! Go alone or with friends.
+IDS_MAINMENU_DEATHMATCHDESC
+Compete in a deadly competition to see who is the most skilled adventurer.
+IDS_PAUSED_RESUME
+Resume Game
+IDS_PAUSED_RESTART
+Restart Game
+IDS_PAUSED_EXIT
+Exit Game
+IDS_HOWTOPLAY1_1
+You begin the game with four health. If you run out of health, your expedition will come to an end.
+IDS_HOWTOPLAY1_2
+Ropes let you reach high ledges and descend safely into pits. Press @Y to throw one.
+IDS_HOWTOPLAY1_3
+Bombs can be used to blow up the walls. Press @B to throw one... but be careful!
+IDS_HOWTOPLAY1_4
+Your whip is your best defense against the monsters that inhabit the caves. Press @X to attack with it.
+IDS_HOWTOPLAY2_1
+Wooden crates are littered around the caves. Whip them open to find supplies to aid you on your adventure.
+IDS_HOWTOPLAY2_2
+Ropes and bombs are the most common items found in crates, but if you're lucky you may find better things!
+IDS_HOWTOPLAY2_3
+Treasure chests are filled with valuable gems! Most of them have weak locks that can be whipped open.
+IDS_HOWTOPLAY2_4
+Your score is determined by how much loot you've collected. Amass a large fortune of gold and gems!
+IDS_HOWTOPLAY3_1
+This is a shopkeeper. You can buy all sorts of items from his shop, but be careful not to upset him.
+IDS_HOWTOPLAY3_2
+Items for sale have a dollar sign over them. Some shops sell weapons, like this shotgun.
+IDS_HOWTOPLAY3_3
+You can use your loot to purchase items in the shops. Be sure to spend it wisely!
+IDS_HOWTOPLAY3_4
+Shops may also supply a variety of other useful tools. This compass, for example, points you toward the exit.
+IDS_HOWTOPLAY4_1
+At the bottom of each level is an exit to deeper parts of the caves. That's your goal!
+IDS_HOWTOPLAY4_2
+Lovely damsels have gotten trapped down here. If you bring them safely to the exits they'll reward you with health.
+IDS_HOWTOPLAY4_3
+You can also bring these golden idols to the exits for big money rewards. They're usually guarded by deadly traps.
+IDS_HOWTOPLAY4_4
+That covers the basics, but there's so much more to discover once you start playing! Have fun!
+IDS_JOURNAL
+Journal
+IDS_JOURNAL_PLACES
+Places
+IDS_JOURNAL_MONSTERS
+Monsters
+IDS_JOURNAL_ITEMS
+Items
+IDS_JOURNAL_TRAPS
+Traps
+IDS_VERIFY_AREYOUSURE
+Are you sure?
+IDS_VERIFY_NO
+No
+IDS_VERIFY_YES
+Yes
+IDS_LEADERBOARDS_HIGHSCORES
+HIGH SCORES
+IDS_LEADERBOARDS_FASTESTTIMES
+FASTEST TIMES
+IDS_LEADERBOARDS_WEEKLYSCORES
+WEEKLY SCORES
+IDS_LEADERBOARDS_WEEKLYTIMES
+WEEKLY TIMES
+IDS_LEADERBOARDS_INVALID
+INVALID BOARD
+IDS_LEADERBOARDS_RANK
+RANK
+IDS_LEADERBOARDS_GAMERTAG
+GAMERTAG
+IDS_LEADERBOARDS_CHARACTER
+CHARACTER
+IDS_LEADERBOARDS_LEVEL
+LEVEL
+IDS_LEADERBOARDS_SCORE
+SCORE
+IDS_LEADERBOARDS_FRIENDS
+Friends
+IDS_LEADERBOARDS_MYSCORES
+My Scores
+IDS_LEADERBOARDS_OVERALL
+Overall
+IDS_LEADERBOARDS_READING
+Reading leaderboards...
+IDS_LEADERBOARDS_FRIENDSNOTRANKED
+Your friends are not yet ranked on this leaderboard.
+IDS_LEADERBOARDS_NOTRANKED
+You are not yet ranked on this leaderboard.
+IDS_PLAYERPROFILE_LASTGAMEPLAYED
+Last Game Played
+IDS_PLAYERPROFILE_PLAYS
+Plays:
+IDS_PLAYERPROFILE_DEATHS
+Deaths:
+IDS_PLAYERPROFILE_WINS
+Wins:
+IDS_PLAYERPROFILE_AVGSCORE
+Avg. Score:
+IDS_PLAYERPROFILE_BESTSCORE
+Best Score:
+IDS_PLAYERPROFILE_BESTTIME
+Best Time:
+IDS_PLAYERPROFILE_LEVEL
+Level:
+IDS_PLAYERPROFILE_SCORE
+Score:
+IDS_CONTROLS
+CONTROLS
+IDS_CONTROLS_WHIP
+Whip/Action
+IDS_CONTROLS_JUMP
+Jump
+IDS_CONTROLS_ROPE
+Rope
+IDS_CONTROLS_BOMB
+Bomb
+IDS_CONTROLS_RUN
+Run
+IDS_CONTROLS_PURCHASE
+Purchase/Door
+IDS_CONTROLS_UNUSED
+Unused
+IDS_JOURNAL_TUTORIAL1
+Greetings! My name is Yang, and this is my journal. Dusty maps and rumors of amazing treasures have led me here, deep under the desert.
+IDS_JOURNAL_TUTORIAL2
+There's something very strange about this place... the layout seems to change all the time. I've never seen the same room twice!
+IDS_JOURNAL_TUTORIAL3
+It could be the legendary Curse of Olmec, the one they say traps people inside the caves forever!
+IDS_JOURNAL_TUTORIAL4
+I push the idea out of my mind and focus on the treasure, instead. If I master the basics of movement and combat, I know I'll leave here a rich man!
+IDS_JOURNAL_TUTORIAL5
+The journey has been more difficult than I expected. I've fallen in spike pits, stepped into traps, and been attacked by monsters...
+IDS_JOURNAL_TUTORIAL6
+Yet no matter what happens, I always wake up at the entrance to the mines! It's like death itself has lost its way down here.
+IDS_JOURNAL_TUTORIAL7
+Despite the eeriness of these events, I remain focused on the task at hand. Eagerly, I press on, pursuing my fame and fortune.
+IDS_JOURNAL_TUTORIAL8
+I caught a glimpse of a lush paradise the other day, at the end of the mines.
+IDS_JOURNAL_TUTORIAL9
+How could such a place exist so far underground? And what lies beyond?
+IDS_JOURNAL_TUTORIAL10
+Cave merchants speak of even more fabulous sights further below... ancient ruins and cities made of gold! The very idea makes my restless heart beat faster!
+IDS_JOURNAL_TUTORIAL11
+To whomever holds this journal: I hope you find it useful. It's served me well but I no longer need it.
+IDS_JOURNAL_TUTORIAL12
+I'm descending into the caves for what I hope is the last time. I won't return until I've escaped with The Ultimate Treasure!
+IDS_JOURNAL_TUTORIAL13
+Or are there even greater delights to be discovered? Well, there's only one way to find out!
+IDS_JOURNAL_TUTORIAL14
+Take this key. It will open the entrance to the mines. Follow me if you dare!*Happy Exploring!*-Yang
+IDS_JOURNAL_KILLS
+Kills:
+IDS_JOURNAL_KILLEDBY
+Killed by:
+IDS_JOURNAL_ENTRY
+Entry 
+IDS_JOURNAL_SNAKE
+Snake
+IDS_JOURNAL_SNAKE_DESC
+The bane of every adventurer. It enjoys hiding in pots.
+IDS_JOURNAL_COBRA
+Cobra
+IDS_JOURNAL_COBRA_DESC
+A deadly serpent with a distinctive hood and venomous spit.
+IDS_JOURNAL_BAT
+Bat
+IDS_JOURNAL_BAT_DESC
+It prefers eating bugs, but will attack human beings if it's hungry enough.
+IDS_JOURNAL_SPIDER
+Spider
+IDS_JOURNAL_SPIDER_DESC
+Larger than your average household variety. Don't let it get the drop on you.
+IDS_JOURNAL_HANGSPIDER
+Spinner Spider
+IDS_JOURNAL_HANGSPIDER_DESC
+It hangs from the ceiling on a silky thread.
+IDS_JOURNAL_GIANTSPIDER
+Giant Spider
+IDS_JOURNAL_GIANTSPIDER_DESC
+A gargantuan spider the size of a car! She traps her prey in sticky webs.
+IDS_JOURNAL_SKELETON
+Skeleton
+IDS_JOURNAL_SKELETON_DESC
+A living skeleton straight out of your nightmares.
+IDS_JOURNAL_SCORPION
+Scorpion
+IDS_JOURNAL_SCORPION_DESC
+A predatory arachnid with a poisonous stinger on its tail.
+IDS_JOURNAL_CAVEMAN
+Caveman
+IDS_JOURNAL_CAVEMAN_DESC
+One of man's primitive ancestors.
+IDS_JOURNAL_DAMSEL
+Damsel
+IDS_JOURNAL_DAMSEL_DESC
+Bring helpless damsels to the exit and you'll be rewarded with a kiss!
+IDS_JOURNAL_SHOPKEEPER
+Shopkeeper
+IDS_JOURNAL_SHOPKEEPER_DESC
+This ornery merchant will sell anything for the right price. He hates shoplifters!
+IDS_JOURNAL_TUNNELMAN
+Tunnel Man
+IDS_JOURNAL_TUNNELMAN_DESC
+A cheerful man who makes his living digging tunnels to the deepest parts of the cave.
+IDS_JOURNAL_SCARAB
+Scarab
+IDS_JOURNAL_SCARAB_DESC
+A flying insect made of pure gold that's worshipped in some cultures.
+IDS_JOURNAL_TIKIMAN
+Tiki Man
+IDS_JOURNAL_TIKIMAN_DESC
+Just your average masked cannibal wielding a giant boomerang.
+IDS_JOURNAL_FROG
+Frog
+IDS_JOURNAL_FROG_DESC
+A large cave frog... or is it a toad? Whatever.
+IDS_JOURNAL_FIREFROG
+Fire Frog
+IDS_JOURNAL_FIREFROG_DESC
+A rare species of frog that's filled with explosive swamp gas.
+IDS_JOURNAL_GIANTFROG
+Giant Frog
+IDS_JOURNAL_GIANTFROG_DESC
+This extra-large amphibian carries its children inside of its mouth.
+IDS_JOURNAL_MANTRAP
+Mantrap
+IDS_JOURNAL_MANTRAP_DESC
+Carnivorous plants with a taste for human flesh.
+IDS_JOURNAL_PIRANHA
+Piranha
+IDS_JOURNAL_PIRANHA_DESC
+A group of these can skeletonize a cow in two minutes.
+IDS_JOURNAL_JAWS
+Old Bitey
+IDS_JOURNAL_JAWS_DESC
+This legendary fish has claimed the lives of many adventurers.
+IDS_JOURNAL_BEE
+Killer Bee
+IDS_JOURNAL_BEE_DESC
+A bee with a harpoon-sized stinger. It's very protective of its hive.
+IDS_JOURNAL_QUEENBEE
+Queen Bee
+IDS_JOURNAL_QUEENBEE_DESC
+Bee royalty. She might have some delicious royal jelly stuck to her abdomen.
+IDS_JOURNAL_SNAIL
+Snail
+IDS_JOURNAL_SNAIL_DESC
+A slimy mollusk that blows acidic spit bubbles when it's agitated.
+IDS_JOURNAL_MONKEY
+Monkey
+IDS_JOURNAL_MONKEY_DESC
+Its pranks are the leading cause of injury to unwary jungle explorers.
+IDS_JOURNAL_GOLDMONKEY
+Golden Monkey
+IDS_JOURNAL_GOLDMONKEY_DESC
+A friendly but elusive primate that enjoys striking off on an adventure.
+IDS_JOURNAL_JIANGSHI
+Jiang Shi
+IDS_JOURNAL_JIANGSHI_DESC
+This restless zombie attacks humans to absorb their life essence.
+IDS_JOURNAL_GREENKNIGHT
+Green Knight
+IDS_JOURNAL_GREENKNIGHT_DESC
+Who or what is inside this haunted suit of armor?
+IDS_JOURNAL_BLACKKNIGHT
+Black Knight
+IDS_JOURNAL_BLACKKNIGHT_DESC
+The lord of the castle. He fights with supreme confidence and won't give up until death.
+IDS_JOURNAL_VAMPIRE
+Vampire
+IDS_JOURNAL_VAMPIRE_DESC
+An undead bloodsucker with superhuman strength. He can change into a bat.
+IDS_JOURNAL_GHOST
+Ghost
+IDS_JOURNAL_GHOST_DESC
+This frightening apparition haunts the caves. Where did it come from?
+IDS_JOURNAL_CELL
+Bacterium
+IDS_JOURNAL_CELL_DESC
+A dangerous single-celled organism that feeds on decaying matter.
+IDS_JOURNAL_WORMEGG
+Worm Egg
+IDS_JOURNAL_WORMEGG_DESC
+It's filled with worm babies. Gross!
+IDS_JOURNAL_WORMBABY
+Worm Baby
+IDS_JOURNAL_WORMBABY_DESC
+It looks small now, but adults can grow to a length of several miles.
+IDS_JOURNAL_YETI
+Yeti
+IDS_JOURNAL_YETI_DESC
+A playful creature that unfortunately doesn't know its own strength.
+IDS_JOURNAL_YETIKING
+Yeti King
+IDS_JOURNAL_YETIKING_DESC
+The king of the yetis is whichever yeti is the biggest.
+IDS_JOURNAL_MAMMOTH
+Mammoth
+IDS_JOURNAL_MAMMOTH_DESC
+This furry animal was thought to be extinct. Its breath is like a blizzard!
+IDS_JOURNAL_ALIEN
+Alien
+IDS_JOURNAL_ALIEN_DESC
+Invaders from space... what are they doing down here?
+IDS_JOURNAL_UFO
+UFO
+IDS_JOURNAL_UFO_DESC
+A flying saucer powered by mysterious alien technology.
+IDS_JOURNAL_ALIENTANK
+Alien Tank
+IDS_JOURNAL_ALIENTANK_DESC
+The survival rate of tank drivers is at an all-time low.
+IDS_JOURNAL_ALIENLORD
+Alien Lord
+IDS_JOURNAL_ALIENLORD_DESC
+A powerful psychic creature that commands a large spacecraft.
+IDS_JOURNAL_ALIENQUEEN
+Alien Queen
+IDS_JOURNAL_ALIENQUEEN_DESC
+The mastermind of the alien invasion. She has incredible psychic powers.
+IDS_JOURNAL_HAWKMAN
+Hawk Man
+IDS_JOURNAL_HAWKMAN_DESC
+A dangerous leader of the Olmec cult. He's always looking for people to sacrifice.
+IDS_JOURNAL_CROCMAN
+Croc Man
+IDS_JOURNAL_CROCMAN_DESC
+This elite temple guard has magical powers that make him very tough to kill.
+IDS_JOURNAL_MAGMAMAN
+Magma Man
+IDS_JOURNAL_MAGMAMAN_DESC
+An elemental of fire that has fashioned a body out of lava.
+IDS_JOURNAL_SCORPIONFLY
+Scorpion Fly
+IDS_JOURNAL_SCORPIONFLY_DESC
+It's as dangerous on the ground as it is in the air.
+IDS_JOURNAL_MUMMY
+Mummy
+IDS_JOURNAL_MUMMY_DESC
+Cursed tomb lords with a very old grudge to bear.
+IDS_JOURNAL_ANUBIS
+Anubis
+IDS_JOURNAL_ANUBIS_DESC
+A jackal-headed god who rules over the world of the dead.
+IDS_JOURNAL_ANUBISII
+Anubis II
+IDS_JOURNAL_ANUBISII_DESC
+The second incarnation of Anubis. He'll do anything to protect the treasures of the underworld.
+IDS_JOURNAL_OLMEC
+Olmec
+IDS_JOURNAL_OLMEC_DESC
+Legend has it that Olmec's Curse keeps people trapped in the caves.
+IDS_JOURNAL_VLAD
+Vlad
+IDS_JOURNAL_VLAD_DESC
+The dark prince of vampires. His tower stands guard at the entrance of Hell.
+IDS_JOURNAL_IMP
+Imp
+IDS_JOURNAL_IMP_DESC
+A lowly servant of the underworld. Its job is to refill the lava pits.
+IDS_JOURNAL_DEVIL
+Devil
+IDS_JOURNAL_DEVIL_DESC
+Blue devils that escort lost souls to King Yama's courtroom.
+IDS_JOURNAL_SUCCUBUS
+Succubus
+IDS_JOURNAL_SUCCUBUS_DESC
+A mistress of Vlad. She seduces men and women alike in the service of her master.
+IDS_JOURNAL_OXFACE
+Ox Face
+IDS_JOURNAL_OXFACE_DESC
+King Yama's left-hand man. He has the face of an ox.
+IDS_JOURNAL_HORSEHEAD
+Horse Head
+IDS_JOURNAL_HORSEHEAD_DESC
+King Yama's right-hand man. He has the head of a horse.
+IDS_JOURNAL_KINGYAMA
+King Yama
+IDS_JOURNAL_KINGYAMA_DESC
+The ruler of Hell! He punishes the damned from atop a bloody throne.
+IDS_JOURNAL_MINES
+The Mines
+IDS_JOURNAL_MINES_DESC
+An abandoned mine with many deep shafts.
+IDS_JOURNAL_LUSH
+Lush
+IDS_JOURNAL_LUSH_DESC
+The trees here have found a way to grow without any sunlight.
+IDS_JOURNAL_ICE
+Ice Caves
+IDS_JOURNAL_ICE_DESC
+Icy rocks suspended over a bottomless abyss.
+IDS_JOURNAL_TEMPLE
+Temple
+IDS_JOURNAL_TEMPLE_DESC
+These ruins have probably been here for thousands of years. Who built them?
+IDS_JOURNAL_HELL
+Hell
+IDS_JOURNAL_HELL_DESC
+The Underworld. Sheol. Hades. One thing's for certain: it's HOT down here!
+IDS_JOURNAL_CEMETARY
+Cemetery
+IDS_JOURNAL_CEMETARY_DESC
+This barren place is home for all manner of undead creatures.
+IDS_JOURNAL_CASTLE
+Haunted Castle
+IDS_JOURNAL_CASTLE_DESC
+Long ago, the knights who dwelt here were cursed with eternal life.
+IDS_JOURNAL_MARKET
+Black Market
+IDS_JOURNAL_MARKET_DESC
+You may be able to purchase some one-of-a-kind items in this hidden place...
+IDS_JOURNAL_WORM
+Worm
+IDS_JOURNAL_WORM_DESC
+In one end and out the other.
+IDS_JOURNAL_YETICAVE
+Yeti Cave
+IDS_JOURNAL_YETICAVE_DESC
+Home to a family yetis. No wonder it smells!
+IDS_JOURNAL_MOTHERSHIP
+Mothership
+IDS_JOURNAL_MOTHERSHIP_DESC
+An impossibly large alien craft.
+IDS_JOURNAL_COG
+City of Gold
+IDS_JOURNAL_COG_DESC
+The City of Gold! So the legends were true!
+IDS_JOURNAL_ROPEPILE
+Rope Pile
+IDS_JOURNAL_ROPEPILE_DESC
+Ropes are an essential tool of the explorer. Great for those hard-to-reach places!
+IDS_JOURNAL_BOMBBAG
+Bomb Bag
+IDS_JOURNAL_BOMBBAG_DESC
+A bag of three bombs.
+IDS_JOURNAL_BOMBBOX
+Bomb Box
+IDS_JOURNAL_BOMBBOX_DESC
+A box that holds twelve bombs.
+IDS_JOURNAL_SPECTACLES
+Spectacles
+IDS_JOURNAL_SPECTACLES_DESC
+A nice pair of spectacles that lets you see things you normally wouldn't.
+IDS_JOURNAL_CLIMBINGGLOVES
+Climbing Gloves
+IDS_JOURNAL_CLIMBINGGLOVES_DESC
+They protect your hands and let you to cling to even the most slippery of walls.
+IDS_JOURNAL_PITCHERSMITT
+Pitcher's Mitt
+IDS_JOURNAL_PITCHERSMITT_DESC
+It improves your throwing and catching skills!
+IDS_JOURNAL_SPRINGSHOES
+Spring Shoes
+IDS_JOURNAL_SPRINGSHOES_DESC
+Puts a spring in your step.
+IDS_JOURNAL_SPIKESHOES
+Spike Shoes
+IDS_JOURNAL_SPIKESHOES_DESC
+Hiking boots fitted with sharp spikes on their soles.
+IDS_JOURNAL_CAMERA
+Camera
+IDS_JOURNAL_CAMERA_DESC
+The most expensive camera on the market. Say cheese!
+IDS_JOURNAL_COMPASS
+Compass
+IDS_JOURNAL_COMPASS_DESC
+This compass always points the way to the exit.
+IDS_JOURNAL_PASTE
+Paste
+IDS_JOURNAL_PASTE_DESC
+Coat your bombs with this and they'll stick to pretty much anything.
+IDS_JOURNAL_MATTOCK
+Mattock
+IDS_JOURNAL_MATTOCK_DESC
+A sharp tool that's great for digging, but the craftsmanship is shoddy.
+IDS_JOURNAL_MACHETE
+Machete
+IDS_JOURNAL_MACHETE_DESC
+It slices, it dices, it cuts through monsters like stale bread!
+IDS_JOURNAL_BOOMERANG
+Boomerang
+IDS_JOURNAL_BOOMERANG_DESC
+A popular weapon of tiki men. It (almost) always comes back!
+IDS_JOURNAL_CRYSKNIFE
+Crysknife
+IDS_JOURNAL_CRYSKNIFE_DESC
+A razor-sharp blade fashioned from the tooth of a worm. It replaces your whip.
+IDS_JOURNAL_WEBGUN
+Web Gun
+IDS_JOURNAL_WEBGUN_DESC
+A gun that shoots sticky spider webs.
+IDS_JOURNAL_SHOTGUN
+Shotgun
+IDS_JOURNAL_SHOTGUN_DESC
+Your typical 12-gauge shotgun.
+IDS_JOURNAL_FREEZERAY
+Freeze Ray
+IDS_JOURNAL_FREEZERAY_DESC
+A blast from this will freeze anything completely solid.
+IDS_JOURNAL_LASERGUN
+Plasma Cannon
+IDS_JOURNAL_LASERGUN_DESC
+The height of alien weapon design. This thing packs a punch!
+IDS_JOURNAL_PARACHUTE
+Parachute
+IDS_JOURNAL_PARACHUTE_DESC
+It will deploy automatically as you're falling.
+IDS_JOURNAL_CAPE
+Cape
+IDS_JOURNAL_CAPE_DESC
+It looks dashing and also lets you float in the air.
+IDS_JOURNAL_TELEPORTER
+Teleporter
+IDS_JOURNAL_TELEPORTER_DESC
+A piece of futuristic technology! But it hasn't been perfected yet...
+IDS_JOURNAL_JETPACK
+Jetpack
+IDS_JOURNAL_JETPACK_DESC
+The coolest way to travel. The fuel replenishes while you're on the ground.
+IDS_JOURNAL_SHIELD
+Shield
+IDS_JOURNAL_SHIELD_DESC
+The ultimate in protective armor! Even a cannonball couldn't get through this.
+IDS_JOURNAL_VLADSWINGS
+Vlad's Cape
+IDS_JOURNAL_VLADSWINGS_DESC
+The bloody cape of Vlad the Impaler. It's even more dashing than regular capes.
+IDS_JOURNAL_ROYALJELLY
+Royal Jelly
+IDS_JOURNAL_ROYALJELLY_DESC
+A delicious nectar that's made by bees. Highly valued by gourmands everywhere.
+IDS_JOURNAL_IDOL
+Idol
+IDS_JOURNAL_IDOL_DESC
+A golden statue guarded by deadly traps. Bring it to the exit for a big reward!
+IDS_JOURNAL_KAPALA
+Kapala
+IDS_JOURNAL_KAPALA_DESC
+A cup made from a human skull. It's used in bloody rituals.
+IDS_JOURNAL_VLADSAMULET
+Vlad's Amulet
+IDS_JOURNAL_VLADSAMULET_DESC
+A magical amulet that protects its owner from fire.
+IDS_JOURNAL_UDJATEYE
+Udjat Eye
+IDS_JOURNAL_UDJATEYE_DESC
+The Eye is an ancient symbol of royal power. Does it have any other purpose?
+IDS_JOURNAL_ANKH
+Ankh
+IDS_JOURNAL_ANKH_DESC
+A magical artifact that symbolizes eternal life.
+IDS_JOURNAL_HEDJET
+Hedjet
+IDS_JOURNAL_HEDJET_DESC
+The white crown of pharaohs. It grants its wearer access to secret areas.
+IDS_JOURNAL_SCEPTRE
+Sceptre
+IDS_JOURNAL_SCEPTRE_DESC
+The person who wields the staff of Anubis has control over life and death.
+IDS_JOURNAL_BOOKOFDEAD
+Book of the Dead
+IDS_JOURNAL_BOOKOFDEAD_DESC
+Guarded by Anubis II in the City of Gold. It opens the entrance to the underworld.
+IDS_JOURNAL_SPIKES
+Spikes
+IDS_JOURNAL_SPIKES_DESC
+These protrusions will leave big holes in anyone unlucky enough to fall on them.
+IDS_JOURNAL_ARROWTRAP
+Arrow Trap
+IDS_JOURNAL_ARROWTRAP_DESC
+A basic trap. It fires an arrow when something moves in front of it.
+IDS_JOURNAL_BOULDER
+Boulder
+IDS_JOURNAL_BOULDER_DESC
+An elaborate trap used to punish thieves.
+IDS_JOURNAL_TIKITRAP
+Tiki Trap
+IDS_JOURNAL_TIKITRAP_DESC
+Sharp spikes on either side skewer anything that gets too close.
+IDS_JOURNAL_ACID
+Acid
+IDS_JOURNAL_ACID_DESC
+Caustic stomach acid that slowly burns away the flesh. Beware of the bubbles!
+IDS_JOURNAL_SPRING
+Spring
+IDS_JOURNAL_SPRING_DESC
+An alien contraption that's used for transportation and entertainment.
+IDS_JOURNAL_MINE
+Mine
+IDS_JOURNAL_MINE_DESC
+A proximity-triggered explosive device. Disarm it quickly!
+IDS_JOURNAL_TURRET
+Turret
+IDS_JOURNAL_TURRET_DESC
+It's part of the standard spaceship defense system.
+IDS_JOURNAL_FORCEFIELD
+Forcefield
+IDS_JOURNAL_FORCEFIELD_DESC
+A powerful laser barrier that can even deflect plasma blasts.
+IDS_JOURNAL_CRUSHTRAP
+Crush Trap
+IDS_JOURNAL_CRUSHTRAP_DESC
+This heavy stone block is imbued with the spirit of the pharaoh's palace guard.
+IDS_JOURNAL_CEILINGTRAP
+Ceiling Trap
+IDS_JOURNAL_CEILINGTRAP_DESC
+When the ceiling starts dropping, you'd better stop hopping!
+IDS_JOURNAL_FLAMETRAP
+Flame Trap
+IDS_JOURNAL_FLAMETRAP_DESC
+It shoot jets of flames in short bursts.
+IDS_JOURNAL_SPIKEBALL
+Spike Ball
+IDS_JOURNAL_SPIKEBALL_DESC
+A deadly ball and chain that swings with infernal determination.
+IDS_JOURNAL_LAVA
+Lava
+IDS_JOURNAL_LAVA_DESC
+Molten rock that flows deep underground. The heat can melt almost anything!
+IDS_STARTMSG
+The walls are shifting...
+IDS_JOURNALPICKUP
+You picked up a journal! Press @- to open it.
+IDS_LEVELFEELING_CEMETARY
+The dead are restless...
+IDS_LEVELFEELING_MARKET
+Welcome to the Black Market!
+IDS_LEVELFEELING_CASTLE
+A wolf howls in the distance...
+IDS_LEVELFEELING_SNAKEPIT
+I hear snakes... I hate snakes!
+IDS_LEVELFEELING_SPIDER
+My skin is crawling...
+IDS_LEVELFEELING_JULY
+It feels like the fourth of July...
+IDS_LEVELFEELING_YETICAVE
+It smells like wet fur in here.
+IDS_LEVELFEELING_SACPIT
+You hear prayers to Kali!
+IDS_LEVELFEELING_VLAD
+A horrible feeling of nausea comes over you!
+IDS_LEVELFEELING_LAKE
+I hear rushing water!
+IDS_LEVELFEELING_ASHIP
+I sense a psychic presence here!
+IDS_LEVELFEELING_DARK
+I can't see a thing!
+IDS_TRYAGAIN
+Let's try that again!
+IDS_SHOPKEEPER_NAME1
+Ahkmed
+IDS_SHOPKEEPER_NAME2
+Bob
+IDS_SHOPKEEPER_NAME3
+Cosmo
+IDS_SHOPKEEPER_NAME4
+Darwin
+IDS_SHOPKEEPER_NAME5
+Error
+IDS_SHOPKEEPER_NAME6
+Frank
+IDS_SHOPKEEPER_NAME7
+Garth
+IDS_SHOPKEEPER_NAME8
+Hakim
+IDS_SHOPKEEPER_NAME9
+Iggy
+IDS_SHOPKEEPER_NAME10
+Jimbo
+IDS_SHOPKEEPER_NAME11
+Kevin
+IDS_SHOPKEEPER_NAME12
+Lou
+IDS_SHOPKEEPER_NAME13
+Max
+IDS_SHOPKEEPER_NAME14
+Nacho
+IDS_SHOPKEEPER_NAME15
+Omar
+IDS_SHOPKEEPER_NAME16
+Pancho
+IDS_SHOPKEEPER_NAME17
+Quincy
+IDS_SHOPKEEPER_NAME18
+Ron
+IDS_SHOPKEEPER_NAME19
+Sparky
+IDS_SHOPKEEPER_NAME20
+Tarn
+IDS_SHOPKEEPER_NAME21
+Ulf
+IDS_SHOPKEEPER_NAME22
+Vern
+IDS_SHOPKEEPER_NAME23
+Willy
+IDS_SHOPKEEPER_NAME24
+Xorn
+IDS_SHOPKEEPER_NAME25
+Yoshi
+IDS_SHOPKEEPER_NAME26
+Ziggy
+IDS_SHOPWELCOME0A
+Welcome to Ahkmed's General Store!
+IDS_SHOPWELCOME0B
+Welcome to Ahkmed's Specialty Shop!
+IDS_SHOPWELCOME0C
+Welcome to Ahkmed's Clothing Shop!
+IDS_SHOPWELCOME0D
+Welcome to Ahkmed's Bomb Shop!
+IDS_SHOPWELCOME0E
+Welcome to Ahkmed's Weapon Shop!
+IDS_SHOPWELCOME0F
+Welcome to Ahkmed's Kissing Parlor!
+IDS_SHOPWELCOME0G
+Welcome to Ahkmed's Hired Hands!
+IDS_SHOPWELCOME0H
+Welcome to Ahkmed's Wheel of Prizes!
+IDS_SHOPWELCOME0I
+Welcome to Ahkmed's General Store!
+IDS_SHOPWELCOME1A
+Welcome to Bob's General Store!
+IDS_SHOPWELCOME1B
+Welcome to Bob's Specialty Shop!
+IDS_SHOPWELCOME1C
+Welcome to Bob's Clothing Shop!
+IDS_SHOPWELCOME1D
+Welcome to Bob's Bomb Shop!
+IDS_SHOPWELCOME1E
+Welcome to Bob's Weapon Shop!
+IDS_SHOPWELCOME1F
+Welcome to Bob's Kissing Parlor!
+IDS_SHOPWELCOME1G
+Welcome to Bob's Hired Hands!
+IDS_SHOPWELCOME1H
+Welcome to Bob's Wheel of Prizes!
+IDS_SHOPWELCOME1I
+Welcome to Bob's General Store!
+IDS_SHOPWELCOME2A
+Welcome to Cosmo's General Store!
+IDS_SHOPWELCOME2B
+Welcome to Cosmo's Specialty Shop!
+IDS_SHOPWELCOME2C
+Welcome to Cosmo's Clothing Shop!
+IDS_SHOPWELCOME2D
+Welcome to Cosmo's Bomb Shop!
+IDS_SHOPWELCOME2E
+Welcome to Cosmo's Weapon Shop!
+IDS_SHOPWELCOME2F
+Welcome to Cosmo's Kissing Parlor!
+IDS_SHOPWELCOME2G
+Welcome to Cosmo's Hired Hands!
+IDS_SHOPWELCOME2H
+Welcome to Cosmo's Wheel of Prizes!
+IDS_SHOPWELCOME2I
+Welcome to Cosmo's General Store!
+IDS_SHOPWELCOME3A
+Welcome to Darwin's General Store!
+IDS_SHOPWELCOME3B
+Welcome to Darwin's Specialty Shop!
+IDS_SHOPWELCOME3C
+Welcome to Darwin's Clothing Shop!
+IDS_SHOPWELCOME3D
+Welcome to Darwin's Bomb Shop!
+IDS_SHOPWELCOME3E
+Welcome to Darwin's Weapon Shop!
+IDS_SHOPWELCOME3F
+Welcome to Darwin's Kissing Parlor!
+IDS_SHOPWELCOME3G
+Welcome to Darwin's Hired Hands!
+IDS_SHOPWELCOME3H
+Welcome to Darwin's Wheel of Prizes!
+IDS_SHOPWELCOME3I
+Welcome to Darwin's General Store!
+IDS_SHOPWELCOME4A
+Welcome to Error's General Store!
+IDS_SHOPWELCOME4B
+Welcome to Error's Specialty Shop!
+IDS_SHOPWELCOME4C
+Welcome to Error's Clothing Shop!
+IDS_SHOPWELCOME4D
+Welcome to Error's Bomb Shop!
+IDS_SHOPWELCOME4E
+Welcome to Error's Weapon Shop!
+IDS_SHOPWELCOME4F
+Welcome to Error's Kissing Parlor!
+IDS_SHOPWELCOME4G
+Welcome to Error's Hired Hands!
+IDS_SHOPWELCOME4H
+Welcome to Error's Wheel of Prizes!
+IDS_SHOPWELCOME4I
+Welcome to Error's General Store!
+IDS_SHOPWELCOME5A
+Welcome to Frank's General Store!
+IDS_SHOPWELCOME5B
+Welcome to Frank's Specialty Shop!
+IDS_SHOPWELCOME5C
+Welcome to Frank's Clothing Shop!
+IDS_SHOPWELCOME5D
+Welcome to Frank's Bomb Shop!
+IDS_SHOPWELCOME5E
+Welcome to Frank's Weapon Shop!
+IDS_SHOPWELCOME5F
+Welcome to Frank's Kissing Parlor!
+IDS_SHOPWELCOME5G
+Welcome to Frank's Hired Hands!
+IDS_SHOPWELCOME5H
+Welcome to Frank's Wheel of Prizes!
+IDS_SHOPWELCOME5I
+Welcome to Frank's General Store!
+IDS_SHOPWELCOME6A
+Welcome to Garth's General Store!
+IDS_SHOPWELCOME6B
+Welcome to Garth's Specialty Shop!
+IDS_SHOPWELCOME6C
+Welcome to Garth's Clothing Shop!
+IDS_SHOPWELCOME6D
+Welcome to Garth's Bomb Shop!
+IDS_SHOPWELCOME6E
+Welcome to Garth's Weapon Shop!
+IDS_SHOPWELCOME6F
+Welcome to Garth's Kissing Parlor!
+IDS_SHOPWELCOME6G
+Welcome to Garth's Hired Hands!
+IDS_SHOPWELCOME6H
+Welcome to Garth's Wheel of Prizes!
+IDS_SHOPWELCOME6I
+Welcome to Garth's General Store!
+IDS_SHOPWELCOME7A
+Welcome to Hakim's General Store!
+IDS_SHOPWELCOME7B
+Welcome to Hakim's Specialty Shop!
+IDS_SHOPWELCOME7C
+Welcome to Hakim's Clothing Shop!
+IDS_SHOPWELCOME7D
+Welcome to Hakim's Bomb Shop!
+IDS_SHOPWELCOME7E
+Welcome to Hakim's Weapon Shop!
+IDS_SHOPWELCOME7F
+Welcome to Hakim's Kissing Parlor!
+IDS_SHOPWELCOME7G
+Welcome to Hakim's Hired Hands!
+IDS_SHOPWELCOME7H
+Welcome to Hakim's Wheel of Prizes!
+IDS_SHOPWELCOME7I
+Welcome to Hakim's General Store!
+IDS_SHOPWELCOME8A
+Welcome to Iggy's General Store!
+IDS_SHOPWELCOME8B
+Welcome to Iggy's Specialty Shop!
+IDS_SHOPWELCOME8C
+Welcome to Iggy's Clothing Shop!
+IDS_SHOPWELCOME8D
+Welcome to Iggy's Bomb Shop!
+IDS_SHOPWELCOME8E
+Welcome to Iggy's Weapon Shop!
+IDS_SHOPWELCOME8F
+Welcome to Iggy's Kissing Parlor!
+IDS_SHOPWELCOME8G
+Welcome to Iggy's Hired Hands!
+IDS_SHOPWELCOME8H
+Welcome to Iggy's Wheel of Prizes!
+IDS_SHOPWELCOME8I
+Welcome to Iggy's General Store!
+IDS_SHOPWELCOME9A
+Welcome to Jimbo's General Store!
+IDS_SHOPWELCOME9B
+Welcome to Jimbo's Specialty Shop!
+IDS_SHOPWELCOME9C
+Welcome to Jimbo's Clothing Shop!
+IDS_SHOPWELCOME9D
+Welcome to Jimbo's Bomb Shop!
+IDS_SHOPWELCOME9E
+Welcome to Jimbo's Weapon Shop!
+IDS_SHOPWELCOME9F
+Welcome to Jimbo's Kissing Parlor!
+IDS_SHOPWELCOME9G
+Welcome to Jimbo's Hired Hands!
+IDS_SHOPWELCOME9H
+Welcome to Jimbo's Wheel of Prizes!
+IDS_SHOPWELCOME9I
+Welcome to Jimbo's General Store!
+IDS_SHOPWELCOME10A
+Welcome to Kevin's General Store!
+IDS_SHOPWELCOME10B
+Welcome to Kevin's Specialty Shop!
+IDS_SHOPWELCOME10C
+Welcome to Kevin's Clothing Shop!
+IDS_SHOPWELCOME10D
+Welcome to Kevin's Bomb Shop!
+IDS_SHOPWELCOME10E
+Welcome to Kevin's Weapon Shop!
+IDS_SHOPWELCOME10F
+Welcome to Kevin's Kissing Parlor!
+IDS_SHOPWELCOME10G
+Welcome to Kevin's Hired Hands!
+IDS_SHOPWELCOME10H
+Welcome to Kevin's Wheel of Prizes!
+IDS_SHOPWELCOME10I
+Welcome to Kevin's General Store!
+IDS_SHOPWELCOME11A
+Welcome to Lou's General Store!
+IDS_SHOPWELCOME11B
+Welcome to Lou's Specialty Shop!
+IDS_SHOPWELCOME11C
+Welcome to Lou's Clothing Shop!
+IDS_SHOPWELCOME11D
+Welcome to Lou's Bomb Shop!
+IDS_SHOPWELCOME11E
+Welcome to Lou's Weapon Shop!
+IDS_SHOPWELCOME11F
+Welcome to Lou's Kissing Parlor!
+IDS_SHOPWELCOME11G
+Welcome to Lou's Hired Hands!
+IDS_SHOPWELCOME11H
+Welcome to Lou's Wheel of Prizes!
+IDS_SHOPWELCOME11I
+Welcome to Lou's General Store!
+IDS_SHOPWELCOME12A
+Welcome to Max's General Store!
+IDS_SHOPWELCOME12B
+Welcome to Max's Specialty Shop!
+IDS_SHOPWELCOME12C
+Welcome to Max's Clothing Shop!
+IDS_SHOPWELCOME12D
+Welcome to Max's Bomb Shop!
+IDS_SHOPWELCOME12E
+Welcome to Max's Weapon Shop!
+IDS_SHOPWELCOME12F
+Welcome to Max's Kissing Parlor!
+IDS_SHOPWELCOME12G
+Welcome to Max's Hired Hands!
+IDS_SHOPWELCOME12H
+Welcome to Max's Wheel of Prizes!
+IDS_SHOPWELCOME12I
+Welcome to Max's General Store!
+IDS_SHOPWELCOME13A
+Welcome to Nacho's General Store!
+IDS_SHOPWELCOME13B
+Welcome to Nacho's Specialty Shop!
+IDS_SHOPWELCOME13C
+Welcome to Nacho's Clothing Shop!
+IDS_SHOPWELCOME13D
+Welcome to Nacho's Bomb Shop!
+IDS_SHOPWELCOME13E
+Welcome to Nacho's Weapon Shop!
+IDS_SHOPWELCOME13F
+Welcome to Nacho's Kissing Parlor!
+IDS_SHOPWELCOME13G
+Welcome to Nacho's Hired Hands!
+IDS_SHOPWELCOME13H
+Welcome to Nacho's Wheel of Prizes!
+IDS_SHOPWELCOME13I
+Welcome to Nacho's General Store!
+IDS_SHOPWELCOME14A
+Welcome to Omar's General Store!
+IDS_SHOPWELCOME14B
+Welcome to Omar's Specialty Shop!
+IDS_SHOPWELCOME14C
+Welcome to Omar's Clothing Shop!
+IDS_SHOPWELCOME14D
+Welcome to Omar's Bomb Shop!
+IDS_SHOPWELCOME14E
+Welcome to Omar's Weapon Shop!
+IDS_SHOPWELCOME14F
+Welcome to Omar's Kissing Parlor!
+IDS_SHOPWELCOME14G
+Welcome to Omar's Hired Hands!
+IDS_SHOPWELCOME14H
+Welcome to Omar's Wheel of Prizes!
+IDS_SHOPWELCOME14I
+Welcome to Omar's General Store!
+IDS_SHOPWELCOME15A
+Welcome to Pancho's General Store!
+IDS_SHOPWELCOME15B
+Welcome to Pancho's Specialty Shop!
+IDS_SHOPWELCOME15C
+Welcome to Pancho's Clothing Shop!
+IDS_SHOPWELCOME15D
+Welcome to Pancho's Bomb Shop!
+IDS_SHOPWELCOME15E
+Welcome to Pancho's Weapon Shop!
+IDS_SHOPWELCOME15F
+Welcome to Pancho's Kissing Parlor!
+IDS_SHOPWELCOME15G
+Welcome to Pancho's Hired Hands!
+IDS_SHOPWELCOME15H
+Welcome to Pancho's Wheel of Prizes!
+IDS_SHOPWELCOME15I
+Welcome to Pancho's General Store!
+IDS_SHOPWELCOME16A
+Welcome to Quincy's General Store!
+IDS_SHOPWELCOME16B
+Welcome to Quincy's Specialty Shop!
+IDS_SHOPWELCOME16C
+Welcome to Quincy's Clothing Shop!
+IDS_SHOPWELCOME16D
+Welcome to Quincy's Bomb Shop!
+IDS_SHOPWELCOME16E
+Welcome to Quincy's Weapon Shop!
+IDS_SHOPWELCOME16F
+Welcome to Quincy's Kissing Parlor!
+IDS_SHOPWELCOME16G
+Welcome to Quincy's Hired Hands!
+IDS_SHOPWELCOME16H
+Welcome to Quincy's Wheel of Prizes!
+IDS_SHOPWELCOME16I
+Welcome to Quincy's General Store!
+IDS_SHOPWELCOME17A
+Welcome to Ron's General Store!
+IDS_SHOPWELCOME17B
+Welcome to Ron's Specialty Shop!
+IDS_SHOPWELCOME17C
+Welcome to Ron's Clothing Shop!
+IDS_SHOPWELCOME17D
+Welcome to Ron's Bomb Shop!
+IDS_SHOPWELCOME17E
+Welcome to Ron's Weapon Shop!
+IDS_SHOPWELCOME17F
+Welcome to Ron's Kissing Parlor!
+IDS_SHOPWELCOME17G
+Welcome to Ron's Hired Hands!
+IDS_SHOPWELCOME17H
+Welcome to Ron's Wheel of Prizes!
+IDS_SHOPWELCOME17I
+Welcome to Ron's General Store!
+IDS_SHOPWELCOME18A
+Welcome to Sparky's General Store!
+IDS_SHOPWELCOME18B
+Welcome to Sparky's Specialty Shop!
+IDS_SHOPWELCOME18C
+Welcome to Sparky's Clothing Shop!
+IDS_SHOPWELCOME18D
+Welcome to Sparky's Bomb Shop!
+IDS_SHOPWELCOME18E
+Welcome to Sparky's Weapon Shop!
+IDS_SHOPWELCOME18F
+Welcome to Sparky's Kissing Parlor!
+IDS_SHOPWELCOME18G
+Welcome to Sparky's Hired Hands!
+IDS_SHOPWELCOME18H
+Welcome to Sparky's Wheel of Prizes!
+IDS_SHOPWELCOME18I
+Welcome to Sparky's General Store!
+IDS_SHOPWELCOME19A
+Welcome to Tarn's General Store!
+IDS_SHOPWELCOME19B
+Welcome to Tarn's Specialty Shop!
+IDS_SHOPWELCOME19C
+Welcome to Tarn's Clothing Shop!
+IDS_SHOPWELCOME19D
+Welcome to Tarn's Bomb Shop!
+IDS_SHOPWELCOME19E
+Welcome to Tarn's Weapon Shop!
+IDS_SHOPWELCOME19F
+Welcome to Tarn's Kissing Parlor!
+IDS_SHOPWELCOME19G
+Welcome to Tarn's Hired Hands!
+IDS_SHOPWELCOME19H
+Welcome to Tarn's Wheel of Prizes!
+IDS_SHOPWELCOME19I
+Welcome to Tarn's General Store!
+IDS_SHOPWELCOME20A
+Welcome to Ulf's General Store!
+IDS_SHOPWELCOME20B
+Welcome to Ulf's Specialty Shop!
+IDS_SHOPWELCOME20C
+Welcome to Ulf's Clothing Shop!
+IDS_SHOPWELCOME20D
+Welcome to Ulf's Bomb Shop!
+IDS_SHOPWELCOME20E
+Welcome to Ulf's Weapon Shop!
+IDS_SHOPWELCOME20F
+Welcome to Ulf's Kissing Parlor!
+IDS_SHOPWELCOME20G
+Welcome to Ulf's Hired Hands!
+IDS_SHOPWELCOME20H
+Welcome to Ulf's Wheel of Prizes!
+IDS_SHOPWELCOME20I
+Welcome to Ulf's General Store!
+IDS_SHOPWELCOME21A
+Welcome to Verne's General Store!
+IDS_SHOPWELCOME21B
+Welcome to Verne's Specialty Shop!
+IDS_SHOPWELCOME21C
+Welcome to Verne's Clothing Shop!
+IDS_SHOPWELCOME21D
+Welcome to Verne's Bomb Shop!
+IDS_SHOPWELCOME21E
+Welcome to Verne's Weapon Shop!
+IDS_SHOPWELCOME21F
+Welcome to Verne's Kissing Parlor!
+IDS_SHOPWELCOME21G
+Welcome to Verne's Hired Hands!
+IDS_SHOPWELCOME21H
+Welcome to Verne's Wheel of Prizes!
+IDS_SHOPWELCOME21I
+Welcome to Verne's General Store!
+IDS_SHOPWELCOME22A
+Welcome to Willy's General Store!
+IDS_SHOPWELCOME22B
+Welcome to Willy's Specialty Shop!
+IDS_SHOPWELCOME22C
+Welcome to Willy's Clothing Shop!
+IDS_SHOPWELCOME22D
+Welcome to Willy's Bomb Shop!
+IDS_SHOPWELCOME22E
+Welcome to Willy's Weapon Shop!
+IDS_SHOPWELCOME22F
+Welcome to Willy's Kissing Parlor!
+IDS_SHOPWELCOME22G
+Welcome to Willy's Hired Hands!
+IDS_SHOPWELCOME22H
+Welcome to Willy's Wheel of Prizes!
+IDS_SHOPWELCOME22I
+Welcome to Willy's General Store!
+IDS_SHOPWELCOME23A
+Welcome to Xorn's General Store!
+IDS_SHOPWELCOME23B
+Welcome to Xorn's Specialty Shop!
+IDS_SHOPWELCOME23C
+Welcome to Xorn's Clothing Shop!
+IDS_SHOPWELCOME23D
+Welcome to Xorn's Bomb Shop!
+IDS_SHOPWELCOME23E
+Welcome to Xorn's Weapon Shop!
+IDS_SHOPWELCOME23F
+Welcome to Xorn's Kissing Parlor!
+IDS_SHOPWELCOME23G
+Welcome to Xorn's Hired Hands!
+IDS_SHOPWELCOME23H
+Welcome to Xorn's Wheel of Prizes!
+IDS_SHOPWELCOME23I
+Welcome to Xorn's General Store!
+IDS_SHOPWELCOME24A
+Welcome to Yoshi's General Store!
+IDS_SHOPWELCOME24B
+Welcome to Yoshi's Specialty Shop!
+IDS_SHOPWELCOME24C
+Welcome to Yoshi's Clothing Shop!
+IDS_SHOPWELCOME24D
+Welcome to Yoshi's Bomb Shop!
+IDS_SHOPWELCOME24E
+Welcome to Yoshi's Weapon Shop!
+IDS_SHOPWELCOME24F
+Welcome to Yoshi's Kissing Parlor!
+IDS_SHOPWELCOME24G
+Welcome to Yoshi's Hired Hands!
+IDS_SHOPWELCOME24H
+Welcome to Yoshi's Wheel of Prizes!
+IDS_SHOPWELCOME24I
+Welcome to Yoshi's General Store!
+IDS_SHOPWELCOME25A
+Welcome to Ziggy's General Store!
+IDS_SHOPWELCOME25B
+Welcome to Ziggy's Specialty Shop!
+IDS_SHOPWELCOME25C
+Welcome to Ziggy's Clothing Shop!
+IDS_SHOPWELCOME25D
+Welcome to Ziggy's Bomb Shop!
+IDS_SHOPWELCOME25E
+Welcome to Ziggy's Weapon Shop!
+IDS_SHOPWELCOME25F
+Welcome to Ziggy's Kissing Parlor!
+IDS_SHOPWELCOME25G
+Welcome to Ziggy's Hired Hands!
+IDS_SHOPWELCOME25H
+Welcome to Ziggy's Wheel of Prizes!
+IDS_SHOPWELCOME25I
+Welcome to Ziggy's General Store!
+IDS_BUY_ITEM_ROPEPILE
+Buy Rope Pile
+IDS_BUY_ITEM_BOMBBAG
+Buy Bomb Bag
+IDS_BUY_ITEM_BOMBBOX
+Buy Bomb Box
+IDS_BUY_ITEM_SPECTACLES
+Buy Spectacles
+IDS_BUY_ITEM_CLIMBINGGLOVES
+Buy Climbing Gloves
+IDS_BUY_ITEM_PITCHERSMITT
+Buy Pitcher's Mitt
+IDS_BUY_ITEM_SPRINGSHOES
+Buy Spring Shoes
+IDS_BUY_ITEM_SPIKESHOES
+Buy Spike Shoes
+IDS_BUY_ITEM_CAMERA
+Buy Camera
+IDS_BUY_ITEM_COMPASS
+Buy Compass
+IDS_BUY_ITEM_PASTE
+Buy Paste
+IDS_BUY_ITEM_MATTOCK
+Buy Mattock
+IDS_BUY_ITEM_MACHETE
+Buy Machete
+IDS_BUY_ITEM_BOOMERANG
+Buy Boomerang
+IDS_BUY_ITEM_CRYSKNIFE
+Buy Crysknife
+IDS_BUY_ITEM_WEBGUN
+Buy Web Gun
+IDS_BUY_ITEM_SHOTGUN
+Buy Shotgun
+IDS_BUY_ITEM_FREEZERAY
+Buy Freeze Ray
+IDS_BUY_ITEM_LASERGUN
+Buy Plasma Cannon
+IDS_BUY_ITEM_PARACHUTE
+Buy Parachute
+IDS_BUY_ITEM_CAPE
+Buy Cape
+IDS_BUY_ITEM_TELEPORTER
+Buy Teleporter
+IDS_BUY_ITEM_JETPACK
+Buy Jetpack
+IDS_BUY_ITEM_SHIELD
+Buy Shield
+IDS_BUY_ITEM_VLADSWINGS
+Buy Vlad's Cape
+IDS_BUY_ITEM_ROYALJELLY
+Buy Royal Jelly
+IDS_BUY_ITEM_IDOL
+Buy Idol
+IDS_BUY_ITEM_KAPALA
+Buy Kapala
+IDS_BUY_ITEM_VLADSAMULET
+Buy Vlad's Amulet
+IDS_BUY_ITEM_UDJATEYE
+Buy Udjat Eye
+IDS_BUY_ITEM_ANKH
+Buy Ankh
+IDS_BUY_ITEM_HEDJET
+Buy Hedjet
+IDS_BUY_ITEM_SCEPTRE
+Buy Sceptre
+IDS_BUY_ITEM_BOOKOFDEAD
+Buy Book of the Dead
+IDS_BUY_DAMSEL
+Buy Damsel
+IDS_BUY_KISS
+Buy Kiss
+IDS_BUY_SLAVE1
+Buy Atlas
+IDS_BUY_SLAVE2
+Buy Barca
+IDS_BUY_SLAVE3
+Buy Clovis
+IDS_BUY_SLAVE4
+Buy Dunder
+IDS_BUY_SLAVE5
+Buy Eirik
+IDS_BUY_SLAVE6
+Buy Fink
+IDS_BUY_SLAVE7
+Buy Grom
+IDS_BUY_SLAVE8
+Buy Ham
+IDS_BUY_SLAVE9
+Buy Ivan
+IDS_BUY_SLAVE10
+Buy Jax
+IDS_BUY_SLAVE11
+Buy Karl
+IDS_BUY_SLAVE12
+Buy Lurch
+IDS_BUY_SLAVE13
+Buy Manfred
+IDS_BUY_SLAVE14
+Buy Nurdle
+IDS_BUY_SLAVE15
+Buy Onyx
+IDS_BUY_SLAVE16
+Buy Perseus
+IDS_BUY_SLAVE17
+Buy Quincy
+IDS_BUY_SLAVE18
+Buy Rastan
+IDS_BUY_SLAVE19
+Buy Steve
+IDS_BUY_SLAVE20
+Buy Thundar
+IDS_BUY_SLAVE21
+Buy Ulrik
+IDS_BUY_SLAVE22
+Buy Voxel
+IDS_BUY_SLAVE23
+Buy Wolf
+IDS_BUY_SLAVE24
+Buy Xom
+IDS_BUY_SLAVE25
+Buy Yor
+IDS_BUY_SLAVE26
+Buy Zorgoth
+IDS_SHOPMSG_WONPRIZE
+You won a prize!
+IDS_SHOPMSG_WONMONEY
+You won some money!
+IDS_SHOPMSG_YOULOST
+You lost!
+IDS_SHOPMSG_JACKPOT
+You won the jackpot!
+IDS_SHOPMSG_THIEF
+Stop, thief!
+IDS_SHOPMSG_TERRORIST
+Terrorist!
+IDS_SHOPMSG_YOULLPAY
+You'll pay for your crimes!
+IDS_SHOPMSG_ONLYI
+Hey, you can't do that!
+IDS_SHOPMSG_GOODLUCK
+Good luck!
+IDS_SHOPMSG_THANKYOU
+Thank you for your business!
+IDS_SHOPMSG_NOMONEY
+You haven't got enough money!
+IDS_SHOPMSG_SLURP
+Slurp!
+IDS_SHOPMSG_SMOOCH
+Smooch!
+IDS_SHOPMSG_INLOVE
+You must be in love!
+IDS_SHOPMSG_ALLYOURS
+He's all yours.
+IDS_TUNNELMAN
+Tunnel Man
+IDS_TUNNELMAN1
+Hello there! I'm the Tunnel Man.
+IDS_TUNNELMAN2
+You can donate a little bit of money each time. I'll remember how much you've paid me.
+IDS_TUNNELMAN3_1
+So what do you say?*I still need $
+IDS_TUNNELMAN3_2
+ to build this shortcut.
+IDS_TUNNELMAN4
+Bummer. I'll never get this tunnel finished.
+IDS_TUNNELMAN5
+Thanks! You won't regret it.
+IDS_TUNNELMAN6
+Alright! Now I'll have this tunnel finished in no time!
+IDS_DONATION
+DONATION
+IDS_DONATION_GUIDE
+@L Change Amount*@A Confirm
+IDS_KALI_ACCEPTS
+Kali accepts your sacrifice!
+IDS_KALI_INVIGORATED
+You feel invigorated!
+IDS_KALI_BESTOWS
+She bestows a gift upon you!
+IDS_KALI_SATCHEL
+Your satchel feels very full!
+IDS_KALI_ECSTATIC
+She seems ecstatic with you.
+IDS_KALI_HAPPY
+She seems happy with you.
+IDS_KALI_FORGIVEN
+She has forgiven you.
+IDS_KALI_PLEASED
+She seems pleased with you.
+IDS_KALI_ANGRY
+She seems angry with you.
+IDS_KALI_VERY_ANGRY
+She seems very angry with you.
+IDS_KALI_ANGERED
+You have angered Kali!
+IDS_KALI_STILL_ECSTATIC
+Yet she still seems ecstatic with you.
+IDS_KALI_STILL_HAPPY
+Yet she still seems happy with you.
+IDS_KALI_STILL_PLEASED
+Yet she still seems pleased with you.
+IDS_LABEL_LEVEL
+Level:
+IDS_LABEL_MONEY
+Money:
+IDS_LABEL_TIME
+Time:
+IDS_LABEL_DAMSELS
+Damsels:
+IDS_LABEL_KILLS
+Kills
+IDS_LABEL_TOTALDEATHS
+Total Deaths:
+IDS_MSG_SAVING
+Saving Game...
+IDS_GUIDE_CONTINUE
+@A Continue
+IDS_GAMEOVER
+Game Over
+IDS_GAMEOVER_AMAZING
+Amazing
+IDS_GAMEOVER_SPLENDID
+Splendid
+IDS_GAMEOVER_NOTBAD
+Not Bad!
+IDS_GAMEOVER_OKAY
+Okay
+IDS_GAMEOVER_OHDEAR
+Oh, Dear...
+IDS_GAMEOVER_SOCLOSE
+So Close!
+IDS_GAMEOVER_SNAKEBITE
+Snake Bite
+IDS_GAMEOVER_SPIDERBITE
+Spider Bite
+IDS_GAMEOVER_BITTEN
+Bitten
+IDS_GAMEOVER_BEATENUP
+Beaten Up
+IDS_GAMEOVER_STOMPED
+Stomped
+IDS_GAMEOVER_STUNG
+Stung
+IDS_GAMEOVER_EATEN
+Eaten
+IDS_GAMEOVER_ZAPPED
+Zapped
+IDS_GAMEOVER_CLAWED
+Clawed
+IDS_GAMEOVER_CURSED
+Cursed
+IDS_GAMEOVER_BRAINFRIED
+Brain Fried
+IDS_GAMEOVER_SLIMED
+Slimed
+IDS_GAMEOVER_BURNED
+Burned
+IDS_GAMEOVER_POKED
+Poked
+IDS_GAMEOVER_SEDUCED
+Seduced
+IDS_GAMEOVER_HAUNTED
+Haunted
+IDS_GAMEOVER_BRAINDAMAGE
+Brain Damage
+IDS_GAMEOVER_LONGFALL
+Long Fall
+IDS_GAMEOVER_BLOWNUP
+Blown Up
+IDS_GAMEOVER_IMPALED
+Impaled
+IDS_GAMEOVER_ARROW
+Arrow
+IDS_GAMEOVER_CRUSHED
+Crushed
+IDS_GAMEOVER_SHATTERED
+Shattered
+IDS_GAMEOVER_ABYSS
+The Abyss
+IDS_GAMEOVER_BURNEDUP
+Burned Up
+IDS_GAMEOVER_BLASTED
+Blasted
+IDS_GAMEOVER_DEATH
+Death
+IDS_GAMEOVERDESC_MULTIHELL
+Unbelievable! We made it to the underworld!
+IDS_GAMEOVERDESC_MULTITEMPLE
+We made it to the temple! Shared victory was within our grasp!
+IDS_GAMEOVERDESC_MULTIICE
+Getting to the ice caves together is an achievement.
+IDS_GAMEOVERDESC_MULTILUSH
+Well, at least we made it out of the mines!
+IDS_GAMEOVERDESC_MULTIMINES
+We need to work on our teamwork!
+IDS_GAMEOVERDESC_WORM
+I hope I taste good, at least!
+IDS_GAMEOVERDESC_MINESEND
+The end of the mines was just in sight! If I could survive a little longer...
+IDS_GAMEOVERDESC_LUSHEND
+The air was getting much colder... I almost reached the next area!
+IDS_GAMEOVERDESC_ICEEND
+I can hear muffled chanting coming from below...
+IDS_GAMEOVERDESC_OLMEC
+It seems I was no match for the mighty Olmec. Next time!
+IDS_GAMEOVERDESC_KALI
+I was cast into oblivion by the Black Goddess herself.
+IDS_GAMEOVERDESC_SNAKE1
+Snakes! I hate snakes!
+IDS_GAMEOVERDESC_SNAKE2
+I succumbed to deadly snake venom.
+IDS_GAMEOVERDESC_BAT
+A bat nibbled me to death.
+IDS_GAMEOVERDESC_SPIDER
+I succumbed to a spider bite.
+IDS_GAMEOVERDESC_GIANTSPIDER
+That was the biggest spider I've ever seen!
+IDS_GAMEOVERDESC_SKELETON
+I was clawed to death by a skeleton.
+IDS_GAMEOVERDESC_SCORPION
+I was stung by a scorpion!
+IDS_GAMEOVERDESC_CAVEMAN
+A caveman pummeled me to death.
+IDS_GAMEOVERDESC_SHOPKEEPER
+I should never have angered that shopkeeper...
+IDS_GAMEOVERDESC_YETI
+A yeti pummeled me to death.
+IDS_GAMEOVERDESC_TIKIMAN
+A tiki man pummeled me to death.
+IDS_GAMEOVERDESC_HAWKMAN
+A hawk man pummeled me to death.
+IDS_GAMEOVERDESC_FROG
+I got squished by a frog.
+IDS_GAMEOVERDESC_MANTRAP
+I was devoured by a mantrap.
+IDS_GAMEOVERDESC_PIRANHA
+I was nibbled to death by a piranha.
+IDS_GAMEOVERDESC_JAWS
+I was torn apart by the legendary river monster.
+IDS_GAMEOVERDESC_BEE
+I must be allergic to bees.
+IDS_GAMEOVERDESC_ACID
+My flesh is melting right off the bone.
+IDS_GAMEOVERDESC_JIANGSHI
+A jiang shi has leeched away my life energy.
+IDS_GAMEOVERDESC_KNIGHT
+I was treated to a medieval welcome.
+IDS_GAMEOVERDESC_PSYCHICBLAST
+A powerful psychic blast has liquified my brains.
+IDS_GAMEOVERDESC_MUMMY
+An ancient mummy has gotten its revenge on humanity.
+IDS_GAMEOVERDESC_ANUBIS
+I've been destroyed by the jackal-headed god Anubis.
+IDS_GAMEOVERDESC_VAMPIRE
+I can feel my humanity draining away from the vampire's bite...
+IDS_GAMEOVERDESC_YETIKING
+I've been thrashed by the king of the yetis.
+IDS_GAMEOVERDESC_ALIEN
+Embarrassingly enough, I've been killed by a little alien.
+IDS_GAMEOVERDESC_MAGMAMAN
+I was burned to death by a magma man.
+IDS_GAMEOVERDESC_VLAD
+I confronted Vlad the Impaler and lost.
+IDS_GAMEOVERDESC_IMP
+I was nibbled to death by a minion of Hell!
+IDS_GAMEOVERDESC_DEVIL
+A blue devil perforated me with one of his horns.
+IDS_GAMEOVERDESC_GHOST
+Where am I? I can't feel my body...
+IDS_GAMEOVERDESC_BRAINDAMAGE
+Something hard hit me in the head.
+IDS_GAMEOVERDESC_LONGFALL
+I broke every bone in my body.
+IDS_GAMEOVERDESC_EXPLOSION
+I couldn't get away in time.
+IDS_GAMEOVERDESC_SPIKES
+I fell on some spikes.
+IDS_GAMEOVERDESC_ARROW
+An arrow has pierced one of my vital organs.
+IDS_GAMEOVERDESC_TIKITRAP
+I stepped too close to a tiki trap.
+IDS_GAMEOVERDESC_CRUSHED
+I've been ground into a fine paste.
+IDS_GAMEOVERDESC_FROZEN
+My frozen body shattered into a million pieces.
+IDS_GAMEOVERDESC_ABYSS
+Help, I'm still falling!
+IDS_GAMEOVERDESC_LAVA
+I've been burnt to a crisp.
+IDS_GAMEOVERDESC_UFO
+I've been incinerated by a UFO laser blast.
+IDS_GAMEOVERDESC_SLAMMED
+I was slammed hard into a wall.
+IDS_GAMEOVERDESC_DIED
+I died again.
+IDS_LOCKED
+Locked
+IDS_UNLOCK
+Buy Full Game to Unlock
+IDS_ARENA_MINES1
+Miner Threat
+IDS_ARENA_MINES2
+Layer Cake
+IDS_ARENA_MINES3
+Rock n' Roll
+IDS_ARENA_MINES4
+Crates
+IDS_ARENA_MINES5
+The Dome
+IDS_ARENA_MINES6
+Falling Rocks
+IDS_ARENA_MINES7
+The Spider Pit
+IDS_ARENA_MINES8
+Ladders
+IDS_ARENA_LUSH1
+Tiki Terror
+IDS_ARENA_LUSH2
+Treehouses
+IDS_ARENA_LUSH3
+Vines
+IDS_ARENA_LUSH4
+Fortress
+IDS_ARENA_LUSH5
+Dunk Tank
+IDS_ARENA_LUSH6
+Tarzan
+IDS_ARENA_LUSH7
+Kudzu
+IDS_ARENA_LUSH8
+The Hill
+IDS_ARENA_ICE1
+Ice Temple
+IDS_ARENA_ICE2
+Moonbounce
+IDS_ARENA_ICE3
+Don't Fall!
+IDS_ARENA_ICE4
+The Calm
+IDS_ARENA_ICE5
+Deathbounce
+IDS_ARENA_ICE6
+Frosted
+IDS_ARENA_ICE7
+Cold Cage
+IDS_ARENA_ICE8
+Do Fall!
+IDS_ARENA_TEMPLE1
+Trap Temple
+IDS_ARENA_TEMPLE2
+Fire Pit
+IDS_ARENA_TEMPLE3
+Rooms
+IDS_ARENA_TEMPLE4
+Deathbox
+IDS_ARENA_TEMPLE5
+Pressure
+IDS_ARENA_TEMPLE6
+Crushers
+IDS_ARENA_TEMPLE7
+Pachinko
+IDS_ARENA_TEMPLE8
+Fire Walk
+IDS_ARENA_HELL1
+The Grinder
+IDS_ARENA_HELL2
+Tension
+IDS_ARENA_HELL3
+Diabolika
+IDS_ARENA_HELL4
+The Ziggurat
+IDS_ARENA_HELL5
+Tree of Death
+IDS_ARENA_HELL6
+The Wall
+IDS_ARENA_HELL7
+Flesh Field
+IDS_ARENA_HELL8
+No Refuge
+IDS_ARENA_SPECIAL1
+Acid Bath
+IDS_ARENA_SPECIAL2
+The Womb
+IDS_ARENA_SPECIAL3
+Scar Tissue
+IDS_ARENA_SPECIAL4
+Intestines
+IDS_ARENA_SPECIAL5
+Zapped
+IDS_ARENA_SPECIAL6
+Cells
+IDS_ARENA_SPECIAL7
+Moonbounce II
+IDS_ARENA_SPECIAL8
+Elevators
+IDS_PLAYER_WINS1
+PLAYER 1 WINS!
+IDS_PLAYER_WINS2
+PLAYER 2 WINS!
+IDS_PLAYER_WINS3
+PLAYER 3 WINS!
+IDS_PLAYER_WINS4
+PLAYER 4 WINS!
+IDS_NOBODY_WINS
+NOBODY WINS!
+IDS_DMRESULTS_GUIDE
+@X Change Arena      @A Next Round      @B Main Menu
+IDS_DMWINNER_GUIDE
+@A Play Again      @B Main Menu
+IDS_TRIALNAG1
+You've almost reached a new area! That means new monsters, traps, and treasure!
+IDS_TRIALNAG2
+But unfortunately, this is only the trial version of the game... get the full version now and test your skills!
+IDS_TRIALNAG3
+Challenge your friends with cooperative multiplayer and deathmatch in 48 unlockable arenas!
+IDS_TRIALNAG4
+Follow Yang to Olmec's Treasure and unravel the many mysteries of Spelunky!
+IDS_ERROR_NOTCONNECTEDPOST
+You are not connected to Xbox LIVE. Your score will not be added to the leaderboards.
+IDS_ERROR_NOTCONNECTEDVIEW
+You are not connected to Xbox LIVE. Please connect to view leaderboards.
+IDS_ERROR_SIGNEDOUT
+A player has signed out or changed gamer profile. You have been returned to the title screen.
+IDS_ERROR_NOTCONNECTEDCONTENT
+Sign in to Xbox LIVE to access online content.
+IDS_ERROR_NOTCONNECTEDLOCAL
+Sign in to Xbox LIVE to post your score to the leaderboards.
+IDS_WARNING_MULTINOSAVE
+Multiplayer game progress is not saved. Your scores will also not post to the leaderboards.
+IDS_WARNING_NODEVICE
+You have not selected a device. Your game will not be saved. Would you like to continue anyway?
+IDS_LEVEL_TUTORIAL_1
+TUTORIAL 1
+IDS_LEVEL_TUTORIAL_2
+TUTORIAL 2
+IDS_LEVEL_TUTORIAL_3
+TUTORIAL FINAL
+IDS_LEVEL_1_1
+MINES 1-1
+IDS_LEVEL_1_2
+MINES 1-2
+IDS_LEVEL_1_3
+MINES 1-3
+IDS_LEVEL_1_4
+MINES 1-4
+IDS_LEVEL_2_1
+LUSH 2-1
+IDS_LEVEL_2_2
+LUSH 2-2
+IDS_LEVEL_2_3
+LUSH 2-3
+IDS_LEVEL_2_4
+LUSH 2-4
+IDS_LEVEL_3_1
+ICE CAVES 3-1
+IDS_LEVEL_3_2
+ICE CAVES 3-2
+IDS_LEVEL_3_3
+ICE CAVES 3-3
+IDS_LEVEL_3_4
+ICE CAVES 3-4
+IDS_LEVEL_4_1
+TEMPLE 4-1
+IDS_LEVEL_4_2
+TEMPLE 4-2
+IDS_LEVEL_4_3
+TEMPLE 4-3
+IDS_LEVEL_4_4
+TEMPLE 4-4
+IDS_LEVEL_5_1
+HELL 5-1
+IDS_LEVEL_5_2
+HELL 5-2
+IDS_LEVEL_5_3
+HELL 5-3
+IDS_LEVEL_5_4
+HELL 5-4
+IDS_LEVEL_MARKET
+BLACK MARKET
+IDS_LEVEL_CASTLE
+HAUNTED CASTLE
+IDS_LEVEL_MOTHERSHIP
+MOTHERSHIP
+IDS_LEVEL_WORM
+WORM
+IDS_LEVEL_COG
+CITY OF GOLD
+IDS_COMPLETED_1_1
+1-1 COMPLETED!
+IDS_COMPLETED_1_2
+1-2 COMPLETED!
+IDS_COMPLETED_1_3
+1-3 COMPLETED!
+IDS_COMPLETED_1_4
+1-4 COMPLETED!
+IDS_COMPLETED_2_1
+2-1 COMPLETED!
+IDS_COMPLETED_2_2
+2-2 COMPLETED!
+IDS_COMPLETED_2_3
+2-3 COMPLETED!
+IDS_COMPLETED_2_4
+2-4 COMPLETED!
+IDS_COMPLETED_3_1
+3-1 COMPLETED!
+IDS_COMPLETED_3_2
+3-2 COMPLETED!
+IDS_COMPLETED_3_3
+3-3 COMPLETED!
+IDS_COMPLETED_3_4
+3-4 COMPLETED!
+IDS_COMPLETED_4_1
+4-1 COMPLETED!
+IDS_COMPLETED_4_2
+4-2 COMPLETED!
+IDS_COMPLETED_4_3
+4-3 COMPLETED!
+IDS_COMPLETED_4_4
+4-4 COMPLETED!
+IDS_COMPLETED_5_1
+5-1 COMPLETED!
+IDS_COMPLETED_5_2
+5-2 COMPLETED!
+IDS_COMPLETED_5_3
+5-3 COMPLETED!
+IDS_COMPLETED_MARKET
+MARKET COMPLETED!
+IDS_COMPLETED_CASTLE
+CASTLE COMPLETED!
+IDS_COMPLETED_MOTHERSHIP
+MOTHERSHIP COMPLETED!
+IDS_COMPLETED_WORM
+WORM COMPLETED!
+IDS_COMPLETED_COG
+CITY OF GOLD COMPLETED!
+IDS_LEVEL_ENTRANCE
+ENTRANCE
+IDS_LABEL_LOOT
+Loot
+IDS_DEATHMATCH_GETREADY
+GET READY...
+IDS_DEATHMATCH_GO
+GO!
+IDS_DEATHMATCH_STANDINGS
+PLAYER STANDINGS
+IDS_DEATHMATCH_SELECTARENA
+@A Select Arena
+IDS_DEATHMATCH_RANDOMARENA
+@X Random Arena
+IDS_DEATHMATCH_BEGINMATCH
+@A Begin Match
+IDS_DEATHMATCH_CHANGEARENA
+@B Change Arena
+IDS_DEATHMATCH_WINS
+Wins
+IDS_DEATHMATCH_LIFE
+Life
+IDS_DEATHMATCH_BOMBS
+Bombs
+IDS_DEATHMATCH_ROPE
+Rope
+IDS_DEATHMATCH_BOTS
+Bots
+IDS_DEATHMATCH_ON
+ON
+IDS_DEATHMATCH_OFF
+OFF
+IDS_ENDING_YANG1
+Greetings, fellow treasure hunter! I'm Yang!
+IDS_ENDING_YANG2
+I see you have my journal with you! By now it must be filled with all sorts of amazing things.
+IDS_ENDING_YANG3
+Since you worked so hard to get here, I'll bet you're expecting a large reward.
+IDS_ENDING_YANG4
+Well, with all the time I've spent down here, I've come to realize a few things...
+IDS_ENDING_YANG5
+That the journey is its own reward and mastery is the greatest treasure of them all!
+IDS_ENDING_YANG6
+Well, okay, so gold is pretty nice, too!
+IDS_ENDING_YANG7
+Wha ha ha! Now let's get out of here before my joints get stiff!
+IDS_JOURNAL_VALUE
+Value:
+IDS_GUIDE_BACK
+@B Back
+IDS_GUIDE_MAINMENU
+@B Back to Main Menu
+IDS_SETTINGS
+SETTINGS
+IDS_ENDING_HERO
+You will be remembered as a hero.
+IDS_ENDING_MADEIT
+YOU MADE IT!
+IDS_ENDING_THANKS
+Thanks for playing!
+IDS_LEVELEND_CONTINUE
+@A Continue to Next Level
+IDS_SPIN_WHEEL
+Spin the Wheel
+IDS_CHOOSE_ADVENTURER
+CHOOSE ADVENTURER
+IDS_CONTROLS_MOVE
+@L Move
+IDS_GUIDE_UNLOCK
+@X Unlock Full Game
+IDS_MINES
+MINES
+IDS_LUSH
+LUSH
+IDS_ICE
+ICE
+IDS_TEMPLE
+TEMPLE
+IDS_HELL
+HELL
+IDS_SPECIAL
+SPECIAL
+IDS_ARENA_DLC1
+EGG
+IDS_ARENA_DLC2
+LARVA
+IDS_ARENA_DLC3
+PUPA
+IDS_ARENA_DLC4
+ADULT
+IDS_CREDITS
+CREDITS
+IDS_CREDITS_SPELUNKY
+SPELUNKY
+IDS_CREDITS_LEAD_DESIGN
+Lead Design
+IDS_CREDITS_DESIGN
+Design
+IDS_CREDITS_LEAD_PROGRAMMING
+Lead Programming
+IDS_CREDITS_PROGRAMMING
+Programming
+IDS_CREDITS_LEAD_GRAPHICS
+Lead Graphics
+IDS_CREDITS_ADD_GRAPHICS
+Additional Graphics
+IDS_CREDITS_MUSIC
+Music
+IDS_CREDITS_SFX
+Sound Effects
+IDS_CREDITS_XBLA_TEAM
+Xbox LIVE Arcade Team
+IDS_CREDITS_PRODUCER
+Producer
+IDS_CREDITS_TEST_LEAD
+Test Lead
+IDS_CREDITS_RELEASE_MGMT
+Release Management
+IDS_CREDITS_PRODUCT_PLANNING
+Product Planning and Business Team
+IDS_CREDITS_MARKETING
+Marketing
+IDS_CREDITS_EXEC_PRODUCER
+Executive Producer
+IDS_CREDITS_MILESTONE
+Milestone Acceptance Tester
+IDS_CREDITS_EUROPE_LOC
+Europe Localization Team
+IDS_CREDITS_ASIA_LOC
+Asia Localization Team
+IDS_CREDITS_SPECIAL_THANKS
+Special Thanks
+IDS_CREDITS_AS_ALWAYS
+And as Always...
+IDS_CREDITS_THE_PLAYER
+You, the Player!
+IDS_CREDITS_THANKS
+Thanks for Playing!
+IDS_HELP_AND_OPTIONS
+HELP & OPTIONS
+IDS_HNO_HOW_TO_PLAY
+How to Play
+IDS_HNO_CONTROLS
+Controls
+IDS_HNO_SETTINGS
+Settings
+IDS_HNO_CREDITS
+Credits
+IDS_REMAP_CONTROLS
+REMAP CONTROLS
+IDS_REMAP_CONTROLS_WHIP
+Whip/Action: 
+IDS_REMAP_CONTROLS_JUMP
+Jump: 
+IDS_REMAP_CONTROLS_ROPE
+Rope: 
+IDS_REMAP_CONTROLS_BOMB
+Bomb: 
+IDS_REMAP_CONTROLS_RUN
+Run: 
+IDS_REMAP_CONTROLS_PURCHASE
+Purchase/Door: 
+IDS_GUIDE_REMAP_CONTROLS
+@A Remap Controls
+IDS_GUIDE_DEFAULT_CONTROLS
+@X Default Controls
+IDS_PRESS_ANY_BUTTON
+Press Any Button
+IDS_SETTINGS_SFX
+SFX Volume
+IDS_SETTINGS_MUSIC
+Music Volume
+IDS_SETTINGS_BRIGHTNESS
+Screen Brightness
+IDS_SETTINGS_DAMSEL
+Damsel Style
+IDS_GUIDE_RESET_SETTINGS
+@X Default Settings
+IDS_DM_PLAYER_1_WINS
+PLAYER 1 WINS!
+IDS_DM_PLAYER_2_WINS
+PLAYER 2 WINS!
+IDS_DM_PLAYER_3_WINS
+PLAYER 3 WINS!
+IDS_DM_PLAYER_4_WINS
+PLAYER 4 WINS!
+IDS_DM_NOBODY_WINS
+NOBODY WINS!
+IDS_HOW_TO_PLAY_1
+HOW TO PLAY (1/4)
+IDS_HOW_TO_PLAY_2
+HOW TO PLAY (2/4)
+IDS_HOW_TO_PLAY_3
+HOW TO PLAY (3/4)
+IDS_HOW_TO_PLAY_4
+HOW TO PLAY (4/4)
+IDS_GUIDE_FILTER
+@X Change Filter
+IDS_PURCHASE_A
+Press @A to purchase.
+IDS_PURCHASE_B
+Press @B to purchase.
+IDS_PURCHASE_X
+Press @X to purchase.
+IDS_PURCHASE_Y
+Press @Y to purchase.
+IDS_PURCHASE_LB
+Press @{ to purchase.
+IDS_PURCHASE_RB
+Press @} to purchase.
+IDS_PURCHASE_LT
+Press @[ to purchase.
+IDS_PURCHASE_RT
+Press @] to purchase.
+IDS_JOURNAL_POWDERKEG
+Powder Box
+IDS_JOURNAL_POWDERKEG_DESC
+It's filled with black powder. Handle with care!
+IDS_CHILL
+A terrible chill runs up your spine!
+IDS_JOURNAL_ENTRY_ADDED
+Journal Entry Added
+IDS_CHARACTER_UNLOCKED
+New Character Unlocked
+IDS_ENDING_YANG_NOWORDS
+...
+IDS_ENDING_SCORE
+Final Score:
+IDS_ENDING_TIME
+Time:
+IDS_GUIDE_SELECTCHAR
+@A Select Character
+IDS_SCEPTRE_FITS
+The sceptre fits, but nothing is happening!
+IDS_WRONG_KEY
+The key doesn't fit in this door.
+IDS_ANUBIS_WARNING
+Death to the defiler!
+IDS_LOCKED_ARENA
+??????
+IDS_LEVELFEELING_COG
+I finally made it!
+IDS_SHOPBUYIDOL
+Let me take that off your hands!
+IDS_HEADER_BOMBS
+BOMBS
+IDS_HEADER_ROPES
+ROPES
+IDS_HEADER_MONEY
+MONEY
+IDS_CONTROLS_PICKUP
+Hold down on @L and press @S to pick up items and people.
+IDS_WARNING_UNSAVED
+Are you sure? All unsaved player progress will be lost.
+IDS_WARNING_NOTSAVED
+Are you sure? Scores will not be saved.
+IDS_ERROR_CORRUPTDLC
+The DLC could not be loaded and may be corrupt. Please redownload it from the Xbox LIVE Marketplace.
+IDS_ERROR_WRITING
+There was an error writing to the leaderboards. Try again?
+IDS_ERROR_NEWSTORAGE
+The storage device has been removed. Would you like to select a new storage device?
+IDS_ERROR_CORRUPTSAVE
+The save file appears to be damaged and cannot be loaded. Would you like to overwrite it with a new save file?
+IDS_ERROR_BADSTORAGE
+The storage device appears to be damaged and cannot be accessed. Would you like to select another storage device?
+IDS_ERROR_NOTSAVED
+Your game will not be saved.
+IDS_ERROR_CANTSAVED
+The game was unable to save. Would you like to select a different storage device?
+IDS_ERROR_FULLDEVICE
+The destination device is full. Would you like to select a different storage device?
+IDS_GUIDE_YES
+@A Yes
+IDS_GUIDE_NO
+@B No
+IDS_GUIDE_OK
+@A OK
+IDS_GUIDE_CONNECT
+@A Connect to Xbox LIVE
+IDS_GUIDE_NOSAVE
+@B Continue Without Saving Score
+IDS_SHORTCUT_BOMBS
+I was digging a shortcut, but a large boulder is blocking my path.
+IDS_SHORTCUT_BOMB1
+Can you give me a bomb so I can blow it up?
+IDS_SHORTCUT_BOMB2
+Can you give me two bombs so I can blow it up?
+IDS_SHORTCUT_BOMB3
+Can you give me three bombs so I can blow it up?
+IDS_SHORTCUT_ROPES
+I was digging a shortcut, but a deep pit is in my way.
+IDS_SHORTCUT_ROPE1
+Can you give me a rope so I can descend safely?
+IDS_SHORTCUT_ROPE2
+Can you give me two ropes so I can descend safely?
+IDS_SHORTCUT_ROPE3
+Can you give me three ropes so I can descend safely?
+IDS_SHORTCUT_MONEY1
+I was digging a shortcut, but some of my equipment broke.
+IDS_SHORTCUT_MONEY2
+Can you give me $10000 to replace it?
+IDS_SHORTCUT_FAIL
+Unfortunately, it doesn't look like you have enough! Maybe next time!
+IDS_SHORTCUT_SHOTGUN_NEXT1
+Next time you see me, can you bring me a shotgun?
+IDS_SHORTCUT_SHOTGUN_NEXT2
+I'll need something to protect myself from the monsters down here.
+IDS_SHORTCUT_SHOTGUN
+I was digging a shortcut, but there are a lot of monsters down there.
+IDS_SHORTCUT_SHOTGUN_HAVE
+I see you brought a shotgun! Can I have it?
+IDS_SHORTCUT_KEY_NEXT1
+Next time you see me, can you bring me the gold key from the Mines?
+IDS_SHORTCUT_KEY_NEXT2
+I'll need it to get into a locked chamber that's coming up.
+IDS_SHORTCUT_KEY
+I was digging a shortcut, but I reached a locked door.
+IDS_SHORTCUT_KEY_HAVE
+That key you're holding looks like it might fit! Can I have it?
+IDS_GAMEOVERDESC_YAMA
+My soul was judged unworthy by the King of the Underworld.
+IDS_GUIDE_QUICKRESTART
+@X Quick Restart
+IDS_GUIDE_SELECT
+@A Select
+IDS_GUIDE_DONATE
+@A Donate
+IDS_GUIDE_CANCEL
+@B Cancel
+IDS_CREDITS_DESIGNDIRECTOR
+Design Director
+IDS_CREDITS_DIRECTORXBLA
+Director, MGS XBLA Publishing
+IDS_CREDITS_BIZDEV
+Business Development
+IDS_CREDITS_PORTFOLIODIRECTOR
+Portfolio Director
+IDS_CREDITS_PRODUCTMANAGER
+Product Manager
+IDS_CREDITS_COMMUNITYMANAGER
+Community Manager
+IDS_CREDITS_EXPERISTTESTLEADS
+Experis Test Leads
+IDS_CREDITS_EXPERISSOFTTEST
+Experis Software Test Engineer
+IDS_CREDITS_EXPERISSOFTDEV
+Experis Software Developer Engineer in Test
+IDS_CREDITS_EXPERISTESTASSOC
+Experis Test Associates
+IDS_GAMEOVER_SACRIFICED
+Sacrificed
+IDS_GAMEOVERDESC_SACRIFICED
+I offered myself to the Black Goddess.
+IDS_GAMEOVER_OLDAGE
+Old Age
+IDS_GAMEOVER_UNKNOWN
+Unknown
+IDS_TRIAL_VERSION
+TRIAL VERSION
+IDS_ARENA_DLC_1_1
+The Island
+IDS_ARENA_DLC_1_2
+Juicer
+IDS_ARENA_DLC_1_3
+Fragments
+IDS_ARENA_DLC_1_4
+Hotel
+IDS_ARENA_DLC_1_5
+Heliopolis
+IDS_ARENA_DLC_1_6
+Area 52
+IDS_ARENA_DLC_1_7
+Primed
+IDS_ARENA_DLC_1_8
+Mastodon
+IDS_ARENA_DLC_2_1
+Danger Room
+IDS_ARENA_DLC_2_2
+Pitfalls
+IDS_ARENA_DLC_2_3
+The Vault
+IDS_ARENA_DLC_2_4
+Abcess
+IDS_ARENA_DLC_2_5
+Joust
+IDS_ARENA_DLC_2_6
+Dead Simple
+IDS_ARENA_DLC_2_7
+Get On Up
+IDS_ARENA_DLC_2_8
+Jetpacks
+IDS_ARENA_DLC_3_1
+Frozen Paradise
+IDS_ARENA_DLC_3_2
+The Dig
+IDS_ARENA_DLC_3_3
+Cook Out
+IDS_ARENA_DLC_3_4
+Compactor
+IDS_ARENA_DLC_3_5
+Step Softly
+IDS_ARENA_DLC_3_6
+Buzzing
+IDS_ARENA_DLC_3_7
+Temple of Kali
+IDS_ARENA_DLC_3_8
+Enlightenment
+IDS_PAUSED_ENDADVENTURE
+End Adventure
+IDS_GAMEOVER_KILLEDBY
+Killed by:
+IDS_GUIDE_UNLOCKFULL
+@A Unlock Full Game
+IDS_GUIDE_GAMERCARD
+@A Gamer Card
+IDS_ERROR_TRIALACHIEVEMENT
+You have earned an Achievement! Upgrade to the full version now to unlock it.
+IDS_ERROR_FAILTOSIGNIN
+You must be signed into a gamer profile to play Spelunky.
+IDS_MAINMENU_DOWNLOADCONTENT
+Download Content
+IDS_SIGN_CONSTRUCTION
+UNDER CONSTRUCTION!*Future site of the Shortcut Station! Meet me at the end of the Mines if you want to help!*-Tunnel Man
+IDS_SHORTCUT_HINT
+My shortcuts will get you where you want to go, but if you use one your Fastest Times won't get ranked on the Leaderboards... sorry!
+IDS_SHORTCUT_HINT2
+Hey, why are you hitting me? I'm trying to help you out here!
+IDS_GAMEOVERDESC_FRIEND
+At least I made a friend!
+IDS_GAMEOVERDESC_COG
+It's the most exquisite tomb in the whole world...
+IDS_GAMEOVERDESC_YANG
+Yang was right... the layout of the caves is changing all the time!
+IDS_GAMEOVERDESC_TOUGH
+This is really hard, but I can't give up!
+IDS_GAMEOVERDESC_FAR
+Alright! That was the farthest I've ever gotten!
+IDS_GAMEOVERDESC_BREAK
+Whew, I could use a break...
+IDS_LEADERBOARDS_SHORTCUTS
+Beat the game without using shortcuts first.
+IDS_TRIALNAG1B
+Thanks for playing Spelunky! We hope you had fun!
+IDS_TRIALNAG2B
+This is only the trial version of the game... get the full version now and test your skills!
+IDS_ERROR_ACHIEVEMENT_FAIL
+The game failed to write to your gamer profile. An Achievement could not be saved. Try again?
+IDS_PAUSED
+PAUSED
+IDS_LEADERBOARDS_TIME
+TIME
+IDS_WARNING_AUTOSAVING
+This game features autosaving. When you see this icon, do not turn off the console or remove any storage devices.
+IDS_GAMEOVER_SHOT
+Shot
+IDS_GAMEOVER_POISONED
+Poisoned
+IDS_CREDITS_WITHHELPFROM
+With Help From
+IDS_SHOPMSG_THANKSWRAP
+Thanks! I wrapped it up nice for you!
+IDS_SAVEGAMENAME
+Spelunky Save Game
+IDS_UNLOCKINFULL
+Unlock in Full Version
+IDS_JUNGLE
+JUNGLE
+IDS_LEVEL_2_1B
+JUNGLE 2-1
+IDS_LEVEL_2_2B
+JUNGLE 2-2
+IDS_LEVEL_2_3B
+JUNGLE 2-3
+IDS_LEVEL_2_4B
+JUNGLE 2-4
+IDS_JOURNAL_JUNGLE
+Jungle
+IDS_BUY_ITEM_MYSTERYBOX
+Buy Mystery Box
+IDS_LEVEL_OLMEC
+OLMEC'S LAIR
+IDS_COMPLETED_OLMEC
+LAIR COMPLETED!
+IDS_LEVEL_YAMA
+YAMA'S THRONE
+IDS_PAUSED_ENDDEATHMATCH
+End Deathmatch
+IDS_WARNING_DEATHMATCHBOTS
+Deathmatch without bots requires at least two players to begin.
+IDS_ERROR_AVASSET_FAIL
+The game failed to write to your gamer profile. An Avatar Award could not be saved. Try again?
+IDS_ERROR_TRIALAVASSET
+You have earned an Avatar Award! Upgrade to the full version now to unlock it.
+IDS_WARNING_SAVEOVERWRITE
+Do you really want to overwrite your saved game? Your previous save will be lost!
+IDS_PLAYERPROFILE_SPECIALWINS
+Special Wins:
+IDS_ERROR_RESET_SAVE
+This will reset your save game file, including all statistics and unlocked shortcuts, journal entries, and characters. Do you really want to do this?
+IDS_ERROR_RESET_SAVE_2
+Are you really sure? This is your final warning...
+IDS_USER_DETAILS
+@A User Details
+IDS_SCORE_DETAILS
+@A Score Details
+IDS_ERROR_LB_READFAIL
+The leaderboard could not be read.
+IDS_PREV_DAILY
+Previous Daily
+IDS_NEXT_DAILY
+Next Daily
+IDS_BUT_PREV_DAILY
+@< Previous Daily
+IDS_BUT_NEXT_DAILY
+@> Next Daily
+IDS_TOP_TEN_DAILY
+'s Top Ten Daily Scores
+IDS_FINDING_LEADERBOARD
+FINDING LEADERBOARD...
+IDS_DAILY_ALLTIME
+DAILY ALL-TIME
+IDS_AVG_OF_DAILY
+(Average of Top Ten Daily Scores)
+IDS_ANY_KEY
+Press Any Key
+IDS_KEY_ACTION
+WHIP/ACTION:
+IDS_KEY_JUMP
+JUMP:
+IDS_KEY_BOMB
+BOMB:
+IDS_KEY_ROPE
+ROPE:
+IDS_KEY_RUN
+RUN:
+IDS_KEY_SPECIAL
+PURCHASE/DOOR:
+IDS_KEY_UP
+UP:
+IDS_KEY_DOWN
+DOWN:
+IDS_KEY_LEFT
+LEFT:
+IDS_KEY_RIGHT
+RIGHT:
+IDS_KEY_PAUSE
+PAUSE:
+IDS_KEY_JOURNAL
+JOURNAL:
+IDS_RESET_SAVE
+@X Reset Save Game
+IDS_DEATHMATCH_GHOSTS
+Ghosts
+IDS_DEATHMATCH_TARGETS
+Targets
+IDS_DEATHMATCH_CUSTOM_CRATES
+@X Customize Crate Items
+IDS_DEATHMATCH_TOGGLE_ITEM
+@A Toggle Item
+IDS_DEATHMATCH_TOGGLE_ALL
+@X Toggle All Items
+IDS_DEATHMATCH_RETURN_OPTIONS
+@B Return to Options
+IDS_SETTINGS_LANGUAGE
+Language
+IDS_SETTINGS_WINDOWED
+Windowed
+IDS_SETTINGS_FULLSCREEN
+Fullscreen
+IDS_SETTINGS_TITLE_RESOLUTION
+RESOLUTION
+IDS_HNO_RESOLUTION
+Resolution
+IDS_MAINMENU_DAILY_CHALLENGE
+Daily Challenge
+IDS_MAINMENU_DAILYDESC
+Compete against other online explorers in today's adventure. You've only got one shot!
+IDS_MAINMENU_DAILYCHECKING
+Checking for existing daily score. Please wait.
+IDS_MAINMENU_DAILYLOCKED
+You have already played today's challenge. Try again tomorrow!
+IDS_GUIDE_REMAP_KEYS
+@A Remap Keys
+IDS_GUIDE_DEFAULT_KEYS
+@X Default Keys
+IDS_ARENA_X1
+OLD BITEY
+IDS_ARENA_X2
+YETI KING
+IDS_ARENA_X3
+ALIEN QUEEN
+IDS_BUY_CARL
+Bother Carl
+IDS_ARENAS_UNLOCKED
+Deathmatch Arenas Unlocked
+IDS_GAMEOVER_VIEW_LEADERBOARD
+@A View Leaderboard
+IDS_LEADERBOARDS_PLAYER
+PLAYER
+IDS_CHARSELECT_P1
+Player 1
+IDS_CHARSELECT_P2
+Player 2
+IDS_CHARSELECT_P3
+Player 3
+IDS_CHARSELECT_P4
+Player 4
+IDS_GRAPHICS
+GRAPHICS
+IDS_HNO_GRAPHICS
+Graphics
+IDS_APPLY_SCREEN
+Apply Screen Settings
+IDS_FULLSCREEN_FX
+Fullscreen Effects
+IDS_DYNAMIC_SHADOWS
+Dynamic Shadows
+IDS_UPDATED
+Updated
+IDS_HIGH
+HIGH
+IDS_LOW
+LOW
+IDS_QUICKSTART
+@X Quick Start
+IDS_REMAP_INVERT_RUN_OFF
+Invert Run: OFF
+IDS_REMAP_INVERT_RUN_ON
+Invert Run: ON
+IDS_KEY_RUN_INVERT_OFF
+Invert: OFF
+IDS_KEY_RUN_INVERT_ON
+Invert: ON
+IDS_HUD_STYLE
+HUD Style
+IDS_HUD_STANDARD
+STANDARD
+IDS_HUD_PRO
+PRO
