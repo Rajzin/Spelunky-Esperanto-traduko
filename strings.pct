@@ -103,7 +103,7 @@ Per valoraĵoj vi povas aĉeti objektojn en la butikoj. Elpezu ilin saĝe!
 IDS_HOWTOPLAY3_4
 Butikoj fojfoje provizas ankaŭ diversajn aliajn utilajn ilojn. Tiu ĉi kompaso, ekzemple, indikas al vi la direkton al la elirejo.
 IDS_HOWTOPLAY4_1
-!!At the bottom of each level is an exit to deeper parts of the caves. That's your goal!
+!!Malsupre en ĉiu nivelo estas elirejo, kiu iras al pli profundaj partoj de la kavernoj. Tiuj estas via celo!
 IDS_HOWTOPLAY4_2
 !!Lovely damsels have gotten trapped down here. If you bring them safely to the exits they'll reward you with health.
 IDS_HOWTOPLAY4_3
@@ -119,7 +119,7 @@ Monstroj
 IDS_JOURNAL_ITEMS
 Objektoj
 IDS_JOURNAL_TRAPS
-Insidoj
+Insidaĵoj
 IDS_VERIFY_AREYOUSURE
 Ĉu vi certas?
 IDS_VERIFY_NO
@@ -309,7 +309,7 @@ Tiu ĉi legenda fiŝo prenis de multaj aventuristoj la vivon.
 IDS_JOURNAL_BEE
 ??Murda Abelo
 IDS_JOURNAL_BEE_DESC
-??Abelo kun pikilo tiom granda, kiom harpuno. Ĝi estas tre protektema pri sia nesto.
+Abelo kun pikilo granda kiel harpuno. Ĝi estas tre protektema pri sia nesto.
 IDS_JOURNAL_QUEENBEE
 Abelreĝino
 IDS_JOURNAL_QUEENBEE_DESC
@@ -688,7 +688,7 @@ Spike Ball
 IDS_JOURNAL_SPIKEBALL_DESC
 A deadly ball and chain that swings with infernal determination.
 IDS_JOURNAL_LAVA
-Lava
+Lafo
 IDS_JOURNAL_LAVA_DESC
 Molten rock that flows deep underground. The heat can melt almost anything!
 IDS_STARTMSG
@@ -742,7 +742,7 @@ IDS_SHOPKEEPER_NAME9
 IDS_SHOPKEEPER_NAME10
 Ĉuk
 IDS_SHOPKEEPER_NAME11
-!!Kevin C
+Cezar
 IDS_SHOPKEEPER_NAME12
 Ludvik
 IDS_SHOPKEEPER_NAME13
@@ -786,7 +786,7 @@ Bonvenon al la Armilvendejo de Aĥmed!
 IDS_SHOPWELCOME0F
 Bonvenon al la Kisbudo de Aĥmed!
 IDS_SHOPWELCOME0G
-Bonvenon al la Hired Hands de Aĥmed!
+Bonvenon al la Helpistejo de Aĥmed!
 IDS_SHOPWELCOME0H
 Bonvenon al la Rado de Premioj de Aĥmed!
 IDS_SHOPWELCOME0I
@@ -804,7 +804,7 @@ Bonvenon al la Armilvendejo de Boris!
 IDS_SHOPWELCOME1F
 Bonvenon al la Kisbudo de Boris!
 IDS_SHOPWELCOME1G
-Bonvenon al la Hired Hands de Boris!
+Bonvenon al la Helpistejo de Boris!
 IDS_SHOPWELCOME1H
 Bonvenon al la Rado de Premioj de Boris!
 IDS_SHOPWELCOME1I
@@ -822,7 +822,7 @@ Bonvenon al la Armilvendejo de Kosmo!
 IDS_SHOPWELCOME2F
 Bonvenon al la Kisbudo de Kosmo!
 IDS_SHOPWELCOME2G
-Bonvenon al la Hired Hands de Kosmo!
+Bonvenon al la Helpistejo de Kosmo!
 IDS_SHOPWELCOME2H
 Bonvenon al la Rado de Premioj de Kosmo!
 IDS_SHOPWELCOME2I
@@ -840,7 +840,7 @@ Bonvenon al la Darwin's Armilvendejo!
 IDS_SHOPWELCOME3F
 Bonvenon al la Darwin's Kisbudo!
 IDS_SHOPWELCOME3G
-Bonvenon al la Darwin's Hired Hands!
+Bonvenon al la Darwin's Helpistejo!
 IDS_SHOPWELCOME3H
 Bonvenon al la Darwin's Rado de Premioj!
 IDS_SHOPWELCOME3I
@@ -858,7 +858,7 @@ Bonvenon al la Armilvendejo de Eraro!
 IDS_SHOPWELCOME4F
 Bonvenon al la Kisbudo de Eraro!
 IDS_SHOPWELCOME4G
-Bonvenon al la Hired Hands de Eraro!
+Bonvenon al la Helpistejo de Eraro!
 IDS_SHOPWELCOME4H
 Bonvenon al la Rado de Premioj de Eraro!
 IDS_SHOPWELCOME4I
@@ -876,7 +876,7 @@ Bonvenon al la Armilvendejo de Frank!
 IDS_SHOPWELCOME5F
 Bonvenon al la Kisbudo de Frank!
 IDS_SHOPWELCOME5G
-Bonvenon al la Hired Hands de Frank!
+Bonvenon al la Helpistejo de Frank!
 IDS_SHOPWELCOME5H
 Bonvenon al la Rado de Premioj de Frank!
 IDS_SHOPWELCOME5I
@@ -894,7 +894,7 @@ Bonvenon al la Garth's Armilvendejo!
 IDS_SHOPWELCOME6F
 Bonvenon al la Garth's Kisbudo!
 IDS_SHOPWELCOME6G
-Bonvenon al la Garth's Hired Hands!
+Bonvenon al la Garth's Helpistejo!
 IDS_SHOPWELCOME6H
 Bonvenon al la Garth's Rado de Premioj!
 IDS_SHOPWELCOME6I
@@ -912,7 +912,7 @@ Bonvenon al la Armilvendejo de Hakim!
 IDS_SHOPWELCOME7F
 Bonvenon al la Kisbudo de Hakim!
 IDS_SHOPWELCOME7G
-Bonvenon al la Hired Hands de Hakim!
+Bonvenon al la Helpistejo de Hakim!
 IDS_SHOPWELCOME7H
 Bonvenon al la Rado de Premioj de Hakim!
 IDS_SHOPWELCOME7I
@@ -930,7 +930,7 @@ Bonvenon al la Iggy's Armilvendejo!
 IDS_SHOPWELCOME8F
 Bonvenon al la Iggy's Kisbudo!
 IDS_SHOPWELCOME8G
-Bonvenon al la Iggy's Hired Hands!
+Bonvenon al la Iggy's Helpistejo!
 IDS_SHOPWELCOME8H
 Bonvenon al la Iggy's Rado de Premioj!
 IDS_SHOPWELCOME8I
@@ -948,29 +948,29 @@ Bonvenon al la Armilvendejo de Ĉuk!
 IDS_SHOPWELCOME9F
 Bonvenon al la Kisbudo de Ĉuk!
 IDS_SHOPWELCOME9G
-Bonvenon al la Hired Hands de Ĉuk!
+Bonvenon al la Helpistejo de Ĉuk!
 IDS_SHOPWELCOME9H
 Bonvenon al la Rado de Premioj de Ĉuk!
 IDS_SHOPWELCOME9I
 Bonvenon al la Ĝenerala Vendejo de Ĉuk!
 IDS_SHOPWELCOME10A
-!!Bonvenon al la Kevin's Ĝenerala Vendejo!
+!!Bonvenon al la Ĝenerala Vendejode Cezar!
 IDS_SHOPWELCOME10B
-Bonvenon al la Kevin's Specialvendejo!
+Bonvenon al la Specialvendejode Cezar!
 IDS_SHOPWELCOME10C
-Bonvenon al la Kevin's Vestaĵvendejo!
+Bonvenon al la Vestaĵvendejode Cezar!
 IDS_SHOPWELCOME10D
-Bonvenon al la Kevin's Bombvendejo!
+Bonvenon al la Bombvendejode Cezar!
 IDS_SHOPWELCOME10E
-Bonvenon al la Kevin's Armilvendejo!
+Bonvenon al la Armilvendejode Cezar!
 IDS_SHOPWELCOME10F
-Bonvenon al la Kevin's Kisbudo!
+Bonvenon al la Kisbudode Cezar!
 IDS_SHOPWELCOME10G
-Bonvenon al la Kevin's Hired Hands!
+Bonvenon al la Helpistejode Cezar!
 IDS_SHOPWELCOME10H
-Bonvenon al la Kevin's Rado de Premioj!
+Bonvenon al la Rado de Premiojde Cezar!
 IDS_SHOPWELCOME10I
-Bonvenon al la Kevin's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejode Cezar!
 IDS_SHOPWELCOME11A
 Bonvenon al la Ĝenerala Vendejo de Ludvik!
 IDS_SHOPWELCOME11B
@@ -984,7 +984,7 @@ Bonvenon al la Armilvendejo de Ludvik!
 IDS_SHOPWELCOME11F
 Bonvenon al la Kisbudo de Ludvik!
 IDS_SHOPWELCOME11G
-Bonvenon al la Hired Hands de Ludvik!
+Bonvenon al la Helpistejo de Ludvik!
 IDS_SHOPWELCOME11H
 Bonvenon al la Rado de Premioj de Ludvik!
 IDS_SHOPWELCOME11I
@@ -1002,7 +1002,7 @@ Bonvenon al la Max's Armilvendejo!
 IDS_SHOPWELCOME12F
 Bonvenon al la Max's Kisbudo!
 IDS_SHOPWELCOME12G
-Bonvenon al la Max's Hired Hands!
+Bonvenon al la Max's Helpistejo!
 IDS_SHOPWELCOME12H
 Bonvenon al la Max's Rado de Premioj!
 IDS_SHOPWELCOME12I
@@ -1020,7 +1020,7 @@ Bonvenon al la Armilvendejo de Naĉo!
 IDS_SHOPWELCOME13F
 Bonvenon al la Kisbudo de Naĉo!
 IDS_SHOPWELCOME13G
-Bonvenon al la Hired Hands de Naĉo!
+Bonvenon al la Helpistejo de Naĉo!
 IDS_SHOPWELCOME13H
 Bonvenon al la Rado de Premioj de Naĉo!
 IDS_SHOPWELCOME13I
@@ -1038,7 +1038,7 @@ Bonvenon al la Armilvendejo de Omar!
 IDS_SHOPWELCOME14F
 Bonvenon al la Kisbudo de Omar!
 IDS_SHOPWELCOME14G
-Bonvenon al la Hired Hands de Omar!
+Bonvenon al la Helpistejo de Omar!
 IDS_SHOPWELCOME14H
 Bonvenon al la Rado de Premioj de Omar!
 IDS_SHOPWELCOME14I
@@ -1056,7 +1056,7 @@ Bonvenon al la Armilvendejo de Pedro!
 IDS_SHOPWELCOME15F
 Bonvenon al la Kisbudo de Pedro!
 IDS_SHOPWELCOME15G
-Bonvenon al la Hired Hands de Pedro!
+Bonvenon al la Helpistejo de Pedro!
 IDS_SHOPWELCOME15H
 Bonvenon al la Rado de Premioj de Pedro!
 IDS_SHOPWELCOME15I
@@ -1074,7 +1074,7 @@ Bonvenon al la Quincy's Armilvendejo!
 IDS_SHOPWELCOME16F
 Bonvenon al la Quincy's Kisbudo!
 IDS_SHOPWELCOME16G
-Bonvenon al la Quincy's Hired Hands!
+Bonvenon al la Quincy's Helpistejo!
 IDS_SHOPWELCOME16H
 Bonvenon al la Quincy's Rado de Premioj!
 IDS_SHOPWELCOME16I
@@ -1092,7 +1092,7 @@ Bonvenon al la Armilvendejo de Robin!
 IDS_SHOPWELCOME17F
 Bonvenon al la Kisbudo de Robin!
 IDS_SHOPWELCOME17G
-Bonvenon al la Hired Hands de Robin!
+Bonvenon al la Helpistejo de Robin!
 IDS_SHOPWELCOME17H
 Bonvenon al la Rado de Premioj de Robin!
 IDS_SHOPWELCOME17I
@@ -1110,7 +1110,7 @@ Bonvenon al la Sparky's Armilvendejo!
 IDS_SHOPWELCOME18F
 Bonvenon al la Sparky's Kisbudo!
 IDS_SHOPWELCOME18G
-Bonvenon al la Sparky's Hired Hands!
+Bonvenon al la Sparky's Helpistejo!
 IDS_SHOPWELCOME18H
 Bonvenon al la Sparky's Rado de Premioj!
 IDS_SHOPWELCOME18I
@@ -1128,7 +1128,7 @@ Bonvenon al la Tarn's Armilvendejo!
 IDS_SHOPWELCOME19F
 Bonvenon al la Tarn's Kisbudo!
 IDS_SHOPWELCOME19G
-Bonvenon al la Tarn's Hired Hands!
+Bonvenon al la Tarn's Helpistejo!
 IDS_SHOPWELCOME19H
 Bonvenon al la Tarn's Rado de Premioj!
 IDS_SHOPWELCOME19I
@@ -1146,7 +1146,7 @@ Bonvenon al la Armilvendejo de Ulf!
 IDS_SHOPWELCOME20F
 Bonvenon al la Kisbudo de Ulf!
 IDS_SHOPWELCOME20G
-Bonvenon al la Hired Hands de Ulf!
+Bonvenon al la Helpistejo de Ulf!
 IDS_SHOPWELCOME20H
 Bonvenon al la Rado de Premioj de Ulf!
 IDS_SHOPWELCOME20I
@@ -1164,7 +1164,7 @@ Bonvenon al la Verne's Armilvendejo!
 IDS_SHOPWELCOME21F
 Bonvenon al la Verne's Kisbudo!
 IDS_SHOPWELCOME21G
-Bonvenon al la Verne's Hired Hands!
+Bonvenon al la Verne's Helpistejo!
 IDS_SHOPWELCOME21H
 Bonvenon al la Verne's Rado de Premioj!
 IDS_SHOPWELCOME21I
@@ -1182,7 +1182,7 @@ Bonvenon al la Armilvendejo de Ĵak!
 IDS_SHOPWELCOME22F
 Bonvenon al la Kisbudo de Ĵak!
 IDS_SHOPWELCOME22G
-Bonvenon al la Hired Hands de Ĵak!
+Bonvenon al la Helpistejo de Ĵak!
 IDS_SHOPWELCOME22H
 Bonvenon al la Rado de Premioj de Ĵak!
 IDS_SHOPWELCOME22I
@@ -1200,7 +1200,7 @@ Bonvenon al la Armilvendejo de Ŝigeru!
 IDS_SHOPWELCOME23F
 Bonvenon al la Kisbudo de Ŝigeru!
 IDS_SHOPWELCOME23G
-Bonvenon al la Hired Hands de Ŝigeru!
+Bonvenon al la Helpistejo de Ŝigeru!
 IDS_SHOPWELCOME23H
 Bonvenon al la Rado de Premioj de Ŝigeru!
 IDS_SHOPWELCOME23I
@@ -1218,7 +1218,7 @@ Bonvenon al la Armilvendejo de Joŝi!
 IDS_SHOPWELCOME24F
 Bonvenon al la Kisbudo de Joŝi!
 IDS_SHOPWELCOME24G
-Bonvenon al la Hired Hands de Joŝi!
+Bonvenon al la Helpistejo de Joŝi!
 IDS_SHOPWELCOME24H
 Bonvenon al la Rado de Premioj de Joŝi!
 IDS_SHOPWELCOME24I
@@ -1236,7 +1236,7 @@ Bonvenon al la Ziggy's Armilvendejo!
 IDS_SHOPWELCOME25F
 Bonvenon al la Ziggy's Kisbudo!
 IDS_SHOPWELCOME25G
-Bonvenon al la Ziggy's Hired Hands!
+Bonvenon al la Ziggy's Helpistejo!
 IDS_SHOPWELCOME25H
 Bonvenon al la Ziggy's Rado de Premioj!
 IDS_SHOPWELCOME25I
@@ -1254,9 +1254,9 @@ Aĉeti Grimpgantojn
 IDS_BUY_ITEM_PITCHERSMITT
 ??Aĉeti Ĵetistganton
 IDS_BUY_ITEM_SPRINGSHOES
-!!Buy Spring Shoes
+Aĉeti Risortŝuojn
 IDS_BUY_ITEM_SPIKESHOES
-Aĉeti Najloŝuoj
+Aĉeti Najloŝuojn
 IDS_BUY_ITEM_CAMERA
 Aĉeti Fotilon
 IDS_BUY_ITEM_COMPASS
@@ -1288,7 +1288,7 @@ Aĉeti Teleportilon
 IDS_BUY_ITEM_JETPACK
 !!Buy Jetpack
 IDS_BUY_ITEM_SHIELD
-Buy Shield
+Aĉeti Ŝildon
 IDS_BUY_ITEM_VLADSWINGS
 Buy Vlad's Cape
 IDS_BUY_ITEM_ROYALJELLY
@@ -1302,7 +1302,7 @@ Buy Vlad's Amulet
 IDS_BUY_ITEM_UDJATEYE
 Buy Udjat Eye
 IDS_BUY_ITEM_ANKH
-Buy Ankh
+Aĉeti Anĥon
 IDS_BUY_ITEM_HEDJET
 Buy Hedjet
 IDS_BUY_ITEM_SCEPTRE
@@ -1366,55 +1366,55 @@ Buy Yor
 IDS_BUY_SLAVE26
 Buy Zorgoth
 IDS_SHOPMSG_WONPRIZE
-You won a prize!
+Vi gajnis premion!
 IDS_SHOPMSG_WONMONEY
-You won some money!
+Vi gajnis iom da mono!
 IDS_SHOPMSG_YOULOST
-You lost!
+Vi malgajnis!
 IDS_SHOPMSG_JACKPOT
-You won the jackpot!
+!!You won the jackpot!
 IDS_SHOPMSG_THIEF
-Stop, thief!
+Haltu, ŝtelisto!
 IDS_SHOPMSG_TERRORIST
-Terrorist!
+Teroristo!
 IDS_SHOPMSG_YOULLPAY
-You'll pay for your crimes!
+!!You'll pay for your crimes!
 IDS_SHOPMSG_ONLYI
-Hey, you can't do that!
+!!Hey, you can't do that!
 IDS_SHOPMSG_GOODLUCK
-Good luck!
+Bonŝancon!
 IDS_SHOPMSG_THANKYOU
-Thank you for your business!
+!!Thank you for your business!
 IDS_SHOPMSG_NOMONEY
-You haven't got enough money!
+Vi ne havas sufiĉe da mono!
 IDS_SHOPMSG_SLURP
 Lek!
 IDS_SHOPMSG_SMOOCH
 Ŝmac!
 IDS_SHOPMSG_INLOVE
-You must be in love!
+!!You must be in love!
 IDS_SHOPMSG_ALLYOURS
-He's all yours.
+!!He's all yours.
 IDS_TUNNELMAN
 Tunelviro
 IDS_TUNNELMAN1
 Saluton al vi! Mi estas la Tunelviro.
 IDS_TUNNELMAN2
-You can donate a little bit of money each time. I'll remember how much you've paid me.
+!!You can donate a little bit of money each time. I'll remember how much you've paid me.
 IDS_TUNNELMAN3_1
-So what do you say?*I still need $
+!!So what do you say?*I still need $
 IDS_TUNNELMAN3_2
- to build this shortcut.
+!! to build this shortcut.
 IDS_TUNNELMAN4
 Domaĝe. Mi neniam finos la tunelon...
 IDS_TUNNELMAN5
 Dankon! Vi ne bedaŭros tion.
 IDS_TUNNELMAN6
-Alright! Now I'll have this tunnel finished in no time!
+!!Alright! Now I'll have this tunnel finished in no time!
 IDS_DONATION
-DONATION
+!!DONATION
 IDS_DONATION_GUIDE
-@L Change Amount*@A Confirm
+!!@L Change Amount*@A Confirm
 IDS_KALI_ACCEPTS
 Kalio akceptas vian oferaĵon!
 IDS_KALI_INVIGORATED
@@ -1738,19 +1738,19 @@ Moonbounce II
 IDS_ARENA_SPECIAL8
 Elevators
 IDS_PLAYER_WINS1
-PLAYER 1 WINS!
+LUDANTO 1 VENKAS!
 IDS_PLAYER_WINS2
-PLAYER 2 WINS!
+LUDANTO 2 VENKAS!
 IDS_PLAYER_WINS3
-PLAYER 3 WINS!
+LUDANTO 3 VENKAS!
 IDS_PLAYER_WINS4
-PLAYER 4 WINS!
+LUDANTO 4 VENKAS!
 IDS_NOBODY_WINS
-NOBODY WINS!
+NENIU VENKAS!
 IDS_DMRESULTS_GUIDE
-@X Change Arena      @A Next Round      @B Main Menu
+@X Ŝanĝi arenon      @A Sekva raŭndo      @B Ĉefa menuo
 IDS_DMWINNER_GUIDE
-@A Play Again      @B Main Menu
+@A Ludi denove      @B Ĉefa menuo
 IDS_TRIALNAG1
 You've almost reached a new area! That means new monsters, traps, and treasure!
 IDS_TRIALNAG2
