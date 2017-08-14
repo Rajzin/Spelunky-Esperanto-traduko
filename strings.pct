@@ -424,7 +424,7 @@ IDS_JOURNAL_OLMEC_DESC
 !!Legend has it that Olmec's Curse keeps people trapped in the caves.
 Laŭ la legendoj, la malbeno de Olmeko 
 IDS_JOURNAL_VLAD
-!!Vlad
+??Vlad
 IDS_JOURNAL_VLAD_DESC
 La ombra princo de vampiroj. Lia turo gardas la enirejon de Infero.
 IDS_JOURNAL_IMP
@@ -432,7 +432,7 @@ IDS_JOURNAL_IMP
 IDS_JOURNAL_IMP_DESC
 !!A lowly servant of the underworld. Its job is to refill the lava pits.
 IDS_JOURNAL_DEVIL
-!!Devil
+Diablo
 IDS_JOURNAL_DEVIL_DESC
 !!Blue devils that escort lost souls to King Yama's courtroom.
 IDS_JOURNAL_SUCCUBUS
@@ -450,7 +450,7 @@ IDS_JOURNAL_HORSEHEAD_DESC
 IDS_JOURNAL_KINGYAMA
 Reĝo Jama
 IDS_JOURNAL_KINGYAMA_DESC
-!!The ruler of Hell! He punishes the damned from atop a bloody throne.
+La reganto de la Infero! Li punas damnitojn sidante sur sanga trono.
 IDS_JOURNAL_MINES
 !!The Mines
 IDS_JOURNAL_MINES_DESC
@@ -464,7 +464,7 @@ IDS_JOURNAL_ICE
 IDS_JOURNAL_ICE_DESC
 !!Icy rocks suspended over a bottomless abyss.
 IDS_JOURNAL_TEMPLE
-!!Temple
+Templo
 IDS_JOURNAL_TEMPLE_DESC
 !!These ruins have probably been here for thousands of years. Who built them?
 IDS_JOURNAL_HELL
@@ -496,19 +496,19 @@ IDS_JOURNAL_MOTHERSHIP
 IDS_JOURNAL_MOTHERSHIP_DESC
 !!An impossibly large alien craft.
 IDS_JOURNAL_COG
-!!City of Gold
+Ora Urbo
 IDS_JOURNAL_COG_DESC
-!!The City of Gold! So the legends were true!
+La Ora Urbo! Do la legendoj estis veraj!
 IDS_JOURNAL_ROPEPILE
 ??Ŝnurstako
 IDS_JOURNAL_ROPEPILE_DESC
 !!Ropes are an essential tool of the explorer. Great for those hard-to-reach places!
 IDS_JOURNAL_BOMBBAG
-??Bombsako
+Bombsako
 IDS_JOURNAL_BOMBBAG_DESC
 Tri bomboj en sako.
 IDS_JOURNAL_BOMBBOX
-??Bombskatolo
+Bombskatolo
 IDS_JOURNAL_BOMBBOX_DESC
 Dek du bomboj en skatolo.
 IDS_JOURNAL_SPECTACLES
@@ -522,7 +522,7 @@ Ili protektas viajn manojn kaj ebligas kroĉiĝi eĉ al la plej glitigaj muroj.
 IDS_JOURNAL_PITCHERSMITT
 Ĵetistganto
 IDS_JOURNAL_PITCHERSMITT_DESC
-??Ĝi plibonigas vian ĵetan kaj kaptan lertecon!
+Ĝi plibonigas vian kapablon ĵeti kaj kapti!
 IDS_JOURNAL_SPRINGSHOES
 Risortŝuoj
 IDS_JOURNAL_SPRINGSHOES_DESC
@@ -550,19 +550,19 @@ Akra ilo, kiu ege helpas la fosadon, sed la konstruo ne estas tre bona.
 IDS_JOURNAL_MACHETE
 Maĉeto
 IDS_JOURNAL_MACHETE_DESC
-!!It slices, it dices, it cuts through monsters like stale bread!
+Ĝi hakas kaj tranĉas tra monstroj kiel tra seka pano!
 IDS_JOURNAL_BOOMERANG
 Bumerango
 IDS_JOURNAL_BOOMERANG_DESC
-??Populara armilo inter Tikiuloj. Ĝi (preskaŭ) ĉiam revenas!
+Populara armilo inter Tikiuloj. Ĝi (preskaŭ) ĉiam revenas!
 IDS_JOURNAL_CRYSKNIFE
-!!Crysknife (reference to Dune)
+Kristranĉilo
 IDS_JOURNAL_CRYSKNIFE_DESC
-!!A razor-sharp blade fashioned from the tooth of a worm. It replaces your whip.
+Ege akra tranĉilo farita el dento de vermo. Ĝi anstataŭas vian vipon.
 IDS_JOURNAL_WEBGUN
 Retpafilo
 IDS_JOURNAL_WEBGUN_DESC
-??Pafilo, kiu (el?)pafas gluecajn araneajn retojn.
+Pafilo, kiu elpafas gluecajn araneajn retojn.
 IDS_JOURNAL_SHOTGUN
 ??Hajlofusilo
 IDS_JOURNAL_SHOTGUN_DESC
@@ -578,119 +578,119 @@ IDS_JOURNAL_LASERGUN_DESC
 IDS_JOURNAL_PARACHUTE
 Paraŝuto
 IDS_JOURNAL_PARACHUTE_DESC
-!!It will deploy automatically as you're falling.
+Ĝi aŭtomate uziĝos dum falo.
 IDS_JOURNAL_CAPE
-??Tukmantelo
+Tukmantelo
 IDS_JOURNAL_CAPE_DESC
-!!It looks dashing and also lets you float in the air.
+Ĝi aspektas mojose, kaj ankaŭ ebligas ŝvebadon en la aero.
 IDS_JOURNAL_TELEPORTER
 Teleportilo
 IDS_JOURNAL_TELEPORTER_DESC
 !!A piece of futuristic technology! But it hasn't been perfected yet...
 IDS_JOURNAL_JETPACK
-Jetpack
+!!Jetpack
 IDS_JOURNAL_JETPACK_DESC
-The coolest way to travel. The fuel replenishes while you're on the ground.
+!!The coolest way to travel. The fuel replenishes while you're on the ground.
 IDS_JOURNAL_SHIELD
-Shield
+Ŝildo
 IDS_JOURNAL_SHIELD_DESC
-The ultimate in protective armor! Even a cannonball couldn't get through this.
+!!The ultimate in protective armor! Even a cannonball couldn't get through this.
 IDS_JOURNAL_VLADSWINGS
-Vlad's Cape
+Mantelo de Vlad
 IDS_JOURNAL_VLADSWINGS_DESC
-The bloody cape of Vlad the Impaler. It's even more dashing than regular capes.
+La sanga tukmantelo de Vlad la Palisumanto. Ĝi estas eĉ pli mojosaspekta ol normalaj tukmanteloj.
 IDS_JOURNAL_ROYALJELLY
-Royal Jelly
+!!Royal Jelly
 IDS_JOURNAL_ROYALJELLY_DESC
-A delicious nectar that's made by bees. Highly valued by gourmands everywhere.
+!!A delicious nectar that's made by bees. Highly valued by gourmands everywhere.
 IDS_JOURNAL_IDOL
-Idol
+Idolo
 IDS_JOURNAL_IDOL_DESC
-A golden statue guarded by deadly traps. Bring it to the exit for a big reward!
+Ora statuo gardata de mortigas insidaĵoj. Portu ĝin al la elirejo por ricevi grandan monsumon!
 IDS_JOURNAL_KAPALA
 Kapalo
 IDS_JOURNAL_KAPALA_DESC
 Taso farita el homa kranio. Oni uzas ĝin dum sangaj ritoj.
 IDS_JOURNAL_VLADSAMULET
-Vlad's Amulet
+Amuleto de Vlad
 IDS_JOURNAL_VLADSAMULET_DESC
-A magical amulet that protects its owner from fire.
+Magia amuleto, kiu protektas sian posedanton kontraŭ fajro.
 IDS_JOURNAL_UDJATEYE
-Uĝata Okulo
+Uĝat-okulo
 IDS_JOURNAL_UDJATEYE_DESC
-The Eye is an ancient symbol of royal power. Does it have any other purpose?
+La Okulo estas antikva simolo de reĝa povo. Ĉu ĝi havas alian uzon?
 IDS_JOURNAL_ANKH
 Anĥo
 IDS_JOURNAL_ANKH_DESC
-A magical artifact that symbolizes eternal life.
+!!A magical artifact that symbolizes eternal life.
 IDS_JOURNAL_HEDJET
-Hedjet
+Heĝeto
 IDS_JOURNAL_HEDJET_DESC
-The white crown of pharaohs. It grants its wearer access to secret areas.
+La blanka krono de faraonoj. Per ĝi oni povas aliri sekretajn lokojn.
 IDS_JOURNAL_SCEPTRE
-Sceptre
+Sceptro
 IDS_JOURNAL_SCEPTRE_DESC
-The person who wields the staff of Anubis has control over life and death.
+Tiu, kiu tenas la bastonon de Anubiso, havas regpovon super vivo kaj morto.
 IDS_JOURNAL_BOOKOFDEAD
-Book of the Dead
+Libro de l' Mortintoj
 IDS_JOURNAL_BOOKOFDEAD_DESC
-Guarded by Anubis II in the City of Gold. It opens the entrance to the underworld.
+Gardata de Anubiso II en la Ora Urbo. Ĝi malfermas la enirejon al la Submondo.
 IDS_JOURNAL_SPIKES
-Spikes
+!!Spikess
 IDS_JOURNAL_SPIKES_DESC
-These protrusions will leave big holes in anyone unlucky enough to fall on them.
+!!These protrusions will leave big holes in anyone unlucky enough to fall on them.
 IDS_JOURNAL_ARROWTRAP
-Arrow Trap
+Saga insidaĵo
 IDS_JOURNAL_ARROWTRAP_DESC
-A basic trap. It fires an arrow when something moves in front of it.
+Simpla insidaĵo. Ĝi pafas sagon, kiam io moviĝs antaŭ ĝi.
 IDS_JOURNAL_BOULDER
-Boulder
+Rulŝtonego
 IDS_JOURNAL_BOULDER_DESC
-An elaborate trap used to punish thieves.
+Lerte farita insidaĵo uzata por puni ŝtelistojn.
 IDS_JOURNAL_TIKITRAP
-Tiki Trap
+Tiki-insidaĵo
 IDS_JOURNAL_TIKITRAP_DESC
-Sharp spikes on either side skewer anything that gets too close.
+Akraj pikiloj ĉe ambaŭ flankoj traboras ion ajn, kio tro proksimiĝas.
 IDS_JOURNAL_ACID
-Acid
+Acido
 IDS_JOURNAL_ACID_DESC
-Caustic stomach acid that slowly burns away the flesh. Beware of the bubbles!
+!!Caustic stomach acid that slowly burns away the flesh. Beware of the bubbles!
 IDS_JOURNAL_SPRING
-Spring
+!!Spring
 IDS_JOURNAL_SPRING_DESC
-An alien contraption that's used for transportation and entertainment.
+!!An alien contraption that's used for transportation and entertainment.
 IDS_JOURNAL_MINE
-Mine
+Mino
 IDS_JOURNAL_MINE_DESC
-A proximity-triggered explosive device. Disarm it quickly!
+!!A proximity-triggered explosive device. Disarm it quickly!
 IDS_JOURNAL_TURRET
-Turret
+Tureto
 IDS_JOURNAL_TURRET_DESC
-It's part of the standard spaceship defense system.
+!!It's part of the standard spaceship defense system.
 IDS_JOURNAL_FORCEFIELD
-Forcefield
+!!Forcefield
 IDS_JOURNAL_FORCEFIELD_DESC
-A powerful laser barrier that can even deflect plasma blasts.
+!!A powerful laser barrier that can even deflect plasma blasts.
 IDS_JOURNAL_CRUSHTRAP
-Crush Trap
+!!Crush Trap
 IDS_JOURNAL_CRUSHTRAP_DESC
-This heavy stone block is imbued with the spirit of the pharaoh's palace guard.
+!!This heavy stone block is imbued with the spirit of the pharaoh's palace guard.
 IDS_JOURNAL_CEILINGTRAP
-Ceiling Trap
+!!Ceiling Trap
 IDS_JOURNAL_CEILINGTRAP_DESC
-When the ceiling starts dropping, you'd better stop hopping!
+!!When the ceiling starts dropping, you'd better stop hopping!
 IDS_JOURNAL_FLAMETRAP
-Flame Trap
+!!Flame Trap
 IDS_JOURNAL_FLAMETRAP_DESC
-It shoot jets of flames in short bursts.
+!!It shoot jets of flames in short bursts.
 IDS_JOURNAL_SPIKEBALL
-Spike Ball
+!!Spike Ball
 IDS_JOURNAL_SPIKEBALL_DESC
-A deadly ball and chain that swings with infernal determination.
+!!A deadly ball and chain that swings with infernal determination.
 IDS_JOURNAL_LAVA
 Lafo
 IDS_JOURNAL_LAVA_DESC
-Molten rock that flows deep underground. The heat can melt almost anything!
+!!Molten rock that flows deep underground. The heat can melt almost anything!
 IDS_STARTMSG
 The walls are shifting...
 IDS_JOURNALPICKUP
@@ -726,9 +726,9 @@ Aĥmed
 IDS_SHOPKEEPER_NAME2
 Boris
 IDS_SHOPKEEPER_NAME3
-Kosmo
+Cezar
 IDS_SHOPKEEPER_NAME4
-!!Darwin D
+Darvin
 IDS_SHOPKEEPER_NAME5
 Eraro
 IDS_SHOPKEEPER_NAME6
@@ -738,11 +738,11 @@ IDS_SHOPKEEPER_NAME7
 IDS_SHOPKEEPER_NAME8
 Hakim
 IDS_SHOPKEEPER_NAME9
-!!Iggy I
+Igĉjo
 IDS_SHOPKEEPER_NAME10
 Ĉuk
 IDS_SHOPKEEPER_NAME11
-Cezar
+Ĝef
 IDS_SHOPKEEPER_NAME12
 Ludvik
 IDS_SHOPKEEPER_NAME13
@@ -754,17 +754,17 @@ Omar
 IDS_SHOPKEEPER_NAME16
 Pedro
 IDS_SHOPKEEPER_NAME17
-!!Quincy Ĝ
+Kvintus
 IDS_SHOPKEEPER_NAME18
 Robin
 IDS_SHOPKEEPER_NAME19
-!!Sparky S
+Soĉjo
 IDS_SHOPKEEPER_NAME20
-!!Tarn T
+Tonjo
 IDS_SHOPKEEPER_NAME21
 Ulf
 IDS_SHOPKEEPER_NAME22
-!!Verne V
+Vim
 IDS_SHOPKEEPER_NAME23
 Ĵak
 IDS_SHOPKEEPER_NAME24
@@ -772,7 +772,7 @@ IDS_SHOPKEEPER_NAME24
 IDS_SHOPKEEPER_NAME25
 Joŝi
 IDS_SHOPKEEPER_NAME26
-!!Ziggy Z
+Zigmund
 IDS_SHOPWELCOME0A
 Bonvenon al la Ĝenerala Vendejo de Aĥmed!
 IDS_SHOPWELCOME0B
@@ -810,41 +810,41 @@ Bonvenon al la Rado de Premioj de Boris!
 IDS_SHOPWELCOME1I
 Bonvenon al la Ĝenerala Vendejo de Boris!
 IDS_SHOPWELCOME2A
-Bonvenon al la Ĝenerala Vendejo de Kosmo!
+Bonvenon al la Ĝenerala Vendejo de Cezar!
 IDS_SHOPWELCOME2B
-Bonvenon al la Specialvendejo de Kosmo!
+Bonvenon al la Specialvendejo de Cezar!
 IDS_SHOPWELCOME2C
-Bonvenon al la Vestaĵvendejo de Kosmo!
+Bonvenon al la Vestaĵvendejo de Cezar!
 IDS_SHOPWELCOME2D
-Bonvenon al la Bombvendejo de Kosmo!
+Bonvenon al la Bombvendejo de Cezar!
 IDS_SHOPWELCOME2E
-Bonvenon al la Armilvendejo de Kosmo!
+Bonvenon al la Armilvendejo de Cezar!
 IDS_SHOPWELCOME2F
-Bonvenon al la Kisbudo de Kosmo!
+Bonvenon al la Kisbudo de Cezar!
 IDS_SHOPWELCOME2G
-Bonvenon al la Helpistejo de Kosmo!
+Bonvenon al la Helpistejo de Cezar!
 IDS_SHOPWELCOME2H
-Bonvenon al la Rado de Premioj de Kosmo!
+Bonvenon al la Rado de Premioj de Cezar!
 IDS_SHOPWELCOME2I
-Bonvenon al la Ĝenerala Vendejo de Kosmo!
+Bonvenon al la Ĝenerala Vendejo de Cezar!
 IDS_SHOPWELCOME3A
-!!Bonvenon al la Darwin's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Darvin!
 IDS_SHOPWELCOME3B
-Bonvenon al la Darwin's Specialvendejo!
+Bonvenon al la Specialvendejo de Darvin!
 IDS_SHOPWELCOME3C
-Bonvenon al la Darwin's Vestaĵvendejo!
+Bonvenon al la Vestaĵvendejo de Darvin!
 IDS_SHOPWELCOME3D
-Bonvenon al la Darwin's Bombvendejo!
+Bonvenon al la Bombvendejo de Darvin!
 IDS_SHOPWELCOME3E
-Bonvenon al la Darwin's Armilvendejo!
+Bonvenon al la Armilvendejo de Darvin!
 IDS_SHOPWELCOME3F
-Bonvenon al la Darwin's Kisbudo!
+Bonvenon al la Kisbudo de Darvin!
 IDS_SHOPWELCOME3G
-Bonvenon al la Darwin's Helpistejo!
+Bonvenon al la Helpistejo de Darvin!
 IDS_SHOPWELCOME3H
-Bonvenon al la Darwin's Rado de Premioj!
+Bonvenon al la Rado de Premioj de Darvin!
 IDS_SHOPWELCOME3I
-Bonvenon al la Darwin's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Darvin!
 IDS_SHOPWELCOME4A
 Bonvenon al la Ĝenerala Vendejo de Eraro!
 IDS_SHOPWELCOME4B
@@ -918,23 +918,23 @@ Bonvenon al la Rado de Premioj de Hakim!
 IDS_SHOPWELCOME7I
 Bonvenon al la Ĝenerala Vendejo de Hakim!
 IDS_SHOPWELCOME8A
-!!Bonvenon al la Iggy's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Igĉjo!
 IDS_SHOPWELCOME8B
-Bonvenon al la Iggy's Specialvendejo!
+Bonvenon al la Specialvendejo de Igĉjo!
 IDS_SHOPWELCOME8C
-Bonvenon al la Iggy's Vestaĵvendejo!
+Bonvenon al la Vestaĵvendejo de Igĉjo!
 IDS_SHOPWELCOME8D
-Bonvenon al la Iggy's Bombvendejo!
+Bonvenon al la Bombvendejo de Igĉjo!
 IDS_SHOPWELCOME8E
-Bonvenon al la Iggy's Armilvendejo!
+Bonvenon al la Armilvendejo de Igĉjo!
 IDS_SHOPWELCOME8F
-Bonvenon al la Iggy's Kisbudo!
+Bonvenon al la Kisbudo de Igĉjo!
 IDS_SHOPWELCOME8G
-Bonvenon al la Iggy's Helpistejo!
+Bonvenon al la Helpistejo de Igĉjo!
 IDS_SHOPWELCOME8H
-Bonvenon al la Iggy's Rado de Premioj!
+Bonvenon al la Rado de Premioj de Igĉjo!
 IDS_SHOPWELCOME8I
-Bonvenon al la Iggy's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Igĉjo!
 IDS_SHOPWELCOME9A
 Bonvenon al la Ĝenerala Vendejo de Ĉuk!
 IDS_SHOPWELCOME9B
@@ -954,23 +954,23 @@ Bonvenon al la Rado de Premioj de Ĉuk!
 IDS_SHOPWELCOME9I
 Bonvenon al la Ĝenerala Vendejo de Ĉuk!
 IDS_SHOPWELCOME10A
-!!Bonvenon al la Ĝenerala Vendejode Cezar!
+Bonvenon al la Ĝenerala Vendejo de Ĝef!
 IDS_SHOPWELCOME10B
-Bonvenon al la Specialvendejode Cezar!
+Bonvenon al la Specialvendejo de Ĝef!
 IDS_SHOPWELCOME10C
-Bonvenon al la Vestaĵvendejode Cezar!
+Bonvenon al la Vestaĵvendejo de Ĝef!
 IDS_SHOPWELCOME10D
-Bonvenon al la Bombvendejode Cezar!
+Bonvenon al la Bombvendejo de Ĝef!
 IDS_SHOPWELCOME10E
-Bonvenon al la Armilvendejode Cezar!
+Bonvenon al la Armilvendejo de Ĝef!
 IDS_SHOPWELCOME10F
-Bonvenon al la Kisbudode Cezar!
+Bonvenon al la Kisbudo de Ĝef!
 IDS_SHOPWELCOME10G
-Bonvenon al la Helpistejode Cezar!
+Bonvenon al la Helpistejo de Ĝef!
 IDS_SHOPWELCOME10H
-Bonvenon al la Rado de Premiojde Cezar!
+Bonvenon al la Rado de Premioj de Ĝef!
 IDS_SHOPWELCOME10I
-Bonvenon al la Ĝenerala Vendejode Cezar!
+Bonvenon al la Ĝenerala Vendejo de Ĝef!
 IDS_SHOPWELCOME11A
 Bonvenon al la Ĝenerala Vendejo de Ludvik!
 IDS_SHOPWELCOME11B
@@ -1062,23 +1062,23 @@ Bonvenon al la Rado de Premioj de Pedro!
 IDS_SHOPWELCOME15I
 Bonvenon al la Ĝenerala Vendejo de Pedro!
 IDS_SHOPWELCOME16A
-!!Bonvenon al la Quincy's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Kvintus!
 IDS_SHOPWELCOME16B
-Bonvenon al la Quincy's Specialvendejo!
+Bonvenon al la Specialvendejo de Kvintus!
 IDS_SHOPWELCOME16C
-Bonvenon al la Quincy's Vestaĵvendejo!
+Bonvenon al la Vestaĵvendejo de Kvintus!
 IDS_SHOPWELCOME16D
-Bonvenon al la Quincy's Bombvendejo!
+Bonvenon al la Bombvendejo de Kvintus!
 IDS_SHOPWELCOME16E
-Bonvenon al la Quincy's Armilvendejo!
+Bonvenon al la Armilvendejo de Kvintus!
 IDS_SHOPWELCOME16F
-Bonvenon al la Quincy's Kisbudo!
+Bonvenon al la Kisbudo de Kvintus!
 IDS_SHOPWELCOME16G
-Bonvenon al la Quincy's Helpistejo!
+Bonvenon al la Helpistejo de Kvintus!
 IDS_SHOPWELCOME16H
-Bonvenon al la Quincy's Rado de Premioj!
+Bonvenon al la Rado de Premioj de Kvintus!
 IDS_SHOPWELCOME16I
-Bonvenon al la Quincy's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Kvintus!
 IDS_SHOPWELCOME17A
 Bonvenon al la Ĝenerala Vendejo de Robin!
 IDS_SHOPWELCOME17B
@@ -1098,41 +1098,41 @@ Bonvenon al la Rado de Premioj de Robin!
 IDS_SHOPWELCOME17I
 Bonvenon al la Ĝenerala Vendejo de Robin!
 IDS_SHOPWELCOME18A
-!!Bonvenon al la Sparky's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Soĉjo!
 IDS_SHOPWELCOME18B
-Bonvenon al la Sparky's Specialvendejo!
+Bonvenon al la Specialvendejo de Soĉjo!
 IDS_SHOPWELCOME18C
-Bonvenon al la Sparky's Vestaĵvendejo!
+Bonvenon al la Vestaĵvendejo de Soĉjo!
 IDS_SHOPWELCOME18D
-Bonvenon al la Sparky's Bombvendejo!
+Bonvenon al la Bombvendejo de Soĉjo!
 IDS_SHOPWELCOME18E
-Bonvenon al la Sparky's Armilvendejo!
+Bonvenon al la Armilvendejo de Soĉjo!
 IDS_SHOPWELCOME18F
-Bonvenon al la Sparky's Kisbudo!
+Bonvenon al la Kisbudo de Soĉjo!
 IDS_SHOPWELCOME18G
-Bonvenon al la Sparky's Helpistejo!
+Bonvenon al la Helpistejo de Soĉjo!
 IDS_SHOPWELCOME18H
-Bonvenon al la Sparky's Rado de Premioj!
+Bonvenon al la Rado de Premioj de Soĉjo!
 IDS_SHOPWELCOME18I
-Bonvenon al la Sparky's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Soĉjo!
 IDS_SHOPWELCOME19A
-!!Bonvenon al la Tarn's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Tonjo!
 IDS_SHOPWELCOME19B
-Bonvenon al la Tarn's Specialvendejo!
+Bonvenon al la Specialvendejo de Tonjo!
 IDS_SHOPWELCOME19C
-Bonvenon al la Tarn's Vestaĵvendejo!
+Bonvenon al la Vestaĵvendejo de Tonjo!
 IDS_SHOPWELCOME19D
-Bonvenon al la Tarn's Bombvendejo!
+Bonvenon al la Bombvendejo de Tonjo!
 IDS_SHOPWELCOME19E
-Bonvenon al la Tarn's Armilvendejo!
+Bonvenon al la Armilvendejo de Tonjo!
 IDS_SHOPWELCOME19F
-Bonvenon al la Tarn's Kisbudo!
+Bonvenon al la Kisbudo de Tonjo!
 IDS_SHOPWELCOME19G
-Bonvenon al la Tarn's Helpistejo!
+Bonvenon al la Helpistejo de Tonjo!
 IDS_SHOPWELCOME19H
-Bonvenon al la Tarn's Rado de Premioj!
+Bonvenon al la Rado de Premioj de Tonjo!
 IDS_SHOPWELCOME19I
-Bonvenon al la Tarn's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Tonjo!
 IDS_SHOPWELCOME20A
 Bonvenon al la Ĝenerala Vendejo de Ulf!
 IDS_SHOPWELCOME20B
@@ -1152,23 +1152,23 @@ Bonvenon al la Rado de Premioj de Ulf!
 IDS_SHOPWELCOME20I
 Bonvenon al la Ĝenerala Vendejo de Ulf!
 IDS_SHOPWELCOME21A
-!!Bonvenon al la Verne's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Vim!
 IDS_SHOPWELCOME21B
-Bonvenon al la Verne's Specialvendejo!
+Bonvenon al la Specialvendejo de Vim!
 IDS_SHOPWELCOME21C
-Bonvenon al la Verne's Vestaĵvendejo!
+Bonvenon al la Vestaĵvendejo de Vim!
 IDS_SHOPWELCOME21D
-Bonvenon al la Verne's Bombvendejo!
+Bonvenon al la Bombvendejo de Vim!
 IDS_SHOPWELCOME21E
-Bonvenon al la Verne's Armilvendejo!
+Bonvenon al la Armilvendejo de Vim!
 IDS_SHOPWELCOME21F
-Bonvenon al la Verne's Kisbudo!
+Bonvenon al la Kisbudo de Vim!
 IDS_SHOPWELCOME21G
-Bonvenon al la Verne's Helpistejo!
+Bonvenon al la Helpistejo de Vim!
 IDS_SHOPWELCOME21H
-Bonvenon al la Verne's Rado de Premioj!
+Bonvenon al la Rado de Premioj de Vim!
 IDS_SHOPWELCOME21I
-Bonvenon al la Verne's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Vim!
 IDS_SHOPWELCOME22A
 Bonvenon al la Ĝenerala Vendejo de Ĵak!
 IDS_SHOPWELCOME22B
@@ -1224,23 +1224,23 @@ Bonvenon al la Rado de Premioj de Joŝi!
 IDS_SHOPWELCOME24I
 Bonvenon al la Ĝenerala Vendejo de Joŝi!
 IDS_SHOPWELCOME25A
-!!Bonvenon al la Ziggy's Ĝenerala Vendejo!
+!!Bonvenon al la Ĝenerala Vendejo de Zigmund!
 IDS_SHOPWELCOME25B
-Bonvenon al la Ziggy's Specialvendejo!
+Bonvenon al la Specialvendejo de Zigmund!
 IDS_SHOPWELCOME25C
-Bonvenon al la Ziggy's Vestaĵvendejo!
+Bonvenon al la Vestaĵvendejo de Zigmund!
 IDS_SHOPWELCOME25D
-Bonvenon al la Ziggy's Bombvendejo!
+Bonvenon al la Bombvendejo de Zigmund!
 IDS_SHOPWELCOME25E
-Bonvenon al la Ziggy's Armilvendejo!
+Bonvenon al la Armilvendejo de Zigmund!
 IDS_SHOPWELCOME25F
-Bonvenon al la Ziggy's Kisbudo!
+Bonvenon al la Kisbudo de Zigmund!
 IDS_SHOPWELCOME25G
-Bonvenon al la Ziggy's Helpistejo!
+Bonvenon al la Helpistejo de Zigmund!
 IDS_SHOPWELCOME25H
-Bonvenon al la Ziggy's Rado de Premioj!
+Bonvenon al la Rado de Premioj de Zigmund!
 IDS_SHOPWELCOME25I
-Bonvenon al la Ziggy's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Zigmund!
 IDS_BUY_ITEM_ROPEPILE
 !!Buy Rope Pile
 IDS_BUY_ITEM_BOMBBAG
@@ -1294,17 +1294,17 @@ Buy Vlad's Cape
 IDS_BUY_ITEM_ROYALJELLY
 Buy Royal Jelly
 IDS_BUY_ITEM_IDOL
-Buy Idol
+Aĉeti Idolon
 IDS_BUY_ITEM_KAPALA
 Aĉeti Kapalon
 IDS_BUY_ITEM_VLADSAMULET
-Buy Vlad's Amulet
+Aĉeti Amuleton de Vlad
 IDS_BUY_ITEM_UDJATEYE
-Buy Udjat Eye
+Aĉeti Uĝat-okulon
 IDS_BUY_ITEM_ANKH
 Aĉeti Anĥon
 IDS_BUY_ITEM_HEDJET
-Buy Hedjet
+Aĉeti Heĝeton
 IDS_BUY_ITEM_SCEPTRE
 Aĉeti Sceptron
 IDS_BUY_ITEM_BOOKOFDEAD
@@ -1314,57 +1314,57 @@ Buy Damsel
 IDS_BUY_KISS
 Aĉeti Kison
 IDS_BUY_SLAVE1
-Buy Atlas
+Aĉeti Atlas
 IDS_BUY_SLAVE2
-Buy Barca
+Aĉeti Barca
 IDS_BUY_SLAVE3
-Buy Clovis
+!!Buy Clovis
 IDS_BUY_SLAVE4
-Buy Dunder
+!!Buy Dunder
 IDS_BUY_SLAVE5
-Buy Eirik
+Aĉeti Ejrik
 IDS_BUY_SLAVE6
-Buy Fink
+!!Aĉeti Fink
 IDS_BUY_SLAVE7
-Buy Grom
+Aĉeti Grom
 IDS_BUY_SLAVE8
-Buy Ham
+Aĉeti Ŝink
 IDS_BUY_SLAVE9
-Buy Ivan
+Aĉeti Ivan
 IDS_BUY_SLAVE10
-Buy Jax
+!!Buy Jax H
 IDS_BUY_SLAVE11
-Buy Karl
+Aĉeti Karl
 IDS_BUY_SLAVE12
-Buy Lurch
+!!Buy Lurch
 IDS_BUY_SLAVE13
-Buy Manfred
+Aĉeti Manfred
 IDS_BUY_SLAVE14
-Buy Nurdle
+!!Buy Nurdle
 IDS_BUY_SLAVE15
-Buy Onyx
+Aĉeti Oniks
 IDS_BUY_SLAVE16
-Buy Perseus
+Aĉeti Perseŭs
 IDS_BUY_SLAVE17
-Buy Quincy
+!!Buy Quincy Ĉ
 IDS_BUY_SLAVE18
-Buy Rastan
+Aĉeti Rastan
 IDS_BUY_SLAVE19
-Buy Steve
+Aĉeti Stev
 IDS_BUY_SLAVE20
-Buy Thundar
+Aĉeti Tondor
 IDS_BUY_SLAVE21
-Buy Ulrik
+Aĉeti Ulrik
 IDS_BUY_SLAVE22
-Buy Voxel
+Aĉeti Voksel
 IDS_BUY_SLAVE23
-Buy Wolf
+!!Buy Wolf Ĝ
 IDS_BUY_SLAVE24
-Buy Xom
+Aĉeti Ĥom
 IDS_BUY_SLAVE25
-Buy Yor
+Aĉeti Jor
 IDS_BUY_SLAVE26
-Buy Zorgoth
+Aĉeti Zorgodz
 IDS_SHOPMSG_WONPRIZE
 Vi gajnis premion!
 IDS_SHOPMSG_WONMONEY
@@ -1456,7 +1456,7 @@ Mortigoj
 IDS_LABEL_TOTALDEATHS
 Tuta kvanto de mortoj:
 IDS_MSG_SAVING
-!!Saving Game...
+Konservi ludon...
 IDS_GUIDE_CONTINUE
 @A Daŭrigi
 IDS_GAMEOVER
@@ -1478,29 +1478,29 @@ IDS_GAMEOVER_SNAKEBITE
 IDS_GAMEOVER_SPIDERBITE
 !!Spider Bite
 IDS_GAMEOVER_BITTEN
-!!Bitten
+Mordita
 IDS_GAMEOVER_BEATENUP
 !!Beaten Up
 IDS_GAMEOVER_STOMPED
 !!Stomped
 IDS_GAMEOVER_STUNG
-!!Stung
+Pikita
 IDS_GAMEOVER_EATEN
-!!Eaten
+Manĝita
 IDS_GAMEOVER_ZAPPED
 !!Zapped
 IDS_GAMEOVER_CLAWED
 !!Clawed
 IDS_GAMEOVER_CURSED
-!!Cursed
+Malbenita
 IDS_GAMEOVER_BRAINFRIED
 !!Brain Fried
 IDS_GAMEOVER_SLIMED
-!!Slimed
+Mukumita
 IDS_GAMEOVER_BURNED
-!!Burned
+Bruligita
 IDS_GAMEOVER_POKED
-!!Poked
+Pikita
 IDS_GAMEOVER_SEDUCED
 !!Seduced
 IDS_GAMEOVER_HAUNTED
@@ -1512,9 +1512,9 @@ IDS_GAMEOVER_LONGFALL
 IDS_GAMEOVER_BLOWNUP
 !!Blown Up
 IDS_GAMEOVER_IMPALED
-!!Impaled
+Traborita
 IDS_GAMEOVER_ARROW
-!!Arrow
+Sago
 IDS_GAMEOVER_CRUSHED
 !!Crushed
 IDS_GAMEOVER_SHATTERED
