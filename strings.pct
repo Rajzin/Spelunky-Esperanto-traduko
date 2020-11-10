@@ -1,19 +1,19 @@
 IDS_INTRO1_1
-Dum la suno hele flamis en la ĉielo,
+Dum la suno hele brulis super mi,
 IDS_INTRO1_2
-La dezerto etendiĝanta malantaŭ mi,
+Dum la dezerto vaste etendiĝis malantaŭ mi,
 IDS_INTRO1_3
-Post kiam mi rekontrolis mian mapon,
+Post rekontroli mian mapon,
 IDS_INTRO1_4
 Kun lipoj fenditaj kaj kovritaj de sablo,
 IDS_INTRO1_5
-La sorto gvidanta ĉiun ajn agon mian,
+Dum la sorto gvidis ĉiun agon de mi,
 IDS_INTRO1_6
 Metante la paliĝintan foton en mian poŝon,
 IDS_INTRO1_7
 Rememorante la lastajn vortojn de mia patro,
 IDS_INTRO1_8
-Mia memoro glitante for de mi,
+Dum mia memoro glitis for de mi,
 IDS_INTRO2_1
 mi kuraĝe paŝis al mia destino,
 IDS_INTRO2_2
@@ -21,7 +21,7 @@ mi premis la vipon ĉe mia flanko,
 IDS_INTRO2_3
 mi eltrinkis la reston el mia platbotelo,
 IDS_INTRO2_4
-mi ekvidis la enirejon de la groto,
+mi ekvidis la enirejon de la kaverno,
 IDS_INTRO2_5
 mi sulkis mian frunton,
 IDS_INTRO2_6
@@ -37,9 +37,9 @@ kaj tenis mian ĉapelon kontraŭ la vento.
 IDS_INTRO3_3
 !!And a cold chill took hold of me.
 IDS_INTRO3_4
-kaj demandis min, kiom longe mi estos subtere.
+kaj demandis min, kiom longe mi restos subtere.
 IDS_INTRO3_5
-kaj ĵuris reveni venkinte.
+kaj ĵuris reveni kiel venkinto.
 IDS_INTRO3_6
 kaj preskaŭ certis, ke mi aŭdis voĉojn antaŭ mi.
 IDS_INTRO3_7
@@ -49,7 +49,7 @@ kaj tiam ĉio komenciĝis.
 IDS_TITLEGUIDE
 Premu @A por komenci.
 IDS_BACK
-??@B Reen
+@B Reen
 IDS_MAINMENU_PLAYGAME
 Komenci ludon
 IDS_MAINMENU_ADVENTURE
@@ -57,7 +57,7 @@ Aventuro
 IDS_MAINMENU_DEATHMATCH
 ??Mortomatĉo
 IDS_MAINMENU_PLAYERPROFILE
-??Statistiko pri la ludanto
+??Statistikoj pri la ludanto
 IDS_MAINMENU_LEADERBOARDS
 !!Leaderboards
 IDS_MAINMENU_ACHIEVEMENTS
@@ -65,17 +65,17 @@ Atingaĵoj
 IDS_MAINMENU_HELPANDOPTIONS
 Helpilo kaj agordoj
 IDS_MAINMENU_UNLOCK
-??Malŝlosi la tutan ludon
+Malŝlosi la plenan ludon
 IDS_MAINMENU_RETURN
 Ĉefa menuo
 IDS_MAINMENU_ADVENTUREDESC
-Komencu aventuron por serĉi la legendan trezoron de Olmeko! Iru sole aŭ kun amikoj.
+Granda aventuro por serĉi la legendan trezoron de Olmeko! Iru sole aŭ kun amikoj.
 IDS_MAINMENU_DEATHMATCHDESC
-Havu mortdanĝeran konkurson por eltrovi, kiu el vi estas la plej lerta aventuristo.
+Mortdanĝera konkurso por eltrovi, kiu el vi estas la plej lerta aventuristo.
 IDS_PAUSED_RESUME
-Daŭrigi la ludon
+Pluludi
 IDS_PAUSED_RESTART
-Restarti la ludon
+Komenci novan ludon
 IDS_PAUSED_EXIT
 Eliri la ludon
 IDS_HOWTOPLAY1_1
@@ -83,27 +83,27 @@ Komence de la ludo vi havas kvar korojn da vivo. Se via vivo elĉerpiĝas, via e
 IDS_HOWTOPLAY1_2
 Per ŝnuroj vi povas atingi altajn lokojn kaj sendanĝere malsupreniri en kavojn. Premu @Y por ĵeti ŝnuron.
 IDS_HOWTOPLAY1_3
-??Per bomboj vi povas foreksplodigi la murojn. Premu @B por ĵeti bombon... sed estu singarda!
+Per bomboj vi povas foreksplodigi murojn. Premu @B por ĵeti bombon... sed estu singarda!
 IDS_HOWTOPLAY1_4
-Via vipo estas via plej bona defendo kontraŭ monstroj, kiuj loĝas en la grotoj. Premu @X por ataki per ĝi.
+Via vipo estas via plej bona defendo kontraŭ monstroj, kiuj loĝas en la kavernoj. Premu @X por ataki per ĝi.
 IDS_HOWTOPLAY2_1
-Lignaj kestoj troviĝas ĉie en la grotoj. Vipu ilin por ene trovi provizojn, kiuj helpos vin dum via aventuro.
+Lignaj kestoj troviĝas ĉie en la kavernoj. Vipu ilin por ene trovi provizojn, kiuj helpos vin dum via aventuro.
 IDS_HOWTOPLAY2_2
-Ŝnuroj kaj bomboj estas la plej oftaj objektoj, kiuj troveblas en kestoj. Sed se vi bonŝancas, eble vi trovos pli bonajn aĵon!
+Ŝnuroj kaj bomboj estas la plej oftaj objektoj, kiuj troveblas en kestoj. Sed se vi bonŝancas, eble vi trovos pli bonajn aĵojn!
 IDS_HOWTOPLAY2_3
-Trezurkofroj estas plenaj de valoraj gemoj! La plejmulto el ili havas malfortan seruron, kiu malfermeblas per vipfrapo.
+Trezorkofroj estas plenaj de valoraj gemoj! Plej multaj el ili havas malfortan seruron, kiu malfermeblas per frapo de vipo.
 IDS_HOWTOPLAY2_4
-La kvanto de viaj poentoj dependas de kiom da valoraĵoj vi kolektis. Amasigu grandan stakon da oro kaj gemoj!
+La kvanto de viaj poentoj dependas de tio, kiom da valoraĵoj vi kolektis. Kolektu grandan amason da oro kaj gemoj!
 IDS_HOWTOPLAY3_1
-Jen butikisto. Ĉiajn objektojn aĉeteblas ĉe lia butiko, sed atentu ne kolerigi lin.
+Jen butikisto. Ĉiaj objektoj aĉeteblas ĉe lia butiko, sed atentu ne kolerigi lin.
 IDS_HOWTOPLAY3_2
-??Aĉeteblaj objektoj havas dolar-signon super si. Kelkaj butikoj vendas armilojn, kiel tiu ĉi hajlofusilo(?).
+??Aĉeteblaj objektoj havas dolarsignon super si. Kelkaj butikoj vendas armilojn, kiel tiun ĉi hajlofusilon(?).
 IDS_HOWTOPLAY3_3
 Per valoraĵoj vi povas aĉeti objektojn en la butikoj. Elpezu ilin saĝe!
 IDS_HOWTOPLAY3_4
-Butikoj fojfoje provizas ankaŭ diversajn aliajn utilajn ilojn. Tiu ĉi kompaso, ekzemple, indikas al vi la direkton al la elirejo.
+Butikoj povas provizi ankaŭ diversajn aliajn utilajn ilojn. Ekzemple, ĉi tiu kompaso indikas al vi la direkton al la elirejo.
 IDS_HOWTOPLAY4_1
-!!Malsupre en ĉiu nivelo estas elirejo, kiu iras al pli profundaj partoj de la kavernoj. Tiuj estas via celo!
+Malsupre en ĉiu nivelo estas elirejo, kiu kondukas al pli profundaj partoj de la kavernoj. Tio estas via celo!
 IDS_HOWTOPLAY4_2
 !!Lovely damsels have gotten trapped down here. If you bring them safely to the exits they'll reward you with health.
 IDS_HOWTOPLAY4_3
@@ -119,7 +119,7 @@ Monstroj
 IDS_JOURNAL_ITEMS
 Objektoj
 IDS_JOURNAL_TRAPS
-Insidaĵoj
+Insidiloj
 IDS_VERIFY_AREYOUSURE
 Ĉu vi certas?
 IDS_VERIFY_NO
@@ -159,9 +159,9 @@ IDS_LEADERBOARDS_FRIENDSNOTRANKED
 IDS_LEADERBOARDS_NOTRANKED
 !!You are not yet ranked on this leaderboard.
 IDS_PLAYERPROFILE_LASTGAMEPLAYED
-??Pasinta ludo
+La lasta ludo
 IDS_PLAYERPROFILE_PLAYS
-??Traludoj:
+Ludoj:
 IDS_PLAYERPROFILE_DEATHS
 Mortoj:
 IDS_PLAYERPROFILE_WINS
@@ -223,7 +223,7 @@ Take this key. It will open the entrance to the mines. Follow me if you dare!*Ha
 IDS_JOURNAL_KILLS
 Mortigoj:
 IDS_JOURNAL_KILLEDBY
-??Mortoj pro ĝi:
+Mortoj pro ĝi:
 IDS_JOURNAL_ENTRY
 Enskribaĵo
 IDS_JOURNAL_SNAKE
@@ -237,11 +237,11 @@ Mortdanĝera serpento, kiu havas distingan kapuĉon kaj venenan salivon.
 IDS_JOURNAL_BAT
 Vesperto
 IDS_JOURNAL_BAT_DESC
-Ĝi pli ŝatas manĝi insektojn, sed ankaŭ homojn ĝi atakas, se ĝi estas sufiĉe malsata.
+Ĝi pli ŝatas manĝi insektojn, sed se ĝi estas sufiĉe malsata, ĝi atakas ankaŭ homojn.
 IDS_JOURNAL_SPIDER
 Araneo
 IDS_JOURNAL_SPIDER_DESC
-!!Pli granda ol ordinaraj domaj specioj. Ne lasu ĝin... Don't let it get the drop on you.
+??Pli granda ol ordinaraj domaj specioj. Ne lasu ĝin surprizi vin. (Don't let it get the drop on you.)
 IDS_JOURNAL_HANGSPIDER
 Ŝpina Araneo
 IDS_JOURNAL_HANGSPIDER_DESC
@@ -253,19 +253,19 @@ Kolosa araneo granda kiel aŭto! Ŝi kaptas siajn predojn per gluecaj retoj.
 IDS_JOURNAL_SKELETON
 Skeleto
 IDS_JOURNAL_SKELETON_DESC
-??Vivanta skeleto tute sama kiel tiuj, pri kiuj vi timsonĝas.
+Vivanta skeleto ekzakte kiel tiuj, pri kiuj vi timsonĝas.
 IDS_JOURNAL_SCORPION
 Skorpio
 IDS_JOURNAL_SCORPION_DESC
-Predanta araneoido, kiu havas veneman pikilon ĉe sia vostopinto.
+Predanta araneoido, kiu havas venenan pikilon ĉe la pinto de sia vosto.
 IDS_JOURNAL_CAVEMAN
-Kavernhomo
+Kavernohomo
 IDS_JOURNAL_CAVEMAN_DESC
-Unu el la primitivaj prauloj de la homo.
+Unu el la primitivaj prauloj de homoj.
 IDS_JOURNAL_DAMSEL
-Fraŭl(in)o
+Senhelpulo
 IDS_JOURNAL_DAMSEL_DESC
-Alkonduku senhelpajn fraŭl(in)ojn al la elirejo, kaj vi rekompence ricevos kison!
+Kunportu belajn senhelpulojn al la elirejo, kaj vi rekompence ricevos kison!
 IDS_JOURNAL_SHOPKEEPER
 Butikisto
 IDS_JOURNAL_SHOPKEEPER_DESC
@@ -273,31 +273,31 @@ Tiu ĉi facile kolerigebla komercisto vendas ion ajn, se la prezo ĝustas. Li ma
 IDS_JOURNAL_TUNNELMAN
 Tunelviro
 IDS_JOURNAL_TUNNELMAN_DESC
-Gaja viro, kiu perlaboras sian vivon fosante tunelojn al la plej profundaj partoj de la groto.
+Gaja viro, kiu profesie fosas tunelojn al la plej profundaj partoj de la kaveroj.
 IDS_JOURNAL_SCARAB
 Skarabo
 IDS_JOURNAL_SCARAB_DESC
-Fluganta instekto el pura oro. Kelkaj kulturoj kultas ĝin.
+Fluganta instekto el pura oro, adorata kiel dio en kelkaj kulturoj.
 IDS_JOURNAL_TIKIMAN
-??Tikiulo
+Tikiulo
 IDS_JOURNAL_TIKIMAN_DESC
-Li simple estas nur ordinara maskita kanibalo, kiu man-uzas gigantan bumerangon.
+Li estas simple nur ordinara maskita kanibalo, kiu uzas gigantan bumerangon.
 IDS_JOURNAL_FROG
 Rano
 IDS_JOURNAL_FROG_DESC
-Granda grota rano... aŭ ĉu bufo? Nu, ne gravas.
+Granda kaverna rano... aŭ ĉu bufo? Nu, ne gravas.
 IDS_JOURNAL_FIREFROG
 Fajra Rano
 IDS_JOURNAL_FIREFROG_DESC
-Malofta rana specio, kiu plenas de eksplodema marĉa gaso.
+Malofta rana specio, kiu estas plena de eksplodema marĉa gaso.
 IDS_JOURNAL_GIANTFROG
 Giganta Rano
 IDS_JOURNAL_GIANTFROG_DESC
-Tiu ĉi aparte granda amfibio portas siajn idojn ene de sia buŝo.
+Tiu ĉi aparte granda amfibio portas siajn idojn en sia buŝo.
 IDS_JOURNAL_MANTRAP
 Homkaptilo
 IDS_JOURNAL_MANTRAP_DESC
-Karnovoraj plantoj, al kiuj plaĉas homaĵo.
+Karnovoraj plantoj, kiuj ŝatas manĝi homaĵon.
 IDS_JOURNAL_PIRANHA
 Piranjo
 IDS_JOURNAL_PIRANHA_DESC
@@ -307,7 +307,7 @@ Olda Mordĉjo
 IDS_JOURNAL_JAWS_DESC
 Tiu ĉi legenda fiŝo prenis de multaj aventuristoj la vivon.
 IDS_JOURNAL_BEE
-??Murda Abelo
+Murda Abelo
 IDS_JOURNAL_BEE_DESC
 Abelo kun pikilo granda kiel harpuno. Ĝi estas tre protektema pri sia nesto.
 IDS_JOURNAL_QUEENBEE
@@ -321,7 +321,7 @@ IDS_JOURNAL_SNAIL_DESC
 IDS_JOURNAL_MONKEY
 Simio
 IDS_JOURNAL_MONKEY_DESC
-!!Ĝiaj ŝerctrompoj estas la ĉefa kialo de vundoj al nesingardaj ĝangalesplorantoj.
+Ĝiaj ŝercaj trompoj estas la ĉefa kialo de vundoj por nesingardaj esplorantoj en la ĝangalo.
 IDS_JOURNAL_GOLDMONKEY
 Ora Simio
 IDS_JOURNAL_GOLDMONKEY_DESC
@@ -345,7 +345,7 @@ Superhome forta vivkadavro, kiu suĉas sangon. Li povas ŝanĝi sian formon al v
 IDS_JOURNAL_GHOST
 Fantomo
 IDS_JOURNAL_GHOST_DESC
-Tiu ĉi timiga aperaĵo hantas la grotojn. De kie ĝi venis?
+Tiu ĉi timiga aperaĵo hantas la kavernojn. De kie ĝi venis?
 IDS_JOURNAL_CELL
 Bakterio
 IDS_JOURNAL_CELL_DESC
@@ -353,7 +353,7 @@ Danĝera unuĉela vivaĵo, kiu nutras sin per putrantaj restaĵoj.
 IDS_JOURNAL_WORMEGG
 Verma Ovo
 IDS_JOURNAL_WORMEGG_DESC
-Ĝi plenas je vermidoj. Naŭze!
+Ĝi estas plena de vermidoj. Naŭze!
 IDS_JOURNAL_WORMBABY
 Vermido
 IDS_JOURNAL_WORMBABY_DESC
@@ -361,11 +361,11 @@ Nun ĝi estas eta, sed plenkreskaj vermoj povas kreski ĝis longeco de kelkaj ki
 IDS_JOURNAL_YETI
 Jetio
 IDS_JOURNAL_YETI_DESC
-Ludema vivaĵo, kiu bedaŭrinde ne bone regas sian fortecon.
+Ludema vivaĵo, kiu bedaŭrinde ne bone regas sian forton.
 IDS_JOURNAL_YETIKING
 Jetia Reĝo
 IDS_JOURNAL_YETIKING_DESC
-La reĝo de la jetio estas tiu, kiu plej grandas.
+Tiu, kiu estas plej granda, iĝas reĝo de la jetioj.
 IDS_JOURNAL_MAMMOTH
 Mamuto
 IDS_JOURNAL_MAMMOTH_DESC
@@ -421,12 +421,11 @@ IDS_JOURNAL_ANUBISII_DESC
 IDS_JOURNAL_OLMEC
 Olmeko
 IDS_JOURNAL_OLMEC_DESC
-!!Legend has it that Olmec's Curse keeps people trapped in the caves.
-Laŭ la legendoj, la malbeno de Olmeko 
+Laŭ la legendoj, la malbeno de Olmeko tenas homojn en la kavernoj kiel kaptitoj.
 IDS_JOURNAL_VLAD
-??Vlad
+Vlad
 IDS_JOURNAL_VLAD_DESC
-La ombra princo de vampiroj. Lia turo gardas la enirejon de Infero.
+La ombra princo de vampiroj. Lia turo gardas la enirejon de la Infero.
 IDS_JOURNAL_IMP
 !!Imp
 IDS_JOURNAL_IMP_DESC
@@ -500,27 +499,27 @@ Ora Urbo
 IDS_JOURNAL_COG_DESC
 La Ora Urbo! Do la legendoj estis veraj!
 IDS_JOURNAL_ROPEPILE
-??Ŝnurstako
+Stako da Ŝnuroj
 IDS_JOURNAL_ROPEPILE_DESC
 !!Ropes are an essential tool of the explorer. Great for those hard-to-reach places!
 IDS_JOURNAL_BOMBBAG
-Bombsako
+Sako da Bomboj
 IDS_JOURNAL_BOMBBAG_DESC
 Tri bomboj en sako.
 IDS_JOURNAL_BOMBBOX
-Bombskatolo
+Skatolo da Bomboj
 IDS_JOURNAL_BOMBBOX_DESC
 Dek du bomboj en skatolo.
 IDS_JOURNAL_SPECTACLES
 Okulvitroj
 IDS_JOURNAL_SPECTACLES_DESC
-Belaj okulvitroj, kiuj ebligas vidi aferojn, kiuj normale ne videblas.
+Belaj okulvitroj, per kiuj oni povas vidi aferojn, kiuj normale ne videblas.
 IDS_JOURNAL_CLIMBINGGLOVES
 Grimpgantoj
 IDS_JOURNAL_CLIMBINGGLOVES_DESC
 Ili protektas viajn manojn kaj ebligas kroĉiĝi eĉ al la plej glitigaj muroj.
 IDS_JOURNAL_PITCHERSMITT
-Ĵetistganto
+Ĵetista Ganto
 IDS_JOURNAL_PITCHERSMITT_DESC
 Ĝi plibonigas vian kapablon ĵeti kaj kapti!
 IDS_JOURNAL_SPRINGSHOES
@@ -530,7 +529,7 @@ IDS_JOURNAL_SPRINGSHOES_DESC
 IDS_JOURNAL_SPIKESHOES
 Najloŝuoj
 IDS_JOURNAL_SPIKESHOES_DESC
-Marŝbotoj, kiuj havas akrajn najlojn ĉe la plandumoj.
+Marŝbotoj, kiuj havas akrajn najlojn malsupre ĉe la plandumoj.
 IDS_JOURNAL_CAMERA
 Fotilo
 IDS_JOURNAL_CAMERA_DESC
@@ -546,7 +545,7 @@ IDS_JOURNAL_PASTE_DESC
 IDS_JOURNAL_MATTOCK
 Hakfosilo
 IDS_JOURNAL_MATTOCK_DESC
-Akra ilo, kiu ege helpas la fosadon, sed la konstruo ne estas tre bona.
+Akra ilo, kiu ege utilas por fosado, sed ĝia konstruo ne estas tre bona.
 IDS_JOURNAL_MACHETE
 Maĉeto
 IDS_JOURNAL_MACHETE_DESC
@@ -568,9 +567,9 @@ IDS_JOURNAL_SHOTGUN
 IDS_JOURNAL_SHOTGUN_DESC
 !!Your typical 12-gauge shotgun.
 IDS_JOURNAL_FREEZERAY
-??Frostiga Radipafilo
+Frostoradia Pafilo
 IDS_JOURNAL_FREEZERAY_DESC
-Unu pafo de tio tute frostigas ion ajn.
+Unu pafo de tio frostigas ion ajn ĝis la kerno.
 IDS_JOURNAL_LASERGUN
 Plasma Kanono
 IDS_JOURNAL_LASERGUN_DESC
@@ -578,11 +577,11 @@ IDS_JOURNAL_LASERGUN_DESC
 IDS_JOURNAL_PARACHUTE
 Paraŝuto
 IDS_JOURNAL_PARACHUTE_DESC
-Ĝi aŭtomate uziĝos dum falo.
+Ĝi aŭtomate disfaldiĝas dum falo.
 IDS_JOURNAL_CAPE
 Tukmantelo
 IDS_JOURNAL_CAPE_DESC
-Ĝi aspektas mojose, kaj ankaŭ ebligas ŝvebadon en la aero.
+Ĝi aspektas tre mojose, kaj ankaŭ ebligas ŝvebadon en la aero.
 IDS_JOURNAL_TELEPORTER
 Teleportilo
 IDS_JOURNAL_TELEPORTER_DESC
@@ -606,7 +605,7 @@ IDS_JOURNAL_ROYALJELLY_DESC
 IDS_JOURNAL_IDOL
 Idolo
 IDS_JOURNAL_IDOL_DESC
-Ora statuo gardata de mortigas insidaĵoj. Portu ĝin al la elirejo por ricevi grandan monsumon!
+Ora statuo gardata de mortigaj insidiloj. Portu ĝin al la elirejo por ricevi multe da mono!
 IDS_JOURNAL_KAPALA
 Kapalo
 IDS_JOURNAL_KAPALA_DESC
@@ -618,7 +617,7 @@ Magia amuleto, kiu protektas sian posedanton kontraŭ fajro.
 IDS_JOURNAL_UDJATEYE
 Uĝat-okulo
 IDS_JOURNAL_UDJATEYE_DESC
-La Okulo estas antikva simolo de reĝa povo. Ĉu ĝi havas alian uzon?
+La Okulo estas antikva simbolo de reĝa povo. Ĉu ĝi havas alian uzon?
 IDS_JOURNAL_ANKH
 Anĥo
 IDS_JOURNAL_ANKH_DESC
@@ -630,25 +629,25 @@ La blanka krono de faraonoj. Per ĝi oni povas aliri sekretajn lokojn.
 IDS_JOURNAL_SCEPTRE
 Sceptro
 IDS_JOURNAL_SCEPTRE_DESC
-Tiu, kiu tenas la bastonon de Anubiso, havas regpovon super vivo kaj morto.
+Tiu, kiu tenas la bastonon de Anubiso, havas regpovon pri vivo kaj morto.
 IDS_JOURNAL_BOOKOFDEAD
 Libro de l' Mortintoj
 IDS_JOURNAL_BOOKOFDEAD_DESC
-Gardata de Anubiso II en la Ora Urbo. Ĝi malfermas la enirejon al la Submondo.
+Gardata de Anubiso II en la Ora Urbo. Ĝi malfermas la enirejon al la Infero.
 IDS_JOURNAL_SPIKES
 !!Spikess
 IDS_JOURNAL_SPIKES_DESC
 !!These protrusions will leave big holes in anyone unlucky enough to fall on them.
 IDS_JOURNAL_ARROWTRAP
-Saga insidaĵo
+Saga insidilo
 IDS_JOURNAL_ARROWTRAP_DESC
-Simpla insidaĵo. Ĝi pafas sagon, kiam io moviĝs antaŭ ĝi.
+Simpla insidilo. Ĝi pafas sagon, kiam io moviĝas antaŭ ĝi.
 IDS_JOURNAL_BOULDER
 Rulŝtonego
 IDS_JOURNAL_BOULDER_DESC
-Lerte farita insidaĵo uzata por puni ŝtelistojn.
+Tre komplika insidilo uzata por puni ŝtelistojn.
 IDS_JOURNAL_TIKITRAP
-Tiki-insidaĵo
+Tiki-insidilo
 IDS_JOURNAL_TIKITRAP_DESC
 Akraj pikiloj ĉe ambaŭ flankoj traboras ion ajn, kio tro proksimiĝas.
 IDS_JOURNAL_ACID
@@ -698,9 +697,9 @@ You picked up a journal! Press @- to open it.
 IDS_LEVELFEELING_CEMETARY
 The dead are restless...
 IDS_LEVELFEELING_MARKET
-!!Bonvenon al la Black Market!
+Bonvenon al la Nigra Merkato!
 IDS_LEVELFEELING_CASTLE
-??Lupo hojlas en la foro...
+Lupo hojlas distance...
 IDS_LEVELFEELING_SNAKEPIT
 Mi aŭdas serpentojn... Mi malamas serpentojn!
 IDS_LEVELFEELING_SPIDER
@@ -780,7 +779,7 @@ Bonvenon al la Specialvendejo de Aĥmed!
 IDS_SHOPWELCOME0C
 Bonvenon al la Vestaĵvendejo de Aĥmed!
 IDS_SHOPWELCOME0D
-Bonvenon al la Bombvendejo de Aĥmed!
+Bonvenon al la Bombovendejo de Aĥmed!
 IDS_SHOPWELCOME0E
 Bonvenon al la Armilvendejo de Aĥmed!
 IDS_SHOPWELCOME0F
@@ -798,7 +797,7 @@ Bonvenon al la Specialvendejo de Boris!
 IDS_SHOPWELCOME1C
 Bonvenon al la Vestaĵvendejo de Boris!
 IDS_SHOPWELCOME1D
-Bonvenon al la Bombvendejo de Boris!
+Bonvenon al la Bombovendejo de Boris!
 IDS_SHOPWELCOME1E
 Bonvenon al la Armilvendejo de Boris!
 IDS_SHOPWELCOME1F
@@ -816,7 +815,7 @@ Bonvenon al la Specialvendejo de Cezar!
 IDS_SHOPWELCOME2C
 Bonvenon al la Vestaĵvendejo de Cezar!
 IDS_SHOPWELCOME2D
-Bonvenon al la Bombvendejo de Cezar!
+Bonvenon al la Bombovendejo de Cezar!
 IDS_SHOPWELCOME2E
 Bonvenon al la Armilvendejo de Cezar!
 IDS_SHOPWELCOME2F
@@ -834,7 +833,7 @@ Bonvenon al la Specialvendejo de Darvin!
 IDS_SHOPWELCOME3C
 Bonvenon al la Vestaĵvendejo de Darvin!
 IDS_SHOPWELCOME3D
-Bonvenon al la Bombvendejo de Darvin!
+Bonvenon al la Bombovendejo de Darvin!
 IDS_SHOPWELCOME3E
 Bonvenon al la Armilvendejo de Darvin!
 IDS_SHOPWELCOME3F
@@ -852,7 +851,7 @@ Bonvenon al la Specialvendejo de Eraro!
 IDS_SHOPWELCOME4C
 Bonvenon al la Vestaĵvendejo de Eraro!
 IDS_SHOPWELCOME4D
-Bonvenon al la Bombvendejo de Eraro!
+Bonvenon al la Bombovendejo de Eraro!
 IDS_SHOPWELCOME4E
 Bonvenon al la Armilvendejo de Eraro!
 IDS_SHOPWELCOME4F
@@ -870,7 +869,7 @@ Bonvenon al la Specialvendejo de Frank!
 IDS_SHOPWELCOME5C
 Bonvenon al la Vestaĵvendejo de Frank!
 IDS_SHOPWELCOME5D
-Bonvenon al la Bombvendejo de Frank!
+Bonvenon al la Bombovendejo de Frank!
 IDS_SHOPWELCOME5E
 Bonvenon al la Armilvendejo de Frank!
 IDS_SHOPWELCOME5F
@@ -888,7 +887,7 @@ Bonvenon al la Garth's Specialvendejo!
 IDS_SHOPWELCOME6C
 Bonvenon al la Garth's Vestaĵvendejo!
 IDS_SHOPWELCOME6D
-Bonvenon al la Garth's Bombvendejo!
+Bonvenon al la Garth's Bombovendejo!
 IDS_SHOPWELCOME6E
 Bonvenon al la Garth's Armilvendejo!
 IDS_SHOPWELCOME6F
@@ -906,7 +905,7 @@ Bonvenon al la Specialvendejo de Hakim!
 IDS_SHOPWELCOME7C
 Bonvenon al la Vestaĵvendejo de Hakim!
 IDS_SHOPWELCOME7D
-Bonvenon al la Bombvendejo de Hakim!
+Bonvenon al la Bombovendejo de Hakim!
 IDS_SHOPWELCOME7E
 Bonvenon al la Armilvendejo de Hakim!
 IDS_SHOPWELCOME7F
@@ -924,7 +923,7 @@ Bonvenon al la Specialvendejo de Igĉjo!
 IDS_SHOPWELCOME8C
 Bonvenon al la Vestaĵvendejo de Igĉjo!
 IDS_SHOPWELCOME8D
-Bonvenon al la Bombvendejo de Igĉjo!
+Bonvenon al la Bombovendejo de Igĉjo!
 IDS_SHOPWELCOME8E
 Bonvenon al la Armilvendejo de Igĉjo!
 IDS_SHOPWELCOME8F
@@ -942,7 +941,7 @@ Bonvenon al la Specialvendejo de Ĉuk!
 IDS_SHOPWELCOME9C
 Bonvenon al la Vestaĵvendejo de Ĉuk!
 IDS_SHOPWELCOME9D
-Bonvenon al la Bombvendejo de Ĉuk!
+Bonvenon al la Bombovendejo de Ĉuk!
 IDS_SHOPWELCOME9E
 Bonvenon al la Armilvendejo de Ĉuk!
 IDS_SHOPWELCOME9F
@@ -960,7 +959,7 @@ Bonvenon al la Specialvendejo de Ĝef!
 IDS_SHOPWELCOME10C
 Bonvenon al la Vestaĵvendejo de Ĝef!
 IDS_SHOPWELCOME10D
-Bonvenon al la Bombvendejo de Ĝef!
+Bonvenon al la Bombovendejo de Ĝef!
 IDS_SHOPWELCOME10E
 Bonvenon al la Armilvendejo de Ĝef!
 IDS_SHOPWELCOME10F
@@ -978,7 +977,7 @@ Bonvenon al la Specialvendejo de Ludvik!
 IDS_SHOPWELCOME11C
 Bonvenon al la Vestaĵvendejo de Ludvik!
 IDS_SHOPWELCOME11D
-Bonvenon al la Bombvendejo de Ludvik!
+Bonvenon al la Bombovendejo de Ludvik!
 IDS_SHOPWELCOME11E
 Bonvenon al la Armilvendejo de Ludvik!
 IDS_SHOPWELCOME11F
@@ -996,7 +995,7 @@ Bonvenon al la Max's Specialvendejo!
 IDS_SHOPWELCOME12C
 Bonvenon al la Max's Vestaĵvendejo!
 IDS_SHOPWELCOME12D
-Bonvenon al la Max's Bombvendejo!
+Bonvenon al la Max's Bombovendejo!
 IDS_SHOPWELCOME12E
 Bonvenon al la Max's Armilvendejo!
 IDS_SHOPWELCOME12F
@@ -1014,7 +1013,7 @@ Bonvenon al la Specialvendejo de Naĉo!
 IDS_SHOPWELCOME13C
 Bonvenon al la Vestaĵvendejo de Naĉo!
 IDS_SHOPWELCOME13D
-Bonvenon al la Bombvendejo de Naĉo!
+Bonvenon al la Bombovendejo de Naĉo!
 IDS_SHOPWELCOME13E
 Bonvenon al la Armilvendejo de Naĉo!
 IDS_SHOPWELCOME13F
@@ -1032,7 +1031,7 @@ Bonvenon al la Specialvendejo de Omar!
 IDS_SHOPWELCOME14C
 Bonvenon al la Vestaĵvendejo de Omar!
 IDS_SHOPWELCOME14D
-Bonvenon al la Bombvendejo de Omar!
+Bonvenon al la Bombovendejo de Omar!
 IDS_SHOPWELCOME14E
 Bonvenon al la Armilvendejo de Omar!
 IDS_SHOPWELCOME14F
@@ -1050,7 +1049,7 @@ Bonvenon al la Specialvendejo de Pedro!
 IDS_SHOPWELCOME15C
 Bonvenon al la Vestaĵvendejo de Pedro!
 IDS_SHOPWELCOME15D
-Bonvenon al la Bombvendejo de Pedro!
+Bonvenon al la Bombovendejo de Pedro!
 IDS_SHOPWELCOME15E
 Bonvenon al la Armilvendejo de Pedro!
 IDS_SHOPWELCOME15F
@@ -1068,7 +1067,7 @@ Bonvenon al la Specialvendejo de Kvintus!
 IDS_SHOPWELCOME16C
 Bonvenon al la Vestaĵvendejo de Kvintus!
 IDS_SHOPWELCOME16D
-Bonvenon al la Bombvendejo de Kvintus!
+Bonvenon al la Bombovendejo de Kvintus!
 IDS_SHOPWELCOME16E
 Bonvenon al la Armilvendejo de Kvintus!
 IDS_SHOPWELCOME16F
@@ -1086,7 +1085,7 @@ Bonvenon al la Specialvendejo de Robin!
 IDS_SHOPWELCOME17C
 Bonvenon al la Vestaĵvendejo de Robin!
 IDS_SHOPWELCOME17D
-Bonvenon al la Bombvendejo de Robin!
+Bonvenon al la Bombovendejo de Robin!
 IDS_SHOPWELCOME17E
 Bonvenon al la Armilvendejo de Robin!
 IDS_SHOPWELCOME17F
@@ -1104,7 +1103,7 @@ Bonvenon al la Specialvendejo de Soĉjo!
 IDS_SHOPWELCOME18C
 Bonvenon al la Vestaĵvendejo de Soĉjo!
 IDS_SHOPWELCOME18D
-Bonvenon al la Bombvendejo de Soĉjo!
+Bonvenon al la Bombovendejo de Soĉjo!
 IDS_SHOPWELCOME18E
 Bonvenon al la Armilvendejo de Soĉjo!
 IDS_SHOPWELCOME18F
@@ -1122,7 +1121,7 @@ Bonvenon al la Specialvendejo de Tonjo!
 IDS_SHOPWELCOME19C
 Bonvenon al la Vestaĵvendejo de Tonjo!
 IDS_SHOPWELCOME19D
-Bonvenon al la Bombvendejo de Tonjo!
+Bonvenon al la Bombovendejo de Tonjo!
 IDS_SHOPWELCOME19E
 Bonvenon al la Armilvendejo de Tonjo!
 IDS_SHOPWELCOME19F
@@ -1140,7 +1139,7 @@ Bonvenon al la Specialvendejo de Ulf!
 IDS_SHOPWELCOME20C
 Bonvenon al la Vestaĵvendejo de Ulf!
 IDS_SHOPWELCOME20D
-Bonvenon al la Bombvendejo de Ulf!
+Bonvenon al la Bombovendejo de Ulf!
 IDS_SHOPWELCOME20E
 Bonvenon al la Armilvendejo de Ulf!
 IDS_SHOPWELCOME20F
@@ -1158,7 +1157,7 @@ Bonvenon al la Specialvendejo de Vim!
 IDS_SHOPWELCOME21C
 Bonvenon al la Vestaĵvendejo de Vim!
 IDS_SHOPWELCOME21D
-Bonvenon al la Bombvendejo de Vim!
+Bonvenon al la Bombovendejo de Vim!
 IDS_SHOPWELCOME21E
 Bonvenon al la Armilvendejo de Vim!
 IDS_SHOPWELCOME21F
@@ -1176,7 +1175,7 @@ Bonvenon al la Specialvendejo de Ĵak!
 IDS_SHOPWELCOME22C
 Bonvenon al la Vestaĵvendejo de Ĵak!
 IDS_SHOPWELCOME22D
-Bonvenon al la Bombvendejo de Ĵak!
+Bonvenon al la Bombovendejo de Ĵak!
 IDS_SHOPWELCOME22E
 Bonvenon al la Armilvendejo de Ĵak!
 IDS_SHOPWELCOME22F
@@ -1194,7 +1193,7 @@ Bonvenon al la Specialvendejo de Ŝigeru!
 IDS_SHOPWELCOME23C
 Bonvenon al la Vestaĵvendejo de Ŝigeru!
 IDS_SHOPWELCOME23D
-Bonvenon al la Bombvendejo de Ŝigeru!
+Bonvenon al la Bombovendejo de Ŝigeru!
 IDS_SHOPWELCOME23E
 Bonvenon al la Armilvendejo de Ŝigeru!
 IDS_SHOPWELCOME23F
@@ -1212,7 +1211,7 @@ Bonvenon al la Specialvendejo de Joŝi!
 IDS_SHOPWELCOME24C
 Bonvenon al la Vestaĵvendejo de Joŝi!
 IDS_SHOPWELCOME24D
-Bonvenon al la Bombvendejo de Joŝi!
+Bonvenon al la Bombovendejo de Joŝi!
 IDS_SHOPWELCOME24E
 Bonvenon al la Armilvendejo de Joŝi!
 IDS_SHOPWELCOME24F
@@ -1230,7 +1229,7 @@ Bonvenon al la Specialvendejo de Zigmund!
 IDS_SHOPWELCOME25C
 Bonvenon al la Vestaĵvendejo de Zigmund!
 IDS_SHOPWELCOME25D
-Bonvenon al la Bombvendejo de Zigmund!
+Bonvenon al la Bombovendejo de Zigmund!
 IDS_SHOPWELCOME25E
 Bonvenon al la Armilvendejo de Zigmund!
 IDS_SHOPWELCOME25F
@@ -1242,17 +1241,17 @@ Bonvenon al la Rado de Premioj de Zigmund!
 IDS_SHOPWELCOME25I
 Bonvenon al la Ĝenerala Vendejo de Zigmund!
 IDS_BUY_ITEM_ROPEPILE
-!!Buy Rope Pile
+Aĉeti Stakon da Ŝnuroj
 IDS_BUY_ITEM_BOMBBAG
-Aĉeti Bombsakon
+Aĉeti Sakon da Bomboj
 IDS_BUY_ITEM_BOMBBOX
-Aĉeti Bombskatolon
+Aĉeti Skatolon da Bomboj
 IDS_BUY_ITEM_SPECTACLES
 Aĉeti Okulvitrojn
 IDS_BUY_ITEM_CLIMBINGGLOVES
 Aĉeti Grimpgantojn
 IDS_BUY_ITEM_PITCHERSMITT
-??Aĉeti Ĵetistganton
+Aĉeti Ĵetistan Ganton
 IDS_BUY_ITEM_SPRINGSHOES
 Aĉeti Risortŝuojn
 IDS_BUY_ITEM_SPIKESHOES
@@ -1270,19 +1269,19 @@ Aĉeti Maĉeton
 IDS_BUY_ITEM_BOOMERANG
 Aĉeti Bumerangon
 IDS_BUY_ITEM_CRYSKNIFE
-!!Buy Crysknife
+Aĉeti Kristranĉilon
 IDS_BUY_ITEM_WEBGUN
 Aĉeti Retpafilon
 IDS_BUY_ITEM_SHOTGUN
 ??Aĉeti Hajlofusilon
 IDS_BUY_ITEM_FREEZERAY
-!!Buy Freeze Ray
+Aĉeti Frostoradian Pafilon
 IDS_BUY_ITEM_LASERGUN
 Aĉeti Plasman Kanonon
 IDS_BUY_ITEM_PARACHUTE
 Aĉeti Paraŝuton
 IDS_BUY_ITEM_CAPE
-??Aĉeti Tukmantelon
+Aĉeti Tukmantelon
 IDS_BUY_ITEM_TELEPORTER
 Aĉeti Teleportilon
 IDS_BUY_ITEM_JETPACK
@@ -1290,7 +1289,7 @@ IDS_BUY_ITEM_JETPACK
 IDS_BUY_ITEM_SHIELD
 Aĉeti Ŝildon
 IDS_BUY_ITEM_VLADSWINGS
-Buy Vlad's Cape
+Aĉeti Mantelon de Vlad
 IDS_BUY_ITEM_ROYALJELLY
 Buy Royal Jelly
 IDS_BUY_ITEM_IDOL
@@ -1308,9 +1307,9 @@ Aĉeti Heĝeton
 IDS_BUY_ITEM_SCEPTRE
 Aĉeti Sceptron
 IDS_BUY_ITEM_BOOKOFDEAD
-Buy Book of the Dead
+Aĉeti Libron de l' Mortintoj
 IDS_BUY_DAMSEL
-Buy Damsel
+Aĉeti Senhelpulon
 IDS_BUY_KISS
 Aĉeti Kison
 IDS_BUY_SLAVE1
@@ -1398,7 +1397,7 @@ IDS_SHOPMSG_ALLYOURS
 IDS_TUNNELMAN
 Tunelviro
 IDS_TUNNELMAN1
-Saluton al vi! Mi estas la Tunelviro.
+Ha, saluton! Mi estas la Tunelviro.
 IDS_TUNNELMAN2
 !!You can donate a little bit of money each time. I'll remember how much you've paid me.
 IDS_TUNNELMAN3_1
@@ -1450,7 +1449,7 @@ Mono:
 IDS_LABEL_TIME
 Tempo:
 IDS_LABEL_DAMSELS
-Fraŭl(in)oj:
+Savitoj:
 IDS_LABEL_KILLS
 Mortigoj
 IDS_LABEL_TOTALDEATHS
@@ -1538,7 +1537,7 @@ IDS_GAMEOVERDESC_MULTILUSH
 IDS_GAMEOVERDESC_MULTIMINES
 !!We need to work on our teamwork!
 IDS_GAMEOVERDESC_WORM
-Nu, mi esperas, ke almenaŭ mi bongustas.
+Nu, mi esperas, ke almenaŭ mi bongustas!
 IDS_GAMEOVERDESC_MINESEND
 !!The end of the mines was just in sight! If I could survive a little longer...
 IDS_GAMEOVERDESC_LUSHEND
@@ -1582,7 +1581,7 @@ Mi mortis pro mordetado de piranjo.
 IDS_GAMEOVERDESC_JAWS
 !!I was torn apart by the legendary river monster.
 IDS_GAMEOVERDESC_BEE
-Mi pensas, ke mi havas abelan alergion.
+Ŝajne mi havas abelan alergion.
 IDS_GAMEOVERDESC_ACID
 !!My flesh is melting right off the bone.
 IDS_GAMEOVERDESC_JIANGSHI
@@ -1600,7 +1599,7 @@ IDS_GAMEOVERDESC_VAMPIRE
 IDS_GAMEOVERDESC_YETIKING
 !!I've been thrashed by the king of the yetis.
 IDS_GAMEOVERDESC_ALIEN
-Mi hontas diri, sed eta eksterterano mortigis min.
+Hontinde, eta eksterterano mortigis min.
 IDS_GAMEOVERDESC_MAGMAMAN
 Magmulo mortbruligis min.
 IDS_GAMEOVERDESC_VLAD
@@ -1628,7 +1627,7 @@ IDS_GAMEOVERDESC_CRUSHED
 IDS_GAMEOVERDESC_FROZEN
 !!My frozen body shattered into a million pieces.
 IDS_GAMEOVERDESC_ABYSS
-Helpu min! Mi ankoraǔ falas senĉese!
+Helpu min! Mi ne ĉesas fali!
 IDS_GAMEOVERDESC_LAVA
 !!I've been burnt to a crisp.
 IDS_GAMEOVERDESC_UFO
@@ -1820,11 +1819,11 @@ INFERO 5-3
 IDS_LEVEL_5_4
 INFERO 5-4
 IDS_LEVEL_MARKET
-NIGRAMERKATEJO
+NIGRA MERKATO
 IDS_LEVEL_CASTLE
 HANTATA KASTELO
 IDS_LEVEL_MOTHERSHIP
-??PATRINŜIPO
+PATRINŜIPO
 IDS_LEVEL_WORM
 VERMO
 IDS_LEVEL_COG
@@ -1912,11 +1911,11 @@ IDS_DEATHMATCH_OFF
 IDS_ENDING_YANG1
 Salutojn, mia kolega trezorĉasisto! Mi estas Jang!
 IDS_ENDING_YANG2
-Mi vidas, ke vi havas mian ĵurnalon ĉe vi! Certe ĝi jam plenas je skribaĵoj pri ĉiaj mirindaĵoj.
+Mi vidas, ke vi havas mian ĵurnalon ĉe vi! Certe ĝi jam plenas de skribaĵoj pri ĉiaj mirindaĵoj.
 IDS_ENDING_YANG3
-Vi multe laboris por atingi ĉi tiun lokon, do vi verŝajne atendas ricevi grandan rekompencon.
+Vi multe laboris por atingi ĉi tiun lokon, do certe vi atendas ricevi grandan rekompencon.
 IDS_ENDING_YANG4
-Sed, nu, pro mia longa vivado ĉi tie sub la tero, mi konsciis kelkajn aferojn...
+Sed, nu, pro tio ke mi pasigis multe da tempo ĉi tie subtere, mi ekkonsciis pri kelkaj aferoj...
 IDS_ENDING_YANG5
 La vojaĝo mem estas rekompenco, kaj plena regado de iu kapablo estas la plej valora trezoro de la tuta mondo!
 IDS_ENDING_YANG6
@@ -1928,11 +1927,11 @@ Valoro:
 IDS_GUIDE_BACK
 @B Reen
 IDS_GUIDE_MAINMENU
-@B Reen al ĉefmenuo
+@B Reen al ĉefa menuo
 IDS_SETTINGS
 AGORDOJ
 IDS_ENDING_HERO
-La homaro memoros vin kiel heroo.
+Oni memoros vin kiel heroon.
 IDS_ENDING_MADEIT
 VI SUKCESIS!
 IDS_ENDING_THANKS
@@ -1946,13 +1945,13 @@ ELEKTU AVENTURISTON
 IDS_CONTROLS_MOVE
 @L Movi
 IDS_GUIDE_UNLOCK
-??@X Malŝlosi la tutan ludon
+@X Malŝlosi la plenan ludon
 IDS_MINES
 MINEJOJ
 IDS_LUSH
-PLANTEJO
+VERDEJO
 IDS_ICE
-GLACEJO
+GLACIAJ GROTOJ
 IDS_TEMPLE
 TEMPLO
 IDS_HELL
@@ -1968,7 +1967,7 @@ PUPO
 IDS_ARENA_DLC4
 PLENKRESKULO
 IDS_CREDITS
-!!CREDITS
+AGNOSKOJ
 IDS_CREDITS_SPELUNKY
 SPELUNKY
 IDS_CREDITS_LEAD_DESIGN
@@ -2018,9 +2017,9 @@ Dankon pro via ludado!
 IDS_HELP_AND_OPTIONS
 !!HELP & OPTIONS
 IDS_HNO_HOW_TO_PLAY
-??Kiel ludi
+Kiel ludi
 IDS_HNO_CONTROLS
-!1Controls
+!!Controls
 IDS_HNO_SETTINGS
 Agordoj
 IDS_HNO_CREDITS
@@ -2050,9 +2049,9 @@ IDS_SETTINGS_SFX
 IDS_SETTINGS_MUSIC
 !!Music Volume
 IDS_SETTINGS_BRIGHTNESS
-Ekranheleco
+Heleco de ekrano
 IDS_SETTINGS_DAMSEL
-Tipo de Fraŭl(in)o
+Tipo de Senhelpulo
 IDS_GUIDE_RESET_SETTINGS
 @X Defaŭltaj agordoj
 IDS_DM_PLAYER_1_WINS
@@ -2098,7 +2097,7 @@ IDS_JOURNAL_POWDERKEG_DESC
 IDS_CHILL
 !!A terrible chill runs up your spine!
 IDS_JOURNAL_ENTRY_ADDED
-Ĵurnal-enskribaĵo aldoniĝis
+Nova enskribaĵo en ĵurnalo
 IDS_CHARACTER_UNLOCKED
 ??New Character Unlocked
 IDS_ENDING_YANG_NOWORDS
@@ -2108,7 +2107,7 @@ Fina poentsumo:
 IDS_ENDING_TIME
 Tempo:
 IDS_GUIDE_SELECTCHAR
-@A Elektu rolulon
+@A Elekti rolulon
 IDS_SCEPTRE_FITS
 !!The sceptre fits, but nothing is happening!
 IDS_WRONG_KEY
@@ -2128,9 +2127,9 @@ IDS_HEADER_ROPES
 IDS_HEADER_MONEY
 MONO
 IDS_CONTROLS_PICKUP
-Premadu @L and dume premu @S por preni objektojn kaj homojn.
+Premtenu @L kaj dume premu @S por preni objektojn kaj homojn.
 IDS_WARNING_UNSAVED
-Ĉu vi certas? Ĉiom de la nekonservita progreso estos perdita.
+Ĉu vi certas? Vi perdos ĉiun nekonservitan progreson.
 IDS_WARNING_NOTSAVED
 Ĉu vi certas? Poentsumoj ne konserviĝos.
 IDS_ERROR_CORRUPTDLC
@@ -2156,7 +2155,7 @@ IDS_GUIDE_NO
 IDS_GUIDE_OK
 @A Bone
 IDS_GUIDE_CONNECT
-@A Konekti al Xbox LIVE
+@A Konektiĝi al Xbox LIVE
 IDS_GUIDE_NOSAVE
 @B Daŭrigi sen konservi poentsumon
 IDS_SHORTCUT_BOMBS
@@ -2200,7 +2199,7 @@ That key you're holding looks like it might fit! Can I have it?
 IDS_GAMEOVERDESC_YAMA
 My soul was judged unworthy by the King of the Underworld.
 IDS_GUIDE_QUICKRESTART
-@X Reekludi nun
+@X Tuj reekludi
 IDS_GUIDE_SELECT
 @A Select
 IDS_GUIDE_DONATE
@@ -2502,7 +2501,7 @@ HIGH
 IDS_LOW
 LOW
 IDS_QUICKSTART
-@X Ekludi nun
+@X Tuj ekludi
 IDS_REMAP_INVERT_RUN_OFF
 Invert Run: OFF
 IDS_REMAP_INVERT_RUN_ON
