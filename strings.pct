@@ -35,7 +35,7 @@ kaj unu lastan fojon mi pensis pri ŝi.
 IDS_INTRO3_2
 kaj tenis mian ĉapelon kontraŭ la vento.
 IDS_INTRO3_3
-!!And a cold chill took hold of me.
+kaj malvarma tremo trakuris mian korpon.
 IDS_INTRO3_4
 kaj demandis min, kiom longe mi restos subtere.
 IDS_INTRO3_5
@@ -105,11 +105,11 @@ Butikoj povas provizi ankaŭ diversajn aliajn utilajn ilojn. Ekzemple, ĉi tiu k
 IDS_HOWTOPLAY4_1
 Malsupre en ĉiu nivelo estas elirejo, kiu kondukas al pli profundaj partoj de la kavernoj. Tio estas via celo!
 IDS_HOWTOPLAY4_2
-!!Lovely damsels have gotten trapped down here. If you bring them safely to the exits they'll reward you with health.
+Allogaj senhelpuloj kaptiĝis en la kavernoj. Se vi sekure kunportos ilin al elirejo, ili donos koron da vivo kiel rekompencon.
 IDS_HOWTOPLAY4_3
-!!You can also bring these golden idols to the exits for big money rewards. They're usually guarded by deadly traps.
+Ankaŭ eblas porti ĉi tiajn orajn idolojn al la elirejo por ricevi multe da mono. Kutime mortigaj insidiloj gardas ilin.
 IDS_HOWTOPLAY4_4
-!!That covers the basics, but there's so much more to discover once you start playing! Have fun!
+Tio estis la bazaj sciendaĵoj, sed estas ankoraŭ multe pli por malkovri dum ludado! Amuziĝu!
 IDS_JOURNAL
 Ĵurnalo
 IDS_JOURNAL_PLACES
@@ -195,9 +195,9 @@ Neuzata
 IDS_JOURNAL_TUTORIAL1
 Salutojn! Mia nomo estas Jang, kaj ĉi tio estas mia ĵurnalo. Polvaj mapoj kaj onidiroj pri eksterordinaraj trezoroj gvidis min ĉi tien, profunde sub la dezerton.
 IDS_JOURNAL_TUTORIAL2
-There's something very strange about this place... the layout seems to change all the time. I've never seen the same room twice!
+Estas io ege stranga pri ĉi tiu loko... la aranĝo de ĉio ŝajnas ŝanĝiĝi la tutan tempon. Mi ankoraŭ neniam dufoje vidis la saman ĉambron!
 IDS_JOURNAL_TUTORIAL3
-It could be the legendary Curse of Olmec, the one they say traps people inside the caves forever!
+Eble temas pri la legenda malbeno de Olmeko, kiu onidire eterne kaptas homojn en la kavernoj!
 IDS_JOURNAL_TUTORIAL4
 I push the idea out of my mind and focus on the treasure, instead. If I master the basics of movement and combat, I know I'll leave here a rich man!
 IDS_JOURNAL_TUTORIAL5
@@ -219,7 +219,7 @@ I'm descending into the caves for what I hope is the last time. I won't return u
 IDS_JOURNAL_TUTORIAL13
 Or are there even greater delights to be discovered? Well, there's only one way to find out!
 IDS_JOURNAL_TUTORIAL14
-Take this key. It will open the entrance to the mines. Follow me if you dare!*Happy Exploring!*-Yang
+Prenu ĉi tiun ŝlosilon. Ĝi malfermos la enirejon de la minejoj. Sekvu min, se vi kuraĝas!*Bonan esploradon!*-Jang
 IDS_JOURNAL_KILLS
 Mortigoj:
 IDS_JOURNAL_KILLEDBY
@@ -273,7 +273,7 @@ Tiu ĉi facile kolerigebla komercisto vendas ion ajn, se la prezo ĝustas. Li ma
 IDS_JOURNAL_TUNNELMAN
 Tunelviro
 IDS_JOURNAL_TUNNELMAN_DESC
-Gaja viro, kiu profesie fosas tunelojn al la plej profundaj partoj de la kaveroj.
+Gaja viro, kiu profesie fosas tunelojn al la plej profundaj partoj de la kavernoj.
 IDS_JOURNAL_SCARAB
 Skarabo
 IDS_JOURNAL_SCARAB_DESC
@@ -297,7 +297,7 @@ Tiu ĉi aparte granda amfibio portas siajn idojn en sia buŝo.
 IDS_JOURNAL_MANTRAP
 Homkaptilo
 IDS_JOURNAL_MANTRAP_DESC
-Karnovoraj plantoj, kiuj ŝatas manĝi homaĵon.
+Karnovora planto, kiu ŝatas manĝi homaĵon.
 IDS_JOURNAL_PIRANHA
 Piranjo
 IDS_JOURNAL_PIRANHA_DESC
@@ -313,7 +313,7 @@ Abelo kun pikilo granda kiel harpuno. Ĝi estas tre protektema pri sia nesto.
 IDS_JOURNAL_QUEENBEE
 Abelreĝino
 IDS_JOURNAL_QUEENBEE_DESC
-!!Bee royalty. She might have some delicious royal jelly stuck to her abdomen.
+!!Abela monarĥo. She might have some delicious royal jelly stuck to her abdomen.
 IDS_JOURNAL_SNAIL
 Heliko
 IDS_JOURNAL_SNAIL_DESC
@@ -329,7 +329,7 @@ Amikeca sed apenaŭ trovebla primato, kiu ŝatas aventurumi.
 IDS_JOURNAL_JIANGSHI
 Ĉjan Ŝi
 IDS_JOURNAL_JIANGSHI_DESC
-!!This restless zombie attacks humans to absorb their life essence.
+Ĉi tiu senripoza zombio atakas homojn por sorbi ilian vivenergion.
 IDS_JOURNAL_GREENKNIGHT
 Verda Kavaliro
 IDS_JOURNAL_GREENKNIGHT_DESC
@@ -337,7 +337,7 @@ Kiu aŭ kio estas en tiu hantata kiraso?
 IDS_JOURNAL_BLACKKNIGHT
 Nigra Kavaliro
 IDS_JOURNAL_BLACKKNIGHT_DESC
-!!La lordo de la kastelo. He fights with supreme confidence and won't give up until death.
+La lordo de la kastelo. Li batalas kun absoluta memfido kaj ne rezignos ĝis sia morto.
 IDS_JOURNAL_VAMPIRE
 Vampiro
 IDS_JOURNAL_VAMPIRE_DESC
@@ -373,13 +373,13 @@ Oni supozis, ke tiuj ĉi harplenaj bestoj estis formortintaj. Ĝia spiro estas k
 IDS_JOURNAL_ALIEN
 Eksterterano
 IDS_JOURNAL_ALIEN_DESC
-!!Invaders from space... what are they doing down here?
+Invadantoj el la kosmo... Kial ili estas ĉi tie subtere?
 IDS_JOURNAL_UFO
 Nifo
 IDS_JOURNAL_UFO_DESC
 Fluganta subtaso, kiu moviĝas per mistera ekstertera teknologio.
 IDS_JOURNAL_ALIENTANK
-!!Alien Tank
+Kosma Tanko
 IDS_JOURNAL_ALIENTANK_DESC
 !!The survival rate of tank drivers is at an all-time low.
 IDS_JOURNAL_ALIENLORD
@@ -387,7 +387,7 @@ IDS_JOURNAL_ALIENLORD
 IDS_JOURNAL_ALIENLORD_DESC
 !!A powerful psychic creature that commands a large spacecraft.
 IDS_JOURNAL_ALIENQUEEN
-!!Alien Queen
+Reĝino de Eksterteranoj
 IDS_JOURNAL_ALIENQUEEN_DESC
 !!The mastermind of the alien invasion. She has incredible psychic powers.
 IDS_JOURNAL_HAWKMAN
@@ -405,7 +405,7 @@ Fajra elementvivaĵo, kiu formis por si korpon el lafo.
 IDS_JOURNAL_SCORPIONFLY
 Skorpia Muŝo
 IDS_JOURNAL_SCORPIONFLY_DESC
-!!It's as dangerous on the ground as it is in the air.
+Ĝi same danĝeras sur la planko kiel en la aero.
 IDS_JOURNAL_MUMMY
 Mumio
 IDS_JOURNAL_MUMMY_DESC
@@ -439,27 +439,27 @@ IDS_JOURNAL_SUCCUBUS
 IDS_JOURNAL_SUCCUBUS_DESC
 !!A mistress of Vlad. She seduces men and women alike in the service of her master.
 IDS_JOURNAL_OXFACE
-!!Ox Face
+Bovvizaĝulo
 IDS_JOURNAL_OXFACE_DESC
-!!King Yama's left-hand man. He has the face of an ox.
+La maldekstramanulo de Reĝo Jama. Li havas vizaĝon de bovo.
 IDS_JOURNAL_HORSEHEAD
-!!Horse Head
+Ĉevalkapulo
 IDS_JOURNAL_HORSEHEAD_DESC
-!!King Yama's right-hand man. He has the head of a horse.
+La dekstramanulo de Reĝo Jama. Li havas kapon de ĉevalo.
 IDS_JOURNAL_KINGYAMA
 Reĝo Jama
 IDS_JOURNAL_KINGYAMA_DESC
 La reganto de la Infero! Li punas damnitojn sidante sur sanga trono.
 IDS_JOURNAL_MINES
-!!The Mines
+Minejoj
 IDS_JOURNAL_MINES_DESC
 !!An abandoned mine with many deep shafts.
 IDS_JOURNAL_LUSH
-!!Lush
+Verdejo
 IDS_JOURNAL_LUSH_DESC
 !!The trees here have found a way to grow without any sunlight.
 IDS_JOURNAL_ICE
-!!Ice Caves
+Glaciaj Grotoj
 IDS_JOURNAL_ICE_DESC
 !!Icy rocks suspended over a bottomless abyss.
 IDS_JOURNAL_TEMPLE
@@ -471,7 +471,7 @@ Infero
 IDS_JOURNAL_HELL_DESC
 !!The Underworld. Sheol. Hades. One thing's for certain: it's HOT down here!
 IDS_JOURNAL_CEMETARY
-!!Cemetery
+Tombejo
 IDS_JOURNAL_CEMETARY_DESC
 !!This barren place is home for all manner of undead creatures.
 IDS_JOURNAL_CASTLE
@@ -479,21 +479,21 @@ IDS_JOURNAL_CASTLE
 IDS_JOURNAL_CASTLE_DESC
 !!Long ago, the knights who dwelt here were cursed with eternal life.
 IDS_JOURNAL_MARKET
-!!Black Market
+Nigra Merkato
 IDS_JOURNAL_MARKET_DESC
-!!You may be able to purchase some one-of-a-kind items in this hidden place...
+Eble vi povus aĉeti kelkajn tre unikajn objektojn en ĉi tiu kaŝita loko...
 IDS_JOURNAL_WORM
-!!Worm
+Vermo
 IDS_JOURNAL_WORM_DESC
-!!In one end and out the other.
+Oni eniras je unu ekstremaĵo, kaj eliras je la alia.
 IDS_JOURNAL_YETICAVE
-!!Yeti Cave
+Jetia Kaverno
 IDS_JOURNAL_YETICAVE_DESC
-!!Home to a family yetis. No wonder it smells!
+Hejmo de familio da jetioj. Pro tio do la odoraĉo!
 IDS_JOURNAL_MOTHERSHIP
-!!Mothership
+Patrinoŝipo
 IDS_JOURNAL_MOTHERSHIP_DESC
-!!An impossibly large alien craft.
+Nekredeble granda veturilo de eksterteranoj.
 IDS_JOURNAL_COG
 Ora Urbo
 IDS_JOURNAL_COG_DESC
@@ -501,7 +501,7 @@ La Ora Urbo! Do la legendoj estis veraj!
 IDS_JOURNAL_ROPEPILE
 Stako da Ŝnuroj
 IDS_JOURNAL_ROPEPILE_DESC
-!!Ropes are an essential tool of the explorer. Great for those hard-to-reach places!
+Ŝnuroj estas nepre havendaj iloj por esploristoj. Tre utilaj por malfacile atingeblaj lokoj!
 IDS_JOURNAL_BOMBBAG
 Sako da Bomboj
 IDS_JOURNAL_BOMBBAG_DESC
@@ -585,15 +585,15 @@ IDS_JOURNAL_CAPE_DESC
 IDS_JOURNAL_TELEPORTER
 Teleportilo
 IDS_JOURNAL_TELEPORTER_DESC
-!!A piece of futuristic technology! But it hasn't been perfected yet...
+Teknologiaĵo, kiu kvazaŭ estas el la estonteco! Sed ĝi ankoraŭ havas kelkajn mankojn...
 IDS_JOURNAL_JETPACK
 !!Jetpack
 IDS_JOURNAL_JETPACK_DESC
-!!The coolest way to travel. The fuel replenishes while you're on the ground.
+Ne ekzistas pli mojosa maniero por vojaĝi. La fuelo repleniĝas, kiam vi staras surtere.
 IDS_JOURNAL_SHIELD
 Ŝildo
 IDS_JOURNAL_SHIELD_DESC
-!!The ultimate in protective armor! Even a cannonball couldn't get through this.
+La plej potenca protektilo iam ajn! Eĉ kuglego de kanono ne kapablus trairi ĝin.
 IDS_JOURNAL_VLADSWINGS
 Mantelo de Vlad
 IDS_JOURNAL_VLADSWINGS_DESC
@@ -621,7 +621,7 @@ La Okulo estas antikva simbolo de reĝa povo. Ĉu ĝi havas alian uzon?
 IDS_JOURNAL_ANKH
 Anĥo
 IDS_JOURNAL_ANKH_DESC
-!!A magical artifact that symbolizes eternal life.
+Antikva magia objekto, kiu simbolas eternan vivon.
 IDS_JOURNAL_HEDJET
 Heĝeto
 IDS_JOURNAL_HEDJET_DESC
@@ -635,9 +635,9 @@ Libro de l' Mortintoj
 IDS_JOURNAL_BOOKOFDEAD_DESC
 Gardata de Anubiso II en la Ora Urbo. Ĝi malfermas la enirejon al la Infero.
 IDS_JOURNAL_SPIKES
-!!Spikess
+!!Spikes
 IDS_JOURNAL_SPIKES_DESC
-!!These protrusions will leave big holes in anyone unlucky enough to fall on them.
+!![These protrusions] faros grandan truojn en ĉiu malbonŝanculo, kiu falas sur ilin.
 IDS_JOURNAL_ARROWTRAP
 Saga insidilo
 IDS_JOURNAL_ARROWTRAP_DESC
@@ -733,7 +733,7 @@ Eraro
 IDS_SHOPKEEPER_NAME6
 Frank
 IDS_SHOPKEEPER_NAME7
-!!Garth G
+Gido
 IDS_SHOPKEEPER_NAME8
 Hakim
 IDS_SHOPKEEPER_NAME9
@@ -745,7 +745,7 @@ IDS_SHOPKEEPER_NAME11
 IDS_SHOPKEEPER_NAME12
 Ludvik
 IDS_SHOPKEEPER_NAME13
-!!Max M
+Maks
 IDS_SHOPKEEPER_NAME14
 Naĉo
 IDS_SHOPKEEPER_NAME15
@@ -881,23 +881,23 @@ Bonvenon al la Rado de Premioj de Frank!
 IDS_SHOPWELCOME5I
 Bonvenon al la Ĝenerala Vendejo de Frank!
 IDS_SHOPWELCOME6A
-!!Bonvenon al la Garth's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Gido!
 IDS_SHOPWELCOME6B
-Bonvenon al la Garth's Specialvendejo!
+Bonvenon al la Specialvendejo de Gido!
 IDS_SHOPWELCOME6C
-Bonvenon al la Garth's Vestaĵvendejo!
+Bonvenon al la Vestaĵvendejo de Gido!
 IDS_SHOPWELCOME6D
-Bonvenon al la Garth's Bombovendejo!
+Bonvenon al la Bombovendejo de Gido!
 IDS_SHOPWELCOME6E
-Bonvenon al la Garth's Armilvendejo!
+Bonvenon al la Armilvendejo de Gido!
 IDS_SHOPWELCOME6F
-Bonvenon al la Garth's Kisbudo!
+Bonvenon al la Kisbudo de Gido!
 IDS_SHOPWELCOME6G
-Bonvenon al la Garth's Helpistejo!
+Bonvenon al la Helpistejo de Gido!
 IDS_SHOPWELCOME6H
-Bonvenon al la Garth's Rado de Premioj!
+Bonvenon al la Rado de Premioj de Gido!
 IDS_SHOPWELCOME6I
-Bonvenon al la Garth's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Gido!
 IDS_SHOPWELCOME7A
 Bonvenon al la Ĝenerala Vendejo de Hakim!
 IDS_SHOPWELCOME7B
@@ -989,23 +989,23 @@ Bonvenon al la Rado de Premioj de Ludvik!
 IDS_SHOPWELCOME11I
 Bonvenon al la Ĝenerala Vendejo de Ludvik!
 IDS_SHOPWELCOME12A
-!!Bonvenon al la Max's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Maks!
 IDS_SHOPWELCOME12B
-Bonvenon al la Max's Specialvendejo!
+Bonvenon al la Specialvendejo de Maks!
 IDS_SHOPWELCOME12C
-Bonvenon al la Max's Vestaĵvendejo!
+Bonvenon al la Vestaĵvendejo de Maks!
 IDS_SHOPWELCOME12D
-Bonvenon al la Max's Bombovendejo!
+Bonvenon al la Bombovendejo de Maks!
 IDS_SHOPWELCOME12E
-Bonvenon al la Max's Armilvendejo!
+Bonvenon al la Armilvendejo de Maks!
 IDS_SHOPWELCOME12F
-Bonvenon al la Max's Kisbudo!
+Bonvenon al la Kisbudo de Maks!
 IDS_SHOPWELCOME12G
-Bonvenon al la Max's Helpistejo!
+Bonvenon al la Helpistejo de Maks!
 IDS_SHOPWELCOME12H
-Bonvenon al la Max's Rado de Premioj!
+Bonvenon al la Rado de Premioj de Maks!
 IDS_SHOPWELCOME12I
-Bonvenon al la Max's Ĝenerala Vendejo!
+Bonvenon al la Ĝenerala Vendejo de Maks!
 IDS_SHOPWELCOME13A
 Bonvenon al la Ĝenerala Vendejo de Naĉo!
 IDS_SHOPWELCOME13B
@@ -1823,7 +1823,7 @@ NIGRA MERKATO
 IDS_LEVEL_CASTLE
 HANTATA KASTELO
 IDS_LEVEL_MOTHERSHIP
-PATRINŜIPO
+PATRINOŜIPO
 IDS_LEVEL_WORM
 VERMO
 IDS_LEVEL_COG
@@ -2003,9 +2003,9 @@ IDS_CREDITS_EXEC_PRODUCER
 IDS_CREDITS_MILESTONE
 !!Milestone Acceptance Tester
 IDS_CREDITS_EUROPE_LOC
-!!Europe Localization Team
+Eŭropa tradukteamo
 IDS_CREDITS_ASIA_LOC
-!!Asia Localization Team
+Azia tradukteamo
 IDS_CREDITS_SPECIAL_THANKS
 !!Special Thanks
 IDS_CREDITS_AS_ALWAYS
@@ -2099,7 +2099,7 @@ IDS_CHILL
 IDS_JOURNAL_ENTRY_ADDED
 Nova enskribaĵo en ĵurnalo
 IDS_CHARACTER_UNLOCKED
-??New Character Unlocked
+Nova rolulo disponeblas
 IDS_ENDING_YANG_NOWORDS
 ...
 IDS_ENDING_SCORE
