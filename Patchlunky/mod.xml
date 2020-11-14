@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mods>
+<Mod>
+	<Name>Esperanto traduko</Name>
+	<Id>EO-traduko</Id>
+	<Version>1.0.0</Version>
+	<Date>202?-??-??</Date>
+	<Author>Spenĉjo</Author>
+	<Email>spenchjo@gmail.com</Email>
+	<WebUrl>https://github.com/Rajzin/Spelunky-Esperanto-traduko</WebUrl>
+	<Description>
+Modifaĵo, kiu anstataŭas ĉiujn anglajn tekstojn per tradukoj en Esperanto.
+
+Ĝi ankaŭ aldonas subtenon de ĉapelitaj literoj, kaj metas belan Esperantoflagon ĉe la lingvoelektilo en la agordoj.
+
+Por korektoj kaj sugestoj, kontaktu min en Telegram per @Spenchjo, aŭ retpoŝte per spenchjo@gmail.com
+	</Description>
+	<PreviewImage>Patchlunky bildo.png</PreviewImage>
+	<PatchlunkyVersion>1.0.0.4</PatchlunkyVersion>
+	<PatchDefaultFiles>true</PatchDefaultFiles>
+</Mod>
+</Mods>
