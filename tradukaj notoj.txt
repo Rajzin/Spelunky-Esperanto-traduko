@@ -1,0 +1,34 @@
+trap -> insidilo
+  "Insidilo" estas apenaŭ uzata, sed post priparoli kun pluraj
+homoj kaj grupoj mi konkludis, ke ĝi estas verŝajne la plej
+bona traduko.
+  PIV-a difino de insidi:
+    "Prepari sekrete ruzan rimedon, por trompi k malutili"
+  La pli ofta traduko "kaptilo" ne taŭgas, ĉar preskaŭ ĉiuj
+insidiloj en ĉi tiu ludo ne estas por kapti la ludanton, sed
+por trompe damaĝi aŭ mortigi. "Insidaĵo" estus alia eblo,
+sed tiu povus signifi ankaŭ "plano por insidi iun". "Insidilo"
+multe pli senambigue temas pri fizika ilo.
+
+
+IDS_JOURNAL_HAWKMAN
+Hawk Man -> Falkulo
+  Falko anstataŭ akcipitro, ĉar la antikva egipta dio Horuso
+havas kapon de falko, ne de akciptiro. "Falkulo" ankaŭ sonas
+pli mojose en Esperanto ol "Akcipitrulo".
+
+
+IDS_JOURNAL_IMP
+Imp -> Diableto
+IDS_JOURNAL_DEVIL
+Devil -> Demono
+  Inspirita de la franca traduko.
+  Kutime "devil" pli proksimas al "diablo", sed laŭ mi ĉi tiel
+pli kongruas al la aspektoj. 
+
+
+IDS_JOURNAL_SPRINGSHOES_DESC
+Puts a spring in your step. -> Por pli gajaj paŝoj.
+  En la angla ĝi estas vortŝerco pri "spring" (risorto) kaj
+la idiomo "have a spring in your step", kiu signifas havi
+ĝojan, energian, memfidan humoron.
