@@ -27,8 +27,74 @@ Devil -> Demono
 pli kongruas al la aspektoj. 
 
 
+IDS_JOURNAL_JAWS
+Old Bitey -> Olda Mordemulo
+  Antaŭe mi metis "Olda Mordĉjo", pri kio mi ne tre kontentis.
+Sed ŝajne "bitey" estas ankaŭ malofta vorto por "mordema". Kaj
+"mordemulo" ankaŭ pli belas al mi por ĉi tia kromnomo ol
+"mordanto" aŭ "mordisto" aŭ io tia.
+  Mi elektis "olda" anstataŭ "maljuna", ĉar iel tio ŝajnis al
+mi "kromnomeca". Ankaŭ plaĉas al mi la implicita komparo al
+"oldulo".
+
+
 IDS_JOURNAL_SPRINGSHOES_DESC
 Puts a spring in your step. -> Por pli gajaj paŝoj.
   En la angla ĝi estas vortŝerco pri "spring" (risorto) kaj
 la idiomo "have a spring in your step", kiu signifas havi
 ĝojan, energian, memfidan humoron.
+  Aliaj sugestoj estus bonvenaj.
+
+
+IDS_ARENA_LUSH5
+Dunk Tank -> Baseno
+  Laŭ la germana traduko. Ĝi ŝajnis taŭga solvo.
+
+
+
+NOMOJ DE BUTIKISTOJ
+
+Memelektitaj:
+Boris   (referenco al esperantisto Michael Boris Mandirola)
+Ĉuk     (referenco al esperantisto Chuck Smith, kaj al 
+         la indoneziaj vortoj ĉuk kaj ĝanĉuk, kiuj
+         estis iom popularaj en la Esperanto-babilejoj
+         en Telegram, kiam mi komencis la tradukadon)
+Ludvik  (referenco al Zamenhof)
+Robin   (referenco al esperantisto Robin van der Vliet)
+Soĉjo   (kaŝita referenco al mi mem. Spenĉjo -> S-ĉjo -> so-ĉjo)
+Ŝigeru  (referenco al MIYAMOTO Shigeru, fama fasonisto de
+         videoludoj. Pro tio ke jam estis "Yoshi" en la angla listo)
+Tonjo   (referenco al esperantisto Toño del Barriola kaj
+         lia fama Leĝo de Tonjo)
+
+Adaptitaj:
+Error   -> Eraro (rekta traduko)
+Frank   (neŝanĝita, interalie pro esperantisto Frank van Hertrooij)
+Willy   -> Vim (de "Wim", alia nacia mallongigo de Wilhelm)
+
+Nur la komencliteroj Ĥ kaj Ŭ mankas ĉe la butikistaj nomoj.
+
+
+NOMOJ DE HELPISTOJ
+
+Memelektitaj:
+Jop	    (referenco al esperantisto Joop Kiefte)
+Robert  (referenco al esperantisto Robert Nielsen)
+Cirus   (Simple elektita el la indekso de Reta Vortaro. Ĝi sonis
+         bone, kaj nubospeco ne malbonas por nomo de ĉi tia rolulo)
+Ĉit     (Denove, el indekso de ReVo. Ŝajnis al mi iom amuze, ke
+         la helpisto nomiĝus esence "Silentu!")
+Ĝef     (de mallonga angla nomo. Angla literumo: Jeff aŭ Geoff)
+Nikol   (adaptita de Nikolao)
+
+Adaptitaj:
+Dunder  -> Dondron (pro "thunder" kaj "tondro")
+Ham     -> Ŝink (pro "ham" kaj "ŝinko")
+Karl    -> Karlos (referenco al esperantisto Carlos Pesquera Alonso)
+Thundar -> Tondor (pro "thunder" kaj "tondro")
+Zorgoth -> Zorgodz (post konsideri plurajn anstataŭojn por "th",
+                    "dz" ŝajnis amuze)
+
+Nur la komencliteroj Ĵ kaj Ŭ mankas ĉe la helpistaj nomoj.
+
