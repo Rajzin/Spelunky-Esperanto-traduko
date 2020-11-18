@@ -143,15 +143,15 @@ UZANTNOMO
 IDS_LEADERBOARDS_CHARACTER
 ROLULO
 IDS_LEADERBOARDS_LEVEL
-NIVELO
+NVL
 IDS_LEADERBOARDS_SCORE
 POENTOJ
 IDS_LEADERBOARDS_FRIENDS
 Amikoj
 IDS_LEADERBOARDS_MYSCORES
-Mia poentaro
+Miaj poentoj
 IDS_LEADERBOARDS_OVERALL
-??Ĝenerale
+Tutmonde
 IDS_LEADERBOARDS_READING
 Legado de rangotabuloj...
 IDS_LEADERBOARDS_FRIENDSNOTRANKED
@@ -177,7 +177,7 @@ Nivelo:
 IDS_PLAYERPROFILE_SCORE
 Poentoj:
 IDS_CONTROLS
-??REGILOJ
+REGILOJ
 IDS_CONTROLS_WHIP
 Vipi/Agi
 IDS_CONTROLS_JUMP
@@ -229,7 +229,7 @@ Enskribaĵo
 IDS_JOURNAL_SNAKE
 Serpento
 IDS_JOURNAL_SNAKE_DESC
-??Plago de ĉiu aventuristo. Ĝi ŝatas kaŝi sin en potoj.
+Pereigaĵo al ĉiu aventuristo. Ĝi ŝatas kaŝi sin en potoj.
 IDS_JOURNAL_COBRA
 Kobro
 IDS_JOURNAL_COBRA_DESC
@@ -241,7 +241,7 @@ IDS_JOURNAL_BAT_DESC
 IDS_JOURNAL_SPIDER
 Araneo
 IDS_JOURNAL_SPIDER_DESC
-??Pli granda ol ordinaraj domaj specioj. Atentu super vi!
+Pli granda ol ordinaraj domaj specioj. Saltas sur sian predojn de supre.
 IDS_JOURNAL_HANGSPIDER
 Ŝpina araneo
 IDS_JOURNAL_HANGSPIDER_DESC
@@ -565,7 +565,7 @@ Pafilo, kiu elpafas gluecajn araneajn retojn.
 IDS_JOURNAL_SHOTGUN
 Fusilo
 IDS_JOURNAL_SHOTGUN_DESC
-Kartoĉa ĉasfusilo, kun la norma kalibro de 18,5 mm.
+Kartoĉa hajlofusilo, kun la norma kalibro de 18,5 mm.
 IDS_JOURNAL_FREEZERAY
 Frostoradia pafilo
 IDS_JOURNAL_FREEZERAY_DESC
@@ -1223,7 +1223,7 @@ Bonvenon al la Rado de Premioj de Joŝi!
 IDS_SHOPWELCOME24I
 Bonvenon al la Ĝenerala Vendejo de Joŝi!
 IDS_SHOPWELCOME25A
-!!Bonvenon al la Ĝenerala Vendejo de Zigmund!
+Bonvenon al la Ĝenerala Vendejo de Zigmund!
 IDS_SHOPWELCOME25B
 Bonvenon al la Specialvendejo de Zigmund!
 IDS_SHOPWELCOME25C
@@ -1751,27 +1751,27 @@ IDS_DMRESULTS_GUIDE
 IDS_DMWINNER_GUIDE
 @A Ludi denove      @B Ĉefa menuo
 IDS_TRIALNAG1
-!!You've almost reached a new area! That means new monsters, traps, and treasure!
+Vi preskaŭ atingis novan regionon! Tio signifas novajn monstrojn, insidilojn, kaj trezoron!
 IDS_TRIALNAG2
-!!But unfortunately, this is only the trial version of the game... get the full version now and test your skills!
+Sed bedaŭrinde, ĉi tio estas nur la provversio de la ludo... tuj ekhavu la plenan version kaj testu viajn kapablojn!
 IDS_TRIALNAG3
-!!Challenge your friends with cooperative multiplayer and deathmatch in 48 unlockable arenas!
+Defiu viajn amikojn en kunlabora plurludanta ludo aŭ en mortomatĉo en 48 malŝloseblaj batalejoj!
 IDS_TRIALNAG4
-!!Follow Yang to Olmec's Treasure and unravel the many mysteries of Spelunky!
+Sekvu Jang al la trezoro de Olmeko kaj malkovru la multajn misterojn de Spelunky!
 IDS_ERROR_NOTCONNECTEDPOST
-!!You are not connected to Xbox LIVE. Your score will not be added to the leaderboards.
+Vi ne estas konektita al Xbox LIVE. Via poentsumo ne aldoniĝos al la rangotabuloj.
 IDS_ERROR_NOTCONNECTEDVIEW
-!!You are not connected to Xbox LIVE. Please connect to view leaderboards.
+Vi ne estas konektita al Xbox LIVE. Konektiĝu por rigardi la rangotabulojn.
 IDS_ERROR_SIGNEDOUT
-!!A player has signed out or changed gamer profile. You have been returned to the title screen.
+Ludanto elsalutis aŭ ŝanĝis sian ludantan profilon. Vi estas resendita al la titola ekrano.
 IDS_ERROR_NOTCONNECTEDCONTENT
-!!Sign in to Xbox LIVE to access online content.
+Ensalutu en Xbox LIVE por aliri enretan enhavon.
 IDS_ERROR_NOTCONNECTEDLOCAL
-!!Sign in to Xbox LIVE to post your score to the leaderboards.
+Ensalutu en Xbox LIVE por meti vian poentsumon en la rangotabuloj.
 IDS_WARNING_MULTINOSAVE
-!!Multiplayer game progress is not saved. Your scores will also not post to the leaderboards.
+Via progreso en plurludanta ludo ne konserviĝos. Viaj poentsumoj ankaŭ ne aperos en la rangotabuloj.
 IDS_WARNING_NODEVICE
-!!You have not selected a device. Your game will not be saved. Would you like to continue anyway?
+Vi ne elektis aparaton. Via ludo ne konserviĝos. Ĉu vi volas tamen daŭrigi?
 IDS_LEVEL_TUTORIAL_1
 LECIONO 1
 IDS_LEVEL_TUTORIAL_2
@@ -1965,7 +1965,7 @@ LARVO
 IDS_ARENA_DLC3
 PUPO
 IDS_ARENA_DLC4
-??PLENKRESKULO
+PLENKRESKULO
 IDS_CREDITS
 AGNOSKOJ
 IDS_CREDITS_SPELUNKY
@@ -2001,7 +2001,7 @@ Merkatisto
 IDS_CREDITS_EXEC_PRODUCER
 Plenuma produktoro
 IDS_CREDITS_MILESTONE
-??Testisto pri akceptado de mejloŝtonoj
+Testisto pri akceptado de mejloŝtonoj
 IDS_CREDITS_EUROPE_LOC
 Eŭropa tradukteamo
 IDS_CREDITS_ASIA_LOC
@@ -2019,7 +2019,7 @@ HELPILO kaj AGORDOJ
 IDS_HNO_HOW_TO_PLAY
 Kiel ludi
 IDS_HNO_CONTROLS
-??Regiloj
+Regiloj
 IDS_HNO_SETTINGS
 Agordoj
 IDS_HNO_CREDITS
@@ -2063,7 +2063,7 @@ LUDANTO 3 VENKAS!
 IDS_DM_PLAYER_4_WINS
 LUDANTO 4 VENKAS!
 IDS_DM_NOBODY_WINS
-NENIU VENKAS!!
+NENIU VENKAS!
 IDS_HOW_TO_PLAY_1
 KIEL LUDI (1/4)
 IDS_HOW_TO_PLAY_2
@@ -2073,7 +2073,7 @@ KIEL LUDI (3/4)
 IDS_HOW_TO_PLAY_4
 KIEL LUDI (4/4)
 IDS_GUIDE_FILTER
-??@X Ŝanĝi filtrilon
+@X Ŝanĝi filtrilon
 IDS_PURCHASE_A
 Premu @A por aĉeti.
 IDS_PURCHASE_B
@@ -2133,21 +2133,21 @@ IDS_WARNING_UNSAVED
 IDS_WARNING_NOTSAVED
 Ĉu vi certas? La kvanto de venkoj ne konserviĝos.
 IDS_ERROR_CORRUPTDLC
-!!The DLC could not be loaded and may be corrupt. Please redownload it from the Xbox LIVE Marketplace.
+Ni ne sukcesis ŝargi la elŝutitan enhavon, kaj ĝi povus esti difektita. Reelŝutu ĝin de Xbox LIVE Marketplace.
 IDS_ERROR_WRITING
-!!There was an error writing to the leaderboards. Try again?
+Okazis eraro num skribi al la rangotabulo. Ĉu vi volas provi denove?
 IDS_ERROR_NEWSTORAGE
-!!The storage device has been removed. Would you like to select a new storage device?
+La konservejo estas forigita. Ĉu vi ŝatus elekti alian konservejon?
 IDS_ERROR_CORRUPTSAVE
-!!The save file appears to be damaged and cannot be loaded. Would you like to overwrite it with a new save file?
+La konservita dosiero ŝajnas esti damaĝita kaj ne ŝargeblas. Ĉu vi ŝatus anstataŭigi ĝin per nova konservita dosiero?
 IDS_ERROR_BADSTORAGE
-!!The storage device appears to be damaged and cannot be accessed. Would you like to select another storage device?
+La konservejo ŝajnas esti damaĝita kaj ne povas esti atingita. Ĉu vi ŝatus elekti alian konservejon?
 IDS_ERROR_NOTSAVED
-!!Your game will not be saved.
+Via ludo ne konserviĝos.
 IDS_ERROR_CANTSAVED
-!!The game was unable to save. Would you like to select a different storage device?
+La ludo ne sukcesis konservi. Ĉu vi ŝatus elekti alian konservejon?
 IDS_ERROR_FULLDEVICE
-!!The destination device is full. Would you like to select a different storage device?
+La celaparato estas plena. Ĉu vi ŝatus elekti alian konservejon?
 IDS_GUIDE_YES
 @A Jes
 IDS_GUIDE_NO
@@ -2295,7 +2295,7 @@ IDS_GUIDE_GAMERCARD
 IDS_ERROR_TRIALACHIEVEMENT
 Vi atingis atingaĵon! Tuj ariku la plenan version por malŝlosi ĝin.
 IDS_ERROR_FAILTOSIGNIN
-!!You must be signed into a gamer profile to play Spelunky.
+Vi devas esti ensalutita en ludantoprofilon por ludi Spelunky.
 IDS_MAINMENU_DOWNLOADCONTENT
 Elŝuti enhavon
 IDS_SIGN_CONSTRUCTION
@@ -2307,13 +2307,13 @@ He, kial vi frapas min? Mi nur provas helpi vin!
 IDS_GAMEOVERDESC_FRIEND
 Almenaŭ mi ekhavis novan amikon!
 IDS_GAMEOVERDESC_COG
-!!It's the most exquisite tomb in the whole world...
+Jen la plej brila tombo en la tuta mondo...
 IDS_GAMEOVERDESC_YANG
 Jang pravis... la aranĝo de la kavernoj ŝanĝiĝas la tutan tempon!
 IDS_GAMEOVERDESC_TOUGH
 Estas tre malfacile, sed mi ne rezignu!
 IDS_GAMEOVERDESC_FAR
-!!Alright! That was the farthest I've ever gotten!
+Bonege! Mi neniam antaŭe atingis tiom foran lokon!
 IDS_GAMEOVERDESC_BREAK
 Fu, iom da paŭzo estus bona...
 IDS_LEADERBOARDS_SHORTCUTS
@@ -2321,15 +2321,15 @@ Unue finu la ludon sen uzi ŝparvojojn.
 IDS_TRIALNAG1B
 Dankon, ke vi ludis Spelunky! Ni esperas, ke vi amuziĝis!
 IDS_TRIALNAG2B
-!!This is only the trial version of the game... get the full version now and test your skills!
+Ĉi tio estas nur provversio de la ludo... tuj akiru la plenan version kaj testu viajn kapablojn!
 IDS_ERROR_ACHIEVEMENT_FAIL
-!!The game failed to write to your gamer profile. An Achievement could not be saved. Try again?
+La ludo malsukcesis skribi al via ludantoprofilo. Atingaĵo ne konserviĝis. Ĉu vi volas provi denove?
 IDS_PAUSED
 PAŬZO
 IDS_LEADERBOARDS_TIME
 TEMPO
 IDS_WARNING_AUTOSAVING
-!!This game features autosaving. When you see this icon, do not turn off the console or remove any storage devices.
+Ĉi tiu ludo aŭtomate konservas vian progreson. Kiam vi vidas ĉi tiun sibolon, ne malŝaltu la konsolon kaj ne forigu konservejojn.
 IDS_GAMEOVER_SHOT
 Pafita
 IDS_GAMEOVER_POISONED
@@ -2357,9 +2357,9 @@ IDS_JOURNAL_JUNGLE
 IDS_BUY_ITEM_MYSTERYBOX
 Aĉeti misteran pakaĵon
 IDS_LEVEL_OLMEC
-??SIDEJO DE OLMEKO
+LOĜEJO DE OLMEKO
 IDS_COMPLETED_OLMEC
-??VI FINIS LA SIDEJON DE OLMEKO
+VI FINIS LA LOĜEJON DE OLMEKO
 IDS_LEVEL_YAMA
 TRONO DE JAMA
 IDS_PAUSED_ENDDEATHMATCH
@@ -2367,11 +2367,11 @@ Fini Mortomatĉon
 IDS_WARNING_DEATHMATCHBOTS
 Por komenci mortomatĉon sen robotoj necesas almenaŭ du ludantoj.
 IDS_ERROR_AVASSET_FAIL
-!!The game failed to write to your gamer profile. An Avatar Award could not be saved. Try again?
+La ludo ne sukcesis skribi al via ludantoprofilo. Ne eblis konservi Avataran Premion. Ĉu vi volas provi denove?
 IDS_ERROR_TRIALAVASSET
-!!You have earned an Avatar Award! Upgrade to the full version now to unlock it.
+Vi gajnis Avataran Premion! Tuj ariku la plenan version por malŝlosi ĝin.
 IDS_WARNING_SAVEOVERWRITE
-!!Do you really want to overwrite your saved game? Your previous save will be lost!
+Ĉu vi vere volas anstataŭigi vian konservitan dosieron? Via antaŭe konservita progreso perdiĝos!
 IDS_PLAYERPROFILE_SPECIALWINS
 Specialaj venkoj:
 IDS_ERROR_RESET_SAVE
@@ -2393,11 +2393,11 @@ IDS_BUT_PREV_DAILY
 IDS_BUT_NEXT_DAILY
 @> Sekva ĉiutagaĵo
 IDS_TOP_TEN_DAILY
-!!'s Top Ten Daily Scores
+ kaj ties dek plej bonaj poentsumoj
 IDS_FINDING_LEADERBOARD
 TROVADO DE RANGOTABULO...
 IDS_DAILY_ALLTIME
-!!DAILY ALL-TIME
+PLEJ BONAJ ĈIUTAGAĴOJ
 IDS_AVG_OF_DAILY
 (Averaĝo de dek plej altaj poentsumoj en ĉiutagaĵoj)
 IDS_ANY_KEY
@@ -2431,7 +2431,7 @@ IDS_RESET_SAVE
 IDS_DEATHMATCH_GHOSTS
 Fantomoj
 IDS_DEATHMATCH_TARGETS
-!!Targets
+Celmarkoj
 IDS_DEATHMATCH_CUSTOM_CRATES
 @X Agordi objektojn en kestoj
 IDS_DEATHMATCH_TOGGLE_ITEM
@@ -2455,7 +2455,7 @@ IDS_MAINMENU_DAILY_CHALLENGE
 IDS_MAINMENU_DAILYDESC
 Konkurso en la hodiaŭa aventuro kontraŭ aliaj esploristoj en la interreto. Vi ricevos nur unu ŝancon!
 IDS_MAINMENU_DAILYCHECKING
-??Ni kontrolas, ĉu jam ekzistas hodiaŭa poentsumo. Atendu momenton.
+Ni kontrolas, ĉu vi jam registris poentsumon hodiaŭ. Atendu momenton.
 IDS_MAINMENU_DAILYLOCKED
 Vi jam ludis la defion de hodiaŭ. Provu denove morgaŭ!
 IDS_GUIDE_REMAP_KEYS
@@ -2485,21 +2485,21 @@ Ludanto 3
 IDS_CHARSELECT_P4
 Ludanto 4
 IDS_GRAPHICS
-!!GRAPHICS
+GRAFIKAJ AGORDOJ
 IDS_HNO_GRAPHICS
-!!Graphics
+Grafikaj agordoj
 IDS_APPLY_SCREEN
 Apliki ekranagordojn
 IDS_FULLSCREEN_FX
 Plenekranaj efektoj
 IDS_DYNAMIC_SHADOWS
-??Dinamikaj ombroj
+Dinamikaj ombroj
 IDS_UPDATED
-Ĝisdatigita
+Aplikite
 IDS_HIGH
-ALTE
+ALTAJ
 IDS_LOW
-MALALTE
+MALALTAJ
 IDS_QUICKSTART
 @X Tuj ekludi
 IDS_REMAP_INVERT_RUN_OFF
@@ -2511,7 +2511,7 @@ Inversigi: NE
 IDS_KEY_RUN_INVERT_ON
 Inversigi: JES
 IDS_HUD_STYLE
-!!Stilo de HUD
+Stilo de ludfasado
 IDS_HUD_STANDARD
 NORMALA
 IDS_HUD_PRO

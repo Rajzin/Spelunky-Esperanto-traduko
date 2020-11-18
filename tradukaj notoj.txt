@@ -11,6 +11,35 @@ sed tiu povus signifi ankaŭ "plano por insidi iun". "Insidilo"
 multe pli senambigue temas pri fizika ilo.
 
 
+IDS_JOURNAL_SHOTGUN
+shotgun -> fusilo
+  Oni donas multajn eblajn tradukojn en diversaj lokoj en la
+interreto ("hajlofusilo", "ŝrotpafilo", "kartoĉa fusilo",
+"ĉasfusilo", ktp) kaj mi dubis, kiun mi uzu. Sed mi vidis, ke
+oni tradukis per nur "fusilo" en la tradukoj en la franca kaj
+la itala, kaj tio fakte ja tute bone funkcias.
+  Mi ja specifigis la tipon per "kartoĉa hajlofusilo" en la
+priskribo de la objekto en la ĵurnalo.
+
+
+IDS_JOURNAL_JETPACK
+jetpack -> dorsa jetmotoro
+  Malfacilas traduki, ĉar ne vere estas enradikiĝinta esperanta
+termino por tiu afero. (Kaj mi ne tre ŝatis tiujn, kiuj estis
+tiutempe uzataj en Vikipedio) Iu proponis al mi "dorsa jetmotoro",
+kio estas rekta traduko de unu franca termino por jetpack, kaj tio
+ja sufiĉe bone funkcias.
+
+
+IDS_JOURNAL_SPIDER_DESC
+Don't let it get the drop on you.
+-> Saltas sur sian predojn de supre.
+  Temis pri netradukebla vortŝerco, do mi elektis esperantigon,
+kiu estas tute alia, sed same referencas la emon de araneoj
+faligi sin sur la kapon de la ludanto. Kaj tia teksto ŝajnis
+al mi kongrui kun la etoso de la ĵurnalo.
+
+
 IDS_JOURNAL_HAWKMAN
 Hawk Man -> Falkulo
   Falko anstataŭ akcipitro, ĉar la antikva egipta dio Horuso
@@ -50,6 +79,18 @@ IDS_ARENA_LUSH5
 Dunk Tank -> Baseno
   Laŭ la germana traduko. Ĝi ŝajnis taŭga solvo.
 
+
+IDS_HUD_STYLE
+HUD Style -> Stilo de ludfasado
+  Mi iom esploris manierojn por traduki "heads-up display"
+(aŭ "status bar"), kaj mi trovis ke la turka Vikipedio
+uzas esence "luda interfaco". Tio estis mia inspiro por
+"ludfasado", kiu laŭ mi sufiĉe taŭgas por la HUD de tiu
+ĉi specifa ludo.
+
+
+
+-------------------------------------------------------------------
 
 
 NOMOJ DE BUTIKISTOJ
@@ -98,3 +139,12 @@ Zorgoth -> Zorgodz (post konsideri plurajn anstataŭojn por "th",
 
 Nur la komencliteroj Ĵ kaj Ŭ mankas ĉe la helpistaj nomoj.
 
+
+-------------------------------------------------------------------
+
+
+NETRADUKEBLAJ TEKSTOJ
+Estas kelkaj malmultaj tekstoj, kiuj ne aperas en la tradukdosieroj,
+kaj estas do ne tradukeblaj sen ŝanĝi ilin por ĉiuj lingvoj. 
+ -  la vorto "DAILY" en unu el la rangotabuloj
+ -  pluraj tekstoj en la agnoskoj
