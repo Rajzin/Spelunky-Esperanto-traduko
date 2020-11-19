@@ -1,0 +1,5037 @@
+tradukversio 0.9.0
+
+IDS_INTRO1_1
+As the sun burned bright above,
+Dum la suno hele brulis super mi,
+
+IDS_INTRO1_2
+With the desert stretching behind me,
+Dum la dezerto vaste etendiĝis malantaŭ mi,
+
+IDS_INTRO1_3
+After I double-checked my map,
+Post rekontroli mian mapon,
+
+IDS_INTRO1_4
+My lips cracked and covered in sand,
+Kun lipoj fenditaj kaj kovritaj de sablo,
+
+IDS_INTRO1_5
+With fate guiding my every move,
+Dum la sorto gvidis ĉiun agon de mi,
+
+IDS_INTRO1_6
+Putting the faded photo in my pocket,
+Metante la paliĝintan foton en mian poŝon,
+
+IDS_INTRO1_7
+As I recalled my father's last words,
+Rememorante la lastajn vortojn de mia patro,
+
+IDS_INTRO1_8
+My memory slipping away from me,
+Dum mia memoro glitis for de mi,
+
+IDS_INTRO2_1
+I strode valiantly toward my destiny,
+mi kuraĝe paŝis al mia destino,
+
+IDS_INTRO2_2
+I squeezed the whip at my side,
+mi premis la vipon ĉe mia flanko,
+
+IDS_INTRO2_3
+I drained the rest of my canteen,
+mi eltrinkis la reston el mia platbotelo,
+
+IDS_INTRO2_4
+I spotted the cave's entrance,
+mi ekvidis la enirejon de la kaverno,
+
+IDS_INTRO2_5
+I furrowed my brow,
+mi sulkis mian frunton,
+
+IDS_INTRO2_6
+I paid my Bedouin guide,
+mi pagis mian Beduenan gvidiston,
+
+IDS_INTRO2_7
+I dismounted my camel,
+mi dekameliĝis,
+
+IDS_INTRO2_8
+I squinted into the darkness,
+mi fikse rigardis en la mallumon,
+
+IDS_INTRO3_1
+And thought of her one last time.
+kaj unu lastan fojon mi pensis pri ŝi.
+
+IDS_INTRO3_2
+And held my hat against the wind.
+kaj tenis mian ĉapelon kontraŭ la vento.
+
+IDS_INTRO3_3
+And a cold chill took hold of me.
+kaj malvarma tremo trakuris mian korpon.
+
+IDS_INTRO3_4
+And wondered how long I'd be below.
+kaj demandis min, kiom longe mi restos subtere.
+
+IDS_INTRO3_5
+And vowed to return victorious.
+kaj ĵuris reveni kiel venkinto.
+
+IDS_INTRO3_6
+And swore I heard voices up ahead.
+kaj preskaŭ certis, ke mi aŭdis voĉojn antaŭ mi.
+
+IDS_INTRO3_7
+And felt the gods smiling upon me.
+kaj sentis, ke la dioj ridetis al mi.
+
+IDS_INTRO3_8
+And that's when it all started.
+kaj tiam ĉio komenciĝis.
+
+IDS_TITLEGUIDE
+Press @A to begin.
+Premu @A por komenci.
+
+IDS_BACK
+@B Back
+@B Reen
+
+IDS_MAINMENU_PLAYGAME
+Play Game
+Komenci ludon
+
+IDS_MAINMENU_ADVENTURE
+Adventure
+Aventuro
+
+IDS_MAINMENU_DEATHMATCH
+Deathmatch
+Mortomatĉo
+
+IDS_MAINMENU_PLAYERPROFILE
+Player Stats
+Viaj statistikoj
+
+IDS_MAINMENU_LEADERBOARDS
+Leaderboards
+Rangotabuloj
+
+IDS_MAINMENU_ACHIEVEMENTS
+Achievements
+Atingaĵoj
+
+IDS_MAINMENU_HELPANDOPTIONS
+Help & Options
+Helpilo kaj agordoj
+
+IDS_MAINMENU_UNLOCK
+Unlock Full Game
+Malŝlosi la plenan ludon
+
+IDS_MAINMENU_RETURN
+Main Menu
+Ĉefa menuo
+
+IDS_MAINMENU_ADVENTUREDESC
+Embark on a quest for Olmec's legendary treasure! Go alone or with friends.
+Granda aventuro por serĉi la legendan trezoron de Olmeko! Iru sole aŭ kun amikoj.
+
+IDS_MAINMENU_DEATHMATCHDESC
+Compete in a deadly competition to see who is the most skilled adventurer.
+Mortdanĝera konkurso por eltrovi, kiu el vi estas la plej lerta aventuristo.
+
+IDS_PAUSED_RESUME
+Resume Game
+Pluludi
+
+IDS_PAUSED_RESTART
+Restart Game
+Komenci novan ludon
+
+IDS_PAUSED_EXIT
+Exit Game
+Eliri la ludon
+
+IDS_HOWTOPLAY1_1
+You begin the game with four health. If you run out of health, your expedition will come to an end.
+Vi havas kvar korojn da vivo en la komenco de la ludo. Se via vivo elĉerpiĝas, via ekspedicio finiĝas.
+
+IDS_HOWTOPLAY1_2
+Ropes let you reach high ledges and descend safely into pits. Press @Y to throw one.
+Per ŝnuroj vi povas atingi altajn lokojn kaj sen danĝero iri malsupren en kavojn. Premu @Y por ĵeti ŝnuron.
+
+IDS_HOWTOPLAY1_3
+Bombs can be used to blow up the walls. Press @B to throw one... but be careful!
+Per bomboj vi povas foreksplodigi murojn. Premu @B por ĵeti bombon... sed estu singarda!
+
+IDS_HOWTOPLAY1_4
+Your whip is your best defense against the monsters that inhabit the caves. Press @X to attack with it.
+Via vipo estas via plej bona defendo kontraŭ la monstroj, kiuj loĝas en la kavernoj. Premu @X por ataki per via vipo.
+
+IDS_HOWTOPLAY2_1
+Wooden crates are littered around the caves. Whip them open to find supplies to aid you on your adventure.
+Lignaj kestoj troviĝas ĉie en la kavernoj. Vipu ilin, kaj ene vi trovos provizojn, kiuj helpos vin dum via aventuro.
+
+IDS_HOWTOPLAY2_2
+Ropes and bombs are the most common items found in crates, but if you're lucky you may find better things!
+Ŝnuroj kaj bomboj estas la plej oftaj objektoj, kiuj troveblas en kestoj. Sed se vi bonŝancas, eble vi trovos ion pli bonan!
+
+IDS_HOWTOPLAY2_3
+Treasure chests are filled with valuable gems! Most of them have weak locks that can be whipped open.
+Trezorkofroj estas plenaj de valoraj gemoj! Kutime kofro havas malfortan seruron, kiu malfermeblas per frapo de via vipo.
+
+IDS_HOWTOPLAY2_4
+Your score is determined by how much loot you've collected. Amass a large fortune of gold and gems!
+Viaj poentoj dependas de la kvanto de valoraĵoj, kiujn vi kolektis. Do kolektu grandan amason da oro kaj gemoj!
+
+IDS_HOWTOPLAY3_1
+This is a shopkeeper. You can buy all sorts of items from his shop, but be careful not to upset him.
+Jen butikisto. Objektoj de ĉiaj specoj aĉeteblas ĉe lia butiko, sed atentu ne kolerigi lin.
+
+IDS_HOWTOPLAY3_2
+Items for sale have a dollar sign over them. Some shops sell weapons, like this shotgun.
+Aĉeteblaj objektoj havas dolarsignon super si. Kelkaj butikoj vendas armilojn, ekzemple ĉi tiun fusilon.
+
+IDS_HOWTOPLAY3_3
+You can use your loot to purchase items in the shops. Be sure to spend it wisely!
+Per valoraĵoj vi povas aĉeti objektojn en la butikoj. Elpezu ilin saĝe!
+
+IDS_HOWTOPLAY3_4
+Shops may also supply a variety of other useful tools. This compass, for example, points you toward the exit.
+Butikoj povas provizi ankaŭ diversajn aliajn utilajn ilojn. Ekzemple, kompasoj indikas al vi la direkton al la elirejo.
+
+IDS_HOWTOPLAY4_1
+At the bottom of each level is an exit to deeper parts of the caves. That's your goal!
+Malsupre en ĉiu nivelo estas elirejo, kiu kondukas al pli profundaj partoj de la kavernoj. Tio estas via celo!
+
+IDS_HOWTOPLAY4_2
+Lovely damsels have gotten trapped down here. If you bring them safely to the exits they'll reward you with health.
+Allogaj senhelpuloj kaptiĝis en la kavernoj. Se vi sekure kunportos ilin al elirejo, ili donos koron da vivo kiel rekompencon.
+
+IDS_HOWTOPLAY4_3
+You can also bring these golden idols to the exits for big money rewards. They're usually guarded by deadly traps.
+Ankaŭ eblas porti ĉi tiajn orajn idolojn al la elirejo por ricevi multe da mono. Kutime mortigaj insidiloj gardas ilin.
+
+IDS_HOWTOPLAY4_4
+That covers the basics, but there's so much more to discover once you start playing! Have fun!
+Tio estis la bazaj sciendaĵoj, sed estas ankoraŭ multe pli por malkovri dum ludado! Amuziĝu!
+
+IDS_JOURNAL
+Journal
+Ĵurnalo
+
+IDS_JOURNAL_PLACES
+Places
+Lokoj
+
+IDS_JOURNAL_MONSTERS
+Monsters
+Monstroj
+
+IDS_JOURNAL_ITEMS
+Items
+Objektoj
+
+IDS_JOURNAL_TRAPS
+Traps
+Insidiloj
+
+IDS_VERIFY_AREYOUSURE
+Are you sure?
+Ĉu vi certas?
+
+IDS_VERIFY_NO
+No
+Ne
+
+IDS_VERIFY_YES
+Yes
+Jes
+
+IDS_LEADERBOARDS_HIGHSCORES
+HIGH SCORES
+POENTREKORDOJ
+
+IDS_LEADERBOARDS_FASTESTTIMES
+FASTEST TIMES
+PLEJ RAPIDAJ TEMPOJ
+
+IDS_LEADERBOARDS_WEEKLYSCORES
+WEEKLY SCORES
+ĈIUSEMAJNA POENTARO
+
+IDS_LEADERBOARDS_WEEKLYTIMES
+WEEKLY TIMES
+ĈIUSEMAJNAJ TEMPOJ
+
+IDS_LEADERBOARDS_INVALID
+INVALID BOARD
+NEVALIDA TABULO
+
+IDS_LEADERBOARDS_RANK
+RANK
+RANGO
+
+IDS_LEADERBOARDS_GAMERTAG
+GAMERTAG
+UZANTNOMO
+
+IDS_LEADERBOARDS_CHARACTER
+CHARACTER
+ROLULO
+
+IDS_LEADERBOARDS_LEVEL
+LEVEL
+NVL
+
+IDS_LEADERBOARDS_SCORE
+SCORE
+POENTOJ
+
+IDS_LEADERBOARDS_FRIENDS
+Friends
+Amikoj
+
+IDS_LEADERBOARDS_MYSCORES
+My Scores
+Miaj poentoj
+
+IDS_LEADERBOARDS_OVERALL
+Overall
+Tutmonde
+
+IDS_LEADERBOARDS_READING
+Reading leaderboards...
+Legado de rangotabuloj...
+
+IDS_LEADERBOARDS_FRIENDSNOTRANKED
+Your friends are not yet ranked on this leaderboard.
+Viaj amikoj ankoraŭ ne havas rangon en ĉi tiu tabulo.
+
+IDS_LEADERBOARDS_NOTRANKED
+You are not yet ranked on this leaderboard.
+Vi ankoraŭ ne havas rangon en ĉi tiu tabulo.
+
+IDS_PLAYERPROFILE_LASTGAMEPLAYED
+Last Game Played
+Via lasta ludo
+
+IDS_PLAYERPROFILE_PLAYS
+Plays:
+Ludoj:
+
+IDS_PLAYERPROFILE_DEATHS
+Deaths:
+Mortoj:
+
+IDS_PLAYERPROFILE_WINS
+Wins:
+Venkoj:
+
+IDS_PLAYERPROFILE_AVGSCORE
+Avg. Score:
+Averaĝa poentsumo:
+
+IDS_PLAYERPROFILE_BESTSCORE
+Best Score:
+Plej bona poentsumo:
+
+IDS_PLAYERPROFILE_BESTTIME
+Best Time:
+Plej bona tempo:
+
+IDS_PLAYERPROFILE_LEVEL
+Level:
+Nivelo:
+
+IDS_PLAYERPROFILE_SCORE
+Score:
+Poentoj:
+
+IDS_CONTROLS
+CONTROLS
+REGILOJ
+
+IDS_CONTROLS_WHIP
+Whip/Action
+Vipi/Agi
+
+IDS_CONTROLS_JUMP
+Jump
+Salti
+
+IDS_CONTROLS_ROPE
+Rope
+Ŝnuro
+
+IDS_CONTROLS_BOMB
+Bomb
+Bombo
+
+IDS_CONTROLS_RUN
+Run
+Kuri
+
+IDS_CONTROLS_PURCHASE
+Purchase/Door
+Aĉeti/Pordo
+
+IDS_CONTROLS_UNUSED
+Unused
+Neuzata
+
+IDS_JOURNAL_TUTORIAL1
+Greetings! My name is Yang, and this is my journal. Dusty maps and rumors of amazing treasures have led me here, deep under the desert.
+Salutojn! Mia nomo estas Jang, kaj ĉi tio estas mia ĵurnalo. Polvaj mapoj kaj onidiroj pri eksterordinaraj trezoroj gvidis min ĉi tien, profunde sub la dezerton.
+
+IDS_JOURNAL_TUTORIAL2
+There's something very strange about this place... the layout seems to change all the time. I've never seen the same room twice!
+Estas io ege stranga pri ĉi tiu loko... la aranĝo de ĉio ŝajnas ŝanĝiĝi la tutan tempon. Mi ankoraŭ neniam dufoje vidis la saman ĉambron!
+
+IDS_JOURNAL_TUTORIAL3
+It could be the legendary Curse of Olmec, the one they say traps people inside the caves forever!
+Eble temas pri la legenda malbeno de Olmeko, kiu onidire eterne kaptas homojn en la kavernoj!
+
+IDS_JOURNAL_TUTORIAL4
+I push the idea out of my mind and focus on the treasure, instead. If I master the basics of movement and combat, I know I'll leave here a rich man!
+Mi puŝas tiun ideon el mia kapo, kaj anstataŭe koncentriĝas pri la trezoroj. Se mi bone lernos la bazajn principojn de moviĝado kaj batalado, mi certe povos iĝi riĉulo!
+
+IDS_JOURNAL_TUTORIAL5
+The journey has been more difficult than I expected. I've fallen in spike pits, stepped into traps, and been attacked by monsters...
+La vojaĝo elturniĝis esti pli malfacila ol atendite. Mi falis en truoj plenaj de pikiloj, insidiloj embuskis min, kaj monstroj atakis min...
+
+IDS_JOURNAL_TUTORIAL6
+Yet no matter what happens, I always wake up at the entrance to the mines! It's like death itself has lost its way down here.
+Sed kio ajn okazas, mi ĉiam vekiĝas je la enirejo de la minejoj! Estas kvazaŭ la morto mem perdis la vojon en ĉi tiuj kavernoj.
+
+IDS_JOURNAL_TUTORIAL7
+Despite the eeriness of these events, I remain focused on the task at hand. Eagerly, I press on, pursuing my fame and fortune.
+Malgraŭ ke ĉi tiuj okazaĵoj timigas min, mi daŭre fokusas mian atenton al mia tasko. Fervore mi iras antaŭen por ĉasi famon kaj riĉecon.
+
+IDS_JOURNAL_TUTORIAL8
+I caught a glimpse of a lush paradise the other day, at the end of the mines.
+Antaŭ nelonge mi ekvidis verdan paradizon je la fino de la minejoj.
+
+IDS_JOURNAL_TUTORIAL9
+How could such a place exist so far underground? And what lies beyond?
+Kiel tia loko povus ekzisti iom profunde sub la tero? Kaj kio estas trans ĝi?
+
+IDS_JOURNAL_TUTORIAL10
+Cave merchants speak of even more fabulous sights further below... ancient ruins and cities made of gold! The very idea makes my restless heart beat faster!
+Butikistoj en la kavernoj rakontas pri eĉ pli mirindaj vidaĵoj pli profunde... antikvaj ruinoj kaj urboj el oro! La nura penso igas mian koron bati maltrankvile!
+
+IDS_JOURNAL_TUTORIAL11
+To whomever holds this journal: I hope you find it useful. It's served me well but I no longer need it.
+Al tiu, kiu tenas ĉi tiun ĵurnalon: Mi esperas, ke ĝi estos utila al vi. Ĝi bone servis min, sed mi ne plu bezonas ĝin.
+
+IDS_JOURNAL_TUTORIAL12
+I'm descending into the caves for what I hope is the last time. I won't return until I've escaped with The Ultimate Treasure!
+Espereble sekvafoje estos la lasta fojo, kiam mi iros malsupren en la kavernojn. Mi ne revenos, ĝis mi ekhavis la plej grandan trezoron iam ajn!
+
+IDS_JOURNAL_TUTORIAL13
+Or are there even greater delights to be discovered? Well, there's only one way to find out!
+Aŭ ĉu troveblas eĉ pli grandajn ĝuigaĵojn ĉi tie? Nu, estas nur unu maniero por eltrovi!
+
+IDS_JOURNAL_TUTORIAL14
+Take this key. It will open the entrance to the mines. Follow me if you dare!*Happy Exploring!*-Yang
+Prenu ĉi tiun ŝlosilon. Ĝi malfermos la enirejon de la minejoj. Sekvu min, se vi kuraĝas!*Bonan esploradon!*-Jang
+
+IDS_JOURNAL_KILLS
+Kills:
+Mortigoj:
+
+IDS_JOURNAL_KILLEDBY
+Killed by:
+Mortoj pro ĝi:
+
+IDS_JOURNAL_ENTRY
+Entry 
+Enskribaĵo
+
+IDS_JOURNAL_SNAKE
+Snake
+Serpento
+
+IDS_JOURNAL_SNAKE_DESC
+The bane of every adventurer. It enjoys hiding in pots.
+Pereigaĵo al ĉiu aventuristo. Ĝi ŝatas kaŝi sin en potoj.
+
+IDS_JOURNAL_COBRA
+Cobra
+Kobro
+
+IDS_JOURNAL_COBRA_DESC
+A deadly serpent with a distinctive hood and venomous spit.
+Mortdanĝera serpento, kiu havas distingan kapuĉon kaj venenan salivon.
+
+IDS_JOURNAL_BAT
+Bat
+Vesperto
+
+IDS_JOURNAL_BAT_DESC
+It prefers eating bugs, but will attack human beings if it's hungry enough.
+Ĝi pli ŝatas manĝi insektojn, sed se ĝi estas sufiĉe malsata, ĝi atakas ankaŭ homojn.
+
+IDS_JOURNAL_SPIDER
+Spider
+Araneo
+
+IDS_JOURNAL_SPIDER_DESC
+Larger than your average household variety. Don't let it get the drop on you.
+Pli granda ol ordinaraj domaj specioj. Saltas sur sian predojn de supre.
+
+IDS_JOURNAL_HANGSPIDER
+Spinner Spider
+Ŝpina araneo
+
+IDS_JOURNAL_HANGSPIDER_DESC
+It hangs from the ceiling on a silky thread.
+Pendas de la plafono per silka fadeno.
+
+IDS_JOURNAL_GIANTSPIDER
+Giant Spider
+Giganta araneo
+
+IDS_JOURNAL_GIANTSPIDER_DESC
+A gargantuan spider the size of a car! She traps her prey in sticky webs.
+Kolosa araneo granda kiel aŭto! Ŝi kaptas siajn predojn per gluecaj retoj.
+
+IDS_JOURNAL_SKELETON
+Skeleton
+Skeleto
+
+IDS_JOURNAL_SKELETON_DESC
+A living skeleton straight out of your nightmares.
+Vivanta skeleto ekzakte kiel tiuj, pri kiuj vi timsonĝas.
+
+IDS_JOURNAL_SCORPION
+Scorpion
+Skorpio
+
+IDS_JOURNAL_SCORPION_DESC
+A predatory arachnid with a poisonous stinger on its tail.
+Predanta araneoido, kiu havas venenan pikilon ĉe la pinto de sia vosto.
+
+IDS_JOURNAL_CAVEMAN
+Caveman
+Kavernohomo
+
+IDS_JOURNAL_CAVEMAN_DESC
+One of man's primitive ancestors.
+Unu el la primitivaj prauloj de homoj.
+
+IDS_JOURNAL_DAMSEL
+Damsel
+Senhelpulo
+
+IDS_JOURNAL_DAMSEL_DESC
+Bring helpless damsels to the exit and you'll be rewarded with a kiss!
+Kunportu belajn senhelpulojn al la elirejo, kaj rekompence vi ricevos kison!
+
+IDS_JOURNAL_SHOPKEEPER
+Shopkeeper
+Butikisto
+
+IDS_JOURNAL_SHOPKEEPER_DESC
+This ornery merchant will sell anything for the right price. He hates shoplifters!
+Tiu ĉi facile kolerigebla komercisto vendas ion ajn, se la prezo ĝustas. Li malamas butikoŝtelantojn!
+
+IDS_JOURNAL_TUNNELMAN
+Tunnel Man
+Tunelisto
+
+IDS_JOURNAL_TUNNELMAN_DESC
+A cheerful man who makes his living digging tunnels to the deepest parts of the cave.
+Gaja viro, kiu profesie fosas tunelojn al la plej profundaj partoj de la kavernoj.
+
+IDS_JOURNAL_SCARAB
+Scarab
+Skarabo
+
+IDS_JOURNAL_SCARAB_DESC
+A flying insect made of pure gold that's worshipped in some cultures.
+Fluganta instekto el pura oro, adorata kiel dio en kelkaj kulturoj.
+
+IDS_JOURNAL_TIKIMAN
+Tiki Man
+Tikiulo
+
+IDS_JOURNAL_TIKIMAN_DESC
+Just your average masked cannibal wielding a giant boomerang.
+Jen nur ordinara maskita kanibalo, kiu uzas gigantan bumerangon.
+
+IDS_JOURNAL_FROG
+Frog
+Rano
+
+IDS_JOURNAL_FROG_DESC
+A large cave frog... or is it a toad? Whatever.
+Granda kaverna rano... aŭ ĉu bufo? Nu, ne gravas.
+
+IDS_JOURNAL_FIREFROG
+Fire Frog
+Fajra Rano
+
+IDS_JOURNAL_FIREFROG_DESC
+A rare species of frog that's filled with explosive swamp gas.
+Malofta rana specio, kiu estas plena de eksplodema marĉa gaso.
+
+IDS_JOURNAL_GIANTFROG
+Giant Frog
+Giganta Rano
+
+IDS_JOURNAL_GIANTFROG_DESC
+This extra-large amphibian carries its children inside of its mouth.
+Tiu ĉi aparte granda amfibio portas siajn idojn en sia buŝo.
+
+IDS_JOURNAL_MANTRAP
+Mantrap
+Homkaptilo
+
+IDS_JOURNAL_MANTRAP_DESC
+Carnivorous plants with a taste for human flesh.
+Karnovora planto, kiu ŝatas manĝi homaĵon.
+
+IDS_JOURNAL_PIRANHA
+Piranha
+Piranjo
+
+IDS_JOURNAL_PIRANHA_DESC
+A group of these can skeletonize a cow in two minutes.
+Aro da tiuj povas skeletigi bovon en nur du minutoj.
+
+IDS_JOURNAL_JAWS
+Old Bitey
+Olda Mordemulo
+
+IDS_JOURNAL_JAWS_DESC
+This legendary fish has claimed the lives of many adventurers.
+Tiu ĉi legenda fiŝo prenis de multaj aventuristoj la vivon.
+
+IDS_JOURNAL_BEE
+Killer Bee
+Murda Abelo
+
+IDS_JOURNAL_BEE_DESC
+A bee with a harpoon-sized stinger. It's very protective of its hive.
+Abelo kun pikilo granda kiel harpuno. Ĝi estas tre protektema pri sia nesto.
+
+IDS_JOURNAL_QUEENBEE
+Queen Bee
+Abelreĝino
+
+IDS_JOURNAL_QUEENBEE_DESC
+Bee royalty. She might have some delicious royal jelly stuck to her abdomen.
+Abela monarĥo. Eble ŝi havus iom da bongusta reĝa ĵeleo fiksita al sia abdomeno.
+
+IDS_JOURNAL_SNAIL
+Snail
+Heliko
+
+IDS_JOURNAL_SNAIL_DESC
+A slimy mollusk that blows acidic spit bubbles when it's agitated.
+Muka molusko, kiu defendas sin per vezikoj el acida salivo.
+
+IDS_JOURNAL_MONKEY
+Monkey
+Simio
+
+IDS_JOURNAL_MONKEY_DESC
+Its pranks are the leading cause of injury to unwary jungle explorers.
+Ĝiaj ŝercaj trompoj estas la ĉefa kialo de vundoj por nesingardaj esplorantoj en la ĝangalo.
+
+IDS_JOURNAL_GOLDMONKEY
+Golden Monkey
+Ora Simio
+
+IDS_JOURNAL_GOLDMONKEY_DESC
+A friendly but elusive primate that enjoys striking off on an adventure.
+Amikeca sed apenaŭ trovebla primato, kiu ŝatas aventurumi.
+
+IDS_JOURNAL_JIANGSHI
+Jiang Shi
+Ĉjan Ŝi
+
+IDS_JOURNAL_JIANGSHI_DESC
+This restless zombie attacks humans to absorb their life essence.
+Ĉi tiu senripoza zombio atakas homojn por sorbi ilian vivenergion.
+
+IDS_JOURNAL_GREENKNIGHT
+Green Knight
+Verda Kavaliro
+
+IDS_JOURNAL_GREENKNIGHT_DESC
+Who or what is inside this haunted suit of armor?
+Kiu aŭ kio estas en tiu hantata kiraso?
+
+IDS_JOURNAL_BLACKKNIGHT
+Black Knight
+Nigra Kavaliro
+
+IDS_JOURNAL_BLACKKNIGHT_DESC
+The lord of the castle. He fights with supreme confidence and won't give up until death.
+La lordo de la kastelo. Li batalas kun absoluta memfido kaj ne rezignos ĝis sia morto.
+
+IDS_JOURNAL_VAMPIRE
+Vampire
+Vampiro
+
+IDS_JOURNAL_VAMPIRE_DESC
+An undead bloodsucker with superhuman strength. He can change into a bat.
+Superhome forta vivkadavro, kiu suĉas sangon. Li povas ŝanĝi sian formon al vesperto.
+
+IDS_JOURNAL_GHOST
+Ghost
+Fantomo
+
+IDS_JOURNAL_GHOST_DESC
+This frightening apparition haunts the caves. Where did it come from?
+Tiu ĉi timiga aperaĵo hantas la kavernojn. De kie ĝi venis?
+
+IDS_JOURNAL_CELL
+Bacterium
+Bakterio
+
+IDS_JOURNAL_CELL_DESC
+A dangerous single-celled organism that feeds on decaying matter.
+Danĝera unuĉela vivaĵo, kiu nutras sin per putrantaj restaĵoj.
+
+IDS_JOURNAL_WORMEGG
+Worm Egg
+Verma ovo
+
+IDS_JOURNAL_WORMEGG_DESC
+It's filled with worm babies. Gross!
+Ĝi estas plena de vermidoj. Naŭze!
+
+IDS_JOURNAL_WORMBABY
+Worm Baby
+Vermido
+
+IDS_JOURNAL_WORMBABY_DESC
+It looks small now, but adults can grow to a length of several miles.
+Nun ĝi estas ankoraŭ eta, sed plenkreskaj vermoj povas kreski ĝis longeco de kelkaj kilometoj.
+
+IDS_JOURNAL_YETI
+Yeti
+Jetio
+
+IDS_JOURNAL_YETI_DESC
+A playful creature that unfortunately doesn't know its own strength.
+Ludema vivaĵo, kiu bedaŭrinde ne bone regas sian forton.
+
+IDS_JOURNAL_YETIKING
+Yeti King
+Jetia Reĝo
+
+IDS_JOURNAL_YETIKING_DESC
+The king of the yetis is whichever yeti is the biggest.
+Tiu, kiu estas plej granda, iĝas reĝo de la jetioj.
+
+IDS_JOURNAL_MAMMOTH
+Mammoth
+Mamuto
+
+IDS_JOURNAL_MAMMOTH_DESC
+This furry animal was thought to be extinct. Its breath is like a blizzard!
+Oni supozis, ke tiuj ĉi harplenaj bestoj estis formortintaj. Ĝia spiro estas kiel neĝoŝtormo!
+
+IDS_JOURNAL_ALIEN
+Alien
+Eksterterano
+
+IDS_JOURNAL_ALIEN_DESC
+Invaders from space... what are they doing down here?
+Invadantoj el la kosmo... Kial ili estas ĉi tie subtere?
+
+IDS_JOURNAL_UFO
+UFO
+Nifo
+
+IDS_JOURNAL_UFO_DESC
+A flying saucer powered by mysterious alien technology.
+Fluganta subtaso, kiu moviĝas per mistera ekstertera teknologio.
+
+IDS_JOURNAL_ALIENTANK
+Alien Tank
+Kosma Tanko
+
+IDS_JOURNAL_ALIENTANK_DESC
+The survival rate of tank drivers is at an all-time low.
+La risko de morto por tankistoj estas nun pli alta ol iam ajn antaŭe.
+
+IDS_JOURNAL_ALIENLORD
+Alien Lord
+Eksterterana sinjoro
+
+IDS_JOURNAL_ALIENLORD_DESC
+A powerful psychic creature that commands a large spacecraft.
+Estaĵo kun paranormalaj menskapabloj, kiu estras grandan kosmoŝipon.
+
+IDS_JOURNAL_ALIENQUEEN
+Alien Queen
+Reĝino de Eksterteranoj
+
+IDS_JOURNAL_ALIENQUEEN_DESC
+The mastermind of the alien invasion. She has incredible psychic powers.
+La genia strategiisto de la eksterterana invado. Ŝi havas nekredeble fortajn telepatiajn povojn.
+
+IDS_JOURNAL_HAWKMAN
+Hawk Man
+Falkulo
+
+IDS_JOURNAL_HAWKMAN_DESC
+A dangerous leader of the Olmec cult. He's always looking for people to sacrifice.
+Danĝera gvidanto en la kulto de Olmeko. Li ĉiam serĉas homojn por siaj oferoj.
+
+IDS_JOURNAL_CROCMAN
+Croc Man
+Krokodilulo
+
+IDS_JOURNAL_CROCMAN_DESC
+This elite temple guard has magical powers that make him very tough to kill.
+Ĉi tiu elita templogardisto havas magiajn povojn, kaj tial tre malfacilas mortigi lin.
+
+IDS_JOURNAL_MAGMAMAN
+Magma Man
+Magmulo
+
+IDS_JOURNAL_MAGMAMAN_DESC
+An elemental of fire that has fashioned a body out of lava.
+Fajra elementvivaĵo, kiu formis por si korpon el lafo.
+
+IDS_JOURNAL_SCORPIONFLY
+Scorpion Fly
+Skorpia Muŝo
+
+IDS_JOURNAL_SCORPIONFLY_DESC
+It's as dangerous on the ground as it is in the air.
+Ĝi same danĝeras sur la planko kiel en la aero.
+
+IDS_JOURNAL_MUMMY
+Mummy
+Mumio
+
+IDS_JOURNAL_MUMMY_DESC
+Cursed tomb lords with a very old grudge to bear.
+Malbenita entombigita nobelo, kiu jam dum jarmiloj tenas obstinan venĝemon.
+
+IDS_JOURNAL_ANUBIS
+Anubis
+Anubo
+
+IDS_JOURNAL_ANUBIS_DESC
+A jackal-headed god who rules over the world of the dead.
+Ŝakal-kapa dio, kiu regas la postmortan mondon.
+
+IDS_JOURNAL_ANUBISII
+Anubis II
+Anubo II
+
+IDS_JOURNAL_ANUBISII_DESC
+The second incarnation of Anubis. He'll do anything to protect the treasures of the underworld.
+La dua enkarniĝo de Anubo. Li farus ion ajn por protekti la trezorojn de la Infero.
+
+IDS_JOURNAL_OLMEC
+Olmec
+Olmeko
+
+IDS_JOURNAL_OLMEC_DESC
+Legend has it that Olmec's Curse keeps people trapped in the caves.
+Laŭ la legendoj, la malbeno de Olmeko tenas homojn en la kavernoj kiel kaptitoj.
+
+IDS_JOURNAL_VLAD
+Vlad
+Vlad
+
+IDS_JOURNAL_VLAD_DESC
+The dark prince of vampires. His tower stands guard at the entrance of Hell.
+La ombra princo de vampiroj. Lia turo gardas la enirejon de la Infero.
+
+IDS_JOURNAL_IMP
+Imp
+Diableto
+
+IDS_JOURNAL_IMP_DESC
+A lowly servant of the underworld. Its job is to refill the lava pits.
+Malaltranga servisto en la Infero. Ĝia tasko estas replenigi la lafajn basenojn.
+
+IDS_JOURNAL_DEVIL
+Devil
+Demono
+
+IDS_JOURNAL_DEVIL_DESC
+Blue devils that escort lost souls to King Yama's courtroom.
+Bluaj demonoj kunportas perditajn animojn al la tronejo de Reĝo Jama.
+
+IDS_JOURNAL_SUCCUBUS
+Succubus
+Sukubo
+
+IDS_JOURNAL_SUCCUBUS_DESC
+A mistress of Vlad. She seduces men and women alike in the service of her master.
+Konkubino de Vlad. Ŝi delogas kaj virojn kaj virinojn por servi sian mastron.
+
+IDS_JOURNAL_OXFACE
+Ox Face
+Bovvizaĝulo
+
+IDS_JOURNAL_OXFACE_DESC
+King Yama's left-hand man. He has the face of an ox.
+La maldekstramanulo de Reĝo Jama. Li havas vizaĝon de bovo.
+
+IDS_JOURNAL_HORSEHEAD
+Horse Head
+Ĉevalkapulo
+
+IDS_JOURNAL_HORSEHEAD_DESC
+King Yama's right-hand man. He has the head of a horse.
+La dekstramanulo de Reĝo Jama. Li havas kapon de ĉevalo.
+
+IDS_JOURNAL_KINGYAMA
+King Yama
+Reĝo Jama
+
+IDS_JOURNAL_KINGYAMA_DESC
+The ruler of Hell! He punishes the damned from atop a bloody throne.
+La reganto de la Infero! Li punas damnitojn sidante sur sanga trono.
+
+IDS_JOURNAL_MINES
+The Mines
+Minejoj
+
+IDS_JOURNAL_MINES_DESC
+An abandoned mine with many deep shafts.
+Forlasitaj minejoj kun multaj profundaj ŝaktoj.
+
+IDS_JOURNAL_LUSH
+Lush
+Verdejo
+
+IDS_JOURNAL_LUSH_DESC
+The trees here have found a way to grow without any sunlight.
+La arboj ĉi tie trovis manieron por kreski sen suna lumo.
+
+IDS_JOURNAL_ICE
+Ice Caves
+Glaciaj Grotoj
+
+IDS_JOURNAL_ICE_DESC
+Icy rocks suspended over a bottomless abyss.
+Frostaj rokoj, kiuj pendiĝas super senfunda abismo.
+
+IDS_JOURNAL_TEMPLE
+Temple
+Templo
+
+IDS_JOURNAL_TEMPLE_DESC
+These ruins have probably been here for thousands of years. Who built them?
+Ĉi tiuj ruinoj ŝajnas esti ĉi tie jam dum jarmiloj. Kiu konstruis ilin?
+
+IDS_JOURNAL_HELL
+Hell
+Infero
+
+IDS_JOURNAL_HELL_DESC
+The Underworld. Sheol. Hades. One thing's for certain: it's HOT down here!
+La Submondo. Ŝeolo. Hadeso. Unu afero estas certa: VARMEGAS ĉi tie!
+
+IDS_JOURNAL_CEMETARY
+Cemetery
+Tombejo
+
+IDS_JOURNAL_CEMETARY_DESC
+This barren place is home for all manner of undead creatures.
+En ĉi tiu malĝojiga loko loĝas ĉiaj vivkadavroj.
+
+IDS_JOURNAL_CASTLE
+Haunted Castle
+Hantata kastelo
+
+IDS_JOURNAL_CASTLE_DESC
+Long ago, the knights who dwelt here were cursed with eternal life.
+Antaŭ longa tempo, la kavaliroj loĝantaj ĉi tie ricevis malbenon de eterna vivo.
+
+IDS_JOURNAL_MARKET
+Black Market
+Nigra bazaro
+
+IDS_JOURNAL_MARKET_DESC
+You may be able to purchase some one-of-a-kind items in this hidden place...
+Eble vi povus aĉeti kelkajn tre unikajn objektojn en ĉi tiu kaŝita loko...
+
+IDS_JOURNAL_WORM
+Worm
+Vermo
+
+IDS_JOURNAL_WORM_DESC
+In one end and out the other.
+Oni eniras je unu ekstremaĵo, kaj eliras je la alia.
+
+IDS_JOURNAL_YETICAVE
+Yeti Cave
+Jetia Kaverno
+
+IDS_JOURNAL_YETICAVE_DESC
+Home to a family yetis. No wonder it smells!
+Hejmo de familio da jetioj. Pro tio do la odoraĉo!
+
+IDS_JOURNAL_MOTHERSHIP
+Mothership
+Patrinoŝipo
+
+IDS_JOURNAL_MOTHERSHIP_DESC
+An impossibly large alien craft.
+Nekredeble granda veturilo de eksterteranoj.
+
+IDS_JOURNAL_COG
+City of Gold
+Ora Urbo
+
+IDS_JOURNAL_COG_DESC
+The City of Gold! So the legends were true!
+La Ora Urbo! Do la legendoj estis veraj!
+
+IDS_JOURNAL_ROPEPILE
+Rope Pile
+Stako da ŝnuroj
+
+IDS_JOURNAL_ROPEPILE_DESC
+Ropes are an essential tool of the explorer. Great for those hard-to-reach places!
+Ŝnuroj estas nepre havendaj iloj por esploristoj. Tre utilaj por malfacile atingeblaj lokoj!
+
+IDS_JOURNAL_BOMBBAG
+Bomb Bag
+Sako da bomboj
+
+IDS_JOURNAL_BOMBBAG_DESC
+A bag of three bombs.
+Tri bomboj en sako.
+
+IDS_JOURNAL_BOMBBOX
+Bomb Box
+Skatolo da bomboj
+
+IDS_JOURNAL_BOMBBOX_DESC
+A box that holds twelve bombs.
+Dek du bomboj en skatolo.
+
+IDS_JOURNAL_SPECTACLES
+Spectacles
+Okulvitroj
+
+IDS_JOURNAL_SPECTACLES_DESC
+A nice pair of spectacles that lets you see things you normally wouldn't.
+Belaj okulvitroj, per kiuj oni povas vidi aferojn, kiuj normale ne videblas.
+
+IDS_JOURNAL_CLIMBINGGLOVES
+Climbing Gloves
+Grimpgantoj
+
+IDS_JOURNAL_CLIMBINGGLOVES_DESC
+They protect your hands and let you to cling to even the most slippery of walls.
+Ili protektas viajn manojn kaj ebligas kroĉiĝi eĉ al la plej glitigaj muroj.
+
+IDS_JOURNAL_PITCHERSMITT
+Pitcher's Mitt
+Ĵetista ganto
+
+IDS_JOURNAL_PITCHERSMITT_DESC
+It improves your throwing and catching skills!
+Ĝi plibonigas vian kapablon ĵeti kaj kapti!
+
+IDS_JOURNAL_SPRINGSHOES
+Spring Shoes
+Risortŝuoj
+
+IDS_JOURNAL_SPRINGSHOES_DESC
+Puts a spring in your step.
+Por pli gajaj paŝoj.
+
+IDS_JOURNAL_SPIKESHOES
+Spike Shoes
+Najloŝuoj
+
+IDS_JOURNAL_SPIKESHOES_DESC
+Hiking boots fitted with sharp spikes on their soles.
+Marŝbotoj, kiuj havas akrajn najlojn malsupre ĉe la plandumoj.
+
+IDS_JOURNAL_CAMERA
+Camera
+Fotilo
+
+IDS_JOURNAL_CAMERA_DESC
+The most expensive camera on the market. Say cheese!
+La plej multekosta fotilo, kiu aĉeteblas. Ridetu!
+
+IDS_JOURNAL_COMPASS
+Compass
+Kompaso
+
+IDS_JOURNAL_COMPASS_DESC
+This compass always points the way to the exit.
+Tiu ĉi kompaso ĉiam indikas la direkton al la elirejo.
+
+IDS_JOURNAL_PASTE
+Paste
+Gluo
+
+IDS_JOURNAL_PASTE_DESC
+Coat your bombs with this and they'll stick to pretty much anything.
+Ŝmiru ĝin sur viaj bomboj, kaj ili algluiĝos al preskaŭ io ajn.
+
+IDS_JOURNAL_MATTOCK
+Mattock
+Hakfosilo
+
+IDS_JOURNAL_MATTOCK_DESC
+A sharp tool that's great for digging, but the craftsmanship is shoddy.
+Akra ilo, kiu ege utilas por fosado, sed ĝia estas tiom bone konstruita.
+
+IDS_JOURNAL_MACHETE
+Machete
+Maĉeto
+
+IDS_JOURNAL_MACHETE_DESC
+It slices, it dices, it cuts through monsters like stale bread!
+Ĝi hakas kaj tranĉas tra monstroj kiel tra seka pano!
+
+IDS_JOURNAL_BOOMERANG
+Boomerang
+Bumerango
+
+IDS_JOURNAL_BOOMERANG_DESC
+A popular weapon of tiki men. It (almost) always comes back!
+Populara armilo inter Tikiuloj. Ĝi (preskaŭ) ĉiam revenas!
+
+IDS_JOURNAL_CRYSKNIFE
+Crysknife
+Kristranĉilo
+
+IDS_JOURNAL_CRYSKNIFE_DESC
+A razor-sharp blade fashioned from the tooth of a worm. It replaces your whip.
+Ege akra tranĉilo farita el dento de vermo. Ĝi anstataŭas vian vipon.
+
+IDS_JOURNAL_WEBGUN
+Web Gun
+Retpafilo
+
+IDS_JOURNAL_WEBGUN_DESC
+A gun that shoots sticky spider webs.
+Pafilo, kiu elpafas gluecajn araneajn retojn.
+
+IDS_JOURNAL_SHOTGUN
+Shotgun
+Fusilo
+
+IDS_JOURNAL_SHOTGUN_DESC
+Your typical 12-gauge shotgun.
+Kartoĉa hajlofusilo, kun la norma kalibro de 18,5 mm.
+
+IDS_JOURNAL_FREEZERAY
+Freeze Ray
+Frostoradia pafilo
+
+IDS_JOURNAL_FREEZERAY_DESC
+A blast from this will freeze anything completely solid.
+Unu pafo de tio frostigas ion ajn ĝis la kerno.
+
+IDS_JOURNAL_LASERGUN
+Plasma Cannon
+Plasma kanono
+
+IDS_JOURNAL_LASERGUN_DESC
+The height of alien weapon design. This thing packs a punch!
+La kulmino de ekstertera armila teknologio. La detrua forto de ĝi estas vere nekredebla!
+
+IDS_JOURNAL_PARACHUTE
+Parachute
+Paraŝuto
+
+IDS_JOURNAL_PARACHUTE_DESC
+It will deploy automatically as you're falling.
+Ĝi aŭtomate disfaldiĝas dum falo.
+
+IDS_JOURNAL_CAPE
+Cape
+Tukmantelo
+
+IDS_JOURNAL_CAPE_DESC
+It looks dashing and also lets you float in the air.
+Ĝi aspektas tre mojose, kaj ankaŭ ebligas ŝvebadon en la aero.
+
+IDS_JOURNAL_TELEPORTER
+Teleporter
+Teleportilo
+
+IDS_JOURNAL_TELEPORTER_DESC
+A piece of futuristic technology! But it hasn't been perfected yet...
+Teknologiaĵo, kiu kvazaŭ estas el la estonteco! Sed ĝi ankoraŭ havas kelkajn mankojn...
+
+IDS_JOURNAL_JETPACK
+Jetpack
+Dorsa jetmotoro
+
+IDS_JOURNAL_JETPACK_DESC
+The coolest way to travel. The fuel replenishes while you're on the ground.
+Ne ekzistas pli mojosa maniero por vojaĝi. La fuelo repleniĝas, kiam vi staras surtere.
+
+IDS_JOURNAL_SHIELD
+Shield
+Ŝildo
+
+IDS_JOURNAL_SHIELD_DESC
+The ultimate in protective armor! Even a cannonball couldn't get through this.
+La plej potenca protektilo iam ajn! Eĉ kuglego de kanono ne kapablus trairi ĝin.
+
+IDS_JOURNAL_VLADSWINGS
+Vlad's Cape
+Mantelo de Vlad
+
+IDS_JOURNAL_VLADSWINGS_DESC
+The bloody cape of Vlad the Impaler. It's even more dashing than regular capes.
+La sanga tukmantelo de Vlad la Palisumanto. Ĝi estas eĉ pli mojosaspekta ol normalaj tukmanteloj.
+
+IDS_JOURNAL_ROYALJELLY
+Royal Jelly
+Reĝa ĵeleo
+
+IDS_JOURNAL_ROYALJELLY_DESC
+A delicious nectar that's made by bees. Highly valued by gourmands everywhere.
+Bongusta nektaro farita de abeloj. Tre valora al frandemuloj ĉie en la mondo.
+
+IDS_JOURNAL_IDOL
+Idol
+Idolo
+
+IDS_JOURNAL_IDOL_DESC
+A golden statue guarded by deadly traps. Bring it to the exit for a big reward!
+Ora statuo gardata de mortigaj insidiloj. Portu ĝin al la elirejo por ricevi multe da mono!
+
+IDS_JOURNAL_KAPALA
+Kapala
+Kapalo
+
+IDS_JOURNAL_KAPALA_DESC
+A cup made from a human skull. It's used in bloody rituals.
+Taso farita el homa kranio. Oni uzas ĝin dum sangaj ritoj.
+
+IDS_JOURNAL_VLADSAMULET
+Vlad's Amulet
+Amuleto de Vlad
+
+IDS_JOURNAL_VLADSAMULET_DESC
+A magical amulet that protects its owner from fire.
+Magia amuleto, kiu protektas sian posedanton kontraŭ fajro.
+
+IDS_JOURNAL_UDJATEYE
+Udjat Eye
+Uĝat-okulo
+
+IDS_JOURNAL_UDJATEYE_DESC
+The Eye is an ancient symbol of royal power. Does it have any other purpose?
+La Okulo estas antikva simbolo de reĝa povo. Ĉu ĝi havas alian uzon?
+
+IDS_JOURNAL_ANKH
+Ankh
+Anĥo
+
+IDS_JOURNAL_ANKH_DESC
+A magical artifact that symbolizes eternal life.
+Antikva magia objekto, kiu simbolas eternan vivon.
+
+IDS_JOURNAL_HEDJET
+Hedjet
+Heĝeto
+
+IDS_JOURNAL_HEDJET_DESC
+The white crown of pharaohs. It grants its wearer access to secret areas.
+La blanka krono de faraonoj. Se oni portas ĝin, oni rajtas aliri sekretajn lokojn.
+
+IDS_JOURNAL_SCEPTRE
+Sceptre
+Sceptro
+
+IDS_JOURNAL_SCEPTRE_DESC
+The person who wields the staff of Anubis has control over life and death.
+Tiu, kiu tenas la bastonon de Anubiso, havas regpovon pri vivo kaj morto.
+
+IDS_JOURNAL_BOOKOFDEAD
+Book of the Dead
+Libro de l' Mortintoj
+
+IDS_JOURNAL_BOOKOFDEAD_DESC
+Guarded by Anubis II in the City of Gold. It opens the entrance to the underworld.
+Gardata de Anubiso II en la Ora Urbo. Ĝi malfermas la enirejon al la Infero.
+
+IDS_JOURNAL_SPIKES
+Spikes
+Pikiloj
+
+IDS_JOURNAL_SPIKES_DESC
+These protrusions will leave big holes in anyone unlucky enough to fall on them.
+Ĉi tiuj pintaj objektoj faros grandan truojn en ĉiu malbonŝanculo, kiu falas sur ilin.
+
+IDS_JOURNAL_ARROWTRAP
+Arrow Trap
+Saga insidilo
+
+IDS_JOURNAL_ARROWTRAP_DESC
+A basic trap. It fires an arrow when something moves in front of it.
+Simpla insidilo. Ĝi pafas sagon, kiam io moviĝas antaŭ ĝi.
+
+IDS_JOURNAL_BOULDER
+Boulder
+Rulŝtonego
+
+IDS_JOURNAL_BOULDER_DESC
+An elaborate trap used to punish thieves.
+Ege komplika insidilo uzata por puni ŝtelistojn.
+
+IDS_JOURNAL_TIKITRAP
+Tiki Trap
+Tiki-insidilo
+
+IDS_JOURNAL_TIKITRAP_DESC
+Sharp spikes on either side skewer anything that gets too close.
+Akraj pikiloj ĉe ambaŭ flankoj traboras ion ajn, kio tro proksimiĝas.
+
+IDS_JOURNAL_ACID
+Acid
+Acido
+
+IDS_JOURNAL_ACID_DESC
+Caustic stomach acid that slowly burns away the flesh. Beware of the bubbles!
+Koroda stomaka acido, kiu fobruligas karnon. Atentu la vezikojn!
+
+IDS_JOURNAL_SPRING
+Spring
+Saltigilo
+
+IDS_JOURNAL_SPRING_DESC
+An alien contraption that's used for transportation and entertainment.
+Aparato de eksterteranoj, kiu estas uzata por transportado kaj amuziĝado.
+
+IDS_JOURNAL_MINE
+Mine
+Mino
+
+IDS_JOURNAL_MINE_DESC
+A proximity-triggered explosive device. Disarm it quickly!
+Eksplodaĵo, kiu aktiviĝas per proksimeca sentilo. Sendanĝerigu ĝin rapide!
+
+IDS_JOURNAL_TURRET
+Turret
+Tureto
+
+IDS_JOURNAL_TURRET_DESC
+It's part of the standard spaceship defense system.
+Normala parto de la defenda sistemo de preskaŭ ĉiu kosmoŝipo.
+
+IDS_JOURNAL_FORCEFIELD
+Forcefield
+Fortokampo
+
+IDS_JOURNAL_FORCEFIELD_DESC
+A powerful laser barrier that can even deflect plasma blasts.
+Forta lasera barilo, kiu povas resendi eĉ pafojn de plasma kanono.
+
+IDS_JOURNAL_CRUSHTRAP
+Crush Trap
+Platiga insidilo
+
+IDS_JOURNAL_CRUSHTRAP_DESC
+This heavy stone block is imbued with the spirit of the pharaoh's palace guard.
+Sorĉistoj metis la spiriton de faraona gardisto en ĉi tiun pezan blokon da ŝtono.
+
+IDS_JOURNAL_CEILINGTRAP
+Ceiling Trap
+Plafona insidilo
+
+IDS_JOURNAL_CEILINGTRAP_DESC
+When the ceiling starts dropping, you'd better stop hopping!
+Se venas plafono, ek, for el salono!
+
+IDS_JOURNAL_FLAMETRAP
+Flame Trap
+Flama insidilo
+
+IDS_JOURNAL_FLAMETRAP_DESC
+It shoot jets of flames in short bursts.
+Ĝi rekte elpafas flamojn per mallongaj pafoj.
+
+IDS_JOURNAL_SPIKEBALL
+Spike Ball
+Pika pilko
+
+IDS_JOURNAL_SPIKEBALL_DESC
+A deadly ball and chain that swings with infernal determination.
+Mortiga pilko fiksita al ĉeno, kiu svingiĝas kun diabla persistemo.
+
+IDS_JOURNAL_LAVA
+Lava
+Lafo
+
+IDS_JOURNAL_LAVA_DESC
+Molten rock that flows deep underground. The heat can melt almost anything!
+Likva ŝtono, kiu fluas profunde sub la tero. Ĝia varmeco povas fandi preskaŭ ion ajn!
+
+IDS_STARTMSG
+The walls are shifting...
+La muroj ŝanĝiĝas...
+
+IDS_JOURNALPICKUP
+You picked up a journal! Press @- to open it.
+Vi prenis ĵurnalon! Premu @- por malfermi ĝin.
+
+IDS_LEVELFEELING_CEMETARY
+The dead are restless...
+La mortintoj maltrankvilas...
+
+IDS_LEVELFEELING_MARKET
+Welcome to the Black Market!
+Bonvenon al la nigra bazaro!
+
+IDS_LEVELFEELING_CASTLE
+A wolf howls in the distance...
+Lupo hojlas distance...
+
+IDS_LEVELFEELING_SNAKEPIT
+I hear snakes... I hate snakes!
+Mi aŭdas serpentojn... Mi malamas serpentojn!
+
+IDS_LEVELFEELING_SPIDER
+My skin is crawling...
+Miaj haroj stariĝas...
+
+IDS_LEVELFEELING_JULY
+It feels like the fourth of July...
+Estas kvazaŭ ekstertera sento...
+
+IDS_LEVELFEELING_YETICAVE
+It smells like wet fur in here.
+Odoras kiel malseka felo ĉi tie.
+
+IDS_LEVELFEELING_SACPIT
+You hear prayers to Kali!
+Aŭdeblas preĝoj al Kalio!
+
+IDS_LEVELFEELING_VLAD
+A horrible feeling of nausea comes over you!
+Aĉa naŭzosento kaptas vin!
+
+IDS_LEVELFEELING_LAKE
+I hear rushing water!
+Mi aŭdas kurantan akvon!
+
+IDS_LEVELFEELING_ASHIP
+I sense a psychic presence here!
+Mi sentas telepatian ĉeeston ĉi tie!
+
+IDS_LEVELFEELING_DARK
+I can't see a thing!
+Mi apenaŭ vidas ion ajn!
+
+IDS_TRYAGAIN
+Let's try that again!
+Ni provu denove!
+
+IDS_SHOPKEEPER_NAME1
+Ahkmed
+Aĥmed
+
+IDS_SHOPKEEPER_NAME2
+Bob
+Boris
+
+IDS_SHOPKEEPER_NAME3
+Cosmo
+Cezar
+
+IDS_SHOPKEEPER_NAME4
+Darwin
+Darvin
+
+IDS_SHOPKEEPER_NAME5
+Error
+Eraro
+
+IDS_SHOPKEEPER_NAME6
+Frank
+Frank
+
+IDS_SHOPKEEPER_NAME7
+Garth
+Gido
+
+IDS_SHOPKEEPER_NAME8
+Hakim
+Hakim
+
+IDS_SHOPKEEPER_NAME9
+Iggy
+Igĉjo
+
+IDS_SHOPKEEPER_NAME10
+Jimbo
+Ĉuk
+
+IDS_SHOPKEEPER_NAME11
+Kevin
+Ĝerald
+
+IDS_SHOPKEEPER_NAME12
+Lou
+Ludvik
+
+IDS_SHOPKEEPER_NAME13
+Max
+Maks
+
+IDS_SHOPKEEPER_NAME14
+Nacho
+Naĉo
+
+IDS_SHOPKEEPER_NAME15
+Omar
+Omar
+
+IDS_SHOPKEEPER_NAME16
+Pancho
+Pedro
+
+IDS_SHOPKEEPER_NAME17
+Quincy
+Kvintus
+
+IDS_SHOPKEEPER_NAME18
+Ron
+Robin
+
+IDS_SHOPKEEPER_NAME19
+Sparky
+Soĉjo
+
+IDS_SHOPKEEPER_NAME20
+Tarn
+Tonjo
+
+IDS_SHOPKEEPER_NAME21
+Ulf
+Ulf
+
+IDS_SHOPKEEPER_NAME22
+Vern
+Vim
+
+IDS_SHOPKEEPER_NAME23
+Willy
+Ĵak
+
+IDS_SHOPKEEPER_NAME24
+Xorn
+Ŝigeru
+
+IDS_SHOPKEEPER_NAME25
+Yoshi
+Joŝi
+
+IDS_SHOPKEEPER_NAME26
+Ziggy
+Zigmund
+
+IDS_SHOPWELCOME0A
+Welcome to Ahkmed's General Store!
+Bonvenon al la Ĝenerala Vendejo de Aĥmed!
+
+IDS_SHOPWELCOME0B
+Welcome to Ahkmed's Specialty Shop!
+Bonvenon al la Specialvendejo de Aĥmed!
+
+IDS_SHOPWELCOME0C
+Welcome to Ahkmed's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Aĥmed!
+
+IDS_SHOPWELCOME0D
+Welcome to Ahkmed's Bomb Shop!
+Bonvenon al la Bombovendejo de Aĥmed!
+
+IDS_SHOPWELCOME0E
+Welcome to Ahkmed's Weapon Shop!
+Bonvenon al la Armilvendejo de Aĥmed!
+
+IDS_SHOPWELCOME0F
+Welcome to Ahkmed's Kissing Parlor!
+Bonvenon al la Kisbudo de Aĥmed!
+
+IDS_SHOPWELCOME0G
+Welcome to Ahkmed's Hired Hands!
+Bonvenon al la Helpistejo de Aĥmed!
+
+IDS_SHOPWELCOME0H
+Welcome to Ahkmed's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Aĥmed!
+
+IDS_SHOPWELCOME0I
+Welcome to Ahkmed's General Store!
+Bonvenon al la Ĝenerala Vendejo de Aĥmed!
+
+IDS_SHOPWELCOME1A
+Welcome to Bob's General Store!
+Bonvenon al la Ĝenerala Vendejo de Boris!
+
+IDS_SHOPWELCOME1B
+Welcome to Bob's Specialty Shop!
+Bonvenon al la Specialvendejo de Boris!
+
+IDS_SHOPWELCOME1C
+Welcome to Bob's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Boris!
+
+IDS_SHOPWELCOME1D
+Welcome to Bob's Bomb Shop!
+Bonvenon al la Bombovendejo de Boris!
+
+IDS_SHOPWELCOME1E
+Welcome to Bob's Weapon Shop!
+Bonvenon al la Armilvendejo de Boris!
+
+IDS_SHOPWELCOME1F
+Welcome to Bob's Kissing Parlor!
+Bonvenon al la Kisbudo de Boris!
+
+IDS_SHOPWELCOME1G
+Welcome to Bob's Hired Hands!
+Bonvenon al la Helpistejo de Boris!
+
+IDS_SHOPWELCOME1H
+Welcome to Bob's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Boris!
+
+IDS_SHOPWELCOME1I
+Welcome to Bob's General Store!
+Bonvenon al la Ĝenerala Vendejo de Boris!
+
+IDS_SHOPWELCOME2A
+Welcome to Cosmo's General Store!
+Bonvenon al la Ĝenerala Vendejo de Cezar!
+
+IDS_SHOPWELCOME2B
+Welcome to Cosmo's Specialty Shop!
+Bonvenon al la Specialvendejo de Cezar!
+
+IDS_SHOPWELCOME2C
+Welcome to Cosmo's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Cezar!
+
+IDS_SHOPWELCOME2D
+Welcome to Cosmo's Bomb Shop!
+Bonvenon al la Bombovendejo de Cezar!
+
+IDS_SHOPWELCOME2E
+Welcome to Cosmo's Weapon Shop!
+Bonvenon al la Armilvendejo de Cezar!
+
+IDS_SHOPWELCOME2F
+Welcome to Cosmo's Kissing Parlor!
+Bonvenon al la Kisbudo de Cezar!
+
+IDS_SHOPWELCOME2G
+Welcome to Cosmo's Hired Hands!
+Bonvenon al la Helpistejo de Cezar!
+
+IDS_SHOPWELCOME2H
+Welcome to Cosmo's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Cezar!
+
+IDS_SHOPWELCOME2I
+Welcome to Cosmo's General Store!
+Bonvenon al la Ĝenerala Vendejo de Cezar!
+
+IDS_SHOPWELCOME3A
+Welcome to Darwin's General Store!
+Bonvenon al la Ĝenerala Vendejo de Darvin!
+
+IDS_SHOPWELCOME3B
+Welcome to Darwin's Specialty Shop!
+Bonvenon al la Specialvendejo de Darvin!
+
+IDS_SHOPWELCOME3C
+Welcome to Darwin's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Darvin!
+
+IDS_SHOPWELCOME3D
+Welcome to Darwin's Bomb Shop!
+Bonvenon al la Bombovendejo de Darvin!
+
+IDS_SHOPWELCOME3E
+Welcome to Darwin's Weapon Shop!
+Bonvenon al la Armilvendejo de Darvin!
+
+IDS_SHOPWELCOME3F
+Welcome to Darwin's Kissing Parlor!
+Bonvenon al la Kisbudo de Darvin!
+
+IDS_SHOPWELCOME3G
+Welcome to Darwin's Hired Hands!
+Bonvenon al la Helpistejo de Darvin!
+
+IDS_SHOPWELCOME3H
+Welcome to Darwin's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Darvin!
+
+IDS_SHOPWELCOME3I
+Welcome to Darwin's General Store!
+Bonvenon al la Ĝenerala Vendejo de Darvin!
+
+IDS_SHOPWELCOME4A
+Welcome to Error's General Store!
+Bonvenon al la Ĝenerala Vendejo de Eraro!
+
+IDS_SHOPWELCOME4B
+Welcome to Error's Specialty Shop!
+Bonvenon al la Specialvendejo de Eraro!
+
+IDS_SHOPWELCOME4C
+Welcome to Error's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Eraro!
+
+IDS_SHOPWELCOME4D
+Welcome to Error's Bomb Shop!
+Bonvenon al la Bombovendejo de Eraro!
+
+IDS_SHOPWELCOME4E
+Welcome to Error's Weapon Shop!
+Bonvenon al la Armilvendejo de Eraro!
+
+IDS_SHOPWELCOME4F
+Welcome to Error's Kissing Parlor!
+Bonvenon al la Kisbudo de Eraro!
+
+IDS_SHOPWELCOME4G
+Welcome to Error's Hired Hands!
+Bonvenon al la Helpistejo de Eraro!
+
+IDS_SHOPWELCOME4H
+Welcome to Error's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Eraro!
+
+IDS_SHOPWELCOME4I
+Welcome to Error's General Store!
+Bonvenon al la Ĝenerala Vendejo de Eraro!
+
+IDS_SHOPWELCOME5A
+Welcome to Frank's General Store!
+Bonvenon al la Ĝenerala Vendejo de Frank!
+
+IDS_SHOPWELCOME5B
+Welcome to Frank's Specialty Shop!
+Bonvenon al la Specialvendejo de Frank!
+
+IDS_SHOPWELCOME5C
+Welcome to Frank's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Frank!
+
+IDS_SHOPWELCOME5D
+Welcome to Frank's Bomb Shop!
+Bonvenon al la Bombovendejo de Frank!
+
+IDS_SHOPWELCOME5E
+Welcome to Frank's Weapon Shop!
+Bonvenon al la Armilvendejo de Frank!
+
+IDS_SHOPWELCOME5F
+Welcome to Frank's Kissing Parlor!
+Bonvenon al la Kisbudo de Frank!
+
+IDS_SHOPWELCOME5G
+Welcome to Frank's Hired Hands!
+Bonvenon al la Helpistejo de Frank!
+
+IDS_SHOPWELCOME5H
+Welcome to Frank's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Frank!
+
+IDS_SHOPWELCOME5I
+Welcome to Frank's General Store!
+Bonvenon al la Ĝenerala Vendejo de Frank!
+
+IDS_SHOPWELCOME6A
+Welcome to Garth's General Store!
+Bonvenon al la Ĝenerala Vendejo de Gido!
+
+IDS_SHOPWELCOME6B
+Welcome to Garth's Specialty Shop!
+Bonvenon al la Specialvendejo de Gido!
+
+IDS_SHOPWELCOME6C
+Welcome to Garth's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Gido!
+
+IDS_SHOPWELCOME6D
+Welcome to Garth's Bomb Shop!
+Bonvenon al la Bombovendejo de Gido!
+
+IDS_SHOPWELCOME6E
+Welcome to Garth's Weapon Shop!
+Bonvenon al la Armilvendejo de Gido!
+
+IDS_SHOPWELCOME6F
+Welcome to Garth's Kissing Parlor!
+Bonvenon al la Kisbudo de Gido!
+
+IDS_SHOPWELCOME6G
+Welcome to Garth's Hired Hands!
+Bonvenon al la Helpistejo de Gido!
+
+IDS_SHOPWELCOME6H
+Welcome to Garth's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Gido!
+
+IDS_SHOPWELCOME6I
+Welcome to Garth's General Store!
+Bonvenon al la Ĝenerala Vendejo de Gido!
+
+IDS_SHOPWELCOME7A
+Welcome to Hakim's General Store!
+Bonvenon al la Ĝenerala Vendejo de Hakim!
+
+IDS_SHOPWELCOME7B
+Welcome to Hakim's Specialty Shop!
+Bonvenon al la Specialvendejo de Hakim!
+
+IDS_SHOPWELCOME7C
+Welcome to Hakim's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Hakim!
+
+IDS_SHOPWELCOME7D
+Welcome to Hakim's Bomb Shop!
+Bonvenon al la Bombovendejo de Hakim!
+
+IDS_SHOPWELCOME7E
+Welcome to Hakim's Weapon Shop!
+Bonvenon al la Armilvendejo de Hakim!
+
+IDS_SHOPWELCOME7F
+Welcome to Hakim's Kissing Parlor!
+Bonvenon al la Kisbudo de Hakim!
+
+IDS_SHOPWELCOME7G
+Welcome to Hakim's Hired Hands!
+Bonvenon al la Helpistejo de Hakim!
+
+IDS_SHOPWELCOME7H
+Welcome to Hakim's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Hakim!
+
+IDS_SHOPWELCOME7I
+Welcome to Hakim's General Store!
+Bonvenon al la Ĝenerala Vendejo de Hakim!
+
+IDS_SHOPWELCOME8A
+Welcome to Iggy's General Store!
+Bonvenon al la Ĝenerala Vendejo de Igĉjo!
+
+IDS_SHOPWELCOME8B
+Welcome to Iggy's Specialty Shop!
+Bonvenon al la Specialvendejo de Igĉjo!
+
+IDS_SHOPWELCOME8C
+Welcome to Iggy's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Igĉjo!
+
+IDS_SHOPWELCOME8D
+Welcome to Iggy's Bomb Shop!
+Bonvenon al la Bombovendejo de Igĉjo!
+
+IDS_SHOPWELCOME8E
+Welcome to Iggy's Weapon Shop!
+Bonvenon al la Armilvendejo de Igĉjo!
+
+IDS_SHOPWELCOME8F
+Welcome to Iggy's Kissing Parlor!
+Bonvenon al la Kisbudo de Igĉjo!
+
+IDS_SHOPWELCOME8G
+Welcome to Iggy's Hired Hands!
+Bonvenon al la Helpistejo de Igĉjo!
+
+IDS_SHOPWELCOME8H
+Welcome to Iggy's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Igĉjo!
+
+IDS_SHOPWELCOME8I
+Welcome to Iggy's General Store!
+Bonvenon al la Ĝenerala Vendejo de Igĉjo!
+
+IDS_SHOPWELCOME9A
+Welcome to Jimbo's General Store!
+Bonvenon al la Ĝenerala Vendejo de Ĉuk!
+
+IDS_SHOPWELCOME9B
+Welcome to Jimbo's Specialty Shop!
+Bonvenon al la Specialvendejo de Ĉuk!
+
+IDS_SHOPWELCOME9C
+Welcome to Jimbo's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Ĉuk!
+
+IDS_SHOPWELCOME9D
+Welcome to Jimbo's Bomb Shop!
+Bonvenon al la Bombovendejo de Ĉuk!
+
+IDS_SHOPWELCOME9E
+Welcome to Jimbo's Weapon Shop!
+Bonvenon al la Armilvendejo de Ĉuk!
+
+IDS_SHOPWELCOME9F
+Welcome to Jimbo's Kissing Parlor!
+Bonvenon al la Kisbudo de Ĉuk!
+
+IDS_SHOPWELCOME9G
+Welcome to Jimbo's Hired Hands!
+Bonvenon al la Helpistejo de Ĉuk!
+
+IDS_SHOPWELCOME9H
+Welcome to Jimbo's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Ĉuk!
+
+IDS_SHOPWELCOME9I
+Welcome to Jimbo's General Store!
+Bonvenon al la Ĝenerala Vendejo de Ĉuk!
+
+IDS_SHOPWELCOME10A
+Welcome to Kevin's General Store!
+Bonvenon al la Ĝenerala Vendejo de Ĝerald!
+
+IDS_SHOPWELCOME10B
+Welcome to Kevin's Specialty Shop!
+Bonvenon al la Specialvendejo de Ĝerald!
+
+IDS_SHOPWELCOME10C
+Welcome to Kevin's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Ĝerald!
+
+IDS_SHOPWELCOME10D
+Welcome to Kevin's Bomb Shop!
+Bonvenon al la Bombovendejo de Ĝerald!
+
+IDS_SHOPWELCOME10E
+Welcome to Kevin's Weapon Shop!
+Bonvenon al la Armilvendejo de Ĝerald!
+
+IDS_SHOPWELCOME10F
+Welcome to Kevin's Kissing Parlor!
+Bonvenon al la Kisbudo de Ĝerald!
+
+IDS_SHOPWELCOME10G
+Welcome to Kevin's Hired Hands!
+Bonvenon al la Helpistejo de Ĝerald!
+
+IDS_SHOPWELCOME10H
+Welcome to Kevin's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Ĝerald!
+
+IDS_SHOPWELCOME10I
+Welcome to Kevin's General Store!
+Bonvenon al la Ĝenerala Vendejo de Ĝerald!
+
+IDS_SHOPWELCOME11A
+Welcome to Lou's General Store!
+Bonvenon al la Ĝenerala Vendejo de Ludvik!
+
+IDS_SHOPWELCOME11B
+Welcome to Lou's Specialty Shop!
+Bonvenon al la Specialvendejo de Ludvik!
+
+IDS_SHOPWELCOME11C
+Welcome to Lou's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Ludvik!
+
+IDS_SHOPWELCOME11D
+Welcome to Lou's Bomb Shop!
+Bonvenon al la Bombovendejo de Ludvik!
+
+IDS_SHOPWELCOME11E
+Welcome to Lou's Weapon Shop!
+Bonvenon al la Armilvendejo de Ludvik!
+
+IDS_SHOPWELCOME11F
+Welcome to Lou's Kissing Parlor!
+Bonvenon al la Kisbudo de Ludvik!
+
+IDS_SHOPWELCOME11G
+Welcome to Lou's Hired Hands!
+Bonvenon al la Helpistejo de Ludvik!
+
+IDS_SHOPWELCOME11H
+Welcome to Lou's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Ludvik!
+
+IDS_SHOPWELCOME11I
+Welcome to Lou's General Store!
+Bonvenon al la Ĝenerala Vendejo de Ludvik!
+
+IDS_SHOPWELCOME12A
+Welcome to Max's General Store!
+Bonvenon al la Ĝenerala Vendejo de Maks!
+
+IDS_SHOPWELCOME12B
+Welcome to Max's Specialty Shop!
+Bonvenon al la Specialvendejo de Maks!
+
+IDS_SHOPWELCOME12C
+Welcome to Max's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Maks!
+
+IDS_SHOPWELCOME12D
+Welcome to Max's Bomb Shop!
+Bonvenon al la Bombovendejo de Maks!
+
+IDS_SHOPWELCOME12E
+Welcome to Max's Weapon Shop!
+Bonvenon al la Armilvendejo de Maks!
+
+IDS_SHOPWELCOME12F
+Welcome to Max's Kissing Parlor!
+Bonvenon al la Kisbudo de Maks!
+
+IDS_SHOPWELCOME12G
+Welcome to Max's Hired Hands!
+Bonvenon al la Helpistejo de Maks!
+
+IDS_SHOPWELCOME12H
+Welcome to Max's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Maks!
+
+IDS_SHOPWELCOME12I
+Welcome to Max's General Store!
+Bonvenon al la Ĝenerala Vendejo de Maks!
+
+IDS_SHOPWELCOME13A
+Welcome to Nacho's General Store!
+Bonvenon al la Ĝenerala Vendejo de Naĉo!
+
+IDS_SHOPWELCOME13B
+Welcome to Nacho's Specialty Shop!
+Bonvenon al la Specialvendejo de Naĉo!
+
+IDS_SHOPWELCOME13C
+Welcome to Nacho's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Naĉo!
+
+IDS_SHOPWELCOME13D
+Welcome to Nacho's Bomb Shop!
+Bonvenon al la Bombovendejo de Naĉo!
+
+IDS_SHOPWELCOME13E
+Welcome to Nacho's Weapon Shop!
+Bonvenon al la Armilvendejo de Naĉo!
+
+IDS_SHOPWELCOME13F
+Welcome to Nacho's Kissing Parlor!
+Bonvenon al la Kisbudo de Naĉo!
+
+IDS_SHOPWELCOME13G
+Welcome to Nacho's Hired Hands!
+Bonvenon al la Helpistejo de Naĉo!
+
+IDS_SHOPWELCOME13H
+Welcome to Nacho's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Naĉo!
+
+IDS_SHOPWELCOME13I
+Welcome to Nacho's General Store!
+Bonvenon al la Ĝenerala Vendejo de Naĉo!
+
+IDS_SHOPWELCOME14A
+Welcome to Omar's General Store!
+Bonvenon al la Ĝenerala Vendejo de Omar!
+
+IDS_SHOPWELCOME14B
+Welcome to Omar's Specialty Shop!
+Bonvenon al la Specialvendejo de Omar!
+
+IDS_SHOPWELCOME14C
+Welcome to Omar's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Omar!
+
+IDS_SHOPWELCOME14D
+Welcome to Omar's Bomb Shop!
+Bonvenon al la Bombovendejo de Omar!
+
+IDS_SHOPWELCOME14E
+Welcome to Omar's Weapon Shop!
+Bonvenon al la Armilvendejo de Omar!
+
+IDS_SHOPWELCOME14F
+Welcome to Omar's Kissing Parlor!
+Bonvenon al la Kisbudo de Omar!
+
+IDS_SHOPWELCOME14G
+Welcome to Omar's Hired Hands!
+Bonvenon al la Helpistejo de Omar!
+
+IDS_SHOPWELCOME14H
+Welcome to Omar's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Omar!
+
+IDS_SHOPWELCOME14I
+Welcome to Omar's General Store!
+Bonvenon al la Ĝenerala Vendejo de Omar!
+
+IDS_SHOPWELCOME15A
+Welcome to Pancho's General Store!
+Bonvenon al la Ĝenerala Vendejo de Pedro!
+
+IDS_SHOPWELCOME15B
+Welcome to Pancho's Specialty Shop!
+Bonvenon al la Specialvendejo de Pedro!
+
+IDS_SHOPWELCOME15C
+Welcome to Pancho's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Pedro!
+
+IDS_SHOPWELCOME15D
+Welcome to Pancho's Bomb Shop!
+Bonvenon al la Bombovendejo de Pedro!
+
+IDS_SHOPWELCOME15E
+Welcome to Pancho's Weapon Shop!
+Bonvenon al la Armilvendejo de Pedro!
+
+IDS_SHOPWELCOME15F
+Welcome to Pancho's Kissing Parlor!
+Bonvenon al la Kisbudo de Pedro!
+
+IDS_SHOPWELCOME15G
+Welcome to Pancho's Hired Hands!
+Bonvenon al la Helpistejo de Pedro!
+
+IDS_SHOPWELCOME15H
+Welcome to Pancho's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Pedro!
+
+IDS_SHOPWELCOME15I
+Welcome to Pancho's General Store!
+Bonvenon al la Ĝenerala Vendejo de Pedro!
+
+IDS_SHOPWELCOME16A
+Welcome to Quincy's General Store!
+Bonvenon al la Ĝenerala Vendejo de Kvintus!
+
+IDS_SHOPWELCOME16B
+Welcome to Quincy's Specialty Shop!
+Bonvenon al la Specialvendejo de Kvintus!
+
+IDS_SHOPWELCOME16C
+Welcome to Quincy's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Kvintus!
+
+IDS_SHOPWELCOME16D
+Welcome to Quincy's Bomb Shop!
+Bonvenon al la Bombovendejo de Kvintus!
+
+IDS_SHOPWELCOME16E
+Welcome to Quincy's Weapon Shop!
+Bonvenon al la Armilvendejo de Kvintus!
+
+IDS_SHOPWELCOME16F
+Welcome to Quincy's Kissing Parlor!
+Bonvenon al la Kisbudo de Kvintus!
+
+IDS_SHOPWELCOME16G
+Welcome to Quincy's Hired Hands!
+Bonvenon al la Helpistejo de Kvintus!
+
+IDS_SHOPWELCOME16H
+Welcome to Quincy's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Kvintus!
+
+IDS_SHOPWELCOME16I
+Welcome to Quincy's General Store!
+Bonvenon al la Ĝenerala Vendejo de Kvintus!
+
+IDS_SHOPWELCOME17A
+Welcome to Ron's General Store!
+Bonvenon al la Ĝenerala Vendejo de Robin!
+
+IDS_SHOPWELCOME17B
+Welcome to Ron's Specialty Shop!
+Bonvenon al la Specialvendejo de Robin!
+
+IDS_SHOPWELCOME17C
+Welcome to Ron's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Robin!
+
+IDS_SHOPWELCOME17D
+Welcome to Ron's Bomb Shop!
+Bonvenon al la Bombovendejo de Robin!
+
+IDS_SHOPWELCOME17E
+Welcome to Ron's Weapon Shop!
+Bonvenon al la Armilvendejo de Robin!
+
+IDS_SHOPWELCOME17F
+Welcome to Ron's Kissing Parlor!
+Bonvenon al la Kisbudo de Robin!
+
+IDS_SHOPWELCOME17G
+Welcome to Ron's Hired Hands!
+Bonvenon al la Helpistejo de Robin!
+
+IDS_SHOPWELCOME17H
+Welcome to Ron's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Robin!
+
+IDS_SHOPWELCOME17I
+Welcome to Ron's General Store!
+Bonvenon al la Ĝenerala Vendejo de Robin!
+
+IDS_SHOPWELCOME18A
+Welcome to Sparky's General Store!
+Bonvenon al la Ĝenerala Vendejo de Soĉjo!
+
+IDS_SHOPWELCOME18B
+Welcome to Sparky's Specialty Shop!
+Bonvenon al la Specialvendejo de Soĉjo!
+
+IDS_SHOPWELCOME18C
+Welcome to Sparky's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Soĉjo!
+
+IDS_SHOPWELCOME18D
+Welcome to Sparky's Bomb Shop!
+Bonvenon al la Bombovendejo de Soĉjo!
+
+IDS_SHOPWELCOME18E
+Welcome to Sparky's Weapon Shop!
+Bonvenon al la Armilvendejo de Soĉjo!
+
+IDS_SHOPWELCOME18F
+Welcome to Sparky's Kissing Parlor!
+Bonvenon al la Kisbudo de Soĉjo!
+
+IDS_SHOPWELCOME18G
+Welcome to Sparky's Hired Hands!
+Bonvenon al la Helpistejo de Soĉjo!
+
+IDS_SHOPWELCOME18H
+Welcome to Sparky's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Soĉjo!
+
+IDS_SHOPWELCOME18I
+Welcome to Sparky's General Store!
+Bonvenon al la Ĝenerala Vendejo de Soĉjo!
+
+IDS_SHOPWELCOME19A
+Welcome to Tarn's General Store!
+Bonvenon al la Ĝenerala Vendejo de Tonjo!
+
+IDS_SHOPWELCOME19B
+Welcome to Tarn's Specialty Shop!
+Bonvenon al la Specialvendejo de Tonjo!
+
+IDS_SHOPWELCOME19C
+Welcome to Tarn's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Tonjo!
+
+IDS_SHOPWELCOME19D
+Welcome to Tarn's Bomb Shop!
+Bonvenon al la Bombovendejo de Tonjo!
+
+IDS_SHOPWELCOME19E
+Welcome to Tarn's Weapon Shop!
+Bonvenon al la Armilvendejo de Tonjo!
+
+IDS_SHOPWELCOME19F
+Welcome to Tarn's Kissing Parlor!
+Bonvenon al la Kisbudo de Tonjo!
+
+IDS_SHOPWELCOME19G
+Welcome to Tarn's Hired Hands!
+Bonvenon al la Helpistejo de Tonjo!
+
+IDS_SHOPWELCOME19H
+Welcome to Tarn's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Tonjo!
+
+IDS_SHOPWELCOME19I
+Welcome to Tarn's General Store!
+Bonvenon al la Ĝenerala Vendejo de Tonjo!
+
+IDS_SHOPWELCOME20A
+Welcome to Ulf's General Store!
+Bonvenon al la Ĝenerala Vendejo de Ulf!
+
+IDS_SHOPWELCOME20B
+Welcome to Ulf's Specialty Shop!
+Bonvenon al la Specialvendejo de Ulf!
+
+IDS_SHOPWELCOME20C
+Welcome to Ulf's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Ulf!
+
+IDS_SHOPWELCOME20D
+Welcome to Ulf's Bomb Shop!
+Bonvenon al la Bombovendejo de Ulf!
+
+IDS_SHOPWELCOME20E
+Welcome to Ulf's Weapon Shop!
+Bonvenon al la Armilvendejo de Ulf!
+
+IDS_SHOPWELCOME20F
+Welcome to Ulf's Kissing Parlor!
+Bonvenon al la Kisbudo de Ulf!
+
+IDS_SHOPWELCOME20G
+Welcome to Ulf's Hired Hands!
+Bonvenon al la Helpistejo de Ulf!
+
+IDS_SHOPWELCOME20H
+Welcome to Ulf's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Ulf!
+
+IDS_SHOPWELCOME20I
+Welcome to Ulf's General Store!
+Bonvenon al la Ĝenerala Vendejo de Ulf!
+
+IDS_SHOPWELCOME21A
+Welcome to Verne's General Store!
+Bonvenon al la Ĝenerala Vendejo de Vim!
+
+IDS_SHOPWELCOME21B
+Welcome to Verne's Specialty Shop!
+Bonvenon al la Specialvendejo de Vim!
+
+IDS_SHOPWELCOME21C
+Welcome to Verne's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Vim!
+
+IDS_SHOPWELCOME21D
+Welcome to Verne's Bomb Shop!
+Bonvenon al la Bombovendejo de Vim!
+
+IDS_SHOPWELCOME21E
+Welcome to Verne's Weapon Shop!
+Bonvenon al la Armilvendejo de Vim!
+
+IDS_SHOPWELCOME21F
+Welcome to Verne's Kissing Parlor!
+Bonvenon al la Kisbudo de Vim!
+
+IDS_SHOPWELCOME21G
+Welcome to Verne's Hired Hands!
+Bonvenon al la Helpistejo de Vim!
+
+IDS_SHOPWELCOME21H
+Welcome to Verne's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Vim!
+
+IDS_SHOPWELCOME21I
+Welcome to Verne's General Store!
+Bonvenon al la Ĝenerala Vendejo de Vim!
+
+IDS_SHOPWELCOME22A
+Welcome to Willy's General Store!
+Bonvenon al la Ĝenerala Vendejo de Ĵak!
+
+IDS_SHOPWELCOME22B
+Welcome to Willy's Specialty Shop!
+Bonvenon al la Specialvendejo de Ĵak!
+
+IDS_SHOPWELCOME22C
+Welcome to Willy's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Ĵak!
+
+IDS_SHOPWELCOME22D
+Welcome to Willy's Bomb Shop!
+Bonvenon al la Bombovendejo de Ĵak!
+
+IDS_SHOPWELCOME22E
+Welcome to Willy's Weapon Shop!
+Bonvenon al la Armilvendejo de Ĵak!
+
+IDS_SHOPWELCOME22F
+Welcome to Willy's Kissing Parlor!
+Bonvenon al la Kisbudo de Ĵak!
+
+IDS_SHOPWELCOME22G
+Welcome to Willy's Hired Hands!
+Bonvenon al la Helpistejo de Ĵak!
+
+IDS_SHOPWELCOME22H
+Welcome to Willy's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Ĵak!
+
+IDS_SHOPWELCOME22I
+Welcome to Willy's General Store!
+Bonvenon al la Ĝenerala Vendejo de Ĵak!
+
+IDS_SHOPWELCOME23A
+Welcome to Xorn's General Store!
+Bonvenon al la Ĝenerala Vendejo de Ŝigeru!
+
+IDS_SHOPWELCOME23B
+Welcome to Xorn's Specialty Shop!
+Bonvenon al la Specialvendejo de Ŝigeru!
+
+IDS_SHOPWELCOME23C
+Welcome to Xorn's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Ŝigeru!
+
+IDS_SHOPWELCOME23D
+Welcome to Xorn's Bomb Shop!
+Bonvenon al la Bombovendejo de Ŝigeru!
+
+IDS_SHOPWELCOME23E
+Welcome to Xorn's Weapon Shop!
+Bonvenon al la Armilvendejo de Ŝigeru!
+
+IDS_SHOPWELCOME23F
+Welcome to Xorn's Kissing Parlor!
+Bonvenon al la Kisbudo de Ŝigeru!
+
+IDS_SHOPWELCOME23G
+Welcome to Xorn's Hired Hands!
+Bonvenon al la Helpistejo de Ŝigeru!
+
+IDS_SHOPWELCOME23H
+Welcome to Xorn's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Ŝigeru!
+
+IDS_SHOPWELCOME23I
+Welcome to Xorn's General Store!
+Bonvenon al la Ĝenerala Vendejo de Ŝigeru!
+
+IDS_SHOPWELCOME24A
+Welcome to Yoshi's General Store!
+Bonvenon al la Ĝenerala Vendejo de Joŝi!
+
+IDS_SHOPWELCOME24B
+Welcome to Yoshi's Specialty Shop!
+Bonvenon al la Specialvendejo de Joŝi!
+
+IDS_SHOPWELCOME24C
+Welcome to Yoshi's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Joŝi!
+
+IDS_SHOPWELCOME24D
+Welcome to Yoshi's Bomb Shop!
+Bonvenon al la Bombovendejo de Joŝi!
+
+IDS_SHOPWELCOME24E
+Welcome to Yoshi's Weapon Shop!
+Bonvenon al la Armilvendejo de Joŝi!
+
+IDS_SHOPWELCOME24F
+Welcome to Yoshi's Kissing Parlor!
+Bonvenon al la Kisbudo de Joŝi!
+
+IDS_SHOPWELCOME24G
+Welcome to Yoshi's Hired Hands!
+Bonvenon al la Helpistejo de Joŝi!
+
+IDS_SHOPWELCOME24H
+Welcome to Yoshi's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Joŝi!
+
+IDS_SHOPWELCOME24I
+Welcome to Yoshi's General Store!
+Bonvenon al la Ĝenerala Vendejo de Joŝi!
+
+IDS_SHOPWELCOME25A
+Welcome to Ziggy's General Store!
+Bonvenon al la Ĝenerala Vendejo de Zigmund!
+
+IDS_SHOPWELCOME25B
+Welcome to Ziggy's Specialty Shop!
+Bonvenon al la Specialvendejo de Zigmund!
+
+IDS_SHOPWELCOME25C
+Welcome to Ziggy's Clothing Shop!
+Bonvenon al la Vestaĵvendejo de Zigmund!
+
+IDS_SHOPWELCOME25D
+Welcome to Ziggy's Bomb Shop!
+Bonvenon al la Bombovendejo de Zigmund!
+
+IDS_SHOPWELCOME25E
+Welcome to Ziggy's Weapon Shop!
+Bonvenon al la Armilvendejo de Zigmund!
+
+IDS_SHOPWELCOME25F
+Welcome to Ziggy's Kissing Parlor!
+Bonvenon al la Kisbudo de Zigmund!
+
+IDS_SHOPWELCOME25G
+Welcome to Ziggy's Hired Hands!
+Bonvenon al la Helpistejo de Zigmund!
+
+IDS_SHOPWELCOME25H
+Welcome to Ziggy's Wheel of Prizes!
+Bonvenon al la Rado de Premioj de Zigmund!
+
+IDS_SHOPWELCOME25I
+Welcome to Ziggy's General Store!
+Bonvenon al la Ĝenerala Vendejo de Zigmund!
+
+IDS_BUY_ITEM_ROPEPILE
+Buy Rope Pile
+Aĉeti stakon da ŝnuroj
+
+IDS_BUY_ITEM_BOMBBAG
+Buy Bomb Bag
+Aĉeti sakon da bomboj
+
+IDS_BUY_ITEM_BOMBBOX
+Buy Bomb Box
+Aĉeti skatolon da bomboj
+
+IDS_BUY_ITEM_SPECTACLES
+Buy Spectacles
+Aĉeti okulvitrojn
+
+IDS_BUY_ITEM_CLIMBINGGLOVES
+Buy Climbing Gloves
+Aĉeti grimpgantojn
+
+IDS_BUY_ITEM_PITCHERSMITT
+Buy Pitcher's Mitt
+Aĉeti ĵetistan ganton
+
+IDS_BUY_ITEM_SPRINGSHOES
+Buy Spring Shoes
+Aĉeti risortŝuojn
+
+IDS_BUY_ITEM_SPIKESHOES
+Buy Spike Shoes
+Aĉeti najloŝuojn
+
+IDS_BUY_ITEM_CAMERA
+Buy Camera
+Aĉeti fotilon
+
+IDS_BUY_ITEM_COMPASS
+Buy Compass
+Aĉeti kompason
+
+IDS_BUY_ITEM_PASTE
+Buy Paste
+Aĉeti gluon
+
+IDS_BUY_ITEM_MATTOCK
+Buy Mattock
+Aĉeti hakfosilon
+
+IDS_BUY_ITEM_MACHETE
+Buy Machete
+Aĉeti maĉeton
+
+IDS_BUY_ITEM_BOOMERANG
+Buy Boomerang
+Aĉeti bumerangon
+
+IDS_BUY_ITEM_CRYSKNIFE
+Buy Crysknife
+Aĉeti kristranĉilon
+
+IDS_BUY_ITEM_WEBGUN
+Buy Web Gun
+Aĉeti retpafilon
+
+IDS_BUY_ITEM_SHOTGUN
+Buy Shotgun
+Aĉeti fusilon
+
+IDS_BUY_ITEM_FREEZERAY
+Buy Freeze Ray
+Aĉeti frostoradian pafilon
+
+IDS_BUY_ITEM_LASERGUN
+Buy Plasma Cannon
+Aĉeti plasman kanonon
+
+IDS_BUY_ITEM_PARACHUTE
+Buy Parachute
+Aĉeti paraŝuton
+
+IDS_BUY_ITEM_CAPE
+Buy Cape
+Aĉeti tukmantelon
+
+IDS_BUY_ITEM_TELEPORTER
+Buy Teleporter
+Aĉeti teleportilon
+
+IDS_BUY_ITEM_JETPACK
+Buy Jetpack
+Aĉeti dorsan jetmotoron
+
+IDS_BUY_ITEM_SHIELD
+Buy Shield
+Aĉeti ŝildon
+
+IDS_BUY_ITEM_VLADSWINGS
+Buy Vlad's Cape
+Aĉeti mantelon de Vlad
+
+IDS_BUY_ITEM_ROYALJELLY
+Buy Royal Jelly
+Aĉeti reĝan ĵeleon
+
+IDS_BUY_ITEM_IDOL
+Buy Idol
+Aĉeti idolon
+
+IDS_BUY_ITEM_KAPALA
+Buy Kapala
+Aĉeti kapalon
+
+IDS_BUY_ITEM_VLADSAMULET
+Buy Vlad's Amulet
+Aĉeti amuleton de Vlad
+
+IDS_BUY_ITEM_UDJATEYE
+Buy Udjat Eye
+Aĉeti uĝat-okulon
+
+IDS_BUY_ITEM_ANKH
+Buy Ankh
+Aĉeti anĥon
+
+IDS_BUY_ITEM_HEDJET
+Buy Hedjet
+Aĉeti heĝeton
+
+IDS_BUY_ITEM_SCEPTRE
+Buy Sceptre
+Aĉeti sceptron
+
+IDS_BUY_ITEM_BOOKOFDEAD
+Buy Book of the Dead
+Aĉeti Libron de l' Mortintoj
+
+IDS_BUY_DAMSEL
+Buy Damsel
+Aĉeti senhelpulon
+
+IDS_BUY_KISS
+Buy Kiss
+Aĉeti kison
+
+IDS_BUY_SLAVE1
+Buy Atlas
+Dungi Atlas
+
+IDS_BUY_SLAVE2
+Buy Barca
+Dungi Barka
+
+IDS_BUY_SLAVE3
+Buy Clovis
+Dungi Cirus
+
+IDS_BUY_SLAVE4
+Buy Dunder
+Dungi Ĉit
+
+IDS_BUY_SLAVE5
+Buy Eirik
+Dungi Dondron
+
+IDS_BUY_SLAVE6
+Buy Fink
+Dungi Ejrik
+
+IDS_BUY_SLAVE7
+Buy Grom
+Dungi Fink
+
+IDS_BUY_SLAVE8
+Buy Ham
+Dungi Grom
+
+IDS_BUY_SLAVE9
+Buy Ivan
+Dungi Ĝef
+
+IDS_BUY_SLAVE10
+Buy Jax
+Dungi Hektor
+
+IDS_BUY_SLAVE11
+Buy Karl
+Dungi Ĥom
+
+IDS_BUY_SLAVE12
+Buy Lurch
+Dungi Ivan
+
+IDS_BUY_SLAVE13
+Buy Manfred
+Dungi Jop
+
+IDS_BUY_SLAVE14
+Buy Nurdle
+Dungi Karlos
+
+IDS_BUY_SLAVE15
+Buy Onyx
+Dungi Luk
+
+IDS_BUY_SLAVE16
+Buy Perseus
+Dungi Manfred
+
+IDS_BUY_SLAVE17
+Buy Quincy
+Dungi Nikol
+
+IDS_BUY_SLAVE18
+Buy Rastan
+Dungi Oniks
+
+IDS_BUY_SLAVE19
+Buy Steve
+Dungi Perseŭs
+
+IDS_BUY_SLAVE20
+Buy Thundar
+Dungi Robert
+
+IDS_BUY_SLAVE21
+Buy Ulrik
+Dungi Stev
+
+IDS_BUY_SLAVE22
+Buy Voxel
+Dungi Ŝink
+
+IDS_BUY_SLAVE23
+Buy Wolf
+Dungi Tondor
+
+IDS_BUY_SLAVE24
+Buy Xom
+Dungi Ulrik
+
+IDS_BUY_SLAVE25
+Buy Yor
+Dungi Voksel
+
+IDS_BUY_SLAVE26
+Buy Zorgoth
+Dungi Zorgodz
+
+IDS_SHOPMSG_WONPRIZE
+You won a prize!
+Vi gajnis premion!
+
+IDS_SHOPMSG_WONMONEY
+You won some money!
+Vi gajnis iom da mono!
+
+IDS_SHOPMSG_YOULOST
+You lost!
+Vi malgajnis!
+
+IDS_SHOPMSG_JACKPOT
+You won the jackpot!
+Vi gajnis la ĉefan monpremion!
+
+IDS_SHOPMSG_THIEF
+Stop, thief!
+Haltu, ŝtelisto!
+
+IDS_SHOPMSG_TERRORIST
+Terrorist!
+Teroristo!
+
+IDS_SHOPMSG_YOULLPAY
+You'll pay for your crimes!
+Vi pagos por viaj krimoj!
+
+IDS_SHOPMSG_ONLYI
+Hey, you can't do that!
+Hej, vi ne rajtas fari tion!
+
+IDS_SHOPMSG_GOODLUCK
+Good luck!
+Bonŝancon!
+
+IDS_SHOPMSG_THANKYOU
+Thank you for your business!
+Dankon pro via aĉeto!
+
+IDS_SHOPMSG_NOMONEY
+You haven't got enough money!
+Vi ne havas sufiĉe da mono!
+
+IDS_SHOPMSG_SLURP
+Slurp!
+Lek!
+
+IDS_SHOPMSG_SMOOCH
+Smooch!
+Ŝmac!
+
+IDS_SHOPMSG_INLOVE
+You must be in love!
+Ha, kia amo!
+
+IDS_SHOPMSG_ALLYOURS
+He's all yours.
+Uzu lin laŭ via plaĉo!
+
+IDS_TUNNELMAN
+Tunnel Man
+Tunelisto
+
+IDS_TUNNELMAN1
+Hello there! I'm the Tunnel Man.
+Ha, saluton! Mi estas la Tunelisto.
+
+IDS_TUNNELMAN2
+You can donate a little bit of money each time. I'll remember how much you've paid me.
+Vi povas donaci malgrandan kvanton ĉiufoje. Mi memoros, kiom vi jam pagis al mi.
+
+IDS_TUNNELMAN3_1
+So what do you say?*I still need $
+Do, kion vi pensas?*Mi ankoraŭ bezonas $
+
+IDS_TUNNELMAN3_2
+ to build this shortcut.
+ por fosi ĉi tiun ŝparvojon.
+
+IDS_TUNNELMAN4
+Bummer. I'll never get this tunnel finished.
+Domaĝe. Mi neniam finos la tunelon...
+
+IDS_TUNNELMAN5
+Thanks! You won't regret it.
+Dankon! Vi ne bedaŭros tion.
+
+IDS_TUNNELMAN6
+Alright! Now I'll have this tunnel finished in no time!
+Bonege! Per tio mi certe rapide finos la tunelon!
+
+IDS_DONATION
+DONATION
+DONACADO
+
+IDS_DONATION_GUIDE
+@L Change Amount*@A Confirm
+@L Ŝanĝi kvanton*@A Konfirmi
+
+IDS_KALI_ACCEPTS
+Kali accepts your sacrifice!
+Kalio akceptas vian oferaĵon!
+
+IDS_KALI_INVIGORATED
+You feel invigorated!
+Vi estas revigligita!
+
+IDS_KALI_BESTOWS
+She bestows a gift upon you!
+Ŝi benas vin per donaco!
+
+IDS_KALI_SATCHEL
+Your satchel feels very full!
+Via sako sentiĝas tre peza!
+
+IDS_KALI_ECSTATIC
+She seems ecstatic with you.
+Ŝi ŝajnas esti ege ĝoja pri vi.
+
+IDS_KALI_HAPPY
+She seems happy with you.
+Ŝi ŝajnas ĝoji pri vi.
+
+IDS_KALI_FORGIVEN
+She has forgiven you.
+Ŝi pardonis vin.
+
+IDS_KALI_PLEASED
+She seems pleased with you.
+Ŝi ŝajnas aprezi vin.
+
+IDS_KALI_ANGRY
+She seems angry with you.
+Ŝi ŝajnas esti kolera pri vi.
+
+IDS_KALI_VERY_ANGRY
+She seems very angry with you.
+Ŝi ŝajnas esti tre kolera pri vi.
+
+IDS_KALI_ANGERED
+You have angered Kali!
+Vi kolerigis Kalion!
+
+IDS_KALI_STILL_ECSTATIC
+Yet she still seems ecstatic with you.
+Tamen ŝi ankoraŭ ŝajnas esti ege ĝoja pri vi.
+
+IDS_KALI_STILL_HAPPY
+Yet she still seems happy with you.
+Tamen ŝi ankoraŭ ŝajnas ĝoji pri vi.
+
+IDS_KALI_STILL_PLEASED
+Yet she still seems pleased with you.
+Tamen ŝi ankoraŭ ŝajnas aprezi vin.
+
+IDS_LABEL_LEVEL
+Level:
+Nivelo:
+
+IDS_LABEL_MONEY
+Money:
+Mono:
+
+IDS_LABEL_TIME
+Time:
+Tempo:
+
+IDS_LABEL_DAMSELS
+Damsels:
+Savitoj:
+
+IDS_LABEL_KILLS
+Kills
+Mortigoj
+
+IDS_LABEL_TOTALDEATHS
+Total Deaths:
+Tuta kvanto de mortoj:
+
+IDS_MSG_SAVING
+Saving Game...
+Konservi ludon...
+
+IDS_GUIDE_CONTINUE
+@A Continue
+@A Daŭrigi
+
+IDS_GAMEOVER
+Game Over
+Fino de ludo
+
+IDS_GAMEOVER_AMAZING
+Amazing
+Mirinde!
+
+IDS_GAMEOVER_SPLENDID
+Splendid
+Bonege!
+
+IDS_GAMEOVER_NOTBAD
+Not Bad!
+Ne malbone!
+
+IDS_GAMEOVER_OKAY
+Okay
+Nu, sufiĉe bone
+
+IDS_GAMEOVER_OHDEAR
+Oh, Dear...
+Ho ve...
+
+IDS_GAMEOVER_SOCLOSE
+So Close!
+Tiom proksime!
+
+IDS_GAMEOVER_SNAKEBITE
+Snake Bite
+Mordita de serpento
+
+IDS_GAMEOVER_SPIDERBITE
+Spider Bite
+Mordita de araneo
+
+IDS_GAMEOVER_BITTEN
+Bitten
+Mordita
+
+IDS_GAMEOVER_BEATENUP
+Beaten Up
+Batita
+
+IDS_GAMEOVER_STOMPED
+Stomped
+Platigita
+
+IDS_GAMEOVER_STUNG
+Stung
+Pikita
+
+IDS_GAMEOVER_EATEN
+Eaten
+Manĝita
+
+IDS_GAMEOVER_ZAPPED
+Zapped
+Laserita
+
+IDS_GAMEOVER_CLAWED
+Clawed
+Gratita
+
+IDS_GAMEOVER_CURSED
+Cursed
+Malbenita
+
+IDS_GAMEOVER_BRAINFRIED
+Brain Fried
+Likvigita cerbo
+
+IDS_GAMEOVER_SLIMED
+Slimed
+Acida muko
+
+IDS_GAMEOVER_BURNED
+Burned
+Bruligita
+
+IDS_GAMEOVER_POKED
+Poked
+Pikita
+
+IDS_GAMEOVER_SEDUCED
+Seduced
+Logita
+
+IDS_GAMEOVER_HAUNTED
+Haunted
+Hantita
+
+IDS_GAMEOVER_BRAINDAMAGE
+Brain Damage
+Cerbodamaĝo
+
+IDS_GAMEOVER_LONGFALL
+Long Fall
+Longa falo
+
+IDS_GAMEOVER_BLOWNUP
+Blown Up
+Eksplodigita
+
+IDS_GAMEOVER_IMPALED
+Impaled
+Traborita
+
+IDS_GAMEOVER_ARROW
+Arrow
+Sago
+
+IDS_GAMEOVER_CRUSHED
+Crushed
+Platigita
+
+IDS_GAMEOVER_SHATTERED
+Shattered
+Dispecigita
+
+IDS_GAMEOVER_ABYSS
+The Abyss
+La abismo
+
+IDS_GAMEOVER_BURNEDUP
+Burned Up
+Forbrulita
+
+IDS_GAMEOVER_BLASTED
+Blasted
+Pafita
+
+IDS_GAMEOVER_DEATH
+Death
+Morto
+
+IDS_GAMEOVERDESC_MULTIHELL
+Unbelievable! We made it to the underworld!
+Nekredeble! Ni atingis la Inferon!
+
+IDS_GAMEOVERDESC_MULTITEMPLE
+We made it to the temple! Shared victory was within our grasp!
+Ni venis al la templo! Komuna venko estis je tiom atingebla distanco!
+
+IDS_GAMEOVERDESC_MULTIICE
+Getting to the ice caves together is an achievement.
+Kune atingi la glaciajn grotojn estas fierindaĵo.
+
+IDS_GAMEOVERDESC_MULTILUSH
+Well, at least we made it out of the mines!
+Nu, almenaŭ ni sukcesis eliri la minejojn!
+
+IDS_GAMEOVERDESC_MULTIMINES
+We need to work on our teamwork!
+Ni bezonas plibonigi nian kunlaboradon!
+
+IDS_GAMEOVERDESC_WORM
+I hope I taste good, at least!
+Nu, mi esperas, ke mi estas almenaŭ bongusta!
+
+IDS_GAMEOVERDESC_MINESEND
+The end of the mines was just in sight! If I could survive a little longer...
+La fino de la minejoj estis jam videbla! Se mi povus nur travivi iomete pli longe...
+
+IDS_GAMEOVERDESC_LUSHEND
+The air was getting much colder... I almost reached the next area!
+La aero komencis iĝi multe pli malvarma... Mi preskaŭ atingis la sekvan regionon!
+
+IDS_GAMEOVERDESC_ICEEND
+I can hear muffled chanting coming from below...
+Venas sonoj de obtuza sorĉkantado de malsupre...
+
+IDS_GAMEOVERDESC_OLMEC
+It seems I was no match for the mighty Olmec. Next time!
+Mi ne sukcesis superi la grandan Olmekon. Eble sekvan fojon!
+
+IDS_GAMEOVERDESC_KALI
+I was cast into oblivion by the Black Goddess herself.
+La Nigra Diino mem ĵetis min en neniecon.
+
+IDS_GAMEOVERDESC_SNAKE1
+Snakes! I hate snakes!
+Serpentoj! Mi malamas serpentojn!
+
+IDS_GAMEOVERDESC_SNAKE2
+I succumbed to deadly snake venom.
+Mi mortis pro serpenta veneno.
+
+IDS_GAMEOVERDESC_BAT
+A bat nibbled me to death.
+Vesperto mordetadis min.
+
+IDS_GAMEOVERDESC_SPIDER
+I succumbed to a spider bite.
+Mordo de araneo mortigis min.
+
+IDS_GAMEOVERDESC_GIANTSPIDER
+That was the biggest spider I've ever seen!
+Tio estas la plej granda araneo, kiun mi iam ajn vidis!
+
+IDS_GAMEOVERDESC_SKELETON
+I was clawed to death by a skeleton.
+Skeleto gratis min ĝis morto.
+
+IDS_GAMEOVERDESC_SCORPION
+I was stung by a scorpion!
+Skorpio pikis min!
+
+IDS_GAMEOVERDESC_CAVEMAN
+A caveman pummeled me to death.
+Kavernohomo mortbatis min.
+
+IDS_GAMEOVERDESC_SHOPKEEPER
+I should never have angered that shopkeeper...
+Mi devintus ne kolerigi tiun butikiston...
+
+IDS_GAMEOVERDESC_YETI
+A yeti pummeled me to death.
+Jetio mortbatis min.
+
+IDS_GAMEOVERDESC_TIKIMAN
+A tiki man pummeled me to death.
+Tikiulo mortbatis min.
+
+IDS_GAMEOVERDESC_HAWKMAN
+A hawk man pummeled me to death.
+Falkulo mortbatis min.
+
+IDS_GAMEOVERDESC_FROG
+I got squished by a frog.
+Rano platigis min.
+
+IDS_GAMEOVERDESC_MANTRAP
+I was devoured by a mantrap.
+Homkaptilo voris min.
+
+IDS_GAMEOVERDESC_PIRANHA
+I was nibbled to death by a piranha.
+Piranjo mordetadis min.
+
+IDS_GAMEOVERDESC_JAWS
+I was torn apart by the legendary river monster.
+Legenda rivera monstro disŝiris min.
+
+IDS_GAMEOVERDESC_BEE
+I must be allergic to bees.
+Ŝajne mi havas abelan alergion.
+
+IDS_GAMEOVERDESC_ACID
+My flesh is melting right off the bone.
+Mia karno fandiĝas de la ostoj.
+
+IDS_GAMEOVERDESC_JIANGSHI
+A jiang shi has leeched away my life energy.
+Ĉjan Ŝi elsuĉis mian vivenergion.
+
+IDS_GAMEOVERDESC_KNIGHT
+I was treated to a medieval welcome.
+Mi ricevis mezepokan bonvenigon.
+
+IDS_GAMEOVERDESC_PSYCHICBLAST
+A powerful psychic blast has liquified my brains.
+Forta telepatia frapo likvigis mian cerbon.
+
+IDS_GAMEOVERDESC_MUMMY
+An ancient mummy has gotten its revenge on humanity.
+Antikva mumio plenumis sian venĝon al la homaro.
+
+IDS_GAMEOVERDESC_ANUBIS
+I've been destroyed by the jackal-headed god Anubis.
+La ŝakal-kapa dio Anubo detruis min.
+
+IDS_GAMEOVERDESC_VAMPIRE
+I can feel my humanity draining away from the vampire's bite...
+Mi sentas mian homecon forflui el la vampira mordvundo...
+
+IDS_GAMEOVERDESC_YETIKING
+I've been thrashed by the king of the yetis.
+La reĝo de la jetioj bategis min.
+
+IDS_GAMEOVERDESC_ALIEN
+Embarrassingly enough, I've been killed by a little alien.
+Hontinde, eta eksterterano mortigis min.
+
+IDS_GAMEOVERDESC_MAGMAMAN
+I was burned to death by a magma man.
+Magmulo mortbruligis min.
+
+IDS_GAMEOVERDESC_VLAD
+I confronted Vlad the Impaler and lost.
+Mi alfrontis Vlad la Palisumanto kaj malvenkis.
+
+IDS_GAMEOVERDESC_IMP
+I was nibbled to death by a minion of Hell!
+Mordetadis min diableto el la Infero!
+
+IDS_GAMEOVERDESC_DEVIL
+A blue devil perforated me with one of his horns.
+Blua demono traboris min per siaj kornoj.
+
+IDS_GAMEOVERDESC_GHOST
+Where am I? I can't feel my body...
+Kie mi estas? Mi ne povas senti mian korpon...
+
+IDS_GAMEOVERDESC_BRAINDAMAGE
+Something hard hit me in the head.
+Io forte trafis mian kapon.
+
+IDS_GAMEOVERDESC_LONGFALL
+I broke every bone in my body.
+Mi rompis ĉiun oston en mia tuta korpo.
+
+IDS_GAMEOVERDESC_EXPLOSION
+I couldn't get away in time.
+Mi ne ĝustatempe forkuris.
+
+IDS_GAMEOVERDESC_SPIKES
+I fell on some spikes.
+Mi falis sur pikilojn.
+
+IDS_GAMEOVERDESC_ARROW
+An arrow has pierced one of my vital organs.
+Sago trafis unu el miaj esencaj organoj.
+
+IDS_GAMEOVERDESC_TIKITRAP
+I stepped too close to a tiki trap.
+Mi iom tro proksimiĝis al tiki-insidilo.
+
+IDS_GAMEOVERDESC_CRUSHED
+I've been ground into a fine paste.
+Mi iĝis tomatpasto.
+
+IDS_GAMEOVERDESC_FROZEN
+My frozen body shattered into a million pieces.
+Mia frostita korpo disrompiĝis al milionoj da pecoj.
+
+IDS_GAMEOVERDESC_ABYSS
+Help, I'm still falling!
+Helpu min! Mi ne ĉesas fali!
+
+IDS_GAMEOVERDESC_LAVA
+I've been burnt to a crisp.
+Mi tute cindriĝis.
+
+IDS_GAMEOVERDESC_UFO
+I've been incinerated by a UFO laser blast.
+Mi cindriĝis pro nifa lasero.
+
+IDS_GAMEOVERDESC_SLAMMED
+I was slammed hard into a wall.
+Mi estis forte ĵetita kontraŭ muro.
+
+IDS_GAMEOVERDESC_DIED
+I died again.
+Mi mortis denove.
+
+IDS_LOCKED
+Locked
+Ŝlosita
+
+IDS_UNLOCK
+Buy Full Game to Unlock
+Aĉetu la plenan ludon por malŝlosi
+
+IDS_ARENA_MINES1
+Miner Threat
+Minista minaco
+
+IDS_ARENA_MINES2
+Layer Cake
+Tavola kuko
+
+IDS_ARENA_MINES3
+Rock n' Roll
+Rokenrolo
+
+IDS_ARENA_MINES4
+Crates
+Kestoj
+
+IDS_ARENA_MINES5
+The Dome
+La kupolo
+
+IDS_ARENA_MINES6
+Falling Rocks
+Falantaj rokoj
+
+IDS_ARENA_MINES7
+The Spider Pit
+Aranea nesto
+
+IDS_ARENA_MINES8
+Ladders
+Ŝtupetaroj
+
+IDS_ARENA_LUSH1
+Tiki Terror
+Tiki-Timego
+
+IDS_ARENA_LUSH2
+Treehouses
+Arbodomoj
+
+IDS_ARENA_LUSH3
+Vines
+Lianoj
+
+IDS_ARENA_LUSH4
+Fortress
+Kasteleto
+
+IDS_ARENA_LUSH5
+Dunk Tank
+Baseno
+
+IDS_ARENA_LUSH6
+Tarzan
+Tarzan
+
+IDS_ARENA_LUSH7
+Kudzu
+Kudzuo
+
+IDS_ARENA_LUSH8
+The Hill
+Monteto
+
+IDS_ARENA_ICE1
+Ice Temple
+Glacia templo
+
+IDS_ARENA_ICE2
+Moonbounce
+Luna saltado
+
+IDS_ARENA_ICE3
+Don't Fall!
+Ne falu!
+
+IDS_ARENA_ICE4
+The Calm
+Trankvilo
+
+IDS_ARENA_ICE5
+Deathbounce
+Mortiga saltado
+
+IDS_ARENA_ICE6
+Frosted
+Frostita
+
+IDS_ARENA_ICE7
+Cold Cage
+Malvarma kaĝo
+
+IDS_ARENA_ICE8
+Do Fall!
+Ja falu!
+
+IDS_ARENA_TEMPLE1
+Trap Temple
+Templo de insidiloj
+
+IDS_ARENA_TEMPLE2
+Fire Pit
+Fajrolago
+
+IDS_ARENA_TEMPLE3
+Rooms
+Ĉambroj
+
+IDS_ARENA_TEMPLE4
+Deathbox
+Skatolo de morto
+
+IDS_ARENA_TEMPLE5
+Pressure
+Premado
+
+IDS_ARENA_TEMPLE6
+Crushers
+Platigiloj
+
+IDS_ARENA_TEMPLE7
+Pachinko
+Paĉinko
+
+IDS_ARENA_TEMPLE8
+Fire Walk
+Farjopromeno
+
+IDS_ARENA_HELL1
+The Grinder
+Viandomuelilo
+
+IDS_ARENA_HELL2
+Tension
+Streĉiĝo
+
+IDS_ARENA_HELL3
+Diabolika
+Diabolika
+
+IDS_ARENA_HELL4
+The Ziggurat
+Zigurato
+
+IDS_ARENA_HELL5
+Tree of Death
+Arbo de morto
+
+IDS_ARENA_HELL6
+The Wall
+La Muro
+
+IDS_ARENA_HELL7
+Flesh Field
+Kampo de karno
+
+IDS_ARENA_HELL8
+No Refuge
+Senrifuĝejo
+
+IDS_ARENA_SPECIAL1
+Acid Bath
+Acidobano
+
+IDS_ARENA_SPECIAL2
+The Womb
+Utero
+
+IDS_ARENA_SPECIAL3
+Scar Tissue
+Cikatro
+
+IDS_ARENA_SPECIAL4
+Intestines
+Intestoj
+
+IDS_ARENA_SPECIAL5
+Zapped
+Laserita
+
+IDS_ARENA_SPECIAL6
+Cells
+Ĉeloj
+
+IDS_ARENA_SPECIAL7
+Moonbounce II
+Luna saltado II
+
+IDS_ARENA_SPECIAL8
+Elevators
+Liftoj
+
+IDS_PLAYER_WINS1
+PLAYER 1 WINS!
+LUDANTO 1 VENKAS!
+
+IDS_PLAYER_WINS2
+PLAYER 2 WINS!
+LUDANTO 2 VENKAS!
+
+IDS_PLAYER_WINS3
+PLAYER 3 WINS!
+LUDANTO 3 VENKAS!
+
+IDS_PLAYER_WINS4
+PLAYER 4 WINS!
+LUDANTO 4 VENKAS!
+
+IDS_NOBODY_WINS
+NOBODY WINS!
+NENIU VENKAS!
+
+IDS_DMRESULTS_GUIDE
+@X Change Arena      @A Next Round      @B Main Menu
+@X Ŝanĝi batalejon      @A Sekva raŭndo      @B Ĉefa menuo
+
+IDS_DMWINNER_GUIDE
+@A Play Again      @B Main Menu
+@A Ludi denove      @B Ĉefa menuo
+
+IDS_TRIALNAG1
+You've almost reached a new area! That means new monsters, traps, and treasure!
+Vi preskaŭ atingis novan regionon! Tio signifas novajn monstrojn, insidilojn, kaj trezoron!
+
+IDS_TRIALNAG2
+But unfortunately, this is only the trial version of the game... get the full version now and test your skills!
+Sed bedaŭrinde, ĉi tio estas nur la provversio de la ludo... tuj ekhavu la plenan version kaj testu viajn kapablojn!
+
+IDS_TRIALNAG3
+Challenge your friends with cooperative multiplayer and deathmatch in 48 unlockable arenas!
+Defiu viajn amikojn en kunlabora plurludanta ludo aŭ en mortomatĉo en 48 malŝloseblaj batalejoj!
+
+IDS_TRIALNAG4
+Follow Yang to Olmec's Treasure and unravel the many mysteries of Spelunky!
+Sekvu Jang al la trezoro de Olmeko kaj malkovru la multajn misterojn de Spelunky!
+
+IDS_ERROR_NOTCONNECTEDPOST
+You are not connected to Xbox LIVE. Your score will not be added to the leaderboards.
+Vi ne estas konektita al Xbox LIVE. Via poentsumo ne aldoniĝos al la rangotabuloj.
+
+IDS_ERROR_NOTCONNECTEDVIEW
+You are not connected to Xbox LIVE. Please connect to view leaderboards.
+Vi ne estas konektita al Xbox LIVE. Konektiĝu por rigardi la rangotabulojn.
+
+IDS_ERROR_SIGNEDOUT
+A player has signed out or changed gamer profile. You have been returned to the title screen.
+Ludanto elsalutis aŭ ŝanĝis sian ludantan profilon. Vi estas resendita al la titola ekrano.
+
+IDS_ERROR_NOTCONNECTEDCONTENT
+Sign in to Xbox LIVE to access online content.
+Ensalutu en Xbox LIVE por aliri enretan enhavon.
+
+IDS_ERROR_NOTCONNECTEDLOCAL
+Sign in to Xbox LIVE to post your score to the leaderboards.
+Ensalutu en Xbox LIVE por meti vian poentsumon en la rangotabuloj.
+
+IDS_WARNING_MULTINOSAVE
+Multiplayer game progress is not saved. Your scores will also not post to the leaderboards.
+Via progreso en plurludanta ludo ne konserviĝos. Viaj poentsumoj ankaŭ ne aperos en la rangotabuloj.
+
+IDS_WARNING_NODEVICE
+You have not selected a device. Your game will not be saved. Would you like to continue anyway?
+Vi ne elektis aparaton. Via ludo ne konserviĝos. Ĉu vi volas tamen daŭrigi?
+
+IDS_LEVEL_TUTORIAL_1
+TUTORIAL 1
+LECIONO 1
+
+IDS_LEVEL_TUTORIAL_2
+TUTORIAL 2
+LECIONO 2
+
+IDS_LEVEL_TUTORIAL_3
+TUTORIAL FINAL
+LASTA LECIONO
+
+IDS_LEVEL_1_1
+MINES 1-1
+MINEJO 1-1
+
+IDS_LEVEL_1_2
+MINES 1-2
+MINEJO 1-2
+
+IDS_LEVEL_1_3
+MINES 1-3
+MINEJO 1-3
+
+IDS_LEVEL_1_4
+MINES 1-4
+MINEJO 1-4
+
+IDS_LEVEL_2_1
+LUSH 2-1
+VERDEJO 2-1
+
+IDS_LEVEL_2_2
+LUSH 2-2
+VERDEJO 2-2
+
+IDS_LEVEL_2_3
+LUSH 2-3
+VERDEJO 2-3
+
+IDS_LEVEL_2_4
+LUSH 2-4
+VERDEJO 2-4
+
+IDS_LEVEL_3_1
+ICE CAVES 3-1
+GLACIAJ GROTOJ 3-1
+
+IDS_LEVEL_3_2
+ICE CAVES 3-2
+GLACIAJ GROTOJ 3-2
+
+IDS_LEVEL_3_3
+ICE CAVES 3-3
+GLACIAJ GROTOJ 3-3
+
+IDS_LEVEL_3_4
+ICE CAVES 3-4
+GLACIAJ GROTOJ 3-4
+
+IDS_LEVEL_4_1
+TEMPLE 4-1
+TEMPLO 4-1
+
+IDS_LEVEL_4_2
+TEMPLE 4-2
+TEMPLO 4-2
+
+IDS_LEVEL_4_3
+TEMPLE 4-3
+TEMPLO 4-3
+
+IDS_LEVEL_4_4
+TEMPLE 4-4
+TEMPLO 4-4
+
+IDS_LEVEL_5_1
+HELL 5-1
+INFERO 5-1
+
+IDS_LEVEL_5_2
+HELL 5-2
+INFERO 5-2
+
+IDS_LEVEL_5_3
+HELL 5-3
+INFERO 5-3
+
+IDS_LEVEL_5_4
+HELL 5-4
+INFERO 5-4
+
+IDS_LEVEL_MARKET
+BLACK MARKET
+NIGRA BAZARO
+
+IDS_LEVEL_CASTLE
+HAUNTED CASTLE
+HANTATA KASTELO
+
+IDS_LEVEL_MOTHERSHIP
+MOTHERSHIP
+PATRINOŜIPO
+
+IDS_LEVEL_WORM
+WORM
+VERMO
+
+IDS_LEVEL_COG
+CITY OF GOLD
+ORA URBO
+
+IDS_COMPLETED_1_1
+1-1 COMPLETED!
+VI FINIS NIVELON 1-1!
+
+IDS_COMPLETED_1_2
+1-2 COMPLETED!
+VI FINIS NIVELON 1-2!
+
+IDS_COMPLETED_1_3
+1-3 COMPLETED!
+VI FINIS NIVELON 1-3!
+
+IDS_COMPLETED_1_4
+1-4 COMPLETED!
+VI FINIS NIVELON 1-4!
+
+IDS_COMPLETED_2_1
+2-1 COMPLETED!
+VI FINIS NIVELON 2-1!
+
+IDS_COMPLETED_2_2
+2-2 COMPLETED!
+VI FINIS NIVELON 2-2!
+
+IDS_COMPLETED_2_3
+2-3 COMPLETED!
+VI FINIS NIVELON 2-3!
+
+IDS_COMPLETED_2_4
+2-4 COMPLETED!
+VI FINIS NIVELON 2-4!
+
+IDS_COMPLETED_3_1
+3-1 COMPLETED!
+VI FINIS NIVELON 3-1!
+
+IDS_COMPLETED_3_2
+3-2 COMPLETED!
+VI FINIS NIVELON 3-2!
+
+IDS_COMPLETED_3_3
+3-3 COMPLETED!
+VI FINIS NIVELON 3-3!
+
+IDS_COMPLETED_3_4
+3-4 COMPLETED!
+VI FINIS NIVELON 3-4!
+
+IDS_COMPLETED_4_1
+4-1 COMPLETED!
+VI FINIS NIVELON 4-1!
+
+IDS_COMPLETED_4_2
+4-2 COMPLETED!
+VI FINIS NIVELON 4-2!
+
+IDS_COMPLETED_4_3
+4-3 COMPLETED!
+VI FINIS NIVELON 4-3!
+
+IDS_COMPLETED_4_4
+4-4 COMPLETED!
+VI FINIS NIVELON 4-4!
+
+IDS_COMPLETED_5_1
+5-1 COMPLETED!
+VI FINIS NIVELON 5-1!
+
+IDS_COMPLETED_5_2
+5-2 COMPLETED!
+VI FINIS NIVELON 5-2!
+
+IDS_COMPLETED_5_3
+5-3 COMPLETED!
+VI FINIS NIVELON 5-3!
+
+IDS_COMPLETED_MARKET
+MARKET COMPLETED!
+VI FINIS LA BAZARON!
+
+IDS_COMPLETED_CASTLE
+CASTLE COMPLETED!
+VI FINIS LA KASTELON!
+
+IDS_COMPLETED_MOTHERSHIP
+MOTHERSHIP COMPLETED!
+VI FINIS LA PATRINOŜIPON!
+
+IDS_COMPLETED_WORM
+WORM COMPLETED!
+VI FINIS LA VERMON!
+
+IDS_COMPLETED_COG
+CITY OF GOLD COMPLETED!
+VI FINIS LA ORAN URBON!
+
+IDS_LEVEL_ENTRANCE
+ENTRANCE
+ENIREJO
+
+IDS_LABEL_LOOT
+Loot
+Valoraĵoj
+
+IDS_DEATHMATCH_GETREADY
+GET READY...
+PRETIĜU...
+
+IDS_DEATHMATCH_GO
+GO!
+EK!
+
+IDS_DEATHMATCH_STANDINGS
+PLAYER STANDINGS
+RANGO DE LUDANTOJ
+
+IDS_DEATHMATCH_SELECTARENA
+@A Select Arena
+@A Konfirmi batalejon
+
+IDS_DEATHMATCH_RANDOMARENA
+@X Random Arena
+@X Hazarda batalejo
+
+IDS_DEATHMATCH_BEGINMATCH
+@A Begin Match
+@A Komenci matĉon
+
+IDS_DEATHMATCH_CHANGEARENA
+@B Change Arena
+@B Ŝanĝi batalejon
+
+IDS_DEATHMATCH_WINS
+Wins
+Venkoj
+
+IDS_DEATHMATCH_LIFE
+Life
+Vivo
+
+IDS_DEATHMATCH_BOMBS
+Bombs
+Bomboj
+
+IDS_DEATHMATCH_ROPE
+Rope
+Ŝnuroj
+
+IDS_DEATHMATCH_BOTS
+Bots
+Robotoj
+
+IDS_DEATHMATCH_ON
+ON
+JES
+
+IDS_DEATHMATCH_OFF
+OFF
+NE
+
+IDS_ENDING_YANG1
+Greetings, fellow treasure hunter! I'm Yang!
+Salutojn, mia kolega trezorĉasisto! Mi estas Jang!
+
+IDS_ENDING_YANG2
+I see you have my journal with you! By now it must be filled with all sorts of amazing things.
+Mi vidas, ke vi havas mian ĵurnalon ĉe vi! Certe ĝi jam plenas de skribaĵoj pri ĉiaj mirindaĵoj.
+
+IDS_ENDING_YANG3
+Since you worked so hard to get here, I'll bet you're expecting a large reward.
+Vi multe laboris por atingi ĉi tiun lokon, do certe vi atendas ricevi grandan rekompencon.
+
+IDS_ENDING_YANG4
+Well, with all the time I've spent down here, I've come to realize a few things...
+Nu, pro tio ke mi pasigis multe da tempo ĉi tie sub la tero, mi ekkonsciis pri kelkaj aferoj...
+
+IDS_ENDING_YANG5
+That the journey is its own reward and mastery is the greatest treasure of them all!
+La vojaĝo mem estas rekompenco, kaj plena regado de iu kapablo estas la plej valora trezoro en la tuta mondo!
+
+IDS_ENDING_YANG6
+Well, okay, so gold is pretty nice, too!
+Nu, bone, ankaŭ oro ja estas agrabla!
+
+IDS_ENDING_YANG7
+Wha ha ha! Now let's get out of here before my joints get stiff!
+Ha ha ha! Do, ni iru for de ĉi tiu loko, antaŭ ol miaj artikoj riĝidiĝas!
+
+IDS_JOURNAL_VALUE
+Value:
+Valoro:
+
+IDS_GUIDE_BACK
+@B Back
+@B Reen
+
+IDS_GUIDE_MAINMENU
+@B Back to Main Menu
+@B Reen al ĉefa menuo
+
+IDS_SETTINGS
+SETTINGS
+AGORDOJ
+
+IDS_ENDING_HERO
+You will be remembered as a hero.
+Oni memoros vin kiel heroon.
+
+IDS_ENDING_MADEIT
+YOU MADE IT!
+VI SUKCESIS!
+
+IDS_ENDING_THANKS
+Thanks for playing!
+Dankon pro via ludado!
+
+IDS_LEVELEND_CONTINUE
+@A Continue to Next Level
+@A Iri al la sekva nivelo
+
+IDS_SPIN_WHEEL
+Spin the Wheel
+Turni la radon
+
+IDS_CHOOSE_ADVENTURER
+CHOOSE ADVENTURER
+ELEKTU AVENTURISTON
+
+IDS_CONTROLS_MOVE
+@L Move
+@L Movi
+
+IDS_GUIDE_UNLOCK
+@X Unlock Full Game
+@X Malŝlosi la plenan ludon
+
+IDS_MINES
+MINES
+MINEJOJ
+
+IDS_LUSH
+LUSH
+VERDEJO
+
+IDS_ICE
+ICE
+GLACIAJ GROTOJ
+
+IDS_TEMPLE
+TEMPLE
+TEMPLO
+
+IDS_HELL
+HELL
+INFERO
+
+IDS_SPECIAL
+SPECIAL
+SPECIALAJ
+
+IDS_ARENA_DLC1
+EGG
+OVO
+
+IDS_ARENA_DLC2
+LARVA
+LARVO
+
+IDS_ARENA_DLC3
+PUPA
+PUPO
+
+IDS_ARENA_DLC4
+ADULT
+PLENKRESKULO
+
+IDS_CREDITS
+CREDITS
+AGNOSKOJ
+
+IDS_CREDITS_SPELUNKY
+SPELUNKY
+SPELUNKY
+
+IDS_CREDITS_LEAD_DESIGN
+Lead Design
+Ĉeffasonisto
+
+IDS_CREDITS_DESIGN
+Design
+Fasonisto
+
+IDS_CREDITS_LEAD_PROGRAMMING
+Lead Programming
+Ĉefprogramisto
+
+IDS_CREDITS_PROGRAMMING
+Programming
+Programisto
+
+IDS_CREDITS_LEAD_GRAPHICS
+Lead Graphics
+Ĉefgrafikisto
+
+IDS_CREDITS_ADD_GRAPHICS
+Additional Graphics
+Pliaj grafikaĵoj
+
+IDS_CREDITS_MUSIC
+Music
+Muziko
+
+IDS_CREDITS_SFX
+Sound Effects
+Sonefikoj
+
+IDS_CREDITS_XBLA_TEAM
+Xbox LIVE Arcade Team
+Xbox LIVE Arcade Team
+
+IDS_CREDITS_PRODUCER
+Producer
+Produktoro
+
+IDS_CREDITS_TEST_LEAD
+Test Lead
+Ĉeftestisto
+
+IDS_CREDITS_RELEASE_MGMT
+Release Management
+Eldona manaĝero
+
+IDS_CREDITS_PRODUCT_PLANNING
+Product Planning and Business Team
+Teamo pri produkta planado kaj komerco
+
+IDS_CREDITS_MARKETING
+Marketing
+Merkatisto
+
+IDS_CREDITS_EXEC_PRODUCER
+Executive Producer
+Plenuma produktoro
+
+IDS_CREDITS_MILESTONE
+Milestone Acceptance Tester
+Testisto pri akceptado de mejloŝtonoj
+
+IDS_CREDITS_EUROPE_LOC
+Europe Localization Team
+Eŭropa tradukteamo
+
+IDS_CREDITS_ASIA_LOC
+Asia Localization Team
+Azia tradukteamo
+
+IDS_CREDITS_SPECIAL_THANKS
+Special Thanks
+Specialan dankon al
+
+IDS_CREDITS_AS_ALWAYS
+And as Always...
+kaj kiel ĉiam...
+
+IDS_CREDITS_THE_PLAYER
+You, the Player!
+vi, la ludanto!
+
+IDS_CREDITS_THANKS
+Thanks for Playing!
+Dankon pro via ludado!
+
+IDS_HELP_AND_OPTIONS
+HELP & OPTIONS
+HELPILO kaj AGORDOJ
+
+IDS_HNO_HOW_TO_PLAY
+How to Play
+Kiel ludi
+
+IDS_HNO_CONTROLS
+Controls
+Regiloj
+
+IDS_HNO_SETTINGS
+Settings
+Agordoj
+
+IDS_HNO_CREDITS
+Credits
+Agnoskoj
+
+IDS_REMAP_CONTROLS
+REMAP CONTROLS
+REAGORDI BUTONOJN
+
+IDS_REMAP_CONTROLS_WHIP
+Whip/Action: 
+Vipi/Agi: 
+
+IDS_REMAP_CONTROLS_JUMP
+Jump: 
+Salti: 
+
+IDS_REMAP_CONTROLS_ROPE
+Rope: 
+Ŝnuro: 
+
+IDS_REMAP_CONTROLS_BOMB
+Bomb: 
+Bombo: 
+
+IDS_REMAP_CONTROLS_RUN
+Run: 
+Kuri: 
+
+IDS_REMAP_CONTROLS_PURCHASE
+Purchase/Door: 
+Aĉeti/Pordo: 
+
+IDS_GUIDE_REMAP_CONTROLS
+@A Remap Controls
+@A Reagordi butonojn
+
+IDS_GUIDE_DEFAULT_CONTROLS
+@X Default Controls
+@X Defaŭltaj butonoj
+
+IDS_PRESS_ANY_BUTTON
+Press Any Button
+Premu ajnan butonon
+
+IDS_SETTINGS_SFX
+SFX Volume
+Laŭteco de sonefikoj
+
+IDS_SETTINGS_MUSIC
+Music Volume
+Laŭteco de muziko
+
+IDS_SETTINGS_BRIGHTNESS
+Screen Brightness
+Heleco de ekrano
+
+IDS_SETTINGS_DAMSEL
+Damsel Style
+Stilo de Senhelpulo
+
+IDS_GUIDE_RESET_SETTINGS
+@X Default Settings
+@X Defaŭltaj agordoj
+
+IDS_DM_PLAYER_1_WINS
+PLAYER 1 WINS!
+LUDANTO 1 VENKAS!
+
+IDS_DM_PLAYER_2_WINS
+PLAYER 2 WINS!
+LUDANTO 2 VENKAS!
+
+IDS_DM_PLAYER_3_WINS
+PLAYER 3 WINS!
+LUDANTO 3 VENKAS!
+
+IDS_DM_PLAYER_4_WINS
+PLAYER 4 WINS!
+LUDANTO 4 VENKAS!
+
+IDS_DM_NOBODY_WINS
+NOBODY WINS!
+NENIU VENKAS!
+
+IDS_HOW_TO_PLAY_1
+HOW TO PLAY (1/4)
+KIEL LUDI (1/4)
+
+IDS_HOW_TO_PLAY_2
+HOW TO PLAY (2/4)
+KIEL LUDI (2/4)
+
+IDS_HOW_TO_PLAY_3
+HOW TO PLAY (3/4)
+KIEL LUDI (3/4)
+
+IDS_HOW_TO_PLAY_4
+HOW TO PLAY (4/4)
+KIEL LUDI (4/4)
+
+IDS_GUIDE_FILTER
+@X Change Filter
+@X Ŝanĝi filtrilon
+
+IDS_PURCHASE_A
+Press @A to purchase.
+Premu @A por aĉeti.
+
+IDS_PURCHASE_B
+Press @B to purchase.
+Premu @B por aĉeti.
+
+IDS_PURCHASE_X
+Press @X to purchase.
+Premu @X por aĉeti.
+
+IDS_PURCHASE_Y
+Press @Y to purchase.
+Premu @Y por aĉeti.
+
+IDS_PURCHASE_LB
+Press @{ to purchase.
+Premu @{ por aĉeti.
+
+IDS_PURCHASE_RB
+Press @} to purchase.
+Premu @} por aĉeti.
+
+IDS_PURCHASE_LT
+Press @[ to purchase.
+Premu @[ por aĉeti.
+
+IDS_PURCHASE_RT
+Press @] to purchase.
+Premu @] por aĉeti.
+
+IDS_JOURNAL_POWDERKEG
+Powder Box
+Pulvokesto
+
+IDS_JOURNAL_POWDERKEG_DESC
+It's filled with black powder. Handle with care!
+Ĝi estas plena de nigra pulvo. Tre zorge traktu ĝin!
+
+IDS_CHILL
+A terrible chill runs up your spine!
+Terura tremo trakuras vian korpon!
+
+IDS_JOURNAL_ENTRY_ADDED
+Journal Entry Added
+Ĵurnalo havas novan enskribaĵon
+
+IDS_CHARACTER_UNLOCKED
+New Character Unlocked
+Nova rolulo disponeblas
+
+IDS_ENDING_YANG_NOWORDS
+...
+...
+
+IDS_ENDING_SCORE
+Final Score:
+Fina poentsumo:
+
+IDS_ENDING_TIME
+Time:
+Tempo:
+
+IDS_GUIDE_SELECTCHAR
+@A Select Character
+@A Elekti rolulon
+
+IDS_SCEPTRE_FITS
+The sceptre fits, but nothing is happening!
+La sceptro konformas al la truo, sed nenio okazas!
+
+IDS_WRONG_KEY
+The key doesn't fit in this door.
+La ŝlosilo ne kongruas kun la truo en la pordo.
+
+IDS_ANUBIS_WARNING
+Death to the defiler!
+Mortu la sakrilegiulo!
+
+IDS_LOCKED_ARENA
+??????
+??????
+
+IDS_LEVELFEELING_COG
+I finally made it!
+Finfine mi trovis ĝin!
+
+IDS_SHOPBUYIDOL
+Let me take that off your hands!
+Mi helpu vin pri tiu peza afero!
+
+IDS_HEADER_BOMBS
+BOMBS
+BOMBOJ
+
+IDS_HEADER_ROPES
+ROPES
+ŜNUROJ
+
+IDS_HEADER_MONEY
+MONEY
+MONO
+
+IDS_CONTROLS_PICKUP
+Hold down on @L and press @S to pick up items and people.
+Tenu @L malsupren kaj dume premu @S por preni objektojn kaj homojn.
+
+IDS_WARNING_UNSAVED
+Are you sure? All unsaved player progress will be lost.
+Ĉu vi certas? Vi perdos ĉiun nekonservitan progreson.
+
+IDS_WARNING_NOTSAVED
+Are you sure? Scores will not be saved.
+Ĉu vi certas? La kvanto de venkoj ne konserviĝos.
+
+IDS_ERROR_CORRUPTDLC
+The DLC could not be loaded and may be corrupt. Please redownload it from the Xbox LIVE Marketplace.
+Ni ne sukcesis ŝargi la elŝutitan enhavon, kaj ĝi povus esti difektita. Reelŝutu ĝin de Xbox LIVE Marketplace.
+
+IDS_ERROR_WRITING
+There was an error writing to the leaderboards. Try again?
+Okazis eraro num skribi al la rangotabulo. Ĉu vi volas provi denove?
+
+IDS_ERROR_NEWSTORAGE
+The storage device has been removed. Would you like to select a new storage device?
+La konservejo estas forigita. Ĉu vi ŝatus elekti alian konservejon?
+
+IDS_ERROR_CORRUPTSAVE
+The save file appears to be damaged and cannot be loaded. Would you like to overwrite it with a new save file?
+La konservita dosiero ŝajnas esti damaĝita kaj ne ŝargeblas. Ĉu vi ŝatus anstataŭigi ĝin per nova konservita dosiero?
+
+IDS_ERROR_BADSTORAGE
+The storage device appears to be damaged and cannot be accessed. Would you like to select another storage device?
+La konservejo ŝajnas esti damaĝita kaj ne povas esti atingita. Ĉu vi ŝatus elekti alian konservejon?
+
+IDS_ERROR_NOTSAVED
+Your game will not be saved.
+Via ludo ne konserviĝos.
+
+IDS_ERROR_CANTSAVED
+The game was unable to save. Would you like to select a different storage device?
+La ludo ne sukcesis konservi. Ĉu vi ŝatus elekti alian konservejon?
+
+IDS_ERROR_FULLDEVICE
+The destination device is full. Would you like to select a different storage device?
+La celaparato estas plena. Ĉu vi ŝatus elekti alian konservejon?
+
+IDS_GUIDE_YES
+@A Yes
+@A Jes
+
+IDS_GUIDE_NO
+@B No
+@B Ne
+
+IDS_GUIDE_OK
+@A OK
+@A Bone
+
+IDS_GUIDE_CONNECT
+@A Connect to Xbox LIVE
+@A Konektiĝi al Xbox LIVE
+
+IDS_GUIDE_NOSAVE
+@B Continue Without Saving Score
+@B Daŭrigi sen konservi poentsumon
+
+IDS_SHORTCUT_BOMBS
+I was digging a shortcut, but a large boulder is blocking my path.
+Mi fosis ŝparvojan tunelon, sed granda ŝtonego blokas la vojon.
+
+IDS_SHORTCUT_BOMB1
+Can you give me a bomb so I can blow it up?
+Ĉu vi povus doni al mi bombon por foreksplodigi ĝin?
+
+IDS_SHORTCUT_BOMB2
+Can you give me two bombs so I can blow it up?
+Ĉu vi povus doni al mi du bombojn por foreksplodigi ĝin?
+
+IDS_SHORTCUT_BOMB3
+Can you give me three bombs so I can blow it up?
+Ĉu vi povus doni al mi tri bombojn por foreksplodigi ĝin?
+
+IDS_SHORTCUT_ROPES
+I was digging a shortcut, but a deep pit is in my way.
+Mi fosis ŝparvojan tunelon, sed profunda truo estas en mia vojo.
+
+IDS_SHORTCUT_ROPE1
+Can you give me a rope so I can descend safely?
+Ĉu vi povus doni al mi ŝnuron, por ke mi povu sekure malsupreniri?
+
+IDS_SHORTCUT_ROPE2
+Can you give me two ropes so I can descend safely?
+Ĉu vi povus doni al mi du ŝnurojn, por ke mi povu sekure malsupreniri?
+
+IDS_SHORTCUT_ROPE3
+Can you give me three ropes so I can descend safely?
+Ĉu vi povus doni al mi tri ŝnurojn, por ke mi povu sekure malsupreniri?
+
+IDS_SHORTCUT_MONEY1
+I was digging a shortcut, but some of my equipment broke.
+Mi fosis ŝparvojan tunelon, sed unu el miaj iloj rompiĝis.
+
+IDS_SHORTCUT_MONEY2
+Can you give me $10000 to replace it?
+Ĉu vi povus donaci $10000 por aĉeti novan?
+
+IDS_SHORTCUT_FAIL
+Unfortunately, it doesn't look like you have enough! Maybe next time!
+Bedaŭrinde, ŝajnas ke vi ne havas sufiĉe! Eble sekvan fojon!
+
+IDS_SHORTCUT_SHOTGUN_NEXT1
+Next time you see me, can you bring me a shotgun?
+Ĉu vi povus kunporti fusilon por mi, kiam vi revenos ĉi tien?
+
+IDS_SHORTCUT_SHOTGUN_NEXT2
+I'll need something to protect myself from the monsters down here.
+Mi bezonas ion por protekti min kontraŭ la monstroj en ĉi tiu ĉirkaŭaĵo.
+
+IDS_SHORTCUT_SHOTGUN
+I was digging a shortcut, but there are a lot of monsters down there.
+Mi fosis ŝparvojan tunelon, sed estas multaj monstroj en ĉi tiu ĉirkaŭaĵo.
+
+IDS_SHORTCUT_SHOTGUN_HAVE
+I see you brought a shotgun! Can I have it?
+Mi vidas, ke vi kunportis fusilon! Ĉu mi rajtas havi ĝin?
+
+IDS_SHORTCUT_KEY_NEXT1
+Next time you see me, can you bring me the gold key from the Mines?
+Ĉu vi povus kunporti la oran ŝlosilon el la Minejoj por mi?
+
+IDS_SHORTCUT_KEY_NEXT2
+I'll need it to get into a locked chamber that's coming up.
+Mi bezonas ĝin por malfermi ŝlositan ĉambron, kiu blokis min dum fosado.
+
+IDS_SHORTCUT_KEY
+I was digging a shortcut, but I reached a locked door.
+Mi fosis ŝparvojan tunelon, sed mi atingis ŝlositan pordon.
+
+IDS_SHORTCUT_KEY_HAVE
+That key you're holding looks like it might fit! Can I have it?
+Tiu ŝlosilo en via mano eble povus malŝlosi ĝin. Ĉu mi rajtas havi ĝin?
+
+IDS_GAMEOVERDESC_YAMA
+My soul was judged unworthy by the King of the Underworld.
+La Reĝo de la Infero juĝis, ke mia animo estas senmerita.
+
+IDS_GUIDE_QUICKRESTART
+@X Quick Restart
+@X Tuj reekludi
+
+IDS_GUIDE_SELECT
+@A Select
+@A Elekti
+
+IDS_GUIDE_DONATE
+@A Donate
+@A Donaci
+
+IDS_GUIDE_CANCEL
+@B Cancel
+@B Nuligi
+
+IDS_CREDITS_DESIGNDIRECTOR
+Design Director
+Fasona reĝisoro
+
+IDS_CREDITS_DIRECTORXBLA
+Director, MGS XBLA Publishing
+Direktoro, MGS XBLA Publishing
+
+IDS_CREDITS_BIZDEV
+Business Development
+Komerca disvolviĝo
+
+IDS_CREDITS_PORTFOLIODIRECTOR
+Portfolio Director
+Portfolia reĝisoro
+
+IDS_CREDITS_PRODUCTMANAGER
+Product Manager
+Produkta mastrumisto
+
+IDS_CREDITS_COMMUNITYMANAGER
+Community Manager
+Komunuma mastrumisto
+
+IDS_CREDITS_EXPERISTTESTLEADS
+Experis Test Leads
+Experis, ĉeftestistoj
+
+IDS_CREDITS_EXPERISSOFTTEST
+Experis Software Test Engineer
+Experis, inĝeniero pri programtestado
+
+IDS_CREDITS_EXPERISSOFTDEV
+Experis Software Developer Engineer in Test
+Experis, programfara inĝeniero dum testado
+
+IDS_CREDITS_EXPERISTESTASSOC
+Experis Test Associates
+Experis, helptestistoj
+
+IDS_GAMEOVER_SACRIFICED
+Sacrificed
+Oferita
+
+IDS_GAMEOVERDESC_SACRIFICED
+I offered myself to the Black Goddess.
+Mi oferis min mem al la Nigra Diino
+
+IDS_GAMEOVER_OLDAGE
+Old Age
+Troaĝiĝo
+
+IDS_GAMEOVER_UNKNOWN
+Unknown
+Nekonata
+
+IDS_TRIAL_VERSION
+TRIAL VERSION
+PROVVERSIO
+
+IDS_ARENA_DLC_1_1
+The Island
+Insulo
+
+IDS_ARENA_DLC_1_2
+Juicer
+Sukigilo
+
+IDS_ARENA_DLC_1_3
+Fragments
+Fragmentoj
+
+IDS_ARENA_DLC_1_4
+Hotel
+Hotelo
+
+IDS_ARENA_DLC_1_5
+Heliopolis
+Heliopolo
+
+IDS_ARENA_DLC_1_6
+Area 52
+Areo 52
+
+IDS_ARENA_DLC_1_7
+Primed
+Prajmita
+
+IDS_ARENA_DLC_1_8
+Mastodon
+Mastodonto
+
+IDS_ARENA_DLC_2_1
+Danger Room
+Ĉambro de danĝero
+
+IDS_ARENA_DLC_2_2
+Pitfalls
+Insidotruoj
+
+IDS_ARENA_DLC_2_3
+The Vault
+Sekurĉambro
+
+IDS_ARENA_DLC_2_4
+Abcess
+Absceso
+
+IDS_ARENA_DLC_2_5
+Joust
+Turniro
+
+IDS_ARENA_DLC_2_6
+Dead Simple
+Tutsimple
+
+IDS_ARENA_DLC_2_7
+Get On Up
+Supren
+
+IDS_ARENA_DLC_2_8
+Jetpacks
+Jetmotoroj
+
+IDS_ARENA_DLC_3_1
+Frozen Paradise
+Frostita Paradizo
+
+IDS_ARENA_DLC_3_2
+The Dig
+Fosejo
+
+IDS_ARENA_DLC_3_3
+Cook Out
+Kradrostado
+
+IDS_ARENA_DLC_3_4
+Compactor
+Kompaktigilo
+
+IDS_ARENA_DLC_3_5
+Step Softly
+Molaj paŝoj
+
+IDS_ARENA_DLC_3_6
+Buzzing
+Zumado
+
+IDS_ARENA_DLC_3_7
+Temple of Kali
+Templo de Kalio
+
+IDS_ARENA_DLC_3_8
+Enlightenment
+Nirvano
+
+IDS_PAUSED_ENDADVENTURE
+End Adventure
+Fini aventuron
+
+IDS_GAMEOVER_KILLEDBY
+Killed by:
+Vi mortis pro:
+
+IDS_GUIDE_UNLOCKFULL
+@A Unlock Full Game
+@A Malŝlosi plenan ludon
+
+IDS_GUIDE_GAMERCARD
+@A Gamer Card
+@A Karto de ludanto
+
+IDS_ERROR_TRIALACHIEVEMENT
+You have earned an Achievement! Upgrade to the full version now to unlock it.
+Vi atingis atingaĵon! Tuj ariku la plenan version por malŝlosi ĝin.
+
+IDS_ERROR_FAILTOSIGNIN
+You must be signed into a gamer profile to play Spelunky.
+Vi devas esti ensalutita en ludantoprofilon por ludi Spelunky.
+
+IDS_MAINMENU_DOWNLOADCONTENT
+Download Content
+Elŝuti enhavon
+
+IDS_SIGN_CONSTRUCTION
+UNDER CONSTRUCTION!*Future site of the Shortcut Station! Meet me at the end of the Mines if you want to help!*-Tunnel Man
+KONSTRUATA!*Estonta loko de la Ŝparvoja Stacio! Renkontu min je la fino de la Minejoj se vi volas helpi!*-Tunelisto
+
+IDS_SHORTCUT_HINT
+My shortcuts will get you where you want to go, but if you use one your Fastest Times won't get ranked on the Leaderboards... sorry!
+Miaj ŝparvojoj kondukas vin tien, kien vi volas iri! Sed se vi uzas ŝparvojon, via tempo ne aperos inter la plej rapidaj tempoj en la rangotabulo... Pardonon!
+
+IDS_SHORTCUT_HINT2
+Hey, why are you hitting me? I'm trying to help you out here!
+He, kial vi frapas min? Mi nur provas helpi vin!
+
+IDS_GAMEOVERDESC_FRIEND
+At least I made a friend!
+Almenaŭ mi ekhavis novan amikon!
+
+IDS_GAMEOVERDESC_COG
+It's the most exquisite tomb in the whole world...
+Jen la plej brila tombo en la tuta mondo...
+
+IDS_GAMEOVERDESC_YANG
+Yang was right... the layout of the caves is changing all the time!
+Jang pravis... la aranĝo de la kavernoj ŝanĝiĝas la tutan tempon!
+
+IDS_GAMEOVERDESC_TOUGH
+This is really hard, but I can't give up!
+Estas tre malfacile, sed mi ne rezignu!
+
+IDS_GAMEOVERDESC_FAR
+Alright! That was the farthest I've ever gotten!
+Bonege! Mi neniam antaŭe atingis tiom foran lokon!
+
+IDS_GAMEOVERDESC_BREAK
+Whew, I could use a break...
+Fu, iom da paŭzo estus bona...
+
+IDS_LEADERBOARDS_SHORTCUTS
+Beat the game without using shortcuts first.
+Unue finu la ludon sen uzi ŝparvojojn.
+
+IDS_TRIALNAG1B
+Thanks for playing Spelunky! We hope you had fun!
+Dankon, ke vi ludis Spelunky! Ni esperas, ke vi amuziĝis!
+
+IDS_TRIALNAG2B
+This is only the trial version of the game... get the full version now and test your skills!
+Ĉi tio estas nur provversio de la ludo... tuj akiru la plenan version kaj testu viajn kapablojn!
+
+IDS_ERROR_ACHIEVEMENT_FAIL
+The game failed to write to your gamer profile. An Achievement could not be saved. Try again?
+La ludo malsukcesis skribi al via ludantoprofilo. Atingaĵo ne konserviĝis. Ĉu vi volas provi denove?
+
+IDS_PAUSED
+PAUSED
+PAŬZO
+
+IDS_LEADERBOARDS_TIME
+TIME
+TEMPO
+
+IDS_WARNING_AUTOSAVING
+This game features autosaving. When you see this icon, do not turn off the console or remove any storage devices.
+Ĉi tiu ludo aŭtomate konservas vian progreson. Kiam vi vidas ĉi tiun sibolon, ne malŝaltu la konsolon kaj ne forigu konservejojn.
+
+IDS_GAMEOVER_SHOT
+Shot
+Pafita
+
+IDS_GAMEOVER_POISONED
+Poisoned
+Venenita
+
+IDS_CREDITS_WITHHELPFROM
+With Help From
+kun helpo de
+
+IDS_SHOPMSG_THANKSWRAP
+Thanks! I wrapped it up nice for you!
+Dankon! Mi metis ĝin en belan pakaĵon por vi!
+
+IDS_SAVEGAMENAME
+Spelunky Save Game
+Spelunky Save Game
+
+IDS_UNLOCKINFULL
+Unlock in Full Version
+Malŝlosu ĝin en la plena versio
+
+IDS_JUNGLE
+JUNGLE
+ĜANGALO
+
+IDS_LEVEL_2_1B
+JUNGLE 2-1
+ĜANGALO 2-1
+
+IDS_LEVEL_2_2B
+JUNGLE 2-2
+ĜANGALO 2-2
+
+IDS_LEVEL_2_3B
+JUNGLE 2-3
+ĜANGALO 2-3
+
+IDS_LEVEL_2_4B
+JUNGLE 2-4
+ĜANGALO 2-4
+
+IDS_JOURNAL_JUNGLE
+Jungle
+Ĝangalo
+
+IDS_BUY_ITEM_MYSTERYBOX
+Buy Mystery Box
+Aĉeti misteran pakaĵon
+
+IDS_LEVEL_OLMEC
+OLMEC'S LAIR
+LOĜEJO DE OLMEKO
+
+IDS_COMPLETED_OLMEC
+LAIR COMPLETED!
+VI FINIS LA LOĜEJON DE OLMEKO
+
+IDS_LEVEL_YAMA
+YAMA'S THRONE
+TRONO DE JAMA
+
+IDS_PAUSED_ENDDEATHMATCH
+End Deathmatch
+Fini Mortomatĉon
+
+IDS_WARNING_DEATHMATCHBOTS
+Deathmatch without bots requires at least two players to begin.
+Por komenci mortomatĉon sen robotoj necesas almenaŭ du ludantoj.
+
+IDS_ERROR_AVASSET_FAIL
+The game failed to write to your gamer profile. An Avatar Award could not be saved. Try again?
+La ludo ne sukcesis skribi al via ludantoprofilo. Ne eblis konservi Avataran Premion. Ĉu vi volas provi denove?
+
+IDS_ERROR_TRIALAVASSET
+You have earned an Avatar Award! Upgrade to the full version now to unlock it.
+Vi gajnis Avataran Premion! Tuj ariku la plenan version por malŝlosi ĝin.
+
+IDS_WARNING_SAVEOVERWRITE
+Do you really want to overwrite your saved game? Your previous save will be lost!
+Ĉu vi vere volas anstataŭigi vian konservitan dosieron? Via antaŭe konservita progreso perdiĝos!
+
+IDS_PLAYERPROFILE_SPECIALWINS
+Special Wins:
+Specialaj venkoj:
+
+IDS_ERROR_RESET_SAVE
+This will reset your save game file, including all statistics and unlocked shortcuts, journal entries, and characters. Do you really want to do this?
+Ĉi tio malfaros vian tutan progeson, inklude de ĉiuj statistikoj kaj malŝlositaj ŝparvojoj, ĵurnalaj enskribaĵoj, kaj roluloj. Ĉu vi vere volas fari tion?
+
+IDS_ERROR_RESET_SAVE_2
+Are you really sure? This is your final warning...
+Ĉu vi vere certas? Jen la lasta averto.
+
+IDS_USER_DETAILS
+@A User Details
+@A Rigardi uzanton
+
+IDS_SCORE_DETAILS
+@A Score Details
+@A Detaloj pri poentsumo
+
+IDS_ERROR_LB_READFAIL
+The leaderboard could not be read.
+Estis malsukceso legi la rangotabulon
+
+IDS_PREV_DAILY
+Previous Daily
+Antaŭa ĉiutagaĵo
+
+IDS_NEXT_DAILY
+Next Daily
+Sekva ĉiutagaĵo
+
+IDS_BUT_PREV_DAILY
+@< Previous Daily
+@< Antaŭa ĉiutagaĵo
+
+IDS_BUT_NEXT_DAILY
+@> Next Daily
+@> Sekva ĉiutagaĵo
+
+IDS_TOP_TEN_DAILY
+'s Top Ten Daily Scores
+ kaj ties dek plej bonaj poentsumoj
+
+IDS_FINDING_LEADERBOARD
+FINDING LEADERBOARD...
+TROVADO DE RANGOTABULO...
+
+IDS_DAILY_ALLTIME
+DAILY ALL-TIME
+PLEJ BONAJ ĈIUTAGAĴOJ
+
+IDS_AVG_OF_DAILY
+(Average of Top Ten Daily Scores)
+(Averaĝo de dek plej altaj poentsumoj en ĉiutagaĵoj)
+
+IDS_ANY_KEY
+Press Any Key
+Premu klavon
+
+IDS_KEY_ACTION
+WHIP/ACTION:
+VIPI/AGI:
+
+IDS_KEY_JUMP
+JUMP:
+SALTI:
+
+IDS_KEY_BOMB
+BOMB:
+BOMBO:
+
+IDS_KEY_ROPE
+ROPE:
+ŜNURO:
+
+IDS_KEY_RUN
+RUN:
+KURI:
+
+IDS_KEY_SPECIAL
+PURCHASE/DOOR:
+AĈETI/PORDO:
+
+IDS_KEY_UP
+UP:
+SUPREN:
+
+IDS_KEY_DOWN
+DOWN:
+MALSUPREN:
+
+IDS_KEY_LEFT
+LEFT:
+MALDEKSTREN:
+
+IDS_KEY_RIGHT
+RIGHT:
+DEKSTREN:
+
+IDS_KEY_PAUSE
+PAUSE:
+PAŬZIGI:
+
+IDS_KEY_JOURNAL
+JOURNAL:
+ĴURNALO:
+
+IDS_RESET_SAVE
+@X Reset Save Game
+@X Rekomencigi progreson
+
+IDS_DEATHMATCH_GHOSTS
+Ghosts
+Fantomoj
+
+IDS_DEATHMATCH_TARGETS
+Targets
+Celmarkoj
+
+IDS_DEATHMATCH_CUSTOM_CRATES
+@X Customize Crate Items
+@X Agordi objektojn en kestoj
+
+IDS_DEATHMATCH_TOGGLE_ITEM
+@A Toggle Item
+@A (Mal)ŝalti objekton
+
+IDS_DEATHMATCH_TOGGLE_ALL
+@X Toggle All Items
+@X (Mal)ŝalti ĉiujn objektojn
+
+IDS_DEATHMATCH_RETURN_OPTIONS
+@B Return to Options
+@B Reen al Agordoj
+
+IDS_SETTINGS_LANGUAGE
+Language
+Lingvo
+
+IDS_SETTINGS_WINDOWED
+Windowed
+En fenestro
+
+IDS_SETTINGS_FULLSCREEN
+Fullscreen
+Plena ekrano
+
+IDS_SETTINGS_TITLE_RESOLUTION
+RESOLUTION
+DISTINGIVO
+
+IDS_HNO_RESOLUTION
+Resolution
+Distingivo
+
+IDS_MAINMENU_DAILY_CHALLENGE
+Daily Challenge
+Ĉiutaga defio
+
+IDS_MAINMENU_DAILYDESC
+Compete against other online explorers in today's adventure. You've only got one shot!
+Konkurso en la hodiaŭa aventuro kontraŭ aliaj esploristoj en la interreto. Vi ricevos nur unu ŝancon!
+
+IDS_MAINMENU_DAILYCHECKING
+Checking for existing daily score. Please wait.
+Ni kontrolas, ĉu vi jam registris poentsumon hodiaŭ. Atendu momenton.
+
+IDS_MAINMENU_DAILYLOCKED
+You have already played today's challenge. Try again tomorrow!
+Vi jam ludis la defion de hodiaŭ. Provu denove morgaŭ!
+
+IDS_GUIDE_REMAP_KEYS
+@A Remap Keys
+@A Reagordi klavon
+
+IDS_GUIDE_DEFAULT_KEYS
+@X Default Keys
+@X Defaŭltaj klavoj
+
+IDS_ARENA_X1
+OLD BITEY
+OLDA MORDEMULO
+
+IDS_ARENA_X2
+YETI KING
+JETIA REĜO
+
+IDS_ARENA_X3
+ALIEN QUEEN
+REĜINO DE EKST.
+
+IDS_BUY_CARL
+Bother Carl
+Ĝeni Karlon
+
+IDS_ARENAS_UNLOCKED
+Deathmatch Arenas Unlocked
+Novaj batalejoj disponeblas ĉe Mortomatĉo
+
+IDS_GAMEOVER_VIEW_LEADERBOARD
+@A View Leaderboard
+@A Rigardi rangotabulon
+
+IDS_LEADERBOARDS_PLAYER
+PLAYER
+LUDANTO
+
+IDS_CHARSELECT_P1
+Player 1
+Ludanto 1
+
+IDS_CHARSELECT_P2
+Player 2
+Ludanto 2
+
+IDS_CHARSELECT_P3
+Player 3
+Ludanto 3
+
+IDS_CHARSELECT_P4
+Player 4
+Ludanto 4
+
+IDS_GRAPHICS
+GRAPHICS
+GRAFIKAJ AGORDOJ
+
+IDS_HNO_GRAPHICS
+Graphics
+Grafikaj agordoj
+
+IDS_APPLY_SCREEN
+Apply Screen Settings
+Apliki ekranagordojn
+
+IDS_FULLSCREEN_FX
+Fullscreen Effects
+Plenekranaj efektoj
+
+IDS_DYNAMIC_SHADOWS
+Dynamic Shadows
+Dinamikaj ombroj
+
+IDS_UPDATED
+Updated
+Aplikite
+
+IDS_HIGH
+HIGH
+ALTAJ
+
+IDS_LOW
+LOW
+MALALTAJ
+
+IDS_QUICKSTART
+@X Quick Start
+@X Tuj ekludi
+
+IDS_REMAP_INVERT_RUN_OFF
+Invert Run: OFF
+Inversigi kurbutonon: NE
+
+IDS_REMAP_INVERT_RUN_ON
+Invert Run: ON
+Inversigi kurbutonon: JES
+
+IDS_KEY_RUN_INVERT_OFF
+Invert: OFF
+Inversigi: NE
+
+IDS_KEY_RUN_INVERT_ON
+Invert: ON
+Inversigi: JES
+
+IDS_HUD_STYLE
+HUD Style
+Stilo de ludfasado
+
+IDS_HUD_STANDARD
+STANDARD
+NORMALA
+
+IDS_HUD_PRO
+PRO
+PROFESIA
