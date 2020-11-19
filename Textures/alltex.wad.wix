@@ -1,224 +1,224 @@
-!group ALLTILES
-alltiles.png 0 4642545
-alltilesN.jpg 4642545 2560344
-!group ANYLEVEL
-ankh.png 7202889 83031
-book.png 7285920 1567060
-breakankh.png 8852980 64453
-coffin.png 8917433 46378
-effectsbig.png 8963811 232232
-exitdoorsN.jpg 9196043 241080
-explosion.jpg 9437123 95456
-holes.png 9532579 286571
-moneyhud.png 9819150 98834
-noticebar.png 9917984 3587
-pauseheader.png 9921571 161682
-playerhud.png 10083253 174514
-playerhudPRO.png 10257767 27598
-rubble.png 10285365 560244
-shadows.png 10845609 50637
-shopbox.png 10896246 4607
-shopwheel.png 10900853 156170
-shotgunblast.jpg 11057023 43791
-TU_exitdoors.png 11100814 420737
-water.png 11521551 34398
 !group ATSTART
-charselectbars.png 11555949 311012
-effects.png 11866961 385252
-errordec.png 12252213 231889
-gamertagscroll.png 12484102 51296
-hudelements.png 12535398 408718
-hudicons.png 12944116 50823
-icetile.jpg 12994939 27509
-journalitems.png 13022448 392730
-journalmons.png 13415178 953432
-menuheader.png 14368610 76990
-noN.png 14445600 2857
-shine.jpg 14448457 26060
-!group CHARSELECT
-charselectbg.png 14474517 1409369
-charselectdoor.png 15883886 43966
-csrope.png 15927852 9151
-readybubble.png 15937003 8869
-!group COG
-cogbg.png 15945872 40900
-cogbgN.png 15986772 79358
-cogsmallbgN.jpg 16066130 257879
-wormsmallbg.png 16324009 526899
-!group DEATHMATCH
-deathmatchmenu.jpg 16850908 267887
-dmbanner.png 17118795 78357
-dmicons.png 17197152 37144
-dmresultsbg.jpg 17234296 250386
-dmscore.png 17484682 73807
-dmsplash.png 17558489 24395
-lobbyring.png 17582884 262572
-minesmallbg.png 17845456 835572
-stoneframe1.png 18681028 462545
-stoneframe2.png 19143573 455221
-stonepillar.png 19598794 93639
-!group ENDING
-finaltreasure.png 19692433 170617
-lobbyart.png 19863050 239415
-volcano.png 20102465 286682
-yangpic.png 20389147 36813
-!group FONTS
-fonthud_0.dds 20425960 349680
-fontkid_0.dds 20775640 174928
-fontmain_0.dds 20950568 349680
-!group GAMEOVER
-bookbg.png 21300248 383025
-bookgameover.png 21683273 623425
-!group HELL
-hellbg.jpg 22306698 60195
-hellsmallbg.png 22366893 841998
-templebg.jpg 23208891 57477
-!group HELPNOPTIONS
-controller.png 23266368 125853
-genericmenu.jpg 23392221 227080
-howtoplay.png 23619301 211031
-stoneframe1.png 18681028 462545
-stoneframe2.png 19143573 455221
-!group ICE
-icebg.png 23830332 57646
-icesmallbg.png 23887978 772065
-icesmallbgN.jpg 24660043 74294
-mothershipbg.jpg 24734337 28637
-worm.png 24762974 584473
-!group INTRO
-desert.png 25347447 632074
-desert2.png 25979521 580929
-desertsky.jpg 26560450 50464
-desertskynight.jpg 26610914 62891
-deserttrees.png 26673805 282964
-effectsbig.png 8963811 232232
-minebg.jpg 26956769 26008
-!group ITEMS
-items.png 26982777 1514125
-itemsN.jpg 28496902 321248
-!group JOURNAL
-bookbg.png 21300248 383025
-bookentries.png 28818150 304079
-bookpages.png 29122229 653918
-journalbgs.png 29776147 1368596
-levelsketch.png 31144743 1778761
-shadowpage.png 32923504 3937
+hudelements.png 0 393577
+effects.png 393577 385252
+errordec.png 778829 231889
+noN.png 1010718 2857
+gamertagscroll.png 1013575 51296
+hudicons.png 1064871 50823
+menuheader.png 1115694 76990
+charselectbars.png 1192684 311012
+journalmons.png 1503696 953432
+journalitems.png 2457128 392730
+icetile.jpg 2849858 27509
+shine.jpg 2877367 26060
 !group LEADERBOARD
-genericmenu.jpg 23392221 227080
-leaderbar.png 32927441 11366
-stoneframe1.png 18681028 462545
-stoneframe2.png 19143573 455221
-TU_leaderpics.png 32938807 149622
-!group LOBBY
-doorburst.png 33088429 178825
-dustring.png 33267254 137069
-journal.png 33404323 352333
-lobbyart.png 19863050 239415
-lobbyartcolor.png 33756656 258611
-lobbyring.png 17582884 262572
-maindoor.png 34015267 331548
-!group LUSH
-beehivebg.jpg 34346815 39209
-lushbg.jpg 34386024 67379
-lushsmallbg.png 34453403 724832
-templebg.jpg 23208891 57477
-worm.png 24762974 584473
-!group MAINMENU
-dustring.png 33267254 137069
-mainmenu_arch.png 35178235 371569
-mainmenu_cavesides.png 35549804 195543
-mainmenu_chainsign.png 35745347 208846
-mainmenu_doorandrocks.png 35954193 718292
-mainmenu_doorback.png 36672485 90737
-mainmenu_menuspear.png 36763222 44028
-mainmenu_statuesanddirt.png 36807250 747293
-!group MINE
-minebg.jpg 26956769 26008
-minesmallbg.png 17845456 835572
-!group MONSTERS
-char_slave.png 37554543 512927
-monsters.png 38067470 719074
-monsters2.png 38786544 804714
-monsters3.png 39591258 572400
-monsters4.png 40163658 652684
-monsters5.png 40816342 867134
-monstersbig.png 41683476 710369
-monstersbig2.png 42393845 708423
-monstersbig3.png 43102268 669607
-monstersbig4.png 43771875 2598639
-monstersbig5.png 46370514 614072
-monstersbig6.png 46984586 621069
-!group MSHIP
-coffincryo.png 47605655 23859
-mothershipbg.jpg 24734337 28637
-wormsmallbg.png 16324009 526899
-!group PLAYERS
-char_black.png 47629514 588158
-char_blue.png 48217672 768404
-char_brown.png 48986076 683886
-char_cyan.png 49669962 630403
-char_dlc1.png 50300365 703523
-char_dlc2.png 51003888 622041
-char_dlc3.png 51625929 602643
-char_dlc4.png 52228572 779771
-char_dlc5.png 53008343 544762
-char_dlc6.png 53553105 671664
-char_dlc7.png 54224769 314511
-char_dlc8.png 54539280 615143
-char_green.png 55154423 704793
-char_lime.png 55859216 677372
-char_orange.png 56536588 770172
-char_pink.png 57306760 586276
-char_purple.png 57893036 637207
-char_red.png 58530243 708752
-char_white.png 59238995 643722
-char_yellow.png 59882717 628781
+leaderbar.png 2903427 11366
+TU_leaderpics.png 2914793 149622
+stoneframe1.png 3064415 462545
+stoneframe2.png 3526960 455221
+genericmenu.jpg 3982181 227080
+!group HELPNOPTIONS
+howtoplay.png 4209261 211031
+controller.png 4420292 125853
+stoneframe1.png 4546145 462545
+stoneframe2.png 5008690 455221
+genericmenu.jpg 5463911 227080
+!group JOURNAL
+bookentries.png 5690991 304079
+bookpages.png 5995070 653918
+journalbgs.png 6648988 1368596
+levelsketch.png 8017584 1778761
+bookbg.png 9796345 383025
+shadowpage.png 10179370 3937
+!group GAMEOVER
+bookgameover.png 10183307 623425
+bookbg.png 10806732 383025
 !group PROFILE
-bookbg.png 21300248 383025
-bookprofile.png 60511498 707241
-levelsketch.png 31144743 1778761
-!group TEMPLE
-olmec.png 61218739 95659
-olmecN.jpg 61314398 55657
-olmecpieces.png 61370055 225404
-templebg.jpg 23208891 57477
-templesmallbg.png 61595459 786848
-!group TITLE
-dustring.png 33267254 137069
-spelunkylogo.png 62382307 303889
-temptitle.jpg 62686196 145394
-titlebat.png 62831590 136451
-titlelayers.png 62968041 409094
-trialplank.png 63377135 76069
-!group TRIAL
-nagscreen.png 63453204 1452897
-trialscreens.jpg 64906101 752355
+bookprofile.png 11189757 707241
+levelsketch.png 11896998 1778761
+bookbg.png 13675759 383025
+!group ALLTILES
+alltiles.png 14058784 4642545
+alltilesN.jpg 18701329 2560344
+!group FONTS
+fontmain_0.dds 21261673 349680
+fonthud_0.dds 21611353 349680
+fontkid_0.dds 21961033 174928
+!group ANYLEVEL
+book.png 22135961 1567060
+pauseheader.png 23703021 161682
+TU_exitdoors.png 23864703 420737
+exitdoorsN.jpg 24285440 241080
+shadows.png 24526520 50637
+holes.png 24577157 286571
+explosion.jpg 24863728 95456
+effectsbig.png 24959184 232232
+shotgunblast.jpg 25191416 43791
+rubble.png 25235207 560244
+shopbox.png 25795451 4607
+water.png 25800058 34398
+playerhud.png 25834456 174514
+moneyhud.png 26008970 98834
+shopwheel.png 26107804 156170
+coffin.png 26263974 46378
+ankh.png 26310352 83031
+breakankh.png 26393383 64453
+noticebar.png 26457836 3587
+playerhudPRO.png 26461423 27598
 !group TUNNEL
-scrollpaper.png 65658456 211669
-scrollroll.png 65870125 61037
-tunnelguy.png 65931162 135036
-tunneltitle.png 66066198 86461
+scrollpaper.png 26489021 211669
+scrollroll.png 26700690 61037
+tunnelguy.png 26761727 135036
+tunneltitle.png 26896763 86461
+!group MAINMENU
+mainmenu_arch.png 26983224 371569
+mainmenu_doorback.png 27354793 90737
+mainmenu_doorandrocks.png 27445530 718292
+mainmenu_statuesanddirt.png 28163822 747293
+mainmenu_cavesides.png 28911115 195543
+mainmenu_menuspear.png 29106658 44028
+mainmenu_chainsign.png 29150686 208846
+dustring.png 29359532 137069
+!group CHARSELECT
+charselectbg.png 29496601 1409369
+charselectdoor.png 30905970 43966
+csrope.png 30949936 9151
+readybubble.png 30959087 8869
+!group TITLE
+dustring.png 30967956 137069
+titlelayers.png 31105025 409094
+temptitle.jpg 31514119 145394
+titlebat.png 31659513 136451
+trialplank.png 31795964 76069
+spelunkylogo.png 31872033 303889
+!group TRIAL
+nagscreen.png 32175922 1452897
+trialscreens.jpg 33628819 752355
+!group DEATHMATCH
+dmicons.png 34381174 37144
+stoneframe1.png 34418318 462545
+stoneframe2.png 34880863 455221
+deathmatchmenu.jpg 35336084 267887
+dmresultsbg.jpg 35603971 250386
+stonepillar.png 35854357 93639
+dmscore.png 35947996 73807
+dmsplash.png 36021803 24395
+dmbanner.png 36046198 78357
+lobbyring.png 36124555 262572
+minesmallbg.png 36387127 835572
+!group INTRO
+desert.png 37222699 632074
+desertsky.jpg 37854773 50464
+desertskynight.jpg 37905237 62891
+deserttrees.png 37968128 282964
+desert2.png 38251092 580929
+minebg.jpg 38832021 26008
+effectsbig.png 38858029 232232
 !group TUTORIAL
-book.png 7285920 1567060
-bookbg.png 21300248 383025
-bookpages.png 29122229 653918
-char_white.png 59238995 643722
-shadowpage.png 32923504 3937
-tutbuttons.png 66152659 23083
-tutorialcave.png 66175742 823797
-tutorialpics1.png 66999539 1967524
+char_white.png 39090261 643722
+tutorialcave.png 39733983 823797
+tutorialpics1.png 40557780 1967524
+tutbuttons.png 42525304 23083
+book.png 42548387 1567060
+bookbg.png 44115447 383025
+bookpages.png 44498472 653918
+shadowpage.png 45152390 3937
 !group TUTORIALPICS
-book.png 7285920 1567060
-bookbg.png 21300248 383025
-bookpages.png 29122229 653918
-shadowpage.png 32923504 3937
-tutorialpics2.png 68967063 1882607
+tutorialpics2.png 45156327 1882607
+book.png 47038934 1567060
+bookbg.png 48605994 383025
+bookpages.png 48989019 653918
+shadowpage.png 49642937 3937
+!group ITEMS
+items.png 49646874 1514125
+itemsN.jpg 51160999 321248
+!group MONSTERS
+monsters.png 51482247 719074
+monsters2.png 52201321 804714
+monsters3.png 53006035 572400
+monsters4.png 53578435 652684
+monsters5.png 54231119 867134
+monstersbig.png 55098253 710369
+monstersbig2.png 55808622 708423
+monstersbig3.png 56517045 669607
+monstersbig4.png 57186652 2598639
+monstersbig5.png 59785291 614072
+monstersbig6.png 60399363 621069
+char_slave.png 61020432 512927
+!group PLAYERS
+char_orange.png 61533359 770172
+char_red.png 62303531 708752
+char_green.png 63012283 704793
+char_blue.png 63717076 768404
+char_white.png 64485480 643722
+char_yellow.png 65129202 628781
+char_pink.png 65757983 586276
+char_brown.png 66344259 683886
+char_purple.png 67028145 637207
+char_black.png 67665352 588158
+char_cyan.png 68253510 630403
+char_lime.png 68883913 677372
+char_dlc1.png 69561285 703523
+char_dlc2.png 70264808 622041
+char_dlc3.png 70886849 602643
+char_dlc4.png 71489492 779771
+char_dlc5.png 72269263 544762
+char_dlc6.png 72814025 671664
+char_dlc7.png 73485689 314511
+char_dlc8.png 73800200 615143
+!group LOBBY
+lobbyring.png 74415343 262572
+lobbyart.png 74677915 239415
+lobbyartcolor.png 74917330 258611
+doorburst.png 75175941 178825
+maindoor.png 75354766 331548
+journal.png 75686314 352333
+dustring.png 76038647 137069
+!group MINE
+minesmallbg.png 76175716 835572
+minebg.jpg 77011288 26008
+!group LUSH
+lushsmallbg.png 77037296 724832
+beehivebg.jpg 77762128 39209
+lushbg.jpg 77801337 67379
+templebg.jpg 77868716 57477
+worm.png 77926193 584473
+!group ICE
+icesmallbg.png 78510666 772065
+icesmallbgN.jpg 79282731 74294
+icebg.png 79357025 57646
+mothershipbg.jpg 79414671 28637
+worm.png 79443308 584473
+!group TEMPLE
+templesmallbg.png 80027781 786848
+templebg.jpg 80814629 57477
+olmec.png 80872106 95659
+olmecN.jpg 80967765 55657
+olmecpieces.png 81023422 225404
+!group HELL
+hellsmallbg.png 81248826 841998
+hellbg.jpg 82090824 60195
+templebg.jpg 82151019 57477
 !group WORM
-acid.png 70849670 34030
-coffinworm.png 70883700 35384
-cogsmallbgN.jpg 16066130 257879
-icebg.png 23830332 57646
-lushbg.jpg 34386024 67379
-wormbg.png 70919084 36870
-wormbgN.jpg 70955954 42272
-wormsmallbg.png 16324009 526899
+wormsmallbg.png 82208496 526899
+cogsmallbgN.jpg 82735395 257879
+lushbg.jpg 82993274 67379
+icebg.png 83060653 57646
+wormbg.png 83118299 36870
+wormbgN.jpg 83155169 42272
+acid.png 83197441 34030
+coffinworm.png 83231471 35384
+!group COG
+cogbg.png 83266855 40900
+cogbgN.png 83307755 79358
+wormsmallbg.png 83387113 526899
+cogsmallbgN.jpg 83914012 257879
+!group MSHIP
+mothershipbg.jpg 84171891 28637
+wormsmallbg.png 84200528 526899
+coffincryo.png 84727427 23859
+!group ENDING
+finaltreasure.png 84751286 170617
+volcano.png 84921903 286682
+yangpic.png 85208585 36813
+lobbyart.png 85245398 239415
