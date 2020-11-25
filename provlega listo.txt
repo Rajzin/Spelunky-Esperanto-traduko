@@ -1,4 +1,4 @@
-tradukversio 0.9.0
+tradukversio 0.9.1
 
 IDS_INTRO1_1
 As the sun burned bright above,
@@ -166,7 +166,7 @@ Vi havas kvar korojn da vivo en la komenco de la ludo. Se via vivo elĉerpiĝas,
 
 IDS_HOWTOPLAY1_2
 Ropes let you reach high ledges and descend safely into pits. Press @Y to throw one.
-Per ŝnuroj vi povas atingi altajn lokojn kaj sen danĝero iri malsupren en kavojn. Premu @Y por ĵeti ŝnuron.
+Per ŝnuroj vi povas atingi altajn lokojn kaj sendanĝere iri malsupren en kavojn. Premu @Y por ĵeti ŝnuron.
 
 IDS_HOWTOPLAY1_3
 Bombs can be used to blow up the walls. Press @B to throw one... but be careful!
@@ -182,7 +182,7 @@ Lignaj kestoj troviĝas ĉie en la kavernoj. Vipu ilin, kaj ene vi trovos proviz
 
 IDS_HOWTOPLAY2_2
 Ropes and bombs are the most common items found in crates, but if you're lucky you may find better things!
-Ŝnuroj kaj bomboj estas la plej oftaj objektoj, kiuj troveblas en kestoj. Sed se vi bonŝancas, eble vi trovos ion pli bonan!
+En kestoj vi plej ofte trovos ŝnurojn kaj bombojn, sed se vi bonŝancas, eble vi trovos ion pli bonan!
 
 IDS_HOWTOPLAY2_3
 Treasure chests are filled with valuable gems! Most of them have weak locks that can be whipped open.
@@ -266,7 +266,7 @@ PLEJ RAPIDAJ TEMPOJ
 
 IDS_LEADERBOARDS_WEEKLYSCORES
 WEEKLY SCORES
-ĈIUSEMAJNA POENTARO
+ĈIUSEMAJNAJ REKORDOJ
 
 IDS_LEADERBOARDS_WEEKLYTIMES
 WEEKLY TIMES
@@ -390,7 +390,7 @@ Neuzata
 
 IDS_JOURNAL_TUTORIAL1
 Greetings! My name is Yang, and this is my journal. Dusty maps and rumors of amazing treasures have led me here, deep under the desert.
-Salutojn! Mia nomo estas Jang, kaj ĉi tio estas mia ĵurnalo. Polvaj mapoj kaj onidiroj pri eksterordinaraj trezoroj gvidis min ĉi tien, profunde sub la dezerton.
+Saluton al vi! Mia nomo estas Jang, kaj ĉi tio estas mia ĵurnalo. Polvaj mapoj kaj onidiroj pri eksterordinaraj trezoroj gvidis min ĉi tien, profunde sub la dezerton.
 
 IDS_JOURNAL_TUTORIAL2
 There's something very strange about this place... the layout seems to change all the time. I've never seen the same room twice!
@@ -402,11 +402,11 @@ Eble temas pri la legenda malbeno de Olmeko, kiu onidire eterne kaptas homojn en
 
 IDS_JOURNAL_TUTORIAL4
 I push the idea out of my mind and focus on the treasure, instead. If I master the basics of movement and combat, I know I'll leave here a rich man!
-Mi puŝas tiun ideon el mia kapo, kaj anstataŭe koncentriĝas pri la trezoroj. Se mi bone lernos la bazajn principojn de moviĝado kaj batalado, mi certe povos iĝi riĉulo!
+Mi puŝas tiun ideon el mia kapo, kaj anstataŭe mi koncentriĝas pri la trezoroj. Se mi bone lernos la bazajn principojn de moviĝado kaj batalado, mi certe povos iĝi riĉulo!
 
 IDS_JOURNAL_TUTORIAL5
 The journey has been more difficult than I expected. I've fallen in spike pits, stepped into traps, and been attacked by monsters...
-La vojaĝo elturniĝis esti pli malfacila ol atendite. Mi falis en truoj plenaj de pikiloj, insidiloj embuskis min, kaj monstroj atakis min...
+La vojaĝo montriĝis esti pli malfacila ol atendite. Mi falis en truojn plenajn de pikiloj, insidiloj embuskis min, kaj monstroj atakis min...
 
 IDS_JOURNAL_TUTORIAL6
 Yet no matter what happens, I always wake up at the entrance to the mines! It's like death itself has lost its way down here.
@@ -422,7 +422,7 @@ Antaŭ nelonge mi ekvidis verdan paradizon je la fino de la minejoj.
 
 IDS_JOURNAL_TUTORIAL9
 How could such a place exist so far underground? And what lies beyond?
-Kiel tia loko povus ekzisti iom profunde sub la tero? Kaj kio estas trans ĝi?
+Kiel tia loko povus ekzisti iom profunde sub la tero? Kaj kio estas preter ĝi?
 
 IDS_JOURNAL_TUTORIAL10
 Cave merchants speak of even more fabulous sights further below... ancient ruins and cities made of gold! The very idea makes my restless heart beat faster!
@@ -430,7 +430,7 @@ Butikistoj en la kavernoj rakontas pri eĉ pli mirindaj vidaĵoj pli profunde...
 
 IDS_JOURNAL_TUTORIAL11
 To whomever holds this journal: I hope you find it useful. It's served me well but I no longer need it.
-Al tiu, kiu tenas ĉi tiun ĵurnalon: Mi esperas, ke ĝi estos utila al vi. Ĝi bone servis min, sed mi ne plu bezonas ĝin.
+Al tiu, kiu legas ĉi tiun ĵurnalon: Mi esperas, ke ĝi estos utila al vi. Ĝi bone servis min, sed mi ne plu bezonas ĝin.
 
 IDS_JOURNAL_TUTORIAL12
 I'm descending into the caves for what I hope is the last time. I won't return until I've escaped with The Ultimate Treasure!
@@ -438,7 +438,7 @@ Espereble sekvafoje estos la lasta fojo, kiam mi iros malsupren en la kavernojn.
 
 IDS_JOURNAL_TUTORIAL13
 Or are there even greater delights to be discovered? Well, there's only one way to find out!
-Aŭ ĉu troveblas eĉ pli grandajn ĝuigaĵojn ĉi tie? Nu, estas nur unu maniero por eltrovi!
+Aŭ ĉu troveblas eĉ pli grandajn ĝuindaĵojn ĉi tie? Nu, estas nur unu maniero por eltrovi!
 
 IDS_JOURNAL_TUTORIAL14
 Take this key. It will open the entrance to the mines. Follow me if you dare!*Happy Exploring!*-Yang
@@ -470,7 +470,7 @@ Kobro
 
 IDS_JOURNAL_COBRA_DESC
 A deadly serpent with a distinctive hood and venomous spit.
-Mortdanĝera serpento, kiu havas distingan kapuĉon kaj venenan salivon.
+Mortdanĝera serpento, kiu havas distingan kolon kaj venenan salivon.
 
 IDS_JOURNAL_BAT
 Bat
@@ -486,7 +486,7 @@ Araneo
 
 IDS_JOURNAL_SPIDER_DESC
 Larger than your average household variety. Don't let it get the drop on you.
-Pli granda ol ordinaraj domaj specioj. Saltas sur sian predojn de supre.
+Pli granda ol ordinaraj domaj specioj. Saltas sur siajn predojn de supre.
 
 IDS_JOURNAL_HANGSPIDER
 Spinner Spider
@@ -494,7 +494,7 @@ Spinner Spider
 
 IDS_JOURNAL_HANGSPIDER_DESC
 It hangs from the ceiling on a silky thread.
-Pendas de la plafono per silka fadeno.
+Pendiĝas de la plafono per silka fadeno.
 
 IDS_JOURNAL_GIANTSPIDER
 Giant Spider
@@ -510,7 +510,7 @@ Skeleto
 
 IDS_JOURNAL_SKELETON_DESC
 A living skeleton straight out of your nightmares.
-Vivanta skeleto ekzakte kiel tiuj, pri kiuj vi timsonĝas.
+Vivanta skeleto ekzakte kiel tiuj en viaj plej timigaj sonĝoj.
 
 IDS_JOURNAL_SCORPION
 Scorpion
@@ -678,7 +678,7 @@ Nigra Kavaliro
 
 IDS_JOURNAL_BLACKKNIGHT_DESC
 The lord of the castle. He fights with supreme confidence and won't give up until death.
-La lordo de la kastelo. Li batalas kun absoluta memfido kaj ne rezignos ĝis sia morto.
+La mastro de la kastelo. Li batalas kun absoluta memfido kaj ne rezignos ĝis sia morto.
 
 IDS_JOURNAL_VAMPIRE
 Vampire
@@ -718,7 +718,7 @@ Vermido
 
 IDS_JOURNAL_WORMBABY_DESC
 It looks small now, but adults can grow to a length of several miles.
-Nun ĝi estas ankoraŭ eta, sed plenkreskaj vermoj povas kreski ĝis longeco de kelkaj kilometoj.
+Nun ĝi estas ankoraŭ eta, sed plenkreskaj vermoj povas kreski ĝis longeco de pluraj kilometoj.
 
 IDS_JOURNAL_YETI
 Yeti
@@ -726,7 +726,7 @@ Jetio
 
 IDS_JOURNAL_YETI_DESC
 A playful creature that unfortunately doesn't know its own strength.
-Ludema vivaĵo, kiu bedaŭrinde ne bone regas sian forton.
+Ludema estaĵo, kiu bedaŭrinde ne bone regas sian forton.
 
 IDS_JOURNAL_YETIKING
 Yeti King
@@ -774,7 +774,7 @@ Eksterterana sinjoro
 
 IDS_JOURNAL_ALIENLORD_DESC
 A powerful psychic creature that commands a large spacecraft.
-Estaĵo kun paranormalaj menskapabloj, kiu estras grandan kosmoŝipon.
+Potenca estaĵo kun paranormalaj menskapabloj, kiu estras grandan kosmoŝipon.
 
 IDS_JOURNAL_ALIENQUEEN
 Alien Queen
@@ -790,7 +790,7 @@ Falkulo
 
 IDS_JOURNAL_HAWKMAN_DESC
 A dangerous leader of the Olmec cult. He's always looking for people to sacrifice.
-Danĝera gvidanto en la kulto de Olmeko. Li ĉiam serĉas homojn por siaj oferoj.
+Danĝera gvidanto en la kulto de Olmeko. Li ĉiam serĉas homojn por oferi al sia dio.
 
 IDS_JOURNAL_CROCMAN
 Croc Man
@@ -798,7 +798,7 @@ Krokodilulo
 
 IDS_JOURNAL_CROCMAN_DESC
 This elite temple guard has magical powers that make him very tough to kill.
-Ĉi tiu elita templogardisto havas magiajn povojn, kaj tial tre malfacilas mortigi lin.
+Tiu ĉi elita templogardisto havas magiajn povojn, pro kiuj tre malfacilas mortigi lin.
 
 IDS_JOURNAL_MAGMAMAN
 Magma Man
@@ -870,7 +870,7 @@ Demono
 
 IDS_JOURNAL_DEVIL_DESC
 Blue devils that escort lost souls to King Yama's courtroom.
-Bluaj demonoj kunportas perditajn animojn al la tronejo de Reĝo Jama.
+Bluaj demonoj eskortas perditajn animojn al la tronejo de Reĝo Jama.
 
 IDS_JOURNAL_SUCCUBUS
 Succubus
@@ -878,7 +878,7 @@ Sukubo
 
 IDS_JOURNAL_SUCCUBUS_DESC
 A mistress of Vlad. She seduces men and women alike in the service of her master.
-Konkubino de Vlad. Ŝi delogas kaj virojn kaj virinojn por servi sian mastron.
+Konkubino de Vlad. Por servi sian mastron, ŝi delogas kaj virojn kaj virinojn.
 
 IDS_JOURNAL_OXFACE
 Ox Face
@@ -1042,7 +1042,7 @@ Ili protektas viajn manojn kaj ebligas kroĉiĝi eĉ al la plej glitigaj muroj.
 
 IDS_JOURNAL_PITCHERSMITT
 Pitcher's Mitt
-Ĵetista ganto
+Basbalganto
 
 IDS_JOURNAL_PITCHERSMITT_DESC
 It improves your throwing and catching skills!
@@ -1094,7 +1094,7 @@ Hakfosilo
 
 IDS_JOURNAL_MATTOCK_DESC
 A sharp tool that's great for digging, but the craftsmanship is shoddy.
-Akra ilo, kiu ege utilas por fosado, sed ĝia estas tiom bone konstruita.
+Akra ilo, kiu ege utilas por fosado, sed ĝi ne estas tre bone konstruita.
 
 IDS_JOURNAL_MACHETE
 Machete
@@ -1102,7 +1102,7 @@ Maĉeto
 
 IDS_JOURNAL_MACHETE_DESC
 It slices, it dices, it cuts through monsters like stale bread!
-Ĝi hakas kaj tranĉas tra monstroj kiel tra seka pano!
+Ĝi hakas, tranĉas, kaj falĉas tra monstroj kiel tra seka pano!
 
 IDS_JOURNAL_BOOMERANG
 Boomerang
@@ -1138,7 +1138,7 @@ Kartoĉa hajlofusilo, kun la norma kalibro de 18,5 mm.
 
 IDS_JOURNAL_FREEZERAY
 Freeze Ray
-Frostoradia pafilo
+Frostradia pafilo
 
 IDS_JOURNAL_FREEZERAY_DESC
 A blast from this will freeze anything completely solid.
@@ -1218,11 +1218,11 @@ Ora statuo gardata de mortigaj insidiloj. Portu ĝin al la elirejo por ricevi mu
 
 IDS_JOURNAL_KAPALA
 Kapala
-Kapalo
+Krania taso
 
 IDS_JOURNAL_KAPALA_DESC
 A cup made from a human skull. It's used in bloody rituals.
-Taso farita el homa kranio. Oni uzas ĝin dum sangaj ritoj.
+Taso farita el homa kranio, nomata ankaŭ "kapalo". Oni uzas ĝin dum sangaj ritoj.
 
 IDS_JOURNAL_VLADSAMULET
 Vlad's Amulet
@@ -1238,7 +1238,7 @@ Uĝat-okulo
 
 IDS_JOURNAL_UDJATEYE_DESC
 The Eye is an ancient symbol of royal power. Does it have any other purpose?
-La Okulo estas antikva simbolo de reĝa povo. Ĉu ĝi havas alian uzon?
+La Okulo estas antikva simbolo de reĝa povo. Ĉu ĝi havas alian utilon?
 
 IDS_JOURNAL_ANKH
 Ankh
@@ -1254,7 +1254,7 @@ Heĝeto
 
 IDS_JOURNAL_HEDJET_DESC
 The white crown of pharaohs. It grants its wearer access to secret areas.
-La blanka krono de faraonoj. Se oni portas ĝin, oni rajtas aliri sekretajn lokojn.
+La blanka krono de faraonoj. Se oni portas ĝin, oni rajtas eniri sekretajn lokojn.
 
 IDS_JOURNAL_SCEPTRE
 Sceptre
@@ -1278,7 +1278,7 @@ Pikiloj
 
 IDS_JOURNAL_SPIKES_DESC
 These protrusions will leave big holes in anyone unlucky enough to fall on them.
-Ĉi tiuj pintaj objektoj faros grandan truojn en ĉiu malbonŝanculo, kiu falas sur ilin.
+Ĉi tiuj pintaj objektoj faros grandajn truojn en ĉiu malbonŝanculo, kiu falas sur ilin.
 
 IDS_JOURNAL_ARROWTRAP
 Arrow Trap
@@ -1310,7 +1310,7 @@ Acido
 
 IDS_JOURNAL_ACID_DESC
 Caustic stomach acid that slowly burns away the flesh. Beware of the bubbles!
-Koroda stomaka acido, kiu fobruligas karnon. Atentu la vezikojn!
+Koroda stomaka acido, kiu malrapide fobruligas karnon. Atentu la vezikojn!
 
 IDS_JOURNAL_SPRING
 Spring
@@ -1382,7 +1382,7 @@ Lafo
 
 IDS_JOURNAL_LAVA_DESC
 Molten rock that flows deep underground. The heat can melt almost anything!
-Likva ŝtono, kiu fluas profunde sub la tero. Ĝia varmeco povas fandi preskaŭ ion ajn!
+Likva ŝtono, kiu fluas profunde sub la tero. Ĝia varmo povas fandi preskaŭ ion ajn!
 
 IDS_STARTMSG
 The walls are shifting...
@@ -1390,7 +1390,7 @@ La muroj ŝanĝiĝas...
 
 IDS_JOURNALPICKUP
 You picked up a journal! Press @- to open it.
-Vi prenis ĵurnalon! Premu @- por malfermi ĝin.
+Vi trovis ĵurnalon! Premu @- por malfermi ĝin.
 
 IDS_LEVELFEELING_CEMETARY
 The dead are restless...
@@ -2506,7 +2506,7 @@ Aĉeti grimpgantojn
 
 IDS_BUY_ITEM_PITCHERSMITT
 Buy Pitcher's Mitt
-Aĉeti ĵetistan ganton
+Aĉeti basbalganton
 
 IDS_BUY_ITEM_SPRINGSHOES
 Buy Spring Shoes
@@ -2554,7 +2554,7 @@ Aĉeti fusilon
 
 IDS_BUY_ITEM_FREEZERAY
 Buy Freeze Ray
-Aĉeti frostoradian pafilon
+Aĉeti frostradian pafilon
 
 IDS_BUY_ITEM_LASERGUN
 Buy Plasma Cannon
@@ -2594,7 +2594,7 @@ Aĉeti idolon
 
 IDS_BUY_ITEM_KAPALA
 Buy Kapala
-Aĉeti kapalon
+Aĉeti kranian tason
 
 IDS_BUY_ITEM_VLADSAMULET
 Buy Vlad's Amulet
@@ -2846,7 +2846,7 @@ She bestows a gift upon you!
 
 IDS_KALI_SATCHEL
 Your satchel feels very full!
-Via sako sentiĝas tre peza!
+Via sako sentiĝas tre plena!
 
 IDS_KALI_ECSTATIC
 She seems ecstatic with you.
@@ -2914,11 +2914,11 @@ Tuta kvanto de mortoj:
 
 IDS_MSG_SAVING
 Saving Game...
-Konservi ludon...
+Konservado de ludo...
 
 IDS_GUIDE_CONTINUE
 @A Continue
-@A Daŭrigi
+@A Al la komenco
 
 IDS_GAMEOVER
 Game Over
@@ -3046,7 +3046,7 @@ La abismo
 
 IDS_GAMEOVER_BURNEDUP
 Burned Up
-Forbrulita
+Forbrulinta
 
 IDS_GAMEOVER_BLASTED
 Blasted
@@ -3078,11 +3078,11 @@ Ni bezonas plibonigi nian kunlaboradon!
 
 IDS_GAMEOVERDESC_WORM
 I hope I taste good, at least!
-Nu, mi esperas, ke mi estas almenaŭ bongusta!
+Mi esperas, ke almenaŭ mi estas bongusta!
 
 IDS_GAMEOVERDESC_MINESEND
 The end of the mines was just in sight! If I could survive a little longer...
-La fino de la minejoj estis jam videbla! Se mi povus nur travivi iomete pli longe...
+La fino de la minejoj estis jam videbla! Se mi povus travivi nur iomete pli longe...
 
 IDS_GAMEOVERDESC_LUSHEND
 The air was getting much colder... I almost reached the next area!
@@ -3266,11 +3266,11 @@ Mi tute cindriĝis.
 
 IDS_GAMEOVERDESC_UFO
 I've been incinerated by a UFO laser blast.
-Mi cindriĝis pro nifa lasero.
+Mi cindriĝis pro nifo-lasero.
 
 IDS_GAMEOVERDESC_SLAMMED
 I was slammed hard into a wall.
-Mi estis forte ĵetita kontraŭ muro.
+Mi estas forte ĵetita kontraŭ muro.
 
 IDS_GAMEOVERDESC_DIED
 I died again.
@@ -3302,7 +3302,7 @@ Kestoj
 
 IDS_ARENA_MINES5
 The Dome
-La kupolo
+Kupolo
 
 IDS_ARENA_MINES6
 Falling Rocks
@@ -3434,7 +3434,7 @@ Arbo de morto
 
 IDS_ARENA_HELL6
 The Wall
-La Muro
+La muro
 
 IDS_ARENA_HELL7
 Flesh Field
@@ -3530,7 +3530,7 @@ Vi ne estas konektita al Xbox LIVE. Konektiĝu por rigardi la rangotabulojn.
 
 IDS_ERROR_SIGNEDOUT
 A player has signed out or changed gamer profile. You have been returned to the title screen.
-Ludanto elsalutis aŭ ŝanĝis sian ludantan profilon. Vi estas resendita al la titola ekrano.
+Alia ludanto elsalutis aŭ ŝanĝis sian ludantan profilon. Vi estas resendita al la titola ekrano.
 
 IDS_ERROR_NOTCONNECTEDCONTENT
 Sign in to Xbox LIVE to access online content.
@@ -3538,11 +3538,11 @@ Ensalutu en Xbox LIVE por aliri enretan enhavon.
 
 IDS_ERROR_NOTCONNECTEDLOCAL
 Sign in to Xbox LIVE to post your score to the leaderboards.
-Ensalutu en Xbox LIVE por meti vian poentsumon en la rangotabuloj.
+Ensalutu en Xbox LIVE por meti vian poentsumon en la rangotabulojn.
 
 IDS_WARNING_MULTINOSAVE
 Multiplayer game progress is not saved. Your scores will also not post to the leaderboards.
-Via progreso en plurludanta ludo ne konserviĝos. Viaj poentsumoj ankaŭ ne aperos en la rangotabuloj.
+En plurludanta ludo via progreso ne konserviĝos. Viaj poentsumoj ankaŭ ne aperos en la rangotabuloj.
 
 IDS_WARNING_NODEVICE
 You have not selected a device. Your game will not be saved. Would you like to continue anyway?
@@ -3562,19 +3562,19 @@ LASTA LECIONO
 
 IDS_LEVEL_1_1
 MINES 1-1
-MINEJO 1-1
+MINEJOJ 1-1
 
 IDS_LEVEL_1_2
 MINES 1-2
-MINEJO 1-2
+MINEJOJ 1-2
 
 IDS_LEVEL_1_3
 MINES 1-3
-MINEJO 1-3
+MINEJOJ 1-3
 
 IDS_LEVEL_1_4
 MINES 1-4
-MINEJO 1-4
+MINEJOJ 1-4
 
 IDS_LEVEL_2_1
 LUSH 2-1
@@ -3822,7 +3822,7 @@ NE
 
 IDS_ENDING_YANG1
 Greetings, fellow treasure hunter! I'm Yang!
-Salutojn, mia kolega trezorĉasisto! Mi estas Jang!
+Saluton al vi, mia kolega trezorĉasisto! Mi estas Jang!
 
 IDS_ENDING_YANG2
 I see you have my journal with you! By now it must be filled with all sorts of amazing things.
@@ -4266,7 +4266,7 @@ Are you sure? All unsaved player progress will be lost.
 
 IDS_WARNING_NOTSAVED
 Are you sure? Scores will not be saved.
-Ĉu vi certas? La kvanto de venkoj ne konserviĝos.
+Ĉu vi certas? Vi perdos la kvantojn de venkoj.
 
 IDS_ERROR_CORRUPTDLC
 The DLC could not be loaded and may be corrupt. Please redownload it from the Xbox LIVE Marketplace.
@@ -4274,7 +4274,7 @@ Ni ne sukcesis ŝargi la elŝutitan enhavon, kaj ĝi povus esti difektita. Reel�
 
 IDS_ERROR_WRITING
 There was an error writing to the leaderboards. Try again?
-Okazis eraro num skribi al la rangotabulo. Ĉu vi volas provi denove?
+Okazis eraro dum skribi al la rangotabulo. Ĉu vi volas provi denove?
 
 IDS_ERROR_NEWSTORAGE
 The storage device has been removed. Would you like to select a new storage device?
@@ -4470,7 +4470,7 @@ Troaĝiĝo
 
 IDS_GAMEOVER_UNKNOWN
 Unknown
-Nekonata
+Malklara
 
 IDS_TRIAL_VERSION
 TRIAL VERSION
@@ -4590,11 +4590,11 @@ IDS_GUIDE_GAMERCARD
 
 IDS_ERROR_TRIALACHIEVEMENT
 You have earned an Achievement! Upgrade to the full version now to unlock it.
-Vi atingis atingaĵon! Tuj ariku la plenan version por malŝlosi ĝin.
+Vi gajnis atingaĵon! Tuj akiru la plenan version por malŝlosi ĝin.
 
 IDS_ERROR_FAILTOSIGNIN
 You must be signed into a gamer profile to play Spelunky.
-Vi devas esti ensalutita en ludantoprofilon por ludi Spelunky.
+Vi devas esti ensalutinta en ludantoprofilon por ludi Spelunky.
 
 IDS_MAINMENU_DOWNLOADCONTENT
 Download Content
@@ -4642,7 +4642,7 @@ Unue finu la ludon sen uzi ŝparvojojn.
 
 IDS_TRIALNAG1B
 Thanks for playing Spelunky! We hope you had fun!
-Dankon, ke vi ludis Spelunky! Ni esperas, ke vi amuziĝis!
+Dankon pro tio, ke vi ludis Spelunky! Ni esperas, ke vi amuziĝis!
 
 IDS_TRIALNAG2B
 This is only the trial version of the game... get the full version now and test your skills!
@@ -4742,7 +4742,7 @@ La ludo ne sukcesis skribi al via ludantoprofilo. Ne eblis konservi Avataran Pre
 
 IDS_ERROR_TRIALAVASSET
 You have earned an Avatar Award! Upgrade to the full version now to unlock it.
-Vi gajnis Avataran Premion! Tuj ariku la plenan version por malŝlosi ĝin.
+Vi gajnis Avataran Premion! Tuj akiru la plenan version por malŝlosi ĝin.
 
 IDS_WARNING_SAVEOVERWRITE
 Do you really want to overwrite your saved game? Your previous save will be lost!

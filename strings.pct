@@ -81,7 +81,7 @@ Eliri la ludon
 IDS_HOWTOPLAY1_1
 Vi havas kvar korojn da vivo en la komenco de la ludo. Se via vivo elĉerpiĝas, via ekspedicio finiĝas.
 IDS_HOWTOPLAY1_2
-Per ŝnuroj vi povas atingi altajn lokojn kaj sen danĝero iri malsupren en kavojn. Premu @Y por ĵeti ŝnuron.
+Per ŝnuroj vi povas atingi altajn lokojn kaj sendanĝere iri malsupren en kavojn. Premu @Y por ĵeti ŝnuron.
 IDS_HOWTOPLAY1_3
 Per bomboj vi povas foreksplodigi murojn. Premu @B por ĵeti bombon... sed estu singarda!
 IDS_HOWTOPLAY1_4
@@ -89,7 +89,7 @@ Via vipo estas via plej bona defendo kontraŭ la monstroj, kiuj loĝas en la kav
 IDS_HOWTOPLAY2_1
 Lignaj kestoj troviĝas ĉie en la kavernoj. Vipu ilin, kaj ene vi trovos provizojn, kiuj helpos vin dum via aventuro.
 IDS_HOWTOPLAY2_2
-Ŝnuroj kaj bomboj estas la plej oftaj objektoj, kiuj troveblas en kestoj. Sed se vi bonŝancas, eble vi trovos ion pli bonan!
+En kestoj vi plej ofte trovos ŝnurojn kaj bombojn, sed se vi bonŝancas, eble vi trovos ion pli bonan!
 IDS_HOWTOPLAY2_3
 Trezorkofroj estas plenaj de valoraj gemoj! Kutime kofro havas malfortan seruron, kiu malfermeblas per frapo de via vipo.
 IDS_HOWTOPLAY2_4
@@ -131,7 +131,7 @@ POENTREKORDOJ
 IDS_LEADERBOARDS_FASTESTTIMES
 PLEJ RAPIDAJ TEMPOJ
 IDS_LEADERBOARDS_WEEKLYSCORES
-ĈIUSEMAJNA POENTARO
+ĈIUSEMAJNAJ REKORDOJ
 IDS_LEADERBOARDS_WEEKLYTIMES
 ĈIUSEMAJNAJ TEMPOJ
 IDS_LEADERBOARDS_INVALID
@@ -193,15 +193,15 @@ Aĉeti/Pordo
 IDS_CONTROLS_UNUSED
 Neuzata
 IDS_JOURNAL_TUTORIAL1
-Salutojn! Mia nomo estas Jang, kaj ĉi tio estas mia ĵurnalo. Polvaj mapoj kaj onidiroj pri eksterordinaraj trezoroj gvidis min ĉi tien, profunde sub la dezerton.
+Saluton al vi! Mia nomo estas Jang, kaj ĉi tio estas mia ĵurnalo. Polvaj mapoj kaj onidiroj pri eksterordinaraj trezoroj gvidis min ĉi tien, profunde sub la dezerton.
 IDS_JOURNAL_TUTORIAL2
 Estas io ege stranga pri ĉi tiu loko... la aranĝo de ĉio ŝajnas ŝanĝiĝi la tutan tempon. Mi ankoraŭ neniam dufoje vidis la saman ĉambron!
 IDS_JOURNAL_TUTORIAL3
 Eble temas pri la legenda malbeno de Olmeko, kiu onidire eterne kaptas homojn en la kavernoj!
 IDS_JOURNAL_TUTORIAL4
-Mi puŝas tiun ideon el mia kapo, kaj anstataŭe koncentriĝas pri la trezoroj. Se mi bone lernos la bazajn principojn de moviĝado kaj batalado, mi certe povos iĝi riĉulo!
+Mi puŝas tiun ideon el mia kapo, kaj anstataŭe mi koncentriĝas pri la trezoroj. Se mi bone lernos la bazajn principojn de moviĝado kaj batalado, mi certe povos iĝi riĉulo!
 IDS_JOURNAL_TUTORIAL5
-La vojaĝo elturniĝis esti pli malfacila ol atendite. Mi falis en truoj plenaj de pikiloj, insidiloj embuskis min, kaj monstroj atakis min...
+La vojaĝo montriĝis esti pli malfacila ol atendite. Mi falis en truojn plenajn de pikiloj, insidiloj embuskis min, kaj monstroj atakis min...
 IDS_JOURNAL_TUTORIAL6
 Sed kio ajn okazas, mi ĉiam vekiĝas je la enirejo de la minejoj! Estas kvazaŭ la morto mem perdis la vojon en ĉi tiuj kavernoj.
 IDS_JOURNAL_TUTORIAL7
@@ -209,15 +209,15 @@ Malgraŭ ke ĉi tiuj okazaĵoj timigas min, mi daŭre fokusas mian atenton al mi
 IDS_JOURNAL_TUTORIAL8
 Antaŭ nelonge mi ekvidis verdan paradizon je la fino de la minejoj.
 IDS_JOURNAL_TUTORIAL9
-Kiel tia loko povus ekzisti iom profunde sub la tero? Kaj kio estas trans ĝi?
+Kiel tia loko povus ekzisti iom profunde sub la tero? Kaj kio estas preter ĝi?
 IDS_JOURNAL_TUTORIAL10
 Butikistoj en la kavernoj rakontas pri eĉ pli mirindaj vidaĵoj pli profunde... antikvaj ruinoj kaj urboj el oro! La nura penso igas mian koron bati maltrankvile!
 IDS_JOURNAL_TUTORIAL11
-Al tiu, kiu tenas ĉi tiun ĵurnalon: Mi esperas, ke ĝi estos utila al vi. Ĝi bone servis min, sed mi ne plu bezonas ĝin.
+Al tiu, kiu legas ĉi tiun ĵurnalon: Mi esperas, ke ĝi estos utila al vi. Ĝi bone servis min, sed mi ne plu bezonas ĝin.
 IDS_JOURNAL_TUTORIAL12
 Espereble sekvafoje estos la lasta fojo, kiam mi iros malsupren en la kavernojn. Mi ne revenos, ĝis mi ekhavis la plej grandan trezoron iam ajn!
 IDS_JOURNAL_TUTORIAL13
-Aŭ ĉu troveblas eĉ pli grandajn ĝuigaĵojn ĉi tie? Nu, estas nur unu maniero por eltrovi!
+Aŭ ĉu troveblas eĉ pli grandajn ĝuindaĵojn ĉi tie? Nu, estas nur unu maniero por eltrovi!
 IDS_JOURNAL_TUTORIAL14
 Prenu ĉi tiun ŝlosilon. Ĝi malfermos la enirejon de la minejoj. Sekvu min, se vi kuraĝas!*Bonan esploradon!*-Jang
 IDS_JOURNAL_KILLS
@@ -225,7 +225,7 @@ Mortigoj:
 IDS_JOURNAL_KILLEDBY
 Mortoj pro ĝi:
 IDS_JOURNAL_ENTRY
-Enskribaĵo
+Enskribaĵo 
 IDS_JOURNAL_SNAKE
 Serpento
 IDS_JOURNAL_SNAKE_DESC
@@ -233,7 +233,7 @@ Pereigaĵo al ĉiu aventuristo. Ĝi ŝatas kaŝi sin en potoj.
 IDS_JOURNAL_COBRA
 Kobro
 IDS_JOURNAL_COBRA_DESC
-Mortdanĝera serpento, kiu havas distingan kapuĉon kaj venenan salivon.
+Mortdanĝera serpento, kiu havas distingan kolon kaj venenan salivon.
 IDS_JOURNAL_BAT
 Vesperto
 IDS_JOURNAL_BAT_DESC
@@ -241,11 +241,11 @@ IDS_JOURNAL_BAT_DESC
 IDS_JOURNAL_SPIDER
 Araneo
 IDS_JOURNAL_SPIDER_DESC
-Pli granda ol ordinaraj domaj specioj. Saltas sur sian predojn de supre.
+Pli granda ol ordinaraj domaj specioj. Saltas sur siajn predojn de supre.
 IDS_JOURNAL_HANGSPIDER
 Ŝpina araneo
 IDS_JOURNAL_HANGSPIDER_DESC
-Pendas de la plafono per silka fadeno.
+Pendiĝas de la plafono per silka fadeno.
 IDS_JOURNAL_GIANTSPIDER
 Giganta araneo
 IDS_JOURNAL_GIANTSPIDER_DESC
@@ -253,7 +253,7 @@ Kolosa araneo granda kiel aŭto! Ŝi kaptas siajn predojn per gluecaj retoj.
 IDS_JOURNAL_SKELETON
 Skeleto
 IDS_JOURNAL_SKELETON_DESC
-Vivanta skeleto ekzakte kiel tiuj, pri kiuj vi timsonĝas.
+Vivanta skeleto ekzakte kiel tiuj en viaj plej timigaj sonĝoj.
 IDS_JOURNAL_SCORPION
 Skorpio
 IDS_JOURNAL_SCORPION_DESC
@@ -337,7 +337,7 @@ Kiu aŭ kio estas en tiu hantata kiraso?
 IDS_JOURNAL_BLACKKNIGHT
 Nigra Kavaliro
 IDS_JOURNAL_BLACKKNIGHT_DESC
-La lordo de la kastelo. Li batalas kun absoluta memfido kaj ne rezignos ĝis sia morto.
+La mastro de la kastelo. Li batalas kun absoluta memfido kaj ne rezignos ĝis sia morto.
 IDS_JOURNAL_VAMPIRE
 Vampiro
 IDS_JOURNAL_VAMPIRE_DESC
@@ -357,11 +357,11 @@ IDS_JOURNAL_WORMEGG_DESC
 IDS_JOURNAL_WORMBABY
 Vermido
 IDS_JOURNAL_WORMBABY_DESC
-Nun ĝi estas ankoraŭ eta, sed plenkreskaj vermoj povas kreski ĝis longeco de kelkaj kilometoj.
+Nun ĝi estas ankoraŭ eta, sed plenkreskaj vermoj povas kreski ĝis longeco de pluraj kilometoj.
 IDS_JOURNAL_YETI
 Jetio
 IDS_JOURNAL_YETI_DESC
-Ludema vivaĵo, kiu bedaŭrinde ne bone regas sian forton.
+Ludema estaĵo, kiu bedaŭrinde ne bone regas sian forton.
 IDS_JOURNAL_YETIKING
 Jetia Reĝo
 IDS_JOURNAL_YETIKING_DESC
@@ -385,7 +385,7 @@ La risko de morto por tankistoj estas nun pli alta ol iam ajn antaŭe.
 IDS_JOURNAL_ALIENLORD
 Eksterterana sinjoro
 IDS_JOURNAL_ALIENLORD_DESC
-Estaĵo kun paranormalaj menskapabloj, kiu estras grandan kosmoŝipon.
+Potenca estaĵo kun paranormalaj menskapabloj, kiu estras grandan kosmoŝipon.
 IDS_JOURNAL_ALIENQUEEN
 Reĝino de Eksterteranoj
 IDS_JOURNAL_ALIENQUEEN_DESC
@@ -393,11 +393,11 @@ La genia strategiisto de la eksterterana invado. Ŝi havas nekredeble fortajn te
 IDS_JOURNAL_HAWKMAN
 Falkulo
 IDS_JOURNAL_HAWKMAN_DESC
-Danĝera gvidanto en la kulto de Olmeko. Li ĉiam serĉas homojn por siaj oferoj.
+Danĝera gvidanto en la kulto de Olmeko. Li ĉiam serĉas homojn por oferi al sia dio.
 IDS_JOURNAL_CROCMAN
 Krokodilulo
 IDS_JOURNAL_CROCMAN_DESC
-Ĉi tiu elita templogardisto havas magiajn povojn, kaj tial tre malfacilas mortigi lin.
+Tiu ĉi elita templogardisto havas magiajn povojn, pro kiuj tre malfacilas mortigi lin.
 IDS_JOURNAL_MAGMAMAN
 Magmulo
 IDS_JOURNAL_MAGMAMAN_DESC
@@ -433,11 +433,11 @@ Malaltranga servisto en la Infero. Ĝia tasko estas replenigi la lafajn basenojn
 IDS_JOURNAL_DEVIL
 Demono
 IDS_JOURNAL_DEVIL_DESC
-Bluaj demonoj kunportas perditajn animojn al la tronejo de Reĝo Jama.
+Bluaj demonoj eskortas perditajn animojn al la tronejo de Reĝo Jama.
 IDS_JOURNAL_SUCCUBUS
 Sukubo
 IDS_JOURNAL_SUCCUBUS_DESC
-Konkubino de Vlad. Ŝi delogas kaj virojn kaj virinojn por servi sian mastron.
+Konkubino de Vlad. Por servi sian mastron, ŝi delogas kaj virojn kaj virinojn.
 IDS_JOURNAL_OXFACE
 Bovvizaĝulo
 IDS_JOURNAL_OXFACE_DESC
@@ -519,7 +519,7 @@ Grimpgantoj
 IDS_JOURNAL_CLIMBINGGLOVES_DESC
 Ili protektas viajn manojn kaj ebligas kroĉiĝi eĉ al la plej glitigaj muroj.
 IDS_JOURNAL_PITCHERSMITT
-Ĵetista ganto
+Basbalganto
 IDS_JOURNAL_PITCHERSMITT_DESC
 Ĝi plibonigas vian kapablon ĵeti kaj kapti!
 IDS_JOURNAL_SPRINGSHOES
@@ -545,11 +545,11 @@ IDS_JOURNAL_PASTE_DESC
 IDS_JOURNAL_MATTOCK
 Hakfosilo
 IDS_JOURNAL_MATTOCK_DESC
-Akra ilo, kiu ege utilas por fosado, sed ĝia estas tiom bone konstruita.
+Akra ilo, kiu ege utilas por fosado, sed ĝi ne estas tre bone konstruita.
 IDS_JOURNAL_MACHETE
 Maĉeto
 IDS_JOURNAL_MACHETE_DESC
-Ĝi hakas kaj tranĉas tra monstroj kiel tra seka pano!
+Ĝi hakas, tranĉas, kaj falĉas tra monstroj kiel tra seka pano!
 IDS_JOURNAL_BOOMERANG
 Bumerango
 IDS_JOURNAL_BOOMERANG_DESC
@@ -567,7 +567,7 @@ Fusilo
 IDS_JOURNAL_SHOTGUN_DESC
 Kartoĉa hajlofusilo, kun la norma kalibro de 18,5 mm.
 IDS_JOURNAL_FREEZERAY
-Frostoradia pafilo
+Frostradia pafilo
 IDS_JOURNAL_FREEZERAY_DESC
 Unu pafo de tio frostigas ion ajn ĝis la kerno.
 IDS_JOURNAL_LASERGUN
@@ -607,9 +607,9 @@ Idolo
 IDS_JOURNAL_IDOL_DESC
 Ora statuo gardata de mortigaj insidiloj. Portu ĝin al la elirejo por ricevi multe da mono!
 IDS_JOURNAL_KAPALA
-Kapalo
+Krania taso
 IDS_JOURNAL_KAPALA_DESC
-Taso farita el homa kranio. Oni uzas ĝin dum sangaj ritoj.
+Taso farita el homa kranio, nomata ankaŭ "kapalo". Oni uzas ĝin dum sangaj ritoj.
 IDS_JOURNAL_VLADSAMULET
 Amuleto de Vlad
 IDS_JOURNAL_VLADSAMULET_DESC
@@ -617,7 +617,7 @@ Magia amuleto, kiu protektas sian posedanton kontraŭ fajro.
 IDS_JOURNAL_UDJATEYE
 Uĝat-okulo
 IDS_JOURNAL_UDJATEYE_DESC
-La Okulo estas antikva simbolo de reĝa povo. Ĉu ĝi havas alian uzon?
+La Okulo estas antikva simbolo de reĝa povo. Ĉu ĝi havas alian utilon?
 IDS_JOURNAL_ANKH
 Anĥo
 IDS_JOURNAL_ANKH_DESC
@@ -625,7 +625,7 @@ Antikva magia objekto, kiu simbolas eternan vivon.
 IDS_JOURNAL_HEDJET
 Heĝeto
 IDS_JOURNAL_HEDJET_DESC
-La blanka krono de faraonoj. Se oni portas ĝin, oni rajtas aliri sekretajn lokojn.
+La blanka krono de faraonoj. Se oni portas ĝin, oni rajtas eniri sekretajn lokojn.
 IDS_JOURNAL_SCEPTRE
 Sceptro
 IDS_JOURNAL_SCEPTRE_DESC
@@ -637,7 +637,7 @@ Gardata de Anubiso II en la Ora Urbo. Ĝi malfermas la enirejon al la Infero.
 IDS_JOURNAL_SPIKES
 Pikiloj
 IDS_JOURNAL_SPIKES_DESC
-Ĉi tiuj pintaj objektoj faros grandan truojn en ĉiu malbonŝanculo, kiu falas sur ilin.
+Ĉi tiuj pintaj objektoj faros grandajn truojn en ĉiu malbonŝanculo, kiu falas sur ilin.
 IDS_JOURNAL_ARROWTRAP
 Saga insidilo
 IDS_JOURNAL_ARROWTRAP_DESC
@@ -653,7 +653,7 @@ Akraj pikiloj ĉe ambaŭ flankoj traboras ion ajn, kio tro proksimiĝas.
 IDS_JOURNAL_ACID
 Acido
 IDS_JOURNAL_ACID_DESC
-Koroda stomaka acido, kiu fobruligas karnon. Atentu la vezikojn!
+Koroda stomaka acido, kiu malrapide fobruligas karnon. Atentu la vezikojn!
 IDS_JOURNAL_SPRING
 Saltigilo
 IDS_JOURNAL_SPRING_DESC
@@ -689,11 +689,11 @@ Mortiga pilko fiksita al ĉeno, kiu svingiĝas kun diabla persistemo.
 IDS_JOURNAL_LAVA
 Lafo
 IDS_JOURNAL_LAVA_DESC
-Likva ŝtono, kiu fluas profunde sub la tero. Ĝia varmeco povas fandi preskaŭ ion ajn!
+Likva ŝtono, kiu fluas profunde sub la tero. Ĝia varmo povas fandi preskaŭ ion ajn!
 IDS_STARTMSG
 La muroj ŝanĝiĝas...
 IDS_JOURNALPICKUP
-Vi prenis ĵurnalon! Premu @- por malfermi ĝin.
+Vi trovis ĵurnalon! Premu @- por malfermi ĝin.
 IDS_LEVELFEELING_CEMETARY
 La mortintoj maltrankvilas...
 IDS_LEVELFEELING_MARKET
@@ -1251,7 +1251,7 @@ Aĉeti okulvitrojn
 IDS_BUY_ITEM_CLIMBINGGLOVES
 Aĉeti grimpgantojn
 IDS_BUY_ITEM_PITCHERSMITT
-Aĉeti ĵetistan ganton
+Aĉeti basbalganton
 IDS_BUY_ITEM_SPRINGSHOES
 Aĉeti risortŝuojn
 IDS_BUY_ITEM_SPIKESHOES
@@ -1275,7 +1275,7 @@ Aĉeti retpafilon
 IDS_BUY_ITEM_SHOTGUN
 Aĉeti fusilon
 IDS_BUY_ITEM_FREEZERAY
-Aĉeti frostoradian pafilon
+Aĉeti frostradian pafilon
 IDS_BUY_ITEM_LASERGUN
 Aĉeti plasman kanonon
 IDS_BUY_ITEM_PARACHUTE
@@ -1295,7 +1295,7 @@ Aĉeti reĝan ĵeleon
 IDS_BUY_ITEM_IDOL
 Aĉeti idolon
 IDS_BUY_ITEM_KAPALA
-Aĉeti kapalon
+Aĉeti kranian tason
 IDS_BUY_ITEM_VLADSAMULET
 Aĉeti amuleton de Vlad
 IDS_BUY_ITEM_UDJATEYE
@@ -1421,7 +1421,7 @@ Vi estas revigligita!
 IDS_KALI_BESTOWS
 Ŝi benas vin per donaco!
 IDS_KALI_SATCHEL
-Via sako sentiĝas tre peza!
+Via sako sentiĝas tre plena!
 IDS_KALI_ECSTATIC
 Ŝi ŝajnas esti ege ĝoja pri vi.
 IDS_KALI_HAPPY
@@ -1455,7 +1455,7 @@ Mortigoj
 IDS_LABEL_TOTALDEATHS
 Tuta kvanto de mortoj:
 IDS_MSG_SAVING
-Konservi ludon...
+Konservado de ludo...
 IDS_GUIDE_CONTINUE
 @A Daŭrigi
 IDS_GAMEOVER
@@ -1521,7 +1521,7 @@ Dispecigita
 IDS_GAMEOVER_ABYSS
 La abismo
 IDS_GAMEOVER_BURNEDUP
-Forbrulita
+Forbrulinta
 IDS_GAMEOVER_BLASTED
 Pafita
 IDS_GAMEOVER_DEATH
@@ -1537,9 +1537,9 @@ Nu, almenaŭ ni sukcesis eliri la minejojn!
 IDS_GAMEOVERDESC_MULTIMINES
 Ni bezonas plibonigi nian kunlaboradon!
 IDS_GAMEOVERDESC_WORM
-Nu, mi esperas, ke mi estas almenaŭ bongusta!
+Mi esperas, ke almenaŭ mi estas bongusta!
 IDS_GAMEOVERDESC_MINESEND
-La fino de la minejoj estis jam videbla! Se mi povus nur travivi iomete pli longe...
+La fino de la minejoj estis jam videbla! Se mi povus travivi nur iomete pli longe...
 IDS_GAMEOVERDESC_LUSHEND
 La aero komencis iĝi multe pli malvarma... Mi preskaŭ atingis la sekvan regionon!
 IDS_GAMEOVERDESC_ICEEND
@@ -1631,9 +1631,9 @@ Helpu min! Mi ne ĉesas fali!
 IDS_GAMEOVERDESC_LAVA
 Mi tute cindriĝis.
 IDS_GAMEOVERDESC_UFO
-Mi cindriĝis pro nifa lasero.
+Mi cindriĝis pro nifo-lasero.
 IDS_GAMEOVERDESC_SLAMMED
-Mi estis forte ĵetita kontraŭ muro.
+Mi estas forte ĵetita kontraŭ muro.
 IDS_GAMEOVERDESC_DIED
 Mi mortis denove.
 IDS_LOCKED
@@ -1649,7 +1649,7 @@ Rokenrolo
 IDS_ARENA_MINES4
 Kestoj
 IDS_ARENA_MINES5
-La kupolo
+Kupolo
 IDS_ARENA_MINES6
 Falantaj rokoj
 IDS_ARENA_MINES7
@@ -1715,7 +1715,7 @@ Zigurato
 IDS_ARENA_HELL5
 Arbo de morto
 IDS_ARENA_HELL6
-La Muro
+La muro
 IDS_ARENA_HELL7
 Kampo de karno
 IDS_ARENA_HELL8
@@ -1763,13 +1763,13 @@ Vi ne estas konektita al Xbox LIVE. Via poentsumo ne aldoniĝos al la rangotabul
 IDS_ERROR_NOTCONNECTEDVIEW
 Vi ne estas konektita al Xbox LIVE. Konektiĝu por rigardi la rangotabulojn.
 IDS_ERROR_SIGNEDOUT
-Ludanto elsalutis aŭ ŝanĝis sian ludantan profilon. Vi estas resendita al la titola ekrano.
+Alia ludanto elsalutis aŭ ŝanĝis sian ludantan profilon. Vi estas resendita al la titola ekrano.
 IDS_ERROR_NOTCONNECTEDCONTENT
 Ensalutu en Xbox LIVE por aliri enretan enhavon.
 IDS_ERROR_NOTCONNECTEDLOCAL
-Ensalutu en Xbox LIVE por meti vian poentsumon en la rangotabuloj.
+Ensalutu en Xbox LIVE por meti vian poentsumon en la rangotabulojn.
 IDS_WARNING_MULTINOSAVE
-Via progreso en plurludanta ludo ne konserviĝos. Viaj poentsumoj ankaŭ ne aperos en la rangotabuloj.
+En plurludanta ludo via progreso ne konserviĝos. Viaj poentsumoj ankaŭ ne aperos en la rangotabuloj.
 IDS_WARNING_NODEVICE
 Vi ne elektis aparaton. Via ludo ne konserviĝos. Ĉu vi volas tamen daŭrigi?
 IDS_LEVEL_TUTORIAL_1
@@ -1779,13 +1779,13 @@ LECIONO 2
 IDS_LEVEL_TUTORIAL_3
 LASTA LECIONO
 IDS_LEVEL_1_1
-MINEJO 1-1
+MINEJOJ 1-1
 IDS_LEVEL_1_2
-MINEJO 1-2
+MINEJOJ 1-2
 IDS_LEVEL_1_3
-MINEJO 1-3
+MINEJOJ 1-3
 IDS_LEVEL_1_4
-MINEJO 1-4
+MINEJOJ 1-4
 IDS_LEVEL_2_1
 VERDEJO 2-1
 IDS_LEVEL_2_2
@@ -1909,7 +1909,7 @@ JES
 IDS_DEATHMATCH_OFF
 NE
 IDS_ENDING_YANG1
-Salutojn, mia kolega trezorĉasisto! Mi estas Jang!
+Saluton al vi, mia kolega trezorĉasisto! Mi estas Jang!
 IDS_ENDING_YANG2
 Mi vidas, ke vi havas mian ĵurnalon ĉe vi! Certe ĝi jam plenas de skribaĵoj pri ĉiaj mirindaĵoj.
 IDS_ENDING_YANG3
@@ -2131,11 +2131,11 @@ Tenu @L malsupren kaj dume premu @S por preni objektojn kaj homojn.
 IDS_WARNING_UNSAVED
 Ĉu vi certas? Vi perdos ĉiun nekonservitan progreson.
 IDS_WARNING_NOTSAVED
-Ĉu vi certas? La kvanto de venkoj ne konserviĝos.
+Ĉu vi certas? Vi perdos la kvantojn de venkoj.
 IDS_ERROR_CORRUPTDLC
 Ni ne sukcesis ŝargi la elŝutitan enhavon, kaj ĝi povus esti difektita. Reelŝutu ĝin de Xbox LIVE Marketplace.
 IDS_ERROR_WRITING
-Okazis eraro num skribi al la rangotabulo. Ĉu vi volas provi denove?
+Okazis eraro dum skribi al la rangotabulo. Ĉu vi volas provi denove?
 IDS_ERROR_NEWSTORAGE
 La konservejo estas forigita. Ĉu vi ŝatus elekti alian konservejon?
 IDS_ERROR_CORRUPTSAVE
@@ -2233,7 +2233,7 @@ Mi oferis min mem al la Nigra Diino
 IDS_GAMEOVER_OLDAGE
 Troaĝiĝo
 IDS_GAMEOVER_UNKNOWN
-Nekonata
+Malklara
 IDS_TRIAL_VERSION
 PROVVERSIO
 IDS_ARENA_DLC_1_1
@@ -2293,9 +2293,9 @@ IDS_GUIDE_UNLOCKFULL
 IDS_GUIDE_GAMERCARD
 @A Karto de ludanto
 IDS_ERROR_TRIALACHIEVEMENT
-Vi atingis atingaĵon! Tuj ariku la plenan version por malŝlosi ĝin.
+Vi gajnis atingaĵon! Tuj akiru la plenan version por malŝlosi ĝin.
 IDS_ERROR_FAILTOSIGNIN
-Vi devas esti ensalutita en ludantoprofilon por ludi Spelunky.
+Vi devas esti ensalutinta en ludantoprofilon por ludi Spelunky.
 IDS_MAINMENU_DOWNLOADCONTENT
 Elŝuti enhavon
 IDS_SIGN_CONSTRUCTION
@@ -2319,7 +2319,7 @@ Fu, iom da paŭzo estus bona...
 IDS_LEADERBOARDS_SHORTCUTS
 Unue finu la ludon sen uzi ŝparvojojn.
 IDS_TRIALNAG1B
-Dankon, ke vi ludis Spelunky! Ni esperas, ke vi amuziĝis!
+Dankon pro tio, ke vi ludis Spelunky! Ni esperas, ke vi amuziĝis!
 IDS_TRIALNAG2B
 Ĉi tio estas nur provversio de la ludo... tuj akiru la plenan version kaj testu viajn kapablojn!
 IDS_ERROR_ACHIEVEMENT_FAIL
@@ -2369,7 +2369,7 @@ Por komenci mortomatĉon sen robotoj necesas almenaŭ du ludantoj.
 IDS_ERROR_AVASSET_FAIL
 La ludo ne sukcesis skribi al via ludantoprofilo. Ne eblis konservi Avataran Premion. Ĉu vi volas provi denove?
 IDS_ERROR_TRIALAVASSET
-Vi gajnis Avataran Premion! Tuj ariku la plenan version por malŝlosi ĝin.
+Vi gajnis Avataran Premion! Tuj akiru la plenan version por malŝlosi ĝin.
 IDS_WARNING_SAVEOVERWRITE
 Ĉu vi vere volas anstataŭigi vian konservitan dosieron? Via antaŭe konservita progreso perdiĝos!
 IDS_PLAYERPROFILE_SPECIALWINS

@@ -1,3 +1,35 @@
+VIDEOLUDAJ TERMINOJ
+
+Jen miaj solvoj por traduki kelkajn terminojn, por kiuj ne vere
+ekzistas esperanta vorto.
+  Game Over    -> Fino de ludo
+  deathmatch   -> mortomatĉo
+  leaderboards -> rangotabuloj
+  achievements -> atingaĵoj
+   ("Atingo" estas multe pli nebula. "Atingaĵo" klare temas pri
+    konkreta afero atingita, do mi pli ŝatis tion por ĉi tiaj
+	konkretaj listigitaj taskoj kaj defioj)
+
+
+IDS_HUD_STYLE
+HUD Style -> Stilo de ludfasado
+  Mi iom esploris manierojn por traduki "heads-up display"
+(aŭ "status bar"), kaj mi trovis ke la turka Vikipedio
+uzas esence "luda interfaco". Tio estis mia inspiro por
+"ludfasado", kiu laŭ mi sufiĉe taŭgas por la HUD de tiu
+ĉi specifa ludo.
+
+
+IDS_HNO_CONTROLS
+Controls -> Regiloj
+  Mi iomete dubas pri tiu traduko, ĉar ĝi ne estas tre rekta.
+Sed mi ne trovis pli bonan konscizan manieron nomi tion, kiu
+inkluzivigas kaj klavarojn kaj ludregilojn.
+
+
+-------------------------------------------------------------------
+
+
 trap -> insidilo
   "Insidilo" estas apenaŭ uzata, sed post priparoli kun pluraj
 homoj kaj grupoj mi konkludis, ke ĝi estas verŝajne la plej
@@ -9,6 +41,51 @@ insidiloj en ĉi tiu ludo ne estas por kapti la ludanton, sed
 por trompe damaĝi aŭ mortigi. "Insidaĵo" estus alia eblo,
 sed tiu povus signifi ankaŭ "plano por insidi iun". "Insidilo"
 multe pli senambigue temas pri fizika ilo.
+
+
+the underworld -> la Infero
+  Mi elektis traduki kaj "the underworld" kaj "Hell" per "la
+Infero". (Ili ja referas al la sama regiono en la ludo.)
+  Mi ja trovis, ke "la submondo" estas uzata por tiu koncepto
+en iuj verkoj en Esperanto (en Tekstaro estas nun kvar trafoj
+en verkoj de tri malsamaj aŭtoroj), sed tio estas tre malofte
+konata termino, kaj mi timas ke ne sufiĉe da homoj komprenus ĝin,
+do mi elektis uzi la pli klaran nemiskompreneblan terminon.
+
+
+undead
+  Tre malfacile tradukebla fikcia termino ("malmorta" ne funkcias
+esperante), kiun mi iel solvis per "vivkadavro" en ambaŭ frazoj.
+    IDS_JOURNAL_VAMPIRE_DESC
+    An undead bloodsucker with superhuman strength
+    -> Superhome forta vivkadavro, kiu suĉas sangon
+    IDS_JOURNAL_CEMETARY_DESC
+    all manner of undead creatures -> ĉiaj vivkadavroj
+
+
+psychic
+  Alia termino el fikciaĵoj, por kiu ne vere ekzistas esperanta
+ekvivalento. Mi elpensis, ke "paranormalaj menskapabloj" bone
+priskribus la aferon, sed krom ĉe unu frazo, tiu solvo estis tro
+longa laŭ mi. Do mi kutime tradukis per "telepatia", ĉar tiu
+variaĵo de "psychic" ŝajnas plej kongrui en ĉi tiu kazo.
+    IDS_LEVELFEELING_ASHIP
+    I sense a psychic presence here!
+    -> Mi sentas telepatian ĉeeston ĉi tie
+    IDS_GAMEOVERDESC_PSYCHICBLAST
+    A powerful psychic blast has liquified my brains.
+    -> Forta telepatia frapo likvigis mian cerbon.
+    IDS_JOURNAL_ALIENLORD_DESC
+    A powerful psychic creature
+    -> Potenca estaĵo kun paranormalaj menskapabloj
+    IDS_JOURNAL_ALIENQUEEN_DESC
+    She has incredible psychic powers.
+    -> Ŝi havas nekredeble fortajn telepatiajn povojn.
+
+
+IDS_JOURNAL_MAGMAMAN_DESC
+elemental of fire -> fajra elementvivaĵo
+  Iom malfacile tradukebla fikcia termino el fantasaj verkoj.
 
 
 IDS_JOURNAL_SHOTGUN
@@ -31,6 +108,57 @@ kio estas rekta traduko de unu franca termino por jetpack, kaj tio
 ja sufiĉe bone funkcias.
 
 
+IDS_JOURNAL_CAPE
+Cape -> Tukmantelo
+  Memfarita vorto por distingi ĝin de manikaj manteloj, por kiuj oni
+nuntempe pli ofte uzas la vorton "mantelo" en Esperanto.
+  "Senmanika mantelo" eble estus pli normala maniero por priskribi
+ĝin, sed "tukmantelo" estas pli mallonga, kaj laŭ mi ankaŭ pli belsona
+kaj pli facile komprenebla. (Ekzemple, ĉe "senmanika mantelo" eblus
+imagi modernan mantelon, kiu havas truojn por la brakoj, kie estus
+normale manikoj)
+
+
+IDS_JOURNAL_MATTOCK
+Mattock -> Hakfosilo
+  "Mattock" estas ilo por fosi kaj haki, kaj oni fosas per hakaj movoj,
+do "hakfosilo" ŝajnis taŭga en Esperanto. Kutime mattock havus adzon je
+unu flanko kaj pioĉon aŭ hakilon ĉe la alia flanko, sed laŭ la aspekto
+tiu en Spelunky estas simple "dukapa" adzo.
+
+
+IDS_JOURNAL_KAPALA
+Kapala -> Krania taso
+  Mi pripensis rekte esperantigi "kapala" al "kapalo", sed mi tamen
+tradukis per "krania taso" (laŭ la angla sinonimo "skullcup"). Sed
+mi metis "kapalo" en la ĵurnalan priskribon de la objekto, por ke
+homoj sciu ke tiu nomo ekzistas, kaj povu uzi tion kiel mallongan
+nomon, se ili preferas uzi tion.
+
+
+IDS_SHOPMSG_JACKPOT
+You won the jackpot! -> Vi gajnis la ĉefan monpremion!
+  Mi tradukis "jackpot" per "ĉefpremio", laŭ la germana "Hauptgewinn" kaj
+nederlanda "hoofdprijs", sed aldonis mon- por distingi ĝin de la gajnebla
+objekto, kiu argumenteble estu nomata la ĉefpremio anstataŭe.
+
+
+IDS_JOURNAL_MARKET
+Black Market -> Nigra bazaro
+  "Nigra merkato" estas multe pli uzata termino, sed bedaŭrinde
+"merkato" neniam referas al fizika loko. Mi pripensis uzi
+"nigramerkata bazaro", sed tio estas iom tro longa por beli.
+
+
+IDS_JOURNAL_CRYSKNIFE
+Crysknife -> Kristranĉilo
+  "Crysknife" estas referenco al la sciencfikcia verko Dune. Mi
+elektis simple rekte esperantigi la vorteron "crys".
+  "Crys" eble venas de la angla vorto "Kris" ("kriso" en esperanto),
+kiu estas tipo de ponardo el Indonezio kaj Malajzio. Se tio veras,
+ankaŭ tio subtenus la esperantigon "kristranĉilo".
+
+
 IDS_JOURNAL_SPIDER_DESC
 Don't let it get the drop on you.
 -> Saltas sur sian predojn de supre.
@@ -38,6 +166,25 @@ Don't let it get the drop on you.
 kiu estas tute alia, sed same referencas la emon de araneoj
 faligi sin sur la kapon de la ludanto. Kaj tia teksto ŝajnis
 al mi kongrui kun la etoso de la ĵurnalo.
+
+
+IDS_JOURNAL_DAMSEL
+Damsel -> Senhelpulo
+  Iom libera trakuko. Antaŭe mi havis "Fraŭl(in)o. Mi malkontentis
+pri la -(in)o (kiu estas necesa, ĉar tiu rolulo povas esti ankaŭ
+vira aŭ huna), sed ne povis elpensi pli bonan alternativon. Poste
+mi elpensis "Senhelpulo", kiu sufiĉe bone funkcias.
+  Tamen, ĉe IDS_LABEL_DAMSELS mi tradukis "Damsels" per "Savitoj",
+ĉar tio estas pli senchava en la kunteksto de tiu ekrano.
+
+
+IDS_JOURNAL_MANTRAP
+Mantrap -> Homkaptilo
+  Mi iomete dubas pri "kaptilo", ĉar ĝi klare ne estas ilo. Sed
+mi pensas, ke tia figurasenca uzo akcepteblas.
+  Ĉi-foje "trap" iĝas "kaptilo" anstataŭ "insidilo", ĉar ĝi vere
+efektive kaptas homojn, kaj ĉar "kaptilo" estas pli konata vorto,
+do pli uzinda por ĉi tia figurasencaĵo.
 
 
 IDS_JOURNAL_HAWKMAN
@@ -75,18 +222,74 @@ la idiomo "have a spring in your step", kiu signifas havi
   Aliaj sugestoj estus bonvenaj.
 
 
+IDS_JOURNAL_BOULDER_DESC
+An elaborate trap used to punish thieves.
+-> Ege komplika insidilo uzata por puni ŝtelistojn.
+  Mi pensas, ke "elaborate" estas sarkasma ŝerco. Tamen mi ne
+certas, ĉiu tiu ŝerco estas sufiĉe evidenta en Esperanto...
+
+
+IDS_JOURNAL_CRUSHTRAP_DESC
+This heavy stone block is imbued with the spirit of the pharaoh's
+palace guard.
+-> Sorĉistoj metis la spiriton de faraona gardisto en ĉi tiun pezan
+   blokon da ŝtono.
+  "Imbued" estis iom malfacile tradukebla. Je iu punkto mi decidis
+skribi "oni metis", sed tiu "oni" ŝajnis iom stranga al mi. Sed mi
+imagis, ke tian objekton verŝajne farus la sorĉistoj aŭ pastroj,
+kiuj laboris por la faraono, do mi anstataŭ "oni" mi enmetis tiun
+memfaritan fakton.
+  Mi fakte ŝatas tion. Estas eta ŝanĝo, sed laŭ mi ĝi pli tiklas
+la imagon.
+
+
+IDS_JOURNAL_TUTORIAL10
+The very idea makes my restless heart beat faster!
+-> La nura penso igas mian koron bati maltrankvile!
+  Pli libere tradukita por referenci al la fama esperanta poemo:
+    "Ho, mia kor', ne batu maltrankvile"
+
+
+IDS_BUY_SLAVE
+Buy [nomo] -> Aĉeti [nomo]
+  Por fari la helpistojn iom malpli sklavecaj.
+
+
+IDS_LEVELFEELING_JULY
+It feels like the fourth of July...
+-> Estas kvazaŭ ekstertera sento...
+  Tradukita pli laŭ la alilingvaj tradukoj de Spelunky.
+
+
 IDS_ARENA_LUSH5
 Dunk Tank -> Baseno
   Laŭ la germana traduko. Ĝi ŝajnis taŭga solvo.
 
 
-IDS_HUD_STYLE
-HUD Style -> Stilo de ludfasado
-  Mi iom esploris manierojn por traduki "heads-up display"
-(aŭ "status bar"), kaj mi trovis ke la turka Vikipedio
-uzas esence "luda interfaco". Tio estis mia inspiro por
-"ludfasado", kiu laŭ mi sufiĉe taŭgas por la HUD de tiu
-ĉi specifa ludo.
+IDS_COMPLETED_1_1
+1-1 COMPLETED! -> VI FINIS NIVELON 1-1!
+  Malpli konciza traduko estas multe pli klare komprenebla laŭ mi.
+Estas amaso da spaco en al loko, kie la teksto estas uzata, do ne
+estas manko de spaco. (Eĉ la plej longa "VI FINIS LA PATRINOŜIPON!"
+tute senprobleme konvenas.)
+
+
+IDS_LEADERBOARDS_LEVEL
+LEVEL -> NVL
+  Se estus "NIVELO", ĝi kaj alia vorto kun aspektos kiel unu vorto
+"NIVELOPOENTOJ" en la rangotabuloj (en Steam-versio)
+
+
+IDS_ANY_KEY
+Press Any Key -> Premu klavon
+  Malkiel "Premu ajnan butonon" ĉe IDS_PRESS_ANY_BUTTON, mi forigis
+"ajnan" ĉi tie ĉar mankis spaco. Ja estas sufiĉe da spaco se oni
+agordas butonojn de ludregilo.
+
+
+IDS_GUIDE_CONTINUE
+@A Continue -> @A Al la komenco
+		(kontroli)
 
 
 
@@ -94,6 +297,10 @@ uzas esence "luda interfaco". Tio estis mia inspiro por
 
 
 NOMOJ DE BUTIKISTOJ
+
+Estas 26 nomoj, originale po unu por ĉiu komenclitero A ĝis Z.
+Por la butikistoj mi elektis nomon por ĉiu esperanta litero
+krom Ĥ kaj Ŭ. Jen kelkaj notindaj nomoj:
 
 Memelektitaj:
 Boris   (referenco al esperantisto Michael Boris Mandirola)
@@ -114,10 +321,12 @@ Error   -> Eraro (rekta traduko)
 Frank   (neŝanĝita, interalie pro esperantisto Frank van Hertrooij)
 Willy   -> Vim (de "Wim", alia nacia mallongigo de Wilhelm)
 
-Nur la komencliteroj Ĥ kaj Ŭ mankas ĉe la butikistaj nomoj.
-
 
 NOMOJ DE HELPISTOJ
+
+Estas denove 26 nomoj, originale de A ĝis Z.
+Por la helpistoj mi elektis nomon por ĉiu esperanta litero
+krom Ĵ kaj Ŭ. Jen kelkaj notindaj nomoj:
 
 Memelektitaj:
 Jop	    (referenco al esperantisto Joop Kiefte)
@@ -137,14 +346,20 @@ Thundar -> Tondor (pro "thunder" kaj "tondro")
 Zorgoth -> Zorgodz (post konsideri plurajn anstataŭojn por "th",
                     "dz" ŝajnis amuze)
 
-Nur la komencliteroj Ĵ kaj Ŭ mankas ĉe la helpistaj nomoj.
-
 
 -------------------------------------------------------------------
+
+
+TRO LONGAJ TEKSTOJ
+Kiam oni ŝanĝas klavojn de klavaro en la agordoj, la tekstoj
+"malsupren" kaj "maldekstren" estas tro longaj. Mi tamen ne
+povas elpensi manieron por mallongigi la vortojn sen perdi
+klarecon. Bedaŭrinde ja aspektas malbele, sed la vortoj ne
+kovras ion esencan, do verŝajne mi lasu ilin ĉi tiel.
 
 
 NETRADUKEBLAJ TEKSTOJ
 Estas kelkaj malmultaj tekstoj, kiuj ne aperas en la tradukdosieroj,
 kaj estas do ne tradukeblaj sen ŝanĝi ilin por ĉiuj lingvoj. 
- -  la vorto "DAILY" en unu el la rangotabuloj
+ -  la vorto "DAILY" en unu el la rangotabuloj (en Steam-versio)
  -  pluraj tekstoj en la agnoskoj
