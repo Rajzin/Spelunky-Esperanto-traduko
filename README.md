@@ -4,6 +4,8 @@ Jen modifaĵo, kiu ebligas ludi Spelunky en Esperanto. (Pli precize temas pri Sp
 
 Ĉi tio estas ankoraŭ beta-versio de mia traduko. Certe estas ankoraŭ kelkaj eraroj en ĝi. Se vi havas korektojn aŭ proponojn por plibonigoj en la traduko, vi povas kontakti min en Telegram per @Spenchjo, aŭ retpoŝte per spenchjo&nbsp;[ĉe]&nbsp;gmail.com
 
+Por provlegantoj, utilus la [provlega listo](provlega listo.txt), kiu listigas ĉiujn tradukaĵojn en la angla kaj Esperanto. Vidu ankaŭ miajn [tradukajn notojn](tradukaj notoj.txt) por klarigoj pri miaj elektoj en la traduko.
+
 ## Kiel instali
 
 Estas tri manieroj por instali la modifaĵon:
