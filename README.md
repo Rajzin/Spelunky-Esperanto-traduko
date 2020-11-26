@@ -2,6 +2,8 @@
 
 Jen modifaĵo, kiu ebligas ludi Spelunky en Esperanto. (Pli precize temas pri Spelunky HD por Windows.) Ĝi anstataŭigas ĉiujn anglajn tekstojn per tekstoj en Esperanto.
 
+Ĉi tio estas ankoraŭ beta-versio de mia traduko. Certe estas ankoraŭ kelkaj eraroj en ĝi. Se vi havas korektojn aŭ proponojn por plibonigoj en la traduko, vi povas kontakti min en Telegram per @Spenchjo, aŭ retpoŝte per spenchjo&nbsp;[ĉe]&nbsp;gmail.com
+
 ## Kiel instali
 
 Estas tri manieroj por instali la modifaĵon:

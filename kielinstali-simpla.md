@@ -14,10 +14,12 @@ Iru al la dosierujo, kie vi instalis Spelunky, kaj en la dosierujo "Data", faru 
 3. Iru al la dosierujo en via komputilo, kie vi instalis Spelunky. (Se vi instalis per Steam, la defaŭlta loko estas **C:\Program Files (x86)\Steam\steamapps\common\Spelunky**. Se vi instalis per GOG, la defaŭlta loko estas **C:\GOG Games\Spelunky**)
 4. Iru al ...\Spelunky\Data\, kaj kreu novan dosierujon "savkopioj".
 5. Kopiu la dosierujojn "Localization" kaj "Textures" el la dosierujo "Data", kaj gluu ilin en la dosierujon "savkopioj".
-6. Malfermu la elŝutitan zip-dosieron por simpla instalo, kopiu la dosierujojn "Localization" kaj "Textures", kaj gluu ilin en la dosierujon ...\Spelunky\Data\. Akceptu, ke la novaj dosieroj anstataŭigu la malnovajn.
+6. Malfermu la elŝutitan zip-dosieron de la Esperanto-traduko, kopiu la dosierujojn "Localization" kaj "Textures", kaj gluu ilin en la dosierujon ...\Spelunky\Data\. Akceptu, ke la novaj dosieroj anstataŭigu la malnovajn.
 7. Preta!
 
-Malfermu Spelunky kiel kutime, kaj ĝi funkcios. Se antaŭ instali la modifaĵon vi ludis Spelunky en alia lingvo ol la angla, vi devas iri al la agordoj kaj tie ŝanĝi la lingvon al Esperanto.
+Malfermu Spelunky kiel kutime, kaj ĝi funkcios.
+
+Se antaŭ instali la modifaĵon vi ludis Spelunky en alia lingvo ol la angla, vi devas iri al la agordoj kaj tie ŝanĝi la lingvon al Esperanto.
 
 ### Malinstali
 

@@ -1,0 +1,68 @@
+                  =====================================
+                   Kiel instali Esperanton en Spelunky
+                       per la modifilo Patchlunky
+                  =====================================
+
+(Ĉi tio estas ankoraŭ beta-versio de mia traduko. Certe estas ankoraŭ
+ kelkaj eraroj en ĝi. Se vi havas korektojn aŭ proponojn por plibonigoj
+ en la traduko, vi povas kontakti min en Telegram per @Spenchjo, aŭ
+ retpoŝte per spenchjo@gmail.com)
+ 
+
+---------------
+RESUMA KLARIGO:
+---------------
+
+Iru al la dosierujo, kie vi instalis Spelunky, kaj en la dosierujo "Data",
+faru savkopiojn de la dosieroj en "Localization" kaj "Textures".
+
+Por instali, prenu la dosierujojn "Localization" kaj "Textures" el la
+zip-dosiero, kaj metu ilin en la dosierujon ".../Spelunky/Data".
+
+Por malinstali, remetu la savkopiojn al la originala loko.
+
+
+---------------
+DETALA KLARIGO:
+---------------
+
+1. Certigu, ke vi instalis Spelunky, per Steam aŭ GOG.
+   (Prefere sen aliaj instalitaj modifaĵoj)
+
+2. Iru al la dosierujo en via komputilo, kie vi instalis Spelunky.
+
+   Se vi instalis per Steam, la defaŭlta loko estas
+   C:\Program Files (x86)\Steam\steamapps\common\Spelunky
+   
+   Se vi instalis per GOG, la defaŭlta loko estas
+   C:\GOG Games\Spelunky
+
+3. Iru al ...\Spelunky\Data\, kaj kreu novan dosierujon "savkopioj".
+
+4. Kopiu la dosierujojn "Localization" kaj "Textures" el la dosierujo
+   "Data", kaj gluu ilin en la dosierujon "savkopioj".
+
+5. Malfermu la elŝutitan zip-dosieron de la Esperanto-traduko, kopiu
+   la dosierujojn "Localization" kaj "Textures", kaj gluu ilin en
+   la dosierujon ...\Spelunky\Data\.
+   Akceptu, ke la novaj dosieroj anstataŭigu la malnovajn.
+
+6. Preta!
+
+Malfermu Spelunky kiel kutime, kaj ĝi funkcios.
+
+Se antaŭ instali la modifaĵon vi ludis Spelunky en alia lingvo ol la angla,
+vi devas iri al la agordoj kaj tie ŝanĝi la lingvon al Esperanto.
+
+
+Malinstali
+----------
+
+Se vi volas malinstali la modifaĵon por reekhavi la anglan version:
+
+1. Iru al ...\Spelunky\Data\savkopioj, kaj
+   kopiu la dosierujojn "Localization" kaj "Textures"
+
+2. Iru al ...\Spelunky\Data, kaj gluu la savkopiojn en la dosierujon "Data".
+   Akceptu, ke la novaj dosieroj anstataŭigu la malnovajn.
+
