@@ -251,7 +251,7 @@ The very idea makes my restless heart beat faster!
 
 
 IDS_BUY_SLAVE
-Buy [nomo] -> Aĉeti [nomo]
+Buy [nomo] -> Dungi [nomo]
   Por fari la helpistojn iom malpli sklavecaj.
 
 
@@ -363,3 +363,4 @@ Estas kelkaj malmultaj tekstoj, kiuj ne aperas en la tradukdosieroj,
 kaj estas do ne tradukeblaj sen ŝanĝi ilin por ĉiuj lingvoj. 
  -  la vorto "DAILY" en unu el la rangotabuloj (en Steam-versio)
  -  pluraj tekstoj en la agnoskoj
+ -  la nomoj de klavoj (ekzemple "space")
