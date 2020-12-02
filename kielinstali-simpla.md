@@ -23,6 +23,6 @@ Se antaŭ instali la modifaĵon vi ludis Spelunky en alia lingvo ol la angla, vi
 
 ### Malinstali
 
-Se vi volas malinstali la modifaĵon por reekhavi la anglan version:
-1. Iru al ...\Spelunky\Data\savkopioj, kaj kopiu la dosierujojn "Localization" kaj "Textures"
+Se vi instalis la modifaĵon laŭ la ĉi-supra maniero, kaj vi volas malinstali ĝin por reekhavi la anglan version:
+1. Iru al ...\Spelunky\Data\savkopioj, kaj kopiu la dosierujojn "Localization" kaj "Textures".
 2. Iru al ...\Spelunky\Data, kaj gluu la savkopiojn en la dosierujon "Data". Akceptu, ke la novaj dosieroj anstataŭigu la malnovajn.

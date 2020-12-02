@@ -1,7 +1,12 @@
                   =====================================
                    Kiel instali Esperanton en Spelunky
-                       per la modifilo Patchlunky
+                        per la programo Patchlunky
                   =====================================
+
+Patchlunky estas programo, per kiu oni povas instali kaj mastrumi
+diversajn modifaĵojn en Spelunky. Ĝi aŭtomate faras savkopion de la
+nemodifitaj dosieroj por vi, kaj facilas rapide instali kaj malinstali
+modifaĵojn per ĝi.
 
 (Ĉi tio estas ankoraŭ beta-versio de mia traduko. Certe estas ankoraŭ
  kelkaj eraroj en ĝi. Se vi havas korektojn aŭ proponojn por plibonigoj
@@ -9,18 +14,18 @@
  retpoŝte per spenchjo@gmail.com)
 
 
-------------
-KIEL INSTALI
-------------
+---------------
+RESUMA KLARIGO:
+---------------
 
 Iru al la elŝutpaĝo de Patchlunky:
    https://github.com/Worst-vd-plas/Patchlunky/releases
 Elŝutu la plej novan version. Malpaku la zip-dosieron tien, kien vi volas
 instali Patchlunky.
 
-Prenu la zip-dosieron de la traduko (kie estas ĉi tiu dosiero), iru al 
-la loko kien vi malpakis Patchlunky, kaj metu la zip-dosieron (sen malpaki)
-en la dosierujon "Mods".
+Prenu la zip-dosieron de la traduko (en kiu estas ĉi tiu tekstdosiero),
+iru al la loko kien vi malpakis Patchlunky, kaj metu la zip-dosieron
+(sen malpaki) en la dosierujon "Mods".
 
 Malfermu Patchlunky.exe, kaj agordu ĝin normale.
 
@@ -32,4 +37,57 @@ modifaĵon, kiun vi volas instali), kaj premu la butonon "Patch Game".
 
 Por malinstali la Esperanto-tradukon:
 -------------------------------------
-En Patchlunky, malelektu ĉion en la listo, kaj premu la butonon "Patch Game".
+En Patchlunky, iru al la langeto "Settings"
+kaj premu la butonon "Restore default game files".
+
+
+---------------
+DETALA KLARIGO:
+---------------
+
+1. Certigu, ke vi instalis Spelunky, per Steam aŭ GOG.
+   (Sen aliaj instalitaj modifaĵoj!)
+
+2. Iru al la elŝutpaĝo de Patchlunky kaj elŝutu la plej novan version.
+     elŝutpaĝo:
+	 https://github.com/Worst-vd-plas/Patchlunky/releases
+
+3. Malpaku la elŝutitan zip-dosieron tien, kien vi volas instali Patchlunky.
+
+4. Prenu la zip-dosieron de la traduko (en kiu estas ĉi tiu tekstdosiero),
+   iru al la loko kien vi malpakis Patchlunky, kaj metu la zip-dosieron
+   (sen malpaki) en la dosierujon "Mods".
+
+5. En la dosierujo "Patchlunky", malfermu "Patchlunky.exe".
+
+6. Kiam vi unuafoje malfermas Patchlunky, venas fenestro kun:
+     "Before Patchlunky can be used it needs to know where Spelunky is
+	  installed to"
+   (La programo devas scii, kie en via komputilo la ludo Patchlunky estas
+    instalita.)
+   Se vi klakas al "Yes", la programo verŝajne aŭtomate trovos la ĝustan
+   lokon por vi. Se vi klakas al "No", la programo demandos, ĉu vi volas
+   mane indiki la lokon de la Spelunky-dosierujo.
+
+7. Post tio venas fenestro kun:
+     "For Patchlunky to work, it needs to backup the original Spelunky
+	  data files."
+   (Por funkcii bone, Patchlunky devas fari savkopiojn de la nemodifitaj
+   dosieroj de Spelunky.)
+   Klaku al "Yes" se vi volas tuj fari savkopiojn. Klaku al "Ne" se vi
+   volas fari tion poste (ĉe Settings -> Setup Patchlunky).
+   
+   Se vi lasis ĝin fari savkopiojn, Patchlunky estas nun tute instalita
+   kaj preta por instali la tradukon.
+
+8. Por instali la tradukon, marku la skatoleton apud "Esperanto traduko",
+   kaj premu la butonon "Patch Game".
+   (La ludo devas NE esti malferma kiam vi klakas la butonon!)
+
+9. Preta!
+
+Malfermu Spelunky (per la butono "Launch Game", aŭ tiel kiel vi normale
+malfermas la ludon), kaj ĝi funkcios.
+
+Se antaŭ instali la modifaĵon vi ludis Spelunky en alia lingvo ol la angla,
+vi devas iri al la agordoj kaj tie ŝanĝi la lingvon al Esperanto.
