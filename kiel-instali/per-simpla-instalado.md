@@ -1,7 +1,7 @@
 # Kiel instali Esperanton en Spelunky
 ## Simpla instalo
 
-[*(click here for a guide in English)*](../howtoinstall-simple.md)
+[*(click here for a guide in English)*](howtoinstall-simple.md)
 
 ### Resuma klarigo:
 

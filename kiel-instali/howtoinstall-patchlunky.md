@@ -1,7 +1,7 @@
 # How to install the Esperanto translation in Spelunky
 ## using Patchlunky
 
-[*(klaku ĉi tie por klarigoj en Esperanto)*](../per-patchlunky.md)
+[*(klaku ĉi tie por klarigoj en Esperanto)*](per-patchlunky.md)
 
 Patchlunky is a program that allows you to install and manage various mods in Spelunky. It automatically makes backups of the unmodded files for you, and it's easy to quickly install and uninstall mods.
 
@@ -31,15 +31,15 @@ In Patchlunky, go to the tab "Settings" and click "Restore default game files".
 
 6. In the folder "Patchlunky", open "Patchlunky.exe".
 
-![](../ekrankopio-pl-instalado1.png)
+![](ekrankopio-pl-instalado1.png)
 
 7. This window will pop up. If you click "Yes", Patchlunky will probably automatically find the right folder. If you click "No", Patchlunky will ask whether you want to manually locate the Spelunky directory.
 
-![](../ekrankopio-pl-instalado2.png)
+![](ekrankopio-pl-instalado2.png)
 
 8. Next this window will pop up. Click "Yes" if you want to back up now. Click "No" if you want to do it later (at Settings -> Setup Patchlunky). If you make it back up the game files, Patchlunky is now ready to install the mod.
 
-![](../ekrankopio-patchlunky.png)
+![](ekrankopio-patchlunky.png)
 
 9. To install the translation, check the box next to "Esperanto traduko", and click "Patch Game". (Do NOT have the game running as you do this!)
 10. Done!

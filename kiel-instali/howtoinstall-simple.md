@@ -1,7 +1,7 @@
 # How to install the Esperanto translation in Spelunky
 ## Simple installation
 
-[*(klaku ĉi tie por klarigoj en Esperanto)*](../per-simpla-instalado.md)
+[*(klaku ĉi tie por klarigoj en Esperanto)*](per-simpla-instalado.md)
 
 ### Summary:
 

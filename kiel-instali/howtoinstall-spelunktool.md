@@ -1,7 +1,7 @@
 # How to install the Esperanto translation in Spelunky
 ## with Spelunktool
 
-[*(klaku ĉi tie por klarigoj en Esperanto)*](../per-spelunktool.md)
+[*(klaku ĉi tie por klarigoj en Esperanto)*](per-spelunktool.md)
 
 Spelunktool is a tool for manually editing the game files. This method is for people with a little bit more technical knowledge.
 
@@ -17,11 +17,11 @@ Go to the folder where you installed Spelunky, and make backups of the unmodded 
 
 Go to where you installed Spelunky, and go to ...\Spelunky\Data\Textures. Copy the files "alltex.wad" (which is a compliation of all texture files in Spelunky) and "alltex.wad.wix" (which is like a table of contents of alltex.wad), and paste them in the Spelunktool folder. You need both files!
 
-![](../ekrankopio-st-extract.png)
+![](ekrankopio-st-extract.png)
 
 In the Spelunktool folder, drag alltex.wad onto extract.bat. Spelunktool will export all the contents of alltex.wad to a new folder "alltex". You can change the contents of this folder however you want.
 
-![](../ekrankopio-st-repack.png)
+![](ekrankopio-st-repack.png)
 
 After you're done editing the files, go back to the Spelunktool folder and drag the folder "alltex" onto "repack.bat". Spelunktool will repack the files and replace "alltex.wad" and "alltex.wad.wix" with new versions with the changes you made. Put "alltex.wad" and "alltex.wad.wix" back in ...\Spelunky\Data\Textures to apply your changes.
 

@@ -1,7 +1,7 @@
 # Kiel instali Esperanton en Spelunky
 ## per la modifilo Spelunktool
 
-[*(click here for a guide in English)*](../howtoinstall-spelunktool.md)
+[*(click here for a guide in English)*](howtoinstall-spelunktool.md)
 
 Spelunktool estas ilo, kiu ebligas mane redakti la dosierojn de la ludo. Ĉi tiu instalmaniero estas por iom pli teĥnike spertaj homoj.
 
@@ -17,11 +17,11 @@ Iru al la loko, kie vi instalis Spelunky, kaj faru savkopiojn de nemodifitaj dos
 
 Iru al la loko, kie vi instalis Spelunky, kaj iru al ...\Spelunky\Data\Textures. Kopiu la dosierojn "alltex.wad" (kiu estas ariga dosiero de ĉiuj teksturdosieroj en Spelunky) kaj "alltex.wad.wix" (kiu estas kvazaŭ enhavtabelo de alltex.wad), kaj gluu ilin en la dosierujon de Spelunktool. Necesas havi ambaŭ!
 
-![](../ekrankopio-st-extract.png)
+![](ekrankopio-st-extract.png)
 
 En la Spelunktool-dosierujo, prenu alltex.wad kaj ŝovu ĝin sur la dosieron extract.bat. Spelunktool eksportos la tutan enhavon de alltex.wad al nova dosierujo "alltex". Vi povas ŝanĝi la enhavon de tiu dosierujo laŭ via plaĉo.
 
-![](../ekrankopio-st-repack.png)
+![](ekrankopio-st-repack.png)
 
 Kiam vi finis redakti la enhavon, iru denove al la dosierujo de Spelunktool kaj ŝovu la dosierujon "alltex" sur la dosieron "repack.bat". Tiam Spelunktool repakas la novan enhavon kaj anstataŭas "alltex.wad" kaj "alltex.wad.wix" laŭ la nova enhavo. Denove remetu "alltex.wad" kaj "alltex.wad.wix" en la lokon ...\Spelunky\Data\Textures por efektivigi viajn ŝanĝojn.
 
