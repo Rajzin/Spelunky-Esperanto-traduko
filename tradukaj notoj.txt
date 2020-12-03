@@ -174,7 +174,7 @@ IDS_JOURNAL_DAMSEL
 Damsel -> Senhelpulo
   Iom libera trakuko. Antaŭe mi havis "Fraŭl(in)o. Mi malkontentis
 pri la -(in)o (kiu estas necesa, ĉar tiu rolulo povas esti ankaŭ
-vira aŭ huna), sed ne povis elpensi pli bonan alternativon. Poste
+vira aŭ hunda), sed ne povis elpensi pli bonan alternativon. Poste
 mi elpensis "Senhelpulo", kiu sufiĉe bone funkcias.
   Tamen, ĉe IDS_LABEL_DAMSELS mi tradukis "Damsels" per "Savitoj",
 ĉar tio estas pli senchava en la kunteksto de tiu ekrano.
