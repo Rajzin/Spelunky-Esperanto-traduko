@@ -15,9 +15,9 @@ If you want to proofread the translation, the [provlega listo](https://github.co
 
 There are three ways to install the mod:
 
-1. [Simple instalation](howtoinstall-simple.md) - the fastest and easiest way to install.
+1. [Simple installation](howtoinstall-simple.md) - the fastest and easiest way to install.
 2. [Installation with Patchlunky](howtoinstall-patchlunky.md) - the safest way to install. You'll have less chance that you accidentally mess something up in the game files. With this method it's also easy to combine this mod with other mods.
-3. [Permana instalo per Spelunktool](howtoinstall-spelunktool.md) - the nerdiest way to install. With this method you have the most control.
+3. [Manual installation with Spelunktool](howtoinstall-spelunktool.md) - the nerdiest way to install. With this method you have the most control.
 
 Click a link to read how to install.
 
