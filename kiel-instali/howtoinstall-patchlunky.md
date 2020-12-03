@@ -9,7 +9,7 @@ Patchlunky is a program that allows you to install and manage various mods in Sp
 
 Go to [the download page of Patchlunky](https://github.com/Worst-vd-plas/Patchlunky/releases) and download the latest version. Unpack the zip file where you want to install Patchlunky.
 
-Go to [the download page of the Esperanto translation](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) and download the latest version of the zip file with "por patchlunky kaj spelunktool" in the name. Take the translation zip file, go to the folder where you unpacked Patchlunky, and put the zip file (without unpacking it) in the folder "Mods".
+Go to [the download page of the Esperanto translation](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) and download the latest version of the plm file with "por patchlunky" in the name. Take the plm file, go to the folder where you unpacked Patchlunky, and put the plm file in the folder "Mods".
 
 Open Patchlunky.exe, and install it normally.
 
@@ -26,8 +26,8 @@ In Patchlunky, go to the tab "Settings" and click "Restore default game files".
 2. Go to [the download page of Patchlunky](https://github.com/Worst-vd-plas/Patchlunky/releases) and download the latest version.
 3. Unpack the zip file where you want to install Patchlunky.
 
-4. Go to [the download page of the Esperanto translation](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) and download the latest version of the zip file with "por patchlunky kaj spelunktool" in the name.
-5. Take the translation zip file, go to the folder where you unpacked Patchlunky, and put the zip file (without unpacking it) in the folder "Mods".
+4. Go to [the download page of the Esperanto translation](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) and download the latest version of the plm file with "por patchlunky" in the name.
+5. Take the plm file, go to the folder where you unpacked Patchlunky, and put the plm file in the folder "Mods".
 
 6. In the folder "Patchlunky", open "Patchlunky.exe".
 

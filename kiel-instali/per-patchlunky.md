@@ -9,7 +9,7 @@ Patchlunky estas programo, per kiu oni povas instali kaj mastrumi diversajn modi
 
 Iru al [la elŝutpaĝo de Patchlunky](https://github.com/Worst-vd-plas/Patchlunky/releases) kaj elŝutu la plej novan version. Malpaku la zip-dosieron tien, kien vi volas instali Patchlunky.
 
-Iru al [la elŝutpaĝo de la Esperanto-traduko](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) kaj elŝutu la plej novan zip-dosieron "por patchlunky kaj spelunktool". Prenu la zip-dosieron de la traduko, iru al la loko kien vi malpakis Patchlunky, kaj metu la zip-dosieron (sen malpaki) en la dosierujon "Mods".
+Iru al [la elŝutpaĝo de la Esperanto-traduko](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) kaj elŝutu la plej novan plm-dosieron "por patchlunky". Prenu la plm-dosieron, iru al la loko kien vi malpakis Patchlunky, kaj metu la plm-dosieron en la dosierujon "Mods".
 
 Malfermu Patchlunky.exe, kaj agordu ĝin normale.
 
@@ -26,8 +26,8 @@ En Patchlunky, iru al la langeto "Settings" kaj premu la butonon "Restore defaul
 2. Iru al [la elŝutpaĝo de Patchlunky](https://github.com/Worst-vd-plas/Patchlunky/releases) kaj elŝutu la plej novan version.
 3. Malpaku la elŝutitan zip-dosieron tien, kien vi volas instali Patchlunky.
 
-4. Iru al [la elŝutpaĝo de la Esperanto-traduko](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) kaj elŝutu la plej novan zip-dosieron "por patchlunky kaj spelunktool".
-5. Prenu la zip-dosieron de la traduko, iru al la loko kien vi malpakis Patchlunky, kaj metu la zip-dosieron (sen malpaki) en la dosierujon "Mods".
+4. Iru al [la elŝutpaĝo de la Esperanto-traduko](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) kaj elŝutu la plej novan plm-dosieron "por patchlunky".
+5. Prenu la plm-dosieron, iru al la loko kien vi malpakis Patchlunky, kaj metu la plm-dosieron en la dosierujon "Mods".
 
 6. En la dosierujo "Patchlunky", malfermu "Patchlunky.exe".
 
