@@ -2,7 +2,7 @@
 
 # Spelunky in Esperanto
 
-This is a mod for playing Spelunky in Esperanto. (Spelunky HD for Windows, to be exact.) It adds Esperanto letters and replaces all English texts with Esperanto.
+This is a mod that allows you to play Spelunky in Esperanto. (Spelunky HD for Windows, to be exact.) It adds Esperanto letters and replaces all English texts with Esperanto.
 
 This is still the beta version of my translation, as there are probably still a few mistakes here and there. You can send corrections and any other suggestions you might have at @Spenchjo in Telegram, or by email at spenchjo&nbsp;[at]&nbsp;gmail.com
 
