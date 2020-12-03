@@ -288,9 +288,12 @@ agordas butonojn de ludregilo.
 
 
 IDS_GUIDE_CONTINUE
-@A Continue -> @A Al la komenco
-		(kontroli)
-
+@A Continue -> @A Al enirejo
+  En tiu konteksto, laŭ mi "daŭrigi" estas iomete tro stranga kaj
+malklara en Esperanto. Mi elektis ion, kio pli klare priskribas
+la funkcion de tiu butonpremo.
+  Tamen, mi ne tute certas, ke ĉi tiu teksto ne estas uzata en iu
+alia loko en la ludo, kie ĉi tiu solvo ne taŭgas.
 
 
 -------------------------------------------------------------------

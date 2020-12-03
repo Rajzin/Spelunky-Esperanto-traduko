@@ -1,4 +1,4 @@
-tradukversio 0.9.1
+tradukversio 0.9.2
 
 IDS_INTRO1_1
 As the sun burned bright above,
@@ -454,7 +454,7 @@ Mortoj pro ĝi:
 
 IDS_JOURNAL_ENTRY
 Entry 
-Enskribaĵo
+Enskribaĵo 
 
 IDS_JOURNAL_SNAKE
 Snake
@@ -2918,7 +2918,7 @@ Konservado de ludo...
 
 IDS_GUIDE_CONTINUE
 @A Continue
-@A Al la komenco
+@A Al enirejo
 
 IDS_GAMEOVER
 Game Over
