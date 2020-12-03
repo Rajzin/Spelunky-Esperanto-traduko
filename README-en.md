@@ -2,14 +2,14 @@
 
 # Spelunky in Esperanto
 
-This is a mod that allows you to play Spelunky in Esperanto. (Spelunky HD for Windows, to be exact.) It adds Esperanto letters and replaces all English texts with Esperanto.
+This is a mod that allows you to play Spelunky in Esperanto. (Spelunky HD for Windows, to be exact.) It adds Esperanto letters and replaces all English text with Esperanto.
 
 ![](aliaj/ekrankopio1.jpg)
 ![](aliaj/ekrankopio2.jpg)
 
 This is still the beta version of my translation, as there are probably still a few mistakes here and there. You can send corrections and any other suggestions you might have at @Spenchjo in Telegram, or by email at spenchjo&nbsp;[at]&nbsp;gmail.com
 
-If you want to proofread the translation, the [provlega listo](https://github.com/Rajzin/Spelunky-Esperanto-traduko/blob/master/provlega%20listo.txt) should be useful. It's a list of all texts in both English and Esperanto. Also see my [translation notes](https://github.com/Rajzin/Spelunky-Esperanto-traduko/blob/master/tradukaj%20notoj.txt) (in Esperanto) for explanations about the choices I made in my translation.
+If you want to proofread the translation, the [provlega listo](https://github.com/Rajzin/Spelunky-Esperanto-traduko/blob/master/provlega%20listo.txt) should be useful. It's a list of all text in both English and Esperanto. Also see my [translation notes](https://github.com/Rajzin/Spelunky-Esperanto-traduko/blob/master/tradukaj%20notoj.txt) (in Esperanto) for explanations about the choices I made in my translation.
 
 ## How to install
 
