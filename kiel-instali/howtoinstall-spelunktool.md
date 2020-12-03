@@ -37,6 +37,6 @@ After you're done editing the files, go back to the Spelunktool folder and drag 
   - Take the font textures from the folder "Textures\alltex\FONTS" in the plm file, and place them in the folder "FONTS" inside of alltex.wad using Spelunktool.
   - Take the modded font files in "Textures" in the plm file, and place them in the folder ...\Spelunky\Data\Textures, next to alltex.wad.
 
-- **To get an Esperanto flag for the language selector** in the game options, take "hudelements.png" from the folder "Textures\alltex\ATSTART" in the plm file, and place it in the folder "ATSTART" inside of alltex.wad using Spelunktool.
+- (optional) **To get an Esperanto flag for the language selector** in the game options, take "hudelements.png" from the folder "Textures\alltex\ATSTART" in the plm file, and place it in the folder "ATSTART" inside of alltex.wad using Spelunktool.
 
 > If you chose another language than English to replace with Esperanto, you need to use another file. Go to "alternativaj teksturoj" in the plm file, choose the right file (for example, if you replaced French with Esperanto, choose "hudelements FR-al-EO.png"), rename it to "hudelements.png", and use that instead of the other hudelements.png.
