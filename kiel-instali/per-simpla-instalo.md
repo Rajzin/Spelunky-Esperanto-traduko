@@ -3,13 +3,13 @@
 
 [*(click here for a guide in English)*](howtoinstall-simple.md)
 
-### Resuma klarigo:
+### Resuma klarigo
 
 Iru [ĉi tien](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) kaj elŝutu la plej novan zip-dosieron, kiu nomiĝas "Spelunky_EO-traduko_[versionomo].zip".
 
 Iru al la dosierujo, kie vi instalis Spelunky, kaj en la dosierujo "Data", faru savkopiojn de la dosieroj en "Localization" kaj "Textures". Por instali, prenu la dosierujojn "Localization" kaj "Textures" el la zip-dosiero, kaj metu ilin en la dosierujon ".../Spelunky/Data". Por malinstali, remetu la savkopiojn al la originala loko.
 
-### Detala klarigo:
+### Detala klarigo
 
 1. Certigu, ke vi instalis Spelunky, per Steam aŭ GOG. (Prefere sen aliaj instalitaj modifaĵoj)
 2. Iru al [github.com/Rajzin/Spelunky-Esperanto-traduko/releases/](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) kaj ĉe la plej nova versio, elŝutu la zip-dosieron, kiu nomiĝas "Spelunky_EO-traduko_[versionomo].zip".
@@ -23,7 +23,13 @@ Malfermu Spelunky kiel kutime, kaj ĝi funkcios.
 
 Se antaŭ instali la modifaĵon vi ludis Spelunky en alia lingvo ol la angla, vi devas iri al la agordoj kaj tie ŝanĝi la lingvon al Esperanto.
 
-### Malinstali
+### Kiel ĝisdatigi
+
+Se aperos nova versio de la traduko, sed vi jam instalis la modifaĵon per simpla instalo, jen kiel plej simple ĝisdatigi vian ludon:
+1. Elŝutu la plej novan version de "strings.pct" ĉe [github.com/Rajzin/Spelunky-Esperanto-traduko/releases/](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/)
+2. Iru al la dosierujo, kie vi instalis Spelunky, kaj metu la novan version de "strings.pct" en la dosierujon ...\Spelunky\Data\Localization
+
+### Kiel malinstali
 
 Se vi instalis la modifaĵon laŭ la ĉi-supra maniero, kaj vi volas malinstali ĝin por reekhavi la anglan version:
 1. Iru al ...\Spelunky\Data\savkopioj, kaj kopiu la dosierujojn "Localization" kaj "Textures".

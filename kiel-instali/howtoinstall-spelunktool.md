@@ -1,11 +1,11 @@
 # How to install the Esperanto translation in Spelunky
-## with Spelunktool
+## using Spelunktool
 
 [*(klaku ĉi tie por klarigoj en Esperanto)*](per-spelunktool.md)
 
 Spelunktool is a tool for manually editing the game files. This method is for people with a little bit more technical knowledge.
 
-### Preparatoin:
+### Preparation
 
 Download Spelunktool [here](http://www.tzarsectus.com/tools/spelunktool.rar), and unpack it where you want.
 
@@ -13,7 +13,7 @@ Go to [the download page of the Esperanto translation](https://github.com/Rajzin
 
 Go to the folder where you installed Spelunky, and make backups of the unmodded files in the folders ...\Spelunky\Data\Textures and ...\Spelunky\Data\Localization (and any other files you intend to change). With these backups you can easily repair the game if you mess something up, or undo your changes if you want to revert back to the unmodded game.
 
-### How to use Spelunktool:
+### How to use Spelunktool
 
 Go to where you installed Spelunky, and go to ...\Spelunky\Data\Textures. Copy the files "alltex.wad" (which is a compliation of all texture files in Spelunky) and "alltex.wad.wix" (which is like a table of contents of alltex.wad), and paste them in the Spelunktool folder. You need both files!
 
@@ -27,7 +27,7 @@ After you're done editing the files, go back to the Spelunktool folder and drag 
 
 (You can also mod other .wad files in the same way, if you want.)
 
-### How to install the translation:
+### How to install the translation
 
 - **To replace the English texts with Esperanto**, take "strings.pct" from the folder "Localization" in the plm file, and place it in ...\Spelunky\Data\Localization.
 

@@ -5,7 +5,7 @@
 
 Patchlunky is a program that allows you to install and manage various mods in Spelunky. It automatically makes backups of the unmodded files for you, and it's easy to quickly install and uninstall mods.
 
-### Summary:
+### Summary
 
 Go to [the download page of Patchlunky](https://github.com/Worst-vd-plas/Patchlunky/releases) and download the latest version. Unpack the zip file where you want to install Patchlunky.
 
@@ -13,14 +13,14 @@ Go to [the download page of the Esperanto translation](https://github.com/Rajzin
 
 Open Patchlunky.exe, and install it normally.
 
-#### To install the Esperanto translation:
+#### To install the Esperanto translation
 In Patchlunky, select "Esperanto traduko" in the list (and any other mod you want to install with it), and push "Patch Game".
 
-#### To uninstall the Esperanto translation:
+#### To uninstall the Esperanto translation
 In Patchlunky, go to the tab "Settings" and click "Restore default game files".
 
 
-### Detailed steps:
+### Detailed steps
 
 1. Make sure that you have Spelunky installed, via Steam or GOG. (Without any other mods installed!)
 2. Go to [the download page of Patchlunky](https://github.com/Worst-vd-plas/Patchlunky/releases) and download the latest version.
@@ -47,3 +47,12 @@ In Patchlunky, go to the tab "Settings" and click "Restore default game files".
 Open Spelunky (with the "Launch Game" button, or however you usually open the game), and it'll work.
 
 If before installing the mod you played Spelunky in another language than English, you have to go to the settings and change the language to Esperanto there.
+
+### How to update
+
+If there's a new version of the translation released, but you already installed the mod with Patchlunky, here's how you update your game:
+1. Go to [the download page of the Esperanto translation](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) and download the latest version of the plm file with "por patchlunky" in the name.
+2. Go to the Patchlunky folder, remove the old plm file from the folder "Mods", and put the new plm file in its place.
+3. Open Patchlunky
+4. Check the box next to "Esperanto traduko", and click "Patch Game". (Do NOT have the game running as you do this!)
+5. Done!

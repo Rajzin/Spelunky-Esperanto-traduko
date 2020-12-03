@@ -5,7 +5,7 @@
 
 Spelunktool estas ilo, kiu ebligas mane redakti la dosierojn de la ludo. Ĉi tiu instalmaniero estas por iom pli teĥnike spertaj homoj.
 
-### Preparado:
+### Preparado
 
 Elŝutu Spelunktool de [ĉi tie](http://www.tzarsectus.com/tools/spelunktool.rar), kaj malpaku ĝin kien vi volas.
 
@@ -13,7 +13,7 @@ Iru al [la elŝutpaĝo de la Esperanto-traduko](https://github.com/Rajzin/Spelun
 
 Iru al la loko, kie vi instalis Spelunky, kaj faru savkopiojn de nemodifitaj dosieroj en la dosierujoj ...\Spelunky\Data\Textures kaj ...\Spelunky\Data\Localization (kaj ĉiuj aliaj dosieroj, kiujn vi planas modifi). Per tio vi povos facile ripari la ludon se vi fuŝos ion, kaj vi povos poste malfari viajn ŝanĝojn se vi volos.
 
-### Kiel uzi Spelunktool:
+### Kiel uzi Spelunktool
 
 Iru al la loko, kie vi instalis Spelunky, kaj iru al ...\Spelunky\Data\Textures. Kopiu la dosierojn "alltex.wad" (kiu estas ariga dosiero de ĉiuj teksturdosieroj en Spelunky) kaj "alltex.wad.wix" (kiu estas kvazaŭ enhavtabelo de alltex.wad), kaj gluu ilin en la dosierujon de Spelunktool. Necesas havi ambaŭ!
 
@@ -27,7 +27,7 @@ Kiam vi finis redakti la enhavon, iru denove al la dosierujo de Spelunktool kaj 
 
 (Vi povas modifi aliajn .wad-dosierojn laŭ la sama maniero, se vi volas.)
 
-### Kiel instali la tradukon:
+### Kiel instali la tradukon
 
 - **Por anstataŭi la anglajn tekstojn per Esperanto**, prenu "strings.pct" el la dosierujo "Localization" en la plm-dosiero, kaj metu ĝin en ...\Spelunky\Data\Localization.
 
@@ -40,3 +40,6 @@ Kiam vi finis redakti la enhavon, iru denove al la dosierujo de Spelunktool kaj 
 - **Por meti Esperantoflagon ĉe la lingvoelektilo** en la agordoj de la ludo, prenu "hudelements.png" el la dosierujo "Textures\alltex\ATSTART" en la plm-dosiero, kaj metu ĝin en la dosierujon "ATSTART" en alltex.wad per Spelunktool.
 
 > Se vi anstataŭis alian lingvon ol la angla per la Esperanto-traduko, vi uzu alian dosieron. Iru al "alternativaj teksturoj" en la plm-dosiero, elektu la ĝustan dosieron (ekzemple, se vi anstataŭis la francan per Esperanto, elektu "hudelements FR-al-EO.png"), alinomu ĝin al "hudelements.png", kaj uzu tion en la ĉi-supra paŝo.
+
+### Kiel ĝisdatigi
+Se aperos nova versio de la traduko kaj vi volas ĝisdatigi vian ludon, vi bezonas elŝuti nur la novan version de "strings.pct". Renomu ĝin al alia lingvo se necesas, kaj metu ĝin en ...\Spelunky\Data\Localization.

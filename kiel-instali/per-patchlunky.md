@@ -5,7 +5,7 @@
 
 Patchlunky estas programo, per kiu oni povas instali kaj mastrumi diversajn modifaĵojn en Spelunky. Ĝi aŭtomate faras savkopion de la nemodifitaj dosieroj por vi, kaj facilas rapide instali kaj malinstali modifaĵojn per ĝi.
 
-### Resuma klarigo:
+### Resuma klarigo
 
 Iru al [la elŝutpaĝo de Patchlunky](https://github.com/Worst-vd-plas/Patchlunky/releases) kaj elŝutu la plej novan version. Malpaku la zip-dosieron tien, kien vi volas instali Patchlunky.
 
@@ -13,14 +13,14 @@ Iru al [la elŝutpaĝo de la Esperanto-traduko](https://github.com/Rajzin/Spelun
 
 Malfermu Patchlunky.exe, kaj agordu ĝin normale.
 
-#### Por instali la Esperanto-tradukon:
+#### Por instali la Esperanto-tradukon
 En Patchlunky, elektu "Esperanto traduko" en la listo (kaj ĉiun alian modifaĵon, kiun vi volas instali), kaj premu la butonon "Patch Game".
 
-#### Por malinstali la Esperanto-tradukon:
+#### Por malinstali la Esperanto-tradukon
 En Patchlunky, iru al la langeto "Settings" kaj premu la butonon "Restore default game files".
 
 
-### Detala klarigo:
+### Detala klarigo
 
 1. Certigu, ke vi instalis Spelunky, per Steam aŭ GOG. (Sen aliaj instalitaj modifaĵoj!)
 2. Iru al [la elŝutpaĝo de Patchlunky](https://github.com/Worst-vd-plas/Patchlunky/releases) kaj elŝutu la plej novan version.
@@ -47,3 +47,12 @@ En Patchlunky, iru al la langeto "Settings" kaj premu la butonon "Restore defaul
 Malfermu Spelunky (per la butono "Launch Game", aŭ tiel kiel vi normale malfermas la ludon), kaj ĝi funkcios.
 
 Se antaŭ instali la modifaĵon vi ludis Spelunky en alia lingvo ol la angla, vi devas iri al la agordoj kaj tie ŝanĝi la lingvon al Esperanto.
+
+### Kiel ĝisdatigi
+
+Se aperos nova versio de la traduko, sed vi jam instalis la modifaĵon per Patchlunky, jen kiel ĝisdatigi vian ludon:
+1. Iru al [la elŝutpaĝo de la Esperanto-traduko](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) kaj elŝutu la plej novan plm-dosieron "por patchlunky".
+2. Iru al la dosierujo de Patchlunky, forigu la malnovan plm-dosieron en la dosierujo "Mods", kaj metu la novan plm-dosieron anstataŭ ĝi.
+3. Malfermu Patchlunky
+4. Marku la skatoleton apud "Esperanto traduko", kaj premu la butonon "Patch Game". (La ludo devas NE esti malferma kiam vi klakas la butonon!)
+5. Preta!
