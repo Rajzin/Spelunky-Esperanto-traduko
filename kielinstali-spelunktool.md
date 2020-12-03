@@ -1,6 +1,8 @@
 # Kiel instali Esperanton en Spelunky
 ## per la modifilo Spelunktool
 
+[*(click here for a guide in English)*](howtoinstall-spelunktool.md)
+
 Spelunktool estas ilo, kiu ebligas mane redakti la dosierojn de la ludo. Ĉi tiu instalmaniero estas por iom pli teĥnike spertaj homoj.
 
 ### Preparado:
@@ -35,6 +37,6 @@ Kiam vi finis redakti la enhavon, iru denove al la dosierujo de Spelunktool kaj 
   - Prenu la tiparajn teksturojn el la dosierujo "Textures\alltex\FONTS" en la traduka zip-dosiero, kaj metu ilin en la dosierujon "FONTS" en alltex.wad per Spelunktool.
   - Prenu la modifitajn tipardosierojn de "Textures" en la traduka zip-dosiero, kaj metu ilin en la dosierujon ...\Spelunky\Data\Textures, apud alltex.wad.
 
-- **Por meti Esperantoflagon ĉe la lingvoelektilo** en la agordoj de la ludo, prenu "hudelements.png" el la dosierujo "Textures\alltex\ATSTART" en la traduka zip-dosiero, kaj metu ilin en la dosierujon "ATSTART" en alltex.wad per Spelunktool.
+- **Por meti Esperantoflagon ĉe la lingvoelektilo** en la agordoj de la ludo, prenu "hudelements.png" el la dosierujo "Textures\alltex\ATSTART" en la traduka zip-dosiero, kaj metu ĝin en la dosierujon "ATSTART" en alltex.wad per Spelunktool.
 
 > Se vi anstataŭis alian lingvon ol la angla per la Esperanto-traduko, vi uzu alian dosieron. Iru al "alternativaj teksturoj" en la traduka zip-dosiero, elektu la ĝustan dosieron (ekzemple, se vi anstataŭis la francan per Esperanto, elektu "hudelements FR-al-EO.png"), alinomu ĝin al "hudelements.png", kaj uzu tion en la ĉi-supra paŝo.

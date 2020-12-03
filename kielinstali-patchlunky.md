@@ -1,6 +1,8 @@
 # Kiel instali Esperanton en Spelunky
 ## per la programo Patchlunky
 
+[*(click here for a guide in English)*](howtoinstall-patchlunky.md)
+
 Patchlunky estas programo, per kiu oni povas instali kaj mastrumi diversajn modifaĵojn en Spelunky. Ĝi aŭtomate faras savkopion de la nemodifitaj dosieroj por vi, kaj facilas rapide instali kaj malinstali modifaĵojn per ĝi.
 
 ### Resuma klarigo:
@@ -35,7 +37,7 @@ En Patchlunky, iru al la langeto "Settings" kaj premu la butonon "Restore defaul
 
 ![](aliaj/ekrankopio-pl-instalado2.png)
 
-8. Por funkcii bone, Patchlunky devas fari savkopiojn de la nemodifitaj dosieroj de Spelunky. Klaku al "Yes" se vi volas tuj fari savkopiojn. Klaku al "Ne" se vi volas fari tion poste (ĉe Settings -> Setup Patchlunky). Se vi lasis ĝin fari savkopiojn, Patchlunky estas nun tute instalita kaj preta por instali la tradukon.
+8. Por funkcii bone, Patchlunky devas fari savkopiojn de la nemodifitaj dosieroj de Spelunky. Klaku al "Yes" se vi volas tuj fari savkopiojn. Klaku al "No" se vi volas fari tion poste (ĉe Settings -> Setup Patchlunky). Se vi lasis ĝin fari savkopiojn, Patchlunky estas nun tute instalita kaj preta por instali la tradukon.
 
 ![](aliaj/ekrankopio-patchlunky.png)
 

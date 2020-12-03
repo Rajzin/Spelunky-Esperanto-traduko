@@ -1,6 +1,8 @@
 # Kiel instali Esperanton en Spelunky
 ## Simpla instalo
 
+[*(click here for a guide in English)*](howtoinstall-simple.md)
+
 ### Resuma klarigo:
 
 Iru [ĉi tien](https://github.com/Rajzin/Spelunky-Esperanto-traduko/releases/) kaj elŝutu la plej novan zip-dosieron kun "simpla instalo" en la nomo.
