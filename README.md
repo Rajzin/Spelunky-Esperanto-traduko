@@ -1,4 +1,4 @@
-[*(click here to read this page in English)*](README.md)
+[*(click here to read this page in English)*](README-en.md)
 
 # Spelunky en Esperanto
 
