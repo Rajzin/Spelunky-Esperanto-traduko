@@ -15,3 +15,9 @@ Estas tri manieroj por instali la modifaĵon:
 3. [Permana instalo per Spelunktool](kielinstali-spelunktool.md) - la plej nerda maniero por instali. Ĉi tiel vi havos plej da regpovo. (Mi devas ankoraŭ verki la klarigojn por ĉi tiu.)
 
 Klaku ligilon por pli da klarigoj.
+
+## Kiel ekhavi la ludon
+
+Antaŭ instali la Esperanto-tradukon, necesas aĉeti la ludon. Oni povas aĉeti la ludon [ĉi tie](https://store.steampowered.com/app/239350/Spelunky/) ĉe Steam, aŭ [ĉi tie](https://www.gog.com/game/spelunky) ĉe GOG.
+
+La Steam-versio havas iomete pli da funkcioj, kiuj utiligas interretan konekton. Ekzemple ĉiutagaj defioj, atingaĵoj (achievements), kaj rangotabuloj por kompari siajn poentrekordojn kun amikoj aŭ aliaj ludantoj tutmonde. Aĉetu la GOG-version, se vi volas subteni la sen-[DRM](https://eo.wikipedia.org/wiki/Digital_rights_management)-an movadon. (Tamen, ankaŭ la Steam-versio de Spelunky estas sen DRM!)
