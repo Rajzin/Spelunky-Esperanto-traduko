@@ -4,6 +4,9 @@
 
 This is a mod for playing Spelunky in Esperanto. (Spelunky HD for Windows, to be exact.) It adds Esperanto letters and replaces all English texts with Esperanto.
 
+![](aliaj/ekrankopio1)
+![](aliaj/ekrankopio2)
+
 This is still the beta version of my translation, as there are probably still a few mistakes here and there. You can send corrections and any other suggestions you might have at @Spenchjo in Telegram, or by email at spenchjo&nbsp;[at]&nbsp;gmail.com
 
 If you want to proofread the translation, the [provlega listo](https://github.com/Rajzin/Spelunky-Esperanto-traduko/blob/master/provlega%20listo.txt) should be useful. It's a list of all texts in both English and Esperanto. See also my [translation notes](https://github.com/Rajzin/Spelunky-Esperanto-traduko/blob/master/tradukaj%20notoj.txt) (in Esperanto) for explanations about the choices I made in my translation.
@@ -17,6 +20,9 @@ There are three ways to install the mod:
 3. [Permana instalo per Spelunktool](howtoinstall-spelunktool.md) - the nerdiest way to install. With this method you have the most control.
 
 Click a link to read how to install.
+
+![](aliaj/ekrankopio3)
+![](aliaj/ekrankopio4)
 
 ## How to get the game
 

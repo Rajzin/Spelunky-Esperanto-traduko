@@ -4,6 +4,9 @@
 
 Jen modifaĵo, kiu ebligas ludi Spelunky en Esperanto. (Pli precize temas pri Spelunky HD por Windows.) Ĝi aldonas ĉapelitajn literojn, kaj anstataŭigas ĉiujn anglajn tekstojn per tekstoj en Esperanto.
 
+![](aliaj/ekrankopio1)
+![](aliaj/ekrankopio2)
+
 Ĉi tio estas ankoraŭ beta-versio de mia traduko. Certe estas ankoraŭ kelkaj eraroj en ĝi. Se vi havas korektojn aŭ proponojn por plibonigoj en la traduko, vi povas kontakti min en Telegram per @Spenchjo, aŭ retpoŝte per spenchjo&nbsp;[ĉe]&nbsp;gmail.com
 
 Por provlegantoj, utilus la [provlega listo](https://github.com/Rajzin/Spelunky-Esperanto-traduko/blob/master/provlega%20listo.txt), kiu listigas ĉiujn tradukaĵojn en la angla kaj Esperanto. Vidu ankaŭ miajn [tradukajn notojn](https://github.com/Rajzin/Spelunky-Esperanto-traduko/blob/master/tradukaj%20notoj.txt) por klarigoj pri miaj elektoj en la traduko.
@@ -17,6 +20,9 @@ Estas tri manieroj por instali la modifaĵon:
 3. [Permana instalo per Spelunktool](kielinstali-spelunktool.md) - la plej nerda maniero por instali. Ĉi tiel vi havos plej da regpovo.
 
 Klaku ligilon por pli da klarigoj.
+
+![](aliaj/ekrankopio3)
+![](aliaj/ekrankopio4)
 
 ## Kiel ekhavi la ludon
 
