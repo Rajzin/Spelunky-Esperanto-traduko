@@ -30,9 +30,11 @@ En Patchlunky, iru al la langeto "Settings" kaj premu la butonon "Restore defaul
 6. En la dosierujo "Patchlunky", malfermu "Patchlunky.exe".
 
 ![](aliaj/ekrankopio-pl-instalado1.png)
+
 7. Patchlunky devas scii, kie en via komputilo la ludo Patchlunky estas instalita. Se vi klakas al "Yes", la programo verŝajne aŭtomate trovos la ĝustan lokon por vi. Se vi klakas al "No", la programo demandos, ĉu vi volas mane indiki la lokon de la Spelunky-dosierujo.
 
 ![](aliaj/ekrankopio-pl-instalado2.png)
+
 8. Por funkcii bone, Patchlunky devas fari savkopiojn de la nemodifitaj dosieroj de Spelunky. Klaku al "Yes" se vi volas tuj fari savkopiojn. Klaku al "Ne" se vi volas fari tion poste (ĉe Settings -> Setup Patchlunky). Se vi lasis ĝin fari savkopiojn, Patchlunky estas nun tute instalita kaj preta por instali la tradukon.
 
 ![](aliaj/ekrankopio-patchlunky.png)
