@@ -6,9 +6,9 @@ ekzistas esperanta vorto.
   deathmatch   -> mortomatĉo
   leaderboards -> rangotabuloj
   achievements -> atingaĵoj
-   ("Atingo" estas multe pli nebula. "Atingaĵo" klare temas pri
-    konkreta afero atingita, do mi pli ŝatis tion por ĉi tiaj
-	konkretaj listigitaj taskoj kaj defioj)
+   ("Atingo" estas multe pli nebula kaj plursenca. "Atingaĵo"
+    klare temas pri konkreta afero atingita, do mi pli ŝatis
+    tion por ĉi tiaj konkretaj listigitaj taskoj kaj defioj)
 
 
 IDS_HUD_STYLE
@@ -23,7 +23,7 @@ uzas esence "luda interfaco". Tio estis mia inspiro por
 IDS_HNO_CONTROLS
 Controls -> Regiloj
   Mi iomete dubas pri tiu traduko, ĉar ĝi ne estas tre rekta.
-Sed mi ne trovis pli bonan konscizan manieron nomi tion, kiu
+Sed mi ne trovis pli bonan koncizan manieron por nomi tion, kiu
 inkluzivigas kaj klavarojn kaj ludregilojn.
 
 
@@ -68,7 +68,7 @@ psychic
 ekvivalento. Mi elpensis, ke "paranormalaj menskapabloj" bone
 priskribus la aferon, sed krom ĉe unu frazo, tiu solvo estis tro
 longa laŭ mi. Do mi kutime tradukis per "telepatia", ĉar tiu
-variaĵo de "psychic" ŝajnas plej kongrui en ĉi tiu kazo.
+variaĵo de "psychic" ŝajnas plej kongrui en ĉi tiuj kuntekstoj.
     IDS_LEVELFEELING_ASHIP
     I sense a psychic presence here!
     -> Mi sentas telepatian ĉeeston ĉi tie
@@ -139,8 +139,9 @@ nomon, se ili preferas uzi tion.
 IDS_SHOPMSG_JACKPOT
 You won the jackpot! -> Vi gajnis la ĉefan monpremion!
   Mi tradukis "jackpot" per "ĉefpremio", laŭ la germana "Hauptgewinn" kaj
-nederlanda "hoofdprijs", sed aldonis mon- por distingi ĝin de la gajnebla
-objekto, kiu argumenteble estu nomata la ĉefpremio anstataŭe.
+nederlanda "hoofdprijs", sed aldonis mon- por distingi ĝin de la hazarda
+objekto, kiu estas gajnebla en ĉi tiu ludeto. Argumenteble tiu estu nomata
+la ĉefpremio anstataŭ la plej granda monpremio.
 
 
 IDS_JOURNAL_MARKET
