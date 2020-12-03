@@ -32,26 +32,28 @@ inkluzivigas kaj klavarojn kaj ludregilojn.
 DIVERSAJ TERMINOJ KAJ ESPRIMOJ
 
 trap -> insidilo
-  "Insidilo" estas apenaŭ uzata, sed post priparoli kun pluraj
-homoj kaj grupoj mi konkludis, ke ĝi estas verŝajne la plej
-bona traduko.
+  "Insidilo" estas apenaŭ uzata vorto en Esperanto, sed post
+priparoli kun pluraj homoj kaj grupoj mi konkludis, ke ĝi estas
+verŝajne la plej bona traduko.
   PIV-a difino de insidi:
     "Prepari sekrete ruzan rimedon, por trompi k malutili"
-  La pli ofta traduko "kaptilo" ne taŭgas, ĉar preskaŭ ĉiuj
-insidiloj en ĉi tiu ludo ne estas por kapti la ludanton, sed
-por trompe damaĝi aŭ mortigi. "Insidaĵo" estus alia eblo,
-sed tiu povus signifi ankaŭ "plano por insidi iun". "Insidilo"
-multe pli senambigue temas pri fizika ilo.
+  La pli ofta traduko "kaptilo" ne taŭgas ĉi-kuntekste, ĉar
+preskaŭ ĉiuj insidiloj en ĉi tiu ludo ne estas por kapti la
+ludanton, sed por trompe damaĝi aŭ mortigi.
+  "Insidaĵo" estus alia ebla traduko, sed tiu povus signifi ankaŭ
+"plano por insidi iun". "Insidilo" multe pli senambigue temas
+pri fizika ilo.
 
 
 the underworld -> la Infero
   Mi elektis traduki kaj "the underworld" kaj "Hell" per "la
 Infero". (Ili ja referas al la sama regiono en la ludo.)
-  Mi ja trovis, ke "la submondo" estas uzata por tiu koncepto
-en iuj verkoj en Esperanto (en Tekstaro estas nun kvar trafoj
-en verkoj de tri malsamaj aŭtoroj), sed tio estas tre malofte
-konata termino, kaj mi timas ke ne sufiĉe da homoj komprenus ĝin,
-do mi elektis uzi la pli klaran nemiskompreneblan terminon.
+  Mi tamen ja trovis, ke "la submondo" estas uzata por tiu
+koncepto en iuj verkoj en Esperanto (en Tekstaro estas nun kvar
+trafoj en verkoj de tri malsamaj aŭtoroj), sed ĝi estas tre
+malofte konata termino, kaj mi timas ke ne sufiĉe da homoj
+komprenus ĝin, do mi elektis uzi la pli klaran nemiskompreneblan
+terminon.
 
 
 undead
@@ -65,11 +67,12 @@ esperante), kiun mi iel solvis per "vivkadavro" en ambaŭ frazoj.
 
 
 psychic
-  Alia termino el fikciaĵoj, por kiu ne vere ekzistas esperanta
-ekvivalento. Mi elpensis, ke "paranormalaj menskapabloj" bone
-priskribus la aferon, sed krom ĉe unu frazo, tiu solvo estis tro
-longa laŭ mi. Do mi kutime tradukis per "telepatia", ĉar tiu
-variaĵo de "psychic" ŝajnas plej kongrui en ĉi tiuj kuntekstoj.
+  Alia termino ofta en fikciaĵoj, por kiu ne vere ekzistas
+bona esperanta ekvivalento. Mi elpensis, ke "paranormalaj
+menskapabloj" bone priskribus la aferon, sed krom ĉe unu
+frazo, en praktiko tiu solvo estis tro longa laŭ mi. Do mi
+kutime tradukis per "telepatia", ĉar tiu variaĵo de "psychic"
+ŝajnas plej kongrui en ĉi tiuj kuntekstoj.
     IDS_LEVELFEELING_ASHIP
     I sense a psychic presence here!
     -> Mi sentas telepatian ĉeeston ĉi tie
@@ -86,7 +89,8 @@ variaĵo de "psychic" ŝajnas plej kongrui en ĉi tiuj kuntekstoj.
 
 IDS_JOURNAL_MAGMAMAN_DESC
 elemental of fire -> fajra elementvivaĵo
-  Iom malfacile tradukebla fikcia termino el fantasaj verkoj.
+  Iom malfacile tradukebla termino de fikcia afero el fantasaj
+verkoj.
 
 
 IDS_JOURNAL_SHOTGUN
@@ -94,25 +98,25 @@ shotgun -> fusilo
   Oni donas multajn eblajn tradukojn en diversaj lokoj en la
 interreto ("hajlofusilo", "ŝrotpafilo", "kartoĉa fusilo",
 "ĉasfusilo", ktp) kaj mi dubis, kiun mi uzu. Sed mi vidis, ke
-oni tradukis per nur "fusilo" en la tradukoj en la franca kaj
-la itala, kaj tio fakte ja tute bone funkcias.
-  Mi ja specifigis la tipon per "kartoĉa hajlofusilo" en la
-priskribo de la objekto en la ĵurnalo.
+en Spelunky oni tradukis per nur "fusilo" en la tradukoj en
+la franca kaj la itala, kaj tio fakte ja tute bone funkcias.
+  Mi tamen ja specifigis la tipon per "kartoĉa hajlofusilo"
+en la priskribo de la objekto en la ĵurnalo.
 
 
 IDS_JOURNAL_JETPACK
 jetpack -> dorsa jetmotoro
   Malfacilas traduki, ĉar ne vere estas enradikiĝinta esperanta
 termino por tiu afero. (Kaj mi ne tre ŝatis tiujn, kiuj estis
-tiutempe uzataj en Vikipedio) Iu proponis al mi "dorsa jetmotoro",
+tiutempe uzataj en Vikipedio.) Iu proponis al mi "dorsa jetmotoro",
 kio estas rekta traduko de unu franca termino por jetpack, kaj tio
 ja sufiĉe bone funkcias.
 
 
 IDS_JOURNAL_CAPE
 Cape -> Tukmantelo
-  Memfarita vorto por distingi ĝin de manikaj manteloj, por kiuj oni
-nuntempe pli ofte uzas la vorton "mantelo" en Esperanto.
+  Memfarita vorto por distingi ĝin de manikaj manteloj, por kiuj la
+vorto "mantelo" estas pli ofte uzata en nuntempa Esperanto.
   "Senmanika mantelo" eble estus pli normala maniero por priskribi
 ĝin, sed "tukmantelo" estas pli mallonga, kaj laŭ mi ankaŭ pli belsona
 kaj pli facile komprenebla. (Ekzemple, ĉe "senmanika mantelo" eblus
@@ -203,7 +207,7 @@ IDS_JOURNAL_DEVIL
 Devil -> Demono
   Inspirita de la franca traduko.
   Kutime "devil" pli proksimas al "diablo", sed laŭ mi ĉi tiel
-pli kongruas al la aspektoj. 
+pli kongruas al la aspektoj de la monstroj.
 
 
 IDS_JOURNAL_JAWS
@@ -213,8 +217,8 @@ Sed ŝajne "bitey" estas ankaŭ malofta vorto por "mordema". Kaj
 "mordemulo" ankaŭ pli belas al mi por ĉi tia kromnomo ol
 "mordanto" aŭ "mordisto" aŭ io tia.
   Mi elektis "olda" anstataŭ "maljuna", ĉar iel tio ŝajnis al
-mi "kromnomeca". Ankaŭ plaĉas al mi la implicita komparo al
-"oldulo".
+mi "kromnomeca". Ankaŭ iel plaĉas al mi la implicita komparo
+al "oldulo" (t.e. malmoderna maljunulo).
 
 
 IDS_JOURNAL_SPRINGSHOES_DESC
@@ -238,10 +242,10 @@ palace guard.
 -> Sorĉistoj metis la spiriton de faraona gardisto en ĉi tiun pezan
    blokon da ŝtono.
   "Imbued" estis iom malfacile tradukebla. Je iu punkto mi decidis
-skribi "oni metis", sed tiu "oni" ŝajnis iom stranga al mi. Sed mi
-imagis, ke tian objekton verŝajne farus la sorĉistoj aŭ pastroj,
-kiuj laboris por la faraono, do anstataŭ "oni" mi enmetis tiun
-memfaritan fakton.
+skribi "oni metis", sed tiu "oni" ŝajnis iom stranga al mi, kvazaŭ
+normalaj homoj el la ĝenerala popolo faris tion. Mi imagis, ke tian
+objekton verŝajne farus la sorĉistoj aŭ pastroj, kiuj laboris por
+la faraono, do anstataŭ "oni" mi enmetis tiun memfaritan fakton.
   Mi fakte ŝatas tion. Estas eta ŝanĝo, sed laŭ mi ĝi pli tiklas
 la imagon.
 
@@ -271,32 +275,35 @@ Dunk Tank -> Baseno
 
 IDS_COMPLETED_1_1
 1-1 COMPLETED! -> VI FINIS NIVELON 1-1!
-  Malpli konciza traduko estas multe pli klare komprenebla laŭ mi.
-Estas amaso da spaco en al loko, kie la teksto estas uzata, do ne
+  Ĉi tie malpli konciza traduko estas multe pli klare komprenebla laŭ
+mi. Estas amaso da spaco en la loko, kie la teksto estas uzata, do ne
 estas manko de spaco. (Eĉ la plej longa "VI FINIS LA PATRINOŜIPON!"
 tute senprobleme konvenas.)
 
 
 IDS_LEADERBOARDS_LEVEL
 LEVEL -> NVL
-  Se estus "NIVELO", ĝi kaj alia vorto kun aspektos kiel unu vorto
-"NIVELOPOENTOJ" en la rangotabuloj (en Steam-versio)
+  Se estus "NIVELO", ĝi kaj alia vorto kune aspektos preskaŭ kiel unu
+vorto "NIVELOPOENTOJ" en la rangotabuloj (en Steam-versio)
 
 
 IDS_ANY_KEY
 Press Any Key -> Premu klavon
-  Malkiel "Premu ajnan butonon" ĉe IDS_PRESS_ANY_BUTTON, mi forigis
-"ajnan" ĉi tie ĉar mankis spaco. Ja estas sufiĉe da spaco se oni
-agordas butonojn de ludregilo.
+  Mi forigis "ajnan" de "Premu ajnan klavon" ĉi tie ĉar mankis spaco.
+Ja estas sufiĉe da spaco ĉe "Premu ajnan butonon" (IDS_PRESS_ANY_BUTTON)
+kio aperas, kiam oni agordas butonojn de ludregilo.
 
 
 IDS_GUIDE_CONTINUE
 @A Continue -> @A Al enirejo
-  En tiu konteksto, laŭ mi "daŭrigi" estas iomete tro stranga kaj
-malklara en Esperanto. Mi elektis ion, kio pli klare priskribas
-la funkcion de tiu butonpremo.
+  En tiu kunteksto (ĉe la "game over"-ekrano) laŭ mi "daŭrigi" estas
+iomete tro stranga kaj malklara en Esperanto. Mi elektis ion, kio pli
+klare priskribas la funkcion de tiu butonpremo.
   Tamen, mi ne tute certas, ke ĉi tiu teksto ne estas uzata en iu
-alia loko en la ludo, kie ĉi tiu solvo ne taŭgas.
+alia loko en la ludo, kie ĉi tiu solvo ne taŭgas. Sed verŝajne
+estas en ordo.
+  Bonvolu sciigi min, se ĝi aperas en maltaŭga loko.
+
 
 
 -------------------------------------------------------------------
