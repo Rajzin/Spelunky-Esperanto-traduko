@@ -1,3 +1,54 @@
+ENKONDUKO
+
+Jen dokumento, kiu listigas komentojn pri kelkaj terminoj kaj
+frazoj en mia traduko. Ekzemple tiuj, pri kiuj mi havis aŭ daŭre
+havas dubojn, aŭ por miaj elektoj, kiuj sen klarigo povus esti
+iom strangaj, se oni komparas ĝin al la angla versio.
+
+Al homoj, kiuj provlegas aŭ alimaniere kontrolas la tradukon:
+Kompreneble korektoj pri tajperaroj aŭ gramatikaj eraroj estas
+ĉiam ege utilaj. Krom tio, mi ankaŭ tre interesiĝas pri "poluraj"
+sugestoj, t.e. ŝanĝoj kaj alivortigoj, kiuj igas la tekston pli
+flua, facile komprenebla, aŭ normala Esperanto.
+
+Veraj ekzemploj de tiaj poluraj alivortigoj:
+
+1. Ŝnuroj kaj bomboj estas la plej oftaj objektoj, kiuj troveblas
+   en kestoj
+ -> En kestoj vi plej ofte trovos ŝnurojn kaj bombojn
+   (la antaŭa versio pli proksimas al la angla originalo, sed
+    la nova frazo estas pli mallonga kaj ĝi pli nature fluas.)
+
+2. Ni kontrolas, ĉu jam ekzistas hodiaŭa poentsumo.
+ -> Ni kontrolas, ĉu vi jam registris poentsumon hodiaŭ.
+   (la unua estis pli rekta traduko, sed en la nova estas multe
+    pli klare, pri kio temas)
+
+3. Karnovoraj plantoj, al kiuj plaĉas homaĵo.
+ -> Karnovoraj plantoj, kiuj ŝatas manĝi homaĵon.
+   (pli klare, ke "homaĵo" temas pri homa viando)
+
+4. Unu pafo de tio tute frostigas ion ajn.
+ -> Unu pafo de tio frostigas ion ajn ĝis la kerno.
+   (ĉe "frostigi ĝis la kerno" la intenco estas pli klara, kaj ĝi
+    pli tiklas la imagon laŭ mi ol "tute frostigi")
+
+5. Ĝi pli ŝatas manĝi insektojn, sed ankaŭ homojn ĝi atakas, se
+   ĝi estas sufiĉe malsata.
+ -> Ĝi pli ŝatas manĝi insektojn, sed se ĝi estas sufiĉe malsata,
+    ĝi atakas ankaŭ homojn.
+   (antaŭa frazo pli sekvis la sinsekvon de la angla frazo, sed laŭ
+    mi la nova pli belas kaj pli "fluas" en Esperanto)
+
+Se vi havas ĉi tiajn sugestojn, nepre sciigu min!
+
+    Vi povas mesaĝi min en Telegram ĉe @Spenchjo
+    aŭ retpoŝte per spenchjo [ĉe] gmail.com
+
+
+-------------------------------------------------------------------
+
+
 VIDEOLUDAJ TERMINOJ
 
 Jen miaj solvoj por traduki kelkajn terminojn, por kiuj ne vere
@@ -28,6 +79,7 @@ inkluzivigas kaj klavarojn kaj ludregilojn.
 
 
 -------------------------------------------------------------------
+
 
 DIVERSAJ TERMINOJ KAJ ESPRIMOJ
 
@@ -303,7 +355,6 @@ klare priskribas la funkcion de tiu butonpremo.
 alia loko en la ludo, kie ĉi tiu solvo ne taŭgas. Sed verŝajne
 estas en ordo.
   Bonvolu sciigi min, se ĝi aperas en maltaŭga loko.
-
 
 
 -------------------------------------------------------------------
