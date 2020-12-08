@@ -1,4 +1,4 @@
-tradukversio 0.9.2
+tradukversio 0.9.3
 
 IDS_INTRO1_1
 As the sun burned bright above,
@@ -422,7 +422,7 @@ Antaŭ nelonge mi ekvidis verdan paradizon je la fino de la minejoj.
 
 IDS_JOURNAL_TUTORIAL9
 How could such a place exist so far underground? And what lies beyond?
-Kiel tia loko povus ekzisti iom profunde sub la tero? Kaj kio estas preter ĝi?
+Kiel tia loko povus ekzisti tiom profunde sub la tero? Kaj kio estas preter ĝi?
 
 IDS_JOURNAL_TUTORIAL10
 Cave merchants speak of even more fabulous sights further below... ancient ruins and cities made of gold! The very idea makes my restless heart beat faster!
@@ -1086,7 +1086,7 @@ Gluo
 
 IDS_JOURNAL_PASTE_DESC
 Coat your bombs with this and they'll stick to pretty much anything.
-Ŝmiru ĝin sur viaj bomboj, kaj ili algluiĝos al preskaŭ io ajn.
+Ŝmiru viajn bombojn per ĝi, kaj ili algluiĝos al preskaŭ io ajn.
 
 IDS_JOURNAL_MATTOCK
 Mattock
@@ -1530,7 +1530,7 @@ Ulf
 
 IDS_SHOPKEEPER_NAME22
 Vern
-Vim
+Vinc
 
 IDS_SHOPKEEPER_NAME23
 Willy

@@ -209,7 +209,7 @@ Malgraŭ ke ĉi tiuj okazaĵoj timigas min, mi daŭre fokusas mian atenton al mi
 IDS_JOURNAL_TUTORIAL8
 Antaŭ nelonge mi ekvidis verdan paradizon je la fino de la minejoj.
 IDS_JOURNAL_TUTORIAL9
-Kiel tia loko povus ekzisti iom profunde sub la tero? Kaj kio estas preter ĝi?
+Kiel tia loko povus ekzisti tiom profunde sub la tero? Kaj kio estas preter ĝi?
 IDS_JOURNAL_TUTORIAL10
 Butikistoj en la kavernoj rakontas pri eĉ pli mirindaj vidaĵoj pli profunde... antikvaj ruinoj kaj urboj el oro! La nura penso igas mian koron bati maltrankvile!
 IDS_JOURNAL_TUTORIAL11
@@ -541,7 +541,7 @@ Tiu ĉi kompaso ĉiam indikas la direkton al la elirejo.
 IDS_JOURNAL_PASTE
 Gluo
 IDS_JOURNAL_PASTE_DESC
-Ŝmiru ĝin sur viaj bomboj, kaj ili algluiĝos al preskaŭ io ajn.
+Ŝmiru viajn bombojn per ĝi, kaj ili algluiĝos al preskaŭ io ajn.
 IDS_JOURNAL_MATTOCK
 Hakfosilo
 IDS_JOURNAL_MATTOCK_DESC
@@ -763,7 +763,7 @@ Tonjo
 IDS_SHOPKEEPER_NAME21
 Ulf
 IDS_SHOPKEEPER_NAME22
-Vim
+Vinc
 IDS_SHOPKEEPER_NAME23
 Ĵak
 IDS_SHOPKEEPER_NAME24

@@ -3,7 +3,7 @@ ENKONDUKO
 Jen dokumento, kiu listigas komentojn pri kelkaj terminoj kaj
 frazoj en mia traduko. Ekzemple tiuj, pri kiuj mi havis aŭ daŭre
 havas dubojn, aŭ por miaj elektoj, kiuj sen klarigo povus esti
-iom strangaj, se oni komparas ĝin al la angla versio.
+iom strangaj, se oni komparas ilin al la angla versio.
 
 Al homoj, kiuj provlegas aŭ alimaniere kontrolas la tradukon:
 Kompreneble korektoj pri tajperaroj aŭ gramatikaj eraroj estas
@@ -26,7 +26,7 @@ Veraj ekzemploj de tiaj poluraj alivortigoj:
 
 3. Karnovoraj plantoj, al kiuj plaĉas homaĵo.
  -> Karnovoraj plantoj, kiuj ŝatas manĝi homaĵon.
-   (pli klare, ke "homaĵo" temas pri homa viando)
+   (tiel estas pli klare, ke "homaĵo" temas pri homa viando)
 
 4. Unu pafo de tio tute frostigas ion ajn.
  -> Unu pafo de tio frostigas ion ajn ĝis la kerno.
@@ -167,21 +167,21 @@ ja sufiĉe bone funkcias.
 
 IDS_JOURNAL_CAPE
 Cape -> Tukmantelo
-  Memfarita vorto por distingi ĝin de manikaj manteloj, por kiuj la
-vorto "mantelo" estas pli ofte uzata en nuntempa Esperanto.
+  Memfarita vorto por distingi ĝin de manikaj manteloj, por kiuj
+la vorto "mantelo" estas pli ofte uzata en nuntempa Esperanto.
   "Senmanika mantelo" eble estus pli normala maniero por priskribi
-ĝin, sed "tukmantelo" estas pli mallonga, kaj laŭ mi ankaŭ pli belsona
-kaj pli facile komprenebla. (Ekzemple, ĉe "senmanika mantelo" eblus
-imagi modernan mantelon, kiu havas truojn por la brakoj, kie estus
-normale manikoj)
+ĝin, sed "tukmantelo" estas pli mallonga, kaj laŭ mi ankaŭ pli
+belsona kaj pli facile komprenebla. (Ekzemple, ĉe "senmanika mantelo"
+eblus imagi modernan mantelon, kiu havas truojn por la brakoj, kie
+estus normale manikoj)
 
 
 IDS_JOURNAL_MATTOCK
 Mattock -> Hakfosilo
-  "Mattock" estas ilo por fosi kaj haki, kaj oni fosas per hakaj movoj,
-do "hakfosilo" ŝajnis taŭga en Esperanto. Kutime mattock havus adzon je
-unu flanko kaj pioĉon aŭ hakilon ĉe la alia flanko, sed laŭ la aspekto
-tiu en Spelunky estas simple "dukapa" adzo.
+  "Mattock" estas ilo por fosi kaj haki, kaj oni fosas per hakaj
+movoj, do "hakfosilo" ŝajnis taŭga en Esperanto. Kutime mattock
+havus adzon je unu flanko kaj pioĉon aŭ hakilon ĉe la alia flanko,
+sed laŭ la aspekto tiu en Spelunky estas simple "dukapa" adzo.
 
 
 IDS_JOURNAL_KAPALA
@@ -195,10 +195,10 @@ nomon, se ili preferas uzi tion.
 
 IDS_SHOPMSG_JACKPOT
 You won the jackpot! -> Vi gajnis la ĉefan monpremion!
-  Mi tradukis "jackpot" per "ĉefpremio", laŭ la germana "Hauptgewinn" kaj
-nederlanda "hoofdprijs", sed aldonis mon- por distingi ĝin de la hazarda
-objekto, kiu estas gajnebla en ĉi tiu ludeto. Argumenteble tiu estu nomata
-la ĉefpremio anstataŭ la plej granda monpremio.
+  Mi tradukis "jackpot" per "ĉefpremio", laŭ la germana "Hauptgewinn"
+kaj nederlanda "hoofdprijs", sed aldonis mon- por distingi ĝin de la
+hazarda objekto, kiu estas gajnebla en ĉi tiu ludeto. Argumenteble
+tiu estu nomata la ĉefpremio anstataŭ la plej granda monpremio.
 
 
 IDS_JOURNAL_MARKET
@@ -379,11 +379,13 @@ Soĉjo   (kaŝita referenco al mi mem. Spenĉjo -> S-ĉjo -> so-ĉjo)
          videoludoj. Pro tio ke jam estis "Yoshi" en la angla listo)
 Tonjo   (referenco al esperantisto Toño del Barriola kaj
          lia fama Leĝo de Tonjo)
+Vinc    (referenco al esperantisto Vincent Oostelbos, uzantnomo
+         Babelismoj. Li estas farinto de aliaj tradukoj de videoludoj,
+         kaj testanto en tiu ĉi projekto)
 
 Adaptitaj:
 Error   -> Eraro (rekta traduko)
 Frank   (neŝanĝita, interalie pro esperantisto Frank van Hertrooij)
-Willy   -> Vim (de "Wim", alia nacia mallongigo de Wilhelm)
 
 
 NOMOJ DE HELPISTOJ
