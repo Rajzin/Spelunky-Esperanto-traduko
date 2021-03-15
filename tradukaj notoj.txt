@@ -237,13 +237,9 @@ mi elpensis "Senhelpulo", kiu sufiĉe bone funkcias.
 
 
 IDS_JOURNAL_MANTRAP
-Mantrap -> Homkaptilo
-  Mi iomete dubas pri "kaptilo", ĉar temas pri karnovora planto,
-kiu klare ne estas ilo. Sed mi pensas, ke tia figurasenca uzo
-sufiĉe akcepteblas.
-  Ĉi-foje "trap" iĝas "kaptilo" anstataŭ "insidilo", ĉar ĝi vere
-efektive kaptas homojn, kaj ĉar "kaptilo" estas pli konata vorto,
-do pli uzinda por ĉi tia figurasencaĵo.
+Mantrap -> Homkaptulo
+  Analoge al "muŝkaptulo" (angle: "flytrap"), nomo de iu grupo
+de karnovoraj plantoj.
 
 
 IDS_JOURNAL_HAWKMAN

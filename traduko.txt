@@ -295,7 +295,7 @@ Giganta Rano
 IDS_JOURNAL_GIANTFROG_DESC
 Tiu ĉi aparte granda amfibio portas siajn idojn en sia buŝo.
 IDS_JOURNAL_MANTRAP
-Homkaptilo
+Homkaptulo
 IDS_JOURNAL_MANTRAP_DESC
 Karnovora planto, kiu ŝatas manĝi homaĵon.
 IDS_JOURNAL_PIRANHA
@@ -1575,7 +1575,7 @@ Falkulo mortbatis min.
 IDS_GAMEOVERDESC_FROG
 Rano platigis min.
 IDS_GAMEOVERDESC_MANTRAP
-Homkaptilo voris min.
+Homkaptulo voris min.
 IDS_GAMEOVERDESC_PIRANHA
 Piranjo mordetadis min.
 IDS_GAMEOVERDESC_JAWS

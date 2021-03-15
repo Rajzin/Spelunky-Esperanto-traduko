@@ -594,7 +594,7 @@ Tiu ĉi aparte granda amfibio portas siajn idojn en sia buŝo.
 
 IDS_JOURNAL_MANTRAP
 Mantrap
-Homkaptilo
+Homkaptulo
 
 IDS_JOURNAL_MANTRAP_DESC
 Carnivorous plants with a taste for human flesh.
@@ -3154,7 +3154,7 @@ Rano platigis min.
 
 IDS_GAMEOVERDESC_MANTRAP
 I was devoured by a mantrap.
-Homkaptilo voris min.
+Homkaptulo voris min.
 
 IDS_GAMEOVERDESC_PIRANHA
 I was nibbled to death by a piranha.
